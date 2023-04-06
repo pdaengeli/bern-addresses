@@ -1,0 +1,8 @@
+# SPDX-FileCopyrightText: 2023 Sascha Brawer <sascha@brawer.ch>
+# SPDX-License-Identifier: MIT
+#
+# Patterns for files outside version control
+
+*~
+/cache
+/venv
