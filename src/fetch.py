@@ -3,46 +3,86 @@
 #
 # Fetch address books of Bern, 1861-1945, from www.e-rara.ch.
 
+# TODO: Check page labels for volume 1911-1912:
+# - Page(id=25875700, label='272')
+# - Page(id=25875701, label=None)    <-- is there really no page number?
+# - Page(id=25875702, label=None)    <-- is there really no page number?
+# - Page(id=25875703, label='273')
+#
+# TODO: Check page labels for volume 1914:
+# - Page(id=25877340, label='304')
+# - Page(id=25877341, label=None)    <-- is there really no page number?
+# - Page(id=25877342, label=None)    <-- is there really no page number?
+# - Page(id=25877343, label='305')
+#
+# TODO: Check page labels for volume 1917:
+# - Page(id=25878846, label='107')
+# - Page(id=25879533, label='110')    <-- should this be '108'?
+# - Page(id=25879534, label=None)     <-- should this be '109'?
+# - Page(id=25879535, label=None)     <-- should this be '110'?
+# - Page(id=25879536, label='111')
 
+
+from collections import namedtuple
 import csv
 import requests
 import os
 import xml.etree.ElementTree as etree
 
 
-def find_volumes():
-    result = [
-        ('1861', 1395835),
-        ('1862', 3009035),
-        ('1866', 1756728),
-        ('1867-1868', 3009301),
-        ('1868-1869', 1757043),
-        ('1870', 3009651),
-        ('1871', 3010016),
-        ('1873', 3010408),
-        ('1875', 3010824),
-        ('1877', 3011278),
-        ('1879', 3011774),
-        ('1881', 3012292),
-        ('1883-1884', 1396077),
-        ('1886-1887', 3012704),
-        ('1888-1889', 3013134),
-        ('1891-1892', 3013642),
-        ('1893-1894', 3014156),
-        ('1893-1894/Supplement', 1396417),
-        ('1895-1896', 3014735),
-        ('1896-1897/Supplement', 3015341),
-        ('1897-1898', 3015635),
-        ('1899', 3016272),
-    ]
-    with open('Adressbuecher_Jahrgaenge_Links.csv') as csvfile:
+Chapter = namedtuple('Chapter', ['id', 'title', 'year', 'volume', 'pages'])
+Page = namedtuple('Page', ['id', 'label'])
+
+
+def fetch_all():
+    if not os.path.exists("cache"):
+        os.mkdir("cache")
+    for chapter in fetch_chapters():
+        for page in chapter.pages:
+            # print(page)
+            fetch_page_xml(page.id)
+            fetch_page_plaintext(page.id)
+        print(chapter.year, len(chapter.pages), chapter.pages[:3])
+
+
+def fetch_chapters():
+    chapters = []
+    path = os.path.join(os.path.dirname(__file__), 'chapters.csv')
+    with open(path) as csvfile:
         dialect = csv.Sniffer().sniff(csvfile.read(1024))
-        csvfile.seek(3)  # skip initial U+FFEF
+        csvfile.seek(0)
         for row in csv.DictReader(csvfile, dialect=dialect):
-            year = row['Jahrgang']
-            volume = int(row['Jahrgangsband ID'])
-            result.append((year, volume))
-    return result
+            chapter_id = int(row['ChapterID'])
+            volume_id = int(row['VolumeID'])
+            chapter = Chapter(id=chapter_id,
+                              title=row['ChapterTitle'],
+                              year=row['Year'],
+                              volume=volume_id,
+                              pages=fetch_chapter_pages(volume_id, chapter_id))
+            chapters.append(chapter)
+    return chapters
+
+
+def fetch_chapter_pages(volume_id, chapter_id):
+    et = etree.fromstring(fetch_volume_mets(volume_id))
+    page_labels = {}
+    for smap in et.iter('{http://www.loc.gov/METS/}structMap'):
+        if smap.attrib['TYPE'] == 'PHYSICAL':
+            for div in smap.iter('{http://www.loc.gov/METS/}div'):
+                if div.attrib['TYPE'] == 'page':
+                    page_id = int(div.attrib['ID'].removeprefix('phys'))
+                    if label := div.attrib.get('ORDERLABEL'):
+                        page_labels[page_id] = label
+    pages = []
+    for link in et.iter('{http://www.loc.gov/METS/}smLink'):
+        link_from  = link.attrib['{http://www.w3.org/1999/xlink}from']
+        link_from_id = int(link_from.removeprefix("log"))
+        if link_from_id == chapter_id:
+            link_to = link.attrib['{http://www.w3.org/1999/xlink}to']
+            page_id = int(link_to.removeprefix('phys'))
+            page = Page(id=page_id, label=page_labels.get(page_id))
+            pages.append(page)
+    return pages
 
 
 def fetch_volume_mets(volume):
@@ -57,54 +97,26 @@ def fetch_volume_mets(volume):
         return f.read()
 
 
-def fetch_page_xml(page):
-    filepath = f"cache/fulltext-{page}.xml"
+def fetch_page_xml(page_id):
+    filepath = f"cache/fulltext-{page_id}.xml"
     if not os.path.exists(filepath):
-        print(page)
-        req = requests.get(f'https://www.e-rara.ch/bes_1/download/fulltext/alto3/{page}')
-        with open(filepath, 'w') as f:
+        req = requests.get(f'https://www.e-rara.ch/bes_1/download/fulltext/alto3/{page_id}')
+        with open(filepath+'.tmp', 'w') as f:
             f.write(req.text)
+        os.rename(filepath+'.tmp', filepath)  # atomic
     with open(filepath, 'r') as f:
         return f.read()
 
 
-def fetch_page_plaintext(page):
-    filepath = f"cache/fulltext-{page}.txt"
+def fetch_page_plaintext(page_id):
+    filepath = f"cache/fulltext-{page_id}.txt"
     if not os.path.exists(filepath):
-        req = requests.get(f'https://www.e-rara.ch/bes_1/download/fulltext/plain/{page}')
+        req = requests.get(f'https://www.e-rara.ch/bes_1/download/fulltext/plain/{page_id}')
         with open(filepath, 'w') as f:
             f.write(req.text)
     with open(filepath, 'r') as f:
         return f.read()
-
-
-def fetch_pages(year, volume):
-    et = etree.fromstring(fetch_volume_mets(volume))
-    chapters = set()
-    for s in et.iter('{http://www.loc.gov/METS/}structMap'):
-        if s.attrib['TYPE'] == 'LOGICAL':
-            for c in s.iter('{http://www.loc.gov/METS/}div'):
-                label = c.attrib.get('LABEL', '')
-                if 'Einwohner' in label and 'Berufsarten' not in label:
-                    chapters.add(c.attrib['ID'])
-                    chapter = c.attrib['ID'].removeprefix('log')
-    pages = []
-    for link in et.iter('{http://www.loc.gov/METS/}smLink'):
-        chapter  = link.attrib['{http://www.w3.org/1999/xlink}from']
-        if chapter in chapters:
-            page = link.attrib['{http://www.w3.org/1999/xlink}to']
-            page = int(page.removeprefix('phys'))
-            pages.append(page)
-            fetch_page_xml(page)
-            fetch_page_plaintext(page)
-    return pages
 
 
 if __name__ == '__main__':
-    if not os.path.exists("cache"):
-        os.mkdir("cache")
-    for year, volume in find_volumes():
-        pages = fetch_pages(year, volume)
-        print(year, len(pages), pages[:5])
-
-
+    fetch_all()
