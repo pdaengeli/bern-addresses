@@ -30,7 +30,7 @@ import os
 import xml.etree.ElementTree as etree
 
 
-Chapter = namedtuple('Chapter', ['id', 'title', 'year', 'volume', 'pages'])
+Chapter = namedtuple('Chapter', ['id', 'title', 'date', 'year', 'volume', 'pages'])
 Page = namedtuple('Page', ['id', 'label'])
 
 
@@ -42,7 +42,7 @@ def fetch_all():
             # print(page)
             fetch_page_xml(page.id)
             fetch_page_plaintext(page.id)
-        print(chapter.year, len(chapter.pages), chapter.pages[:3])
+        print(chapter.date, len(chapter.pages), chapter.pages[:3])
 
 
 def fetch_chapters():
@@ -54,8 +54,12 @@ def fetch_chapters():
         for row in csv.DictReader(csvfile, dialect=dialect):
             chapter_id = int(row['ChapterID'])
             volume_id = int(row['VolumeID'])
+            date = row['Date']
+            if len(date) == 4:
+                date = '%04d-12-15' % (int(date) - 1)
             chapter = Chapter(id=chapter_id,
                               title=row['ChapterTitle'],
+                              date=date,
                               year=row['Year'],
                               volume=volume_id,
                               pages=fetch_chapter_pages(volume_id, chapter_id))
