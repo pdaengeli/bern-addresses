@@ -127,13 +127,18 @@ class Extractor(object):
                 elif line[0] == '—':
                     pass
                 else:
-                    if line.startswith('v.'):
-                        name = 'von ' + line[2:].split()[0]
-                    else:
-                        name = line.split()[0]
-                    name = name.removesuffix(',')
+                    name = self.get_family_name(line)
                     if name not in self.families:
                         print(name)
+
+    def get_family_name(self, line):
+        if line.startswith('v.'):
+            name = 'von ' + line[2:].split()[0]
+        elif line.startswith('de '):
+            name = 'de ' + line[2:].split()[0]
+        else:
+            name = line.split()[0]
+        return name.removesuffix(',')
 
     def read_ads_denylist(self):
         result = set()
