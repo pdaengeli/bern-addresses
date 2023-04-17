@@ -23,7 +23,7 @@ def fetch_all():
             if page == first_page or page.label != None:
                 fetch_page_xml(page.id)
                 fetch_page_plaintext(page.id)
-        print(chapter.date, len(chapter.pages), chapter.pages[:3])
+        # print(chapter.date, len(chapter.pages), chapter.pages[:3])
 
 
 def fetch_chapters():
@@ -66,24 +66,15 @@ def fetch_chapter_pages(volume_id, chapter_id):
         if link_from_id == chapter_id:
             link_to = link.attrib['{http://www.w3.org/1999/xlink}to']
             page_id = int(link_to.removeprefix('phys'))
-            page = Page(id=page_id, label=page_labels.get(page_id))
-
-            # The first page in a chapter typically has no label (page number):
-            # - https://www.e-rara.ch/bes_1/periodical/pageview/26021757
-            is_first_page = (len(pages) == 0)
-
-            # Other pages always have a label, unless they’re an advertisment:
-            # - https://www.e-rara.ch/bes_1/periodical/pageview/25875701
-            # - https://www.e-rara.ch/bes_1/periodical/pageview/25877342
-            is_advertisment_page = (page.label == None)
-
-            if is_first_page or not is_advertisment_page:
+            if page_id not in ADS:
+                page = Page(id=page_id, label=page_labels.get(page_id))
                 pages.append(page)
 
     # If the first page in the chapter has no number, synthesize it: '[123]'.
     if not pages[0].label:
         pages[0] = Page(id=pages[0].id,
                         label = f'[%d]' % (int(pages[1].label) - 1))
+
     return pages
 
 
@@ -118,6 +109,19 @@ def fetch_page_plaintext(page_id):
             f.write(req.text)
     with open(filepath, 'r') as f:
         return f.read()
+
+
+def read_ads_denylist():
+    result = set()
+    for line in open(os.path.join(os.path.dirname(__file__), 'ads.txt')):
+        line = line.strip()
+        if line and line[0] != '#':
+            result.add(int(line))
+    return result
+
+
+# Pages with nothing but ads. We don’t extract any content from these pages.
+ADS = read_ads_denylist()
 
 
 if __name__ == '__main__':
