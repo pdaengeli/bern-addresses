@@ -23,10 +23,12 @@ class Extractor(object):
     def __init__(self, cachedir):
         self.cachedir = cachedir
         self.ads_denylist = self.read_ads_denylist()
+        self.families = self.read_families()
 
     def run(self):
         if not os.path.exists(self.cachedir):
             os.mkdir(self.cachedir)
+        self.process_proofread()
         for chapter in self.find_chapters():
             for page in chapter.pages:
                 self.process_page(chapter, page)
@@ -34,7 +36,7 @@ class Extractor(object):
 
     def process_page(self, chapter, page):
         et = etree.fromstring(self.fetch_page_xml(page.id))
-        print(f'# Date: {chapter.date} Page: {page.id}/{page.label}')
+        #print(f'# Date: {chapter.date} Page: {page.id}/{page.label}')
         for line in et.findall(f'.//{ALTO_TEXTLINE}'):
             tokens = []
             for e in line:
@@ -42,7 +44,7 @@ class Extractor(object):
                     tokens.append(e.attrib['CONTENT'])
                 elif e.tag == ALTO_SPACE:
                     tokens.append(' ')
-            print(''.join(tokens))
+            #print(''.join(tokens))
 
     def find_chapters(self):
         chapters = []
@@ -115,12 +117,40 @@ class Extractor(object):
         with open(filepath, 'r') as f:
             return f.read()
 
+    def process_proofread(self):
+        dirpath = os.path.join(os.path.dirname(__file__), '..', 'proofread')
+        for date in sorted(os.listdir(dirpath)):
+            path = os.path.join(dirpath, date)
+            for line in open(path):
+                if line[0] == '#':
+                    pass
+                elif line[0] == '—':
+                    pass
+                else:
+                    if line.startswith('v.'):
+                        name = 'von ' + line[2:].split()[0]
+                    else:
+                        name = line.split()[0]
+                    name = name.removesuffix(',')
+                    if name not in self.families:
+                        print(name)
+
     def read_ads_denylist(self):
         result = set()
         for line in open(os.path.join(os.path.dirname(__file__), 'ads.txt')):
             line = line.strip()
             if line and line[0] != '#':
                 result.add(int(line))
+        return result
+
+    def read_families(self):
+        result = {}
+        filepath = os.path.join(os.path.dirname(__file__), 'families.txt')
+        for line in open(filepath):
+            line = line.strip()
+            if line and line[0] != '#':
+                name, wikidata_id = line.split(';')
+                result[name] = wikidata_id
         return result
 
 
