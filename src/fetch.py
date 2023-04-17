@@ -14,6 +14,11 @@ Chapter = namedtuple('Chapter', ['id', 'title', 'date', 'year', 'volume', 'pages
 Page = namedtuple('Page', ['id', 'label'])
 
 
+ALTO_SPACE = '{http://www.loc.gov/standards/alto/ns-v3#}SP'
+ALTO_STRING = '{http://www.loc.gov/standards/alto/ns-v3#}String'
+ALTO_TEXTLINE = '{http://www.loc.gov/standards/alto/ns-v3#}TextLine'
+
+
 class Extractor(object):
     def __init__(self, cachedir):
         self.cachedir = cachedir
@@ -24,8 +29,20 @@ class Extractor(object):
             os.mkdir(self.cachedir)
         for chapter in self.find_chapters():
             for page in chapter.pages:
-                self.fetch_page_xml(page.id)
-            print(chapter.date, len(chapter.pages), chapter.pages[0])
+                self.process_page(chapter, page)
+            break
+
+    def process_page(self, chapter, page):
+        et = etree.fromstring(self.fetch_page_xml(page.id))
+        print(f'# Date: {chapter.date} Page: {page.id}/{page.label}')
+        for line in et.findall(f'.//{ALTO_TEXTLINE}'):
+            tokens = []
+            for e in line:
+                if e.tag == ALTO_STRING:
+                    tokens.append(e.attrib['CONTENT'])
+                elif e.tag == ALTO_SPACE:
+                    tokens.append(' ')
+            print(''.join(tokens))
 
     def find_chapters(self):
         chapters = []
