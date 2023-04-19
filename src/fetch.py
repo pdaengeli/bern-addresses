@@ -7,7 +7,10 @@ from collections import namedtuple
 import csv
 import requests
 import os
+import re
+import sqlite3
 import xml.etree.ElementTree as etree
+import urllib
 
 
 Chapter = namedtuple('Chapter', ['id', 'title', 'date', 'year', 'volume', 'pages'])
@@ -159,6 +162,72 @@ class Extractor(object):
         return result
 
 
+def make_request(url):
+    req = urllib.request.Request(url)
+    req.add_header("User-Agent", "BernAddressBookBot/1.0")
+    req.add_header("From", "sascha@brawer.ch")
+    return req
+
+
+def fetch_wikidata_entity(qid):
+    req = make_request(
+        f'https://www.wikidata.org/wiki/Special:EntityData/{qid}.ttl')
+    req.add_header("Accept", "text/turtle")
+    response = urllib.request.urlopen(req)
+    return response.read().decode('utf-8')
+
+
+def fetch_wikidata_family_names(cachedir):
+    if not os.path.exists(cachedir):
+        os.mkdir(cachedir)
+    path = os.path.join(cachedir, "wikidata_family_names.csv")
+    if os.path.exists(path):
+        return
+    db = sqlite3.connect(f"{cachedir}/wikidata_family_names.db")
+    db.execute("CREATE TABLE IF NOT EXISTS Names(qid PRIMARY KEY NOT NULL, name)")
+    db.execute("CREATE TABLE IF NOT EXISTS State(key PRIMARY KEY NOT NULL, val)")
+    db.commit()
+    family_name_classes = [
+        'Q106319018',  # hyphenated surname
+		'Q29042997',   # double surname
+		'Q101352',     # family name
+	]
+    for k in family_name_classes:
+        _fetch_wikidata_family_name_list(db, k)
+
+
+def _fetch_wikidata_family_name_list(db, klass):
+    state_key = f'page_{klass}'
+    page = db.execute("SELECT val FROM State WHERE key=?", [state_key])
+    page = page.fetchone()
+    page = page[0] if page else None
+    if page != 'DONE':
+        page = int(page) if page else 0
+        regexp = re.compile(r'wd:(Q\d+)\s+wdt:P31\s+wd:' + klass + r'\s*\.')
+        while True:
+            page = page + 1
+            print(f"Query Wikidata for instances of {klass}, page {page}")
+            req = make_request(
+                "https://query.wikidata.org/bigdata/ldf?" +
+                f"object=wd:{klass}&predicate=wdt:P31&page={page}")
+            req.add_header("Accept", "text/turtle")
+            with urllib.request.urlopen(req) as response:
+                turtle = response.read().decode('utf-8')
+            db.execute("REPLACE INTO State (key,val) VALUES (?, ?)",
+                       [state_key, page])
+            for qid in regexp.findall(turtle):
+                db.execute("INSERT OR IGNORE INTO Names (qid, name) " +
+                           "VALUES (?, NULL)", [qid])
+            db.commit()
+            if '<http://www.w3.org/ns/hydra/core#nextPage>' not in turtle:
+                db.execute("REPLACE INTO State (key,val) " +
+                           "VALUES (?, 'DONE')", [state_key])
+                db.commit()
+                break
+
+
 if __name__ == '__main__':
-    ex = Extractor(cachedir="cache")
-    ex.run()
+    cachedir = "cache"
+    fetch_wikidata_family_names(cachedir)
+    #ex = Extractor(cachedir)
+    #ex.run()
