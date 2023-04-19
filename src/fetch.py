@@ -184,16 +184,28 @@ def fetch_wikidata_family_names(cachedir):
     if os.path.exists(path):
         return
     db = sqlite3.connect(f"{cachedir}/wikidata_family_names.db")
-    db.execute("CREATE TABLE IF NOT EXISTS Names(qid PRIMARY KEY NOT NULL, name)")
+    db.execute("CREATE TABLE IF NOT EXISTS Names(qid PRIMARY KEY NOT NULL, name, lang)")
     db.execute("CREATE TABLE IF NOT EXISTS State(key PRIMARY KEY NOT NULL, val)")
     db.commit()
     family_name_classes = [
         'Q106319018',  # hyphenated surname
-		'Q29042997',   # double surname
-		'Q101352',     # family name
+        'Q29042997',   # double surname
+        'Q101352',     # family name
 	]
     for k in family_name_classes:
         _fetch_wikidata_family_name_list(db, k)
+    _fetch_missing_wikidata_family_names(db)
+    with open(path + '.tmp', 'w', newline='') as csvfile:
+        writer = csv.writer(csvfile, delimiter=';', quotechar='"',
+                            quoting=csv.QUOTE_MINIMAL)
+        writer.writerow(['Name', 'Language', 'WikidataID'])
+        for row in db.execute(
+                'SELECT name, lang, qid FROM Names WHERE name IS NOT NULL ' +
+                'ORDER BY name'):
+            name = row[0]
+            if name and ord(name[0]) <= 0xff:
+                writer.writerow(row)
+    os.rename(path + '.tmp', path)
 
 
 def _fetch_wikidata_family_name_list(db, klass):
@@ -224,6 +236,40 @@ def _fetch_wikidata_family_name_list(db, klass):
                            "VALUES (?, 'DONE')", [state_key])
                 db.commit()
                 break
+
+
+def _fetch_missing_wikidata_family_names(db):
+    native_label_re = re.compile(r'\bwdt:P1705\s+"([^"]+)"@([a-zA-Z_\-]+)\b')
+    name_re = re.compile(r'\bschema:name\s+"([^"]+)"@([a-zA-Z_\-]+)\b')
+    for row in db.execute("SELECT qid FROM Names WHERE name IS NULL " +
+                          "ORDER BY qid"):
+        qid = row[0]
+        turtle = fetch_wikidata_entity(qid)
+        label, lang = '', 'und'
+        if match := native_label_re.search(turtle):
+            label, lang = match.groups()
+        if not label:
+            t = turtle.split(f"\nwd:{qid} rdfs:label ")
+            if len(t) > 1:
+                matches = name_re.findall(t[1].split("schema:description")[0])
+                matches = {lang: name for (name, lang) in matches}
+                for lang in ['de-CH', 'de', 'gsw', 'fr', 'it', 'en']:
+                    if label := matches.get(lang, ''):
+                        break
+        label = label.strip()
+        lang = normalize_language_tag(lang)
+        db.execute('REPLACE INTO Names (qid, name, lang) VALUES (?,?,?)',
+                   [qid, label, lang])
+        db.commit()
+        print(f'Found family name {qid} "{label}"@{lang}')
+
+
+def normalize_language_tag(lang):
+    lang = lang if lang else 'und'
+    lang = lang.replace('_', '-').lower()
+    lang = re.sub(r'\-[a-z]{2}\b', lambda m:m.group(0).upper(), lang)
+    lang = re.sub(r'\-[a-z]{2}\b', lambda m:m.group(0).title(), lang)
+    return lang
 
 
 if __name__ == '__main__':
