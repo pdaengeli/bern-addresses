@@ -1,7 +1,7 @@
 # SPDX-FileCopyrightText: 2023 Sascha Brawer <sascha@brawer.ch>
 # SPDX-License-Identifier: CC0-1.0
 #
-# To the extent possible under law, the authors and contributors have
+# Public Domain: To the extent possible under law, the authors have
 # waived all copyright and related or neighboring rights to this file.
 # This work is published from Switzerland.
 #
