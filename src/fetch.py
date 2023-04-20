@@ -1,10 +1,12 @@
 # SPDX-FileCopyrightText: 2023 Sascha Brawer <sascha@brawer.ch>
 # SPDX-License-Identifier: MIT
 #
-# Fetch address books of Bern, 1861-1945, from www.e-rara.ch.
+# Fetch address books of Bern (1861-1945) from www.e-rara.ch,
+# and auxiliary data (such as famiily names) from wikidata.org.
 
 from collections import namedtuple
 import csv
+import http
 import requests
 import os
 import re
@@ -173,8 +175,19 @@ def fetch_wikidata_entity(qid):
     req = make_request(
         f'https://www.wikidata.org/wiki/Special:EntityData/{qid}.ttl')
     req.add_header("Accept", "text/turtle")
-    response = urllib.request.urlopen(req)
-    return response.read().decode('utf-8')
+    retry = 0
+    while True:
+        try:
+            response = urllib.request.urlopen(req, timeout=10)
+            return response.read().decode('utf-8')
+        except http.client.IncompleteRead as err:
+            retry += 1
+            if retry >= 5:
+                raise err
+        except TimeoutError as err:
+            retry += 1
+            if retry >= 5:
+                raise err
 
 
 def fetch_wikidata_family_names(cachedir):
@@ -275,5 +288,5 @@ def normalize_language_tag(lang):
 if __name__ == '__main__':
     cachedir = "cache"
     fetch_wikidata_family_names(cachedir)
-    #ex = Extractor(cachedir)
-    #ex.run()
+    ex = Extractor(cachedir)
+    ex.run()
