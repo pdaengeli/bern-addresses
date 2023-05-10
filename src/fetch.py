@@ -6,7 +6,9 @@
 
 from collections import namedtuple
 import csv
+import gzip
 import http
+import io
 import requests
 import os
 import re
@@ -29,6 +31,7 @@ class Extractor(object):
         self.cachedir = cachedir
         self.ads_denylist = self.read_ads_denylist()
         self.families = self.read_families()
+        self.wikidata_family_names = self.read_wikidata_family_names()
 
     def run(self):
         if not os.path.exists(self.cachedir):
@@ -134,7 +137,9 @@ class Extractor(object):
                 else:
                     name = self.get_family_name(line)
                     if name not in self.families:
-                        print(name)
+                        wikidata_id = self.wikidata_family_names.get(name)
+                        if wikidata_id and ';' not in name:
+                            print('%s;%s' % (name, wikidata_id))
 
     def get_family_name(self, line):
         if line.startswith('v.'):
@@ -161,6 +166,16 @@ class Extractor(object):
             if line and line[0] != '#':
                 name, wikidata_id = line.split(';')
                 result[name] = wikidata_id
+        return result
+
+    def read_wikidata_family_names(self):
+        result = {}
+        filepath = os.path.join(self.cachedir, 'wikidata_family_names.csv.gz')
+        with gzip.open(filepath, mode='rb') as bytestream:
+            with io.TextIOWrapper(bytestream, encoding='utf-8') as stream:
+                for row in csv.DictReader(stream):
+                    name, id = row['Name'], row['WikidataID']
+                    result[name] = id
         return result
 
 
