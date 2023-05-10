@@ -29,6 +29,8 @@ class Processor(object):
         page_re = re.compile(
             r'^# Date: (\d{4}-\d\d-\d\d) Page: (\d+)/([\[\]\d]+)$')
         for filename in sorted(os.listdir(dirpath)):
+            if not filename.endswith('.txt'):
+                continue
             path = os.path.join(dirpath, filename)
             publication_date, page_id, page_label = None, None, None
             line_num = 0
@@ -45,7 +47,7 @@ class Processor(object):
                         continue
                     else:
                         raise ValueError(
-                            f'{path}:{line_num}: Unknown # directive')
+                            f'{path}:{line_num}: Unknown # directive: {raw_line}')
                 if line[0] in ('—', '–', '-'):
                     rest = line[1:].strip()
                 else:
