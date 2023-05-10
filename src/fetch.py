@@ -2,7 +2,7 @@
 # SPDX-License-Identifier: MIT
 #
 # Fetch address books of Bern (1861-1945) from www.e-rara.ch,
-# and auxiliary data (such as famiily names) from wikidata.org.
+# and auxiliary data (such as famiily names) from Wikidata.
 
 from collections import namedtuple
 import csv
@@ -171,15 +171,12 @@ def make_request(url):
     return req
 
 
-def fetch_wikidata_entity(qid):
-    req = make_request(
-        f'https://www.wikidata.org/wiki/Special:EntityData/{qid}.ttl')
-    req.add_header("Accept", "text/turtle")
+def fetch_request(req):
     retry = 0
     while True:
         try:
-            response = urllib.request.urlopen(req, timeout=10)
-            return response.read().decode('utf-8')
+            response = urllib.request.urlopen(req, timeout=30)
+            return response.read()
         except http.client.IncompleteRead as err:
             retry += 1
             if retry >= 5:
@@ -193,96 +190,14 @@ def fetch_wikidata_entity(qid):
 def fetch_wikidata_family_names(cachedir):
     if not os.path.exists(cachedir):
         os.mkdir(cachedir)
-    path = os.path.join(cachedir, "wikidata_family_names.csv")
+    path = os.path.join(cachedir, "wikidata_family_names.csv.gz")
     if os.path.exists(path):
         return
-    db = sqlite3.connect(f"{cachedir}/wikidata_family_names.db")
-    db.execute("CREATE TABLE IF NOT EXISTS Names(qid PRIMARY KEY NOT NULL, name, lang)")
-    db.execute("CREATE TABLE IF NOT EXISTS State(key PRIMARY KEY NOT NULL, val)")
-    db.commit()
-    family_name_classes = [
-        'Q106319018',  # hyphenated surname
-        'Q29042997',   # double surname
-        'Q101352',     # family name
-	]
-    for k in family_name_classes:
-        _fetch_wikidata_family_name_list(db, k)
-    _fetch_missing_wikidata_family_names(db)
-    with open(path + '.tmp', 'w', newline='') as csvfile:
-        writer = csv.writer(csvfile, delimiter=';', quotechar='"',
-                            quoting=csv.QUOTE_MINIMAL)
-        writer.writerow(['Name', 'Language', 'WikidataID'])
-        for row in db.execute(
-                'SELECT name, lang, qid FROM Names WHERE name IS NOT NULL ' +
-                'ORDER BY name'):
-            name = row[0]
-            if name and ord(name[0]) <= 0xff:
-                writer.writerow(row)
-    os.rename(path + '.tmp', path)
-
-
-def _fetch_wikidata_family_name_list(db, klass):
-    state_key = f'page_{klass}'
-    page = db.execute("SELECT val FROM State WHERE key=?", [state_key])
-    page = page.fetchone()
-    page = page[0] if page else None
-    if page != 'DONE':
-        page = int(page) if page else 0
-        regexp = re.compile(r'wd:(Q\d+)\s+wdt:P31\s+wd:' + klass + r'\s*\.')
-        while True:
-            page = page + 1
-            print(f"Query Wikidata for instances of {klass}, page {page}")
-            req = make_request(
-                "https://query.wikidata.org/bigdata/ldf?" +
-                f"object=wd:{klass}&predicate=wdt:P31&page={page}")
-            req.add_header("Accept", "text/turtle")
-            with urllib.request.urlopen(req) as response:
-                turtle = response.read().decode('utf-8')
-            db.execute("REPLACE INTO State (key,val) VALUES (?, ?)",
-                       [state_key, page])
-            for qid in regexp.findall(turtle):
-                db.execute("INSERT OR IGNORE INTO Names (qid, name) " +
-                           "VALUES (?, NULL)", [qid])
-            db.commit()
-            if '<http://www.w3.org/ns/hydra/core#nextPage>' not in turtle:
-                db.execute("REPLACE INTO State (key,val) " +
-                           "VALUES (?, 'DONE')", [state_key])
-                db.commit()
-                break
-
-
-def _fetch_missing_wikidata_family_names(db):
-    native_label_re = re.compile(r'\bwdt:P1705\s+"([^"]+)"@([a-zA-Z_\-]+)\b')
-    name_re = re.compile(r'\bschema:name\s+"([^"]+)"@([a-zA-Z_\-]+)\b')
-    for row in db.execute("SELECT qid FROM Names WHERE name IS NULL " +
-                          "ORDER BY qid"):
-        qid = row[0]
-        turtle = fetch_wikidata_entity(qid)
-        label, lang = '', 'und'
-        if match := native_label_re.search(turtle):
-            label, lang = match.groups()
-        if not label:
-            t = turtle.split(f"\nwd:{qid} rdfs:label ")
-            if len(t) > 1:
-                matches = name_re.findall(t[1].split("schema:description")[0])
-                matches = {lang: name for (name, lang) in matches}
-                for lang in ['de-CH', 'de', 'gsw', 'fr', 'it', 'en']:
-                    if label := matches.get(lang, ''):
-                        break
-        label = label.strip()
-        lang = normalize_language_tag(lang)
-        db.execute('REPLACE INTO Names (qid, name, lang) VALUES (?,?,?)',
-                   [qid, label, lang])
-        db.commit()
-        print(f'Found family name {qid} "{label}"@{lang}')
-
-
-def normalize_language_tag(lang):
-    lang = lang if lang else 'und'
-    lang = lang.replace('_', '-').lower()
-    lang = re.sub(r'\-[a-z]{2}\b', lambda m:m.group(0).upper(), lang)
-    lang = re.sub(r'\-[a-z]{2}\b', lambda m:m.group(0).title(), lang)
-    return lang
+    url = 'https://names.toolforge.org/downloads/familynames.csv.gz'
+    with open(path + '.tmp', 'wb') as out:
+        req = make_request(url)
+        out.write(fetch_request(req))
+    os.rename(path+'.tmp', path)
 
 
 if __name__ == '__main__':
