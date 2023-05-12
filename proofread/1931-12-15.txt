@@ -6312,7 +6312,7 @@ Christ. 6641
 Brown, Iva Gertrud, Sekretärin. Bollwerk 15
 – Vuarnoz, Georg, Bureauchef der B. L. S..
 Kramgasse 9
-– Boveri & Gie., A.-G., technisches Bureau, Spitalgasse 9 Boiiw. 4362
+– Boveri & Gie., A.-G., technisches Bureau, Spitalgasse 9 Bollw. 4362
 Brüchsei, E.. pens. Beamter d. S.B.B., Moserstrasse 34
 – Ernst, Bankangestellter, Moserstrasse 34
 Bruck, Jakob, in Fa. J. Kaufmann & Go., Beundenfeldstrasse 18 Bollw. 7298
@@ -12669,7 +12669,7 @@ Frieden, Joh., Schreiner, Rodtmattstr. 105
 – Karl, Maler, Dalmaziweg 105
 – Rud., Camionneur, Forstweg 64
 – W., Konfiseur, Optingenstrasse 11
-– Baumgartner. Jakob Alfred. Bijoutier, Wernerstrasse 22 Boiiw. 7572
+– Baumgartner. Jakob Alfred. Bijoutier, Wernerstrasse 22 Bollw. 7572
 – Widmer, E., Schnitzlerei- u. Bijouterie-Geschäft (Optingenstr. 11), Bahnhofplatz 7
 Friedenthal, Moris, Kaufmann u. Prokurist, Gutenbergstrasse 4
 Frieder, Alb. Paul, Dr., Ingenieur, Bubenbergstrasse 36 Christ. 1238
@@ -12681,18 +12681,15 @@ Frieder, Alb. Paul, Dr., Ingenieur, Bubenbergstrasse 36 Christ. 1238
 – Oskar. Reisender. Länggassstrasse 82
 – Walter, Kaufmann, Schanzenbergstr. 32
 – Marie Lina, Hilfsarbeiterin, Kasernenstr.42
-– Fankhauser, J., Essig, Senf. Kolonialwaren. Schanzenbergstr. 32 Boiiw. 1585
-Friedhof Bremgarten (Friedhofgärtner), Murtenstrasse 55 Boiiw. 1774
+– Fankhauser, J., Essig, Senf. Kolonialwaren. Schanzenbergstr. 32 Bollw. 1585
+Friedhof Bremgarten (Friedhofgärtner), Murtenstrasse 55 Bollw. 1774
 – Israelitischer, Wankdorffeld, Papiermühlestrasse 114 Christ. 2319
 – Schosshafde (Friedhofgärtner), Ostermundigenstrasse 60 Zähr. 1095
-Friedhof-Buchhalterei, Predigergasse 5
-Boiiw. 4711
+Friedhof-Buchhalterei, Predigergasse 5, Bollw. 4711
 Friedländer, Jul., Grand Magasin de Modes
-(Schwarztorstrasse 31), Bubenbergplatz 11
-Boiiw. 2921
+(Schwarztorstrasse 31), Bubenbergplatz 11, Bollw. 2921
 – Margrit, Verkäuferin, Schwarztorstr. 31
-Friedli. A., Metzgermeister, Thunstrasse 14
-Boiiw. 7311
+Friedli. A., Metzgermeister, Thunstrasse 14, Bollw. 7311
 – Alexander, Elektriker, Metzgergasse 36
 – Alfr. Hans, Ausläufer, Marzilistrasse 32
 – Alice Klara, Damenschneiderin, Lorrainestrasse 28
@@ -12723,7 +12720,7 @@ Friedli, Fritz Eug., Bureauangest., Schlösslistrasse 45
 – Gottl., Spezialgeschäft für Bureaubedarf, Durchschreibebücher, Myrtenweg 7, Bümpliz
 – Gustav, Schlosser, Scheibenstrasse 33
 – Hans Alfred, Bankbeamter, Berchtoldstrasse 5 Christ. 1330
-– Hans, Bankprok., Steinerstr. 5 Boiiw. 1270
+– Hans, Bankprok., Steinerstr. 5 Bollw. 1270
 – Hans, eidg. Beamter, Gartenstrasse 4
 – Hans, Elektromonteur, Kyburgstrasse 13
 – Hedwig, Fabrikarbeiterin, Wylerringstr. 71
@@ -12737,7 +12734,7 @@ Friedli, Fritz Eug., Bureauangest., Schlösslistrasse 45
 – Joh.. Heizer, Waffenweg 4
 – Joh. Friedr., Pferdewärter, Herzogstr. 24
 – Joh. Gottfr., Polizist, Friedheimweg 24
-– Karl, Holligenstrasse 15 Boiiw. 2096
+– Karl, Holligenstrasse 15 Bollw. 2096
 – Karl, Pferdewärter. Mi'litärstrasse 26
 – M. Otto, Masch.-Schlosser, Sulgenbachstrasse 25
 – Margrit, Ladentochter, Herzogstrasse 24
@@ -12762,12 +12759,12 @@ Friedli, Fritz Eug., Bureauangest., Schlösslistrasse 45
 – Walter, Vertreter, Myrtenweg 7, Bümpliz
 – Werner. Prof. Dr., Willadingweg 48
 Christ. 6425
-– & Cie., Radio- und Grammophonapparate, Waisenhausplatz 22 Boiiw. 7988
+– & Cie., Radio- und Grammophonapparate, Waisenhausplatz 22 Bollw. 7988
 – Benkert, Rosina, Schneiderin. Kramg. 23
 – Christe, Walter, Reichenbachstrasse 63
-Boiiw. 7054
+Bollw. 7054
 – Gerber, Elise, Wwe., Holligenstrasse 15
-% Boiiw. 2096
+% Bollw. 2096
 – Reinli, Marie, Wwe., Konradweg 13
 – Vogel, Anna, Wwe., Schiösslistrasse 45
 – Vuilleumier, Hans Friedrich, Beamter der
@@ -32434,7 +32431,7 @@ Moser, Josef Alfred, Hutmacher, Freiburgstrasse 364, Bümpliz
 – Karl Rud., Maler, Elisabethenstrasse 55
 – Karl, Bahnangestellter, Bottigenstrasse 67, Bümpliz
 – Klara, Pianistin, Speichergasse 10
-Boiiw. 4070
+Bollw. 4070
 – Klara, Damenschneiderin, Bahnstrasse 61
 – Klara, Knabenschneiderin, Schanzenstr. 7
 – Klara, Verkäuferin, Aarbergergasse 12
@@ -45585,7 +45582,7 @@ Bollw. 1319
 – Hans, Trambilletteur, Sulgenbachstr. 10
 Wollen Sie bauen?
 Wenden Sie sich vertrauensvoll J. NIGST
-, Greyerzstrasse 38an das Architekturbureau Tei.Boiiwerk23.6i
+, Greyerzstrasse 38an das Architekturbureau Tei.Bollwerk23.6i
 # Date: 1931-12-15 Page: 26015304/417
 Stauffer, Hedwig, Buchhalterin, Marktg. 40
 – Hedwig. Belpstrasse 38a
@@ -50728,7 +50725,7 @@ Christ. 6134
 – Werner Marcel, Obertelegraphist, Rosenweg 28
 – Willy, Vertreter der Unfallversicherungsgesellschaft «Winterthur», Moserstrasse 11
 Christ. 1388
-– Abplanalp, Hans Otto, Konfiserie, Spitalgasse 36 Boiiw. 2111
+– Abplanalp, Hans Otto, Konfiserie, Spitalgasse 36 Bollw. 2111
 Weber, s. auch Wäber
 – Baierle, Arn., pens. Inspektor der eidg.
 Alkoholverwaltung, Moserstr.il Chr. 1388
@@ -50739,16 +50736,15 @@ Zähr. 5432
 – Hauenstein, A. R., Wwe., Coiffeuse, Kramgasse 58 Christ. 5911
 – Kellenberger, Oskar, dipl. Ing., Willadingweg 32 Christ. 3447
 Lanz, Ida, Musikhaus Odeon, Registrierkassen, Trockenfeuerlöscher (Kapellenstrasse 30 Christ. 4330), Effingerstrasse 2
-Boiiw. 3235
-– Mösimann, Jean, Vertretungen u. Handel, Schuhwaren u. Zubehören, Moserstrasse 2
-# Christ. 1129
+Bollw. 3235
+– Mösimann, Jean, Vertretungen u. Handel, Schuhwaren u. Zubehören, Moserstrasse 2 # Christ. 1129
 – Perty, Leo, Dr. jur., gew. Bundesrichter, Münzrain 1
 – Perucchi, Geo, Steinhölzliweg 9 Zähr. 5154
 – Regli, Werner, Kaufmann, Kirchbühlw. 42
 Chr. 3069
 – Rothen, Elise, Wwe., Rütlistrasse 10
 Rothen, Margr., Wwe., Marktgasse 15
-– Scheidegger, Otto, Wirt, Cafe Salmenbräu, Seftigenstrasse 51 Boiiw. 1953
+– Scheidegger, Otto, Wirt, Cafe Salmenbräu, Seftigenstrasse 51 Bollw. 1953
 – Schicker, Beat, Kaufm., Länggassstr. 104
 – Stämpfli, Elise, Wwe., Kirchenfeldstr. 36
 – Walz, Joh. Heinr., Bureauchef b. d. Gen.-Dir. der S. B. B., Gutenbergstrasse 11
@@ -50760,7 +50756,7 @@ Morellweg 9
 Wecera, Walter Rieh., Konditor, Wintermattweg 18, Bümpliz
 Wechlin, H. E., Dr. phil., Chefredakteur des
 «Berner Tagblatt», «Hohlinden», Egelg. 26
-Boiiw. 8854 [28.854]
+Bollw. 8854 [28.854]
 Weckerle, Frieda, Bureaulistin, Falkenhöheweg 15a
 Weese, Arth., Prof. Dr., Fellenbergstrasse 12
 Christ. 2757
@@ -50773,7 +50769,7 @@ Wegmann, Elvira E., Ladentochter, Schwarztorstrasse 61
 – Elise Hermine, Neufeldstrasse 7
 – Fritz Eug., Vertreter, Schwarztorstrasse 80
 – Heinr., Techniker, Fischermätteliweg 23
-– Joh. Eman., Rechenmaschinen, Schwarztorstrasse 61 Boiiw. 1563
+– Joh. Eman., Rechenmaschinen, Schwarztorstrasse 61 Bollw. 1563
 – Karl. Redakt., Laubeckstr. 53 Christ. 2402
 Wegmüller, Adolf. Hadem- und Metallhändler, Gerechtigkeitsgasse 35
 Etagen-und Zentralheizungenin Privatwohnungen, Verwaltungen, Geschäftsräumen, Hotels usw. erstellt nachmodernen Grundsätzen
@@ -51451,7 +51447,7 @@ Christ. 2178
 – Joh., Buchbindermeister, Metzgergasse 84
 Christ. 1707
 – Rieh. Moritz, Schneider, Länggassstrasse48
-– Howald, Job. Martin, Professor, Muristrasse 8e Boiiw. 3569
+– Howald, Job. Martin, Professor, Muristrasse 8e Bollw. 3569
 – MesserU, Elisabeth, Wwe., Murtenstr. 9
 Wernli, Alice, Bureaulistin, Bahnhöheweg 92.
 Bürnpliz
@@ -51792,17 +51788,14 @@ Widmer & Daxelhofer (Giimligen Zähr.
 – Stauffer, Anna, Wwe., Birkenweg 31
 – Stern, Marie, Wwe., Bühlstr. 51 Bw. 3393
 – Wyder, Artur, Bankkassier, Zähringerstrasse 17 Christ. 3952
-Widrig, Ursula M., Papeterie, Herzogstr. 3
-Boiiw. 2738
+Widrig, Ursula M., Papeterie, Herzogstr. 3, Bollw. 2738
 Wiedbrauck, H. A. G., Betriebsleiter, Kirchbergerstrasse 21
 Wiedemar, A., in Firma A. & R. Wiedemar, Sehänzlistrasse 9 Christ. 3387
 – A. & R., Kassenfabrik u. Tresorbau, Fabrik
-Liebefeld Zähr. 5047; Bureau: Neueng. 24
-Bollw. 1711 [21.711]
+Liebefeld Zähr. 5047; Bureau: Neueng. 24, Bollw. 1711 [21.711]
 – Alice, Frl., Sehänzlistrasse 9 Christ. 1058
-– R., in Fa. A. & R. Wiedemar, Muristr. 42
-Christ. 1003
-Wiedenbauer, A., gew. Kontroll. b. eidg. Amtfür geistiges Eigentum. Mittelstrasse 56
+– R., in Fa. A. & R. Wiedemar, Muristr. 42, Christ. 1003
+Wiedenbauer, A., gew. Kontroll. b. eidg. Amt für geistiges Eigentum. Mittelstrasse 56
 Wiederkehr, Joh., Autospengler, Rodtmattstrasse 47
 – Joh., Hilfsarbeiter, Militärstrasse 53
 – Luise, Frau, Wiesenstrasse 79

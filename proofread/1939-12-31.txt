@@ -642,13 +642,11 @@ Bümpliz; Wohn- und Arbeitsort: Morgenstrasse 9 [46.209]
 – -Leutnant Fr. Spillmann, Hauswart, Primarschulhaus Bümpliz, Bümplizstr. 152 [46.117]
 Oberleutnant Ernst Schori, Kdt. d. Pikettsder Motorspritze. Wohn- und Arbeitsort:
 Bottigenstrasse 37 [46.148]
-Oberleutnant Thomet, Albert, Kdt. der
-Löschabteilung, Bottigen, Riedbach [13 (76.113)]
-– Arzt: Dr. M. Fankhauser, Bernstrasse 86
-,, . [46.0401
+Oberleutnant Thomet, Albert, Kdt. der Löschabteilung, Bottigen, Riedbach [13 (76.113)]
+– Arzt: Dr. M. Fankhauser, Bernstrasse 86 [46.0401]
 Maria (Bichsei), Wwe., Bottigenstrasse 53
-Flechter, Werner, Handlanger, Weidmatt. weg 16
-Finger, Elisab Martha, Arbeitslehrerin, Bern_ Strasse 88
+Flechter, Werner, Handlanger, Weidmattweg 16
+Finger, Elisab. Martha, Arbeitslehrerin, Bernstrasse 88
 Fink, Maria Ther. (Kronegger), Wwe., Bümplizstrasse 118
 Fischer, Achilles, kaufm. Angest., Bümplizstrasse 112
 (Ludwig), Postbeamter, Aehrenweg 31

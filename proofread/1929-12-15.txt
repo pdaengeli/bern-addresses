@@ -11049,8 +11049,7 @@ Fueter, Anna, Privatiere, Postgasse 56
 – Gustav, Marktgasse 38 Bollw. 1047
 – G., A.-G., Herren- und Knabengardexobe, Massgeschäft, Marktgasse 38 Bollw. 1047
 – Martha E., Bureaulistin. Fellenbergstr. 18
-– Walter, Gipsered u. Malerei. Niesenw. 10a
-# Christ. 6309
+– Walter, Gipsered u. Malerei. Niesenw. 10a # Christ. 6309
 – Matter, P., Bücherexperte, Kanonenw. 18
 Christ. 3044
 – Staub, Dora, Habsburgstr. 12 Bw. 2123
@@ -31867,18 +31866,14 @@ Renaud, Agnes, Ladentochter. Engestrasse 1
 – Hermann, Versich.-Beamter, Gesellschaftsstrasse 19d
 – ~5} ar g- Emilie. Bureaulistin, Thunstr. 43a
 Narcisse Ursule, Angestellte, Gesellschaftsstrasse 19d
-– -Raily, Ach., Sohn, Blumengeschäft (Aegertenstrasse 73 Christ. 5945), Amthausg. 16
-,, . . Bollw. 2260
-– -Maucim, M. A., Abwart-Elektriker b. eidg.
-Gesundheitsamt, Engestrasse 1
-'S' Emile Georges Hub., Mechaniker, Gbstbergweg 8
-Harguerite, Bureaulistin, Effingerstr. 4a
-Christ. 2970
+– -Raily, Ach., Sohn, Blumengeschäft (Aegertenstrasse 73 Christ. 5945), Amthausg. 16, Bollw. 2260
+– -Maucim, M. A., Abwart-Elektriker b. eidg. Gesundheitsamt, Engestrasse 1
+— Emile Georges Hub., Mechaniker, Obstbergweg 8
+Harguerite, Bureaulistin, Effingerstr. 4a Christ. 2970
 Renevier, Francois Alb., Postchauffeur, Länggassstrasse 101
 Renfer, Ad. Eug., Arzt, Sulgenauweg 7
 – Adrian, Dr. phil., Gymn.-Lehrer, Juhiläumsstrasse 59
-– Dan. Alb., Knlturingenieur des Kantons
-Bern, Bernastrasse 63 Christ. 6423
+– Dan. Alb., Kulturingenieur des Kantons Bern, Bernastrasse 63 Christ. 6423
 – Erna, Laborantin, Bernastrasse 63
 – Hans, Gymn.-Lehrer, Hubelmattstrasse 54
 – Hugo, Dr., Zahnarzt, Bahnhofplatz 7 (Gewerbekasse) Christ. 3214
