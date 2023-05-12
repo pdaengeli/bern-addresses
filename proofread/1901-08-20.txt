@@ -2232,8 +2232,8 @@ Bürki, Alfr. Joh., Schlosser, Matte, Schifflaube 46
 – Fr., Magazin., Matte, Schifflaube 32f— Fr., Schweinemetzger, Inneres Bollwerk 5 173
 – G., Briefträger, Längg., Schwalbenweg 30
 – Gottfr., Pächter, Weissenbühl, Seftigenstrasse 54
-– Gust, Ad., Handlanger, Aarberger-J asse 26
-,, Fasshändler, Mattenhof, Brunnhofweg 13 1069
+– Gust, Ad., Handlanger, Aarberger-Gasse 26
+— Fasshändler, Mattenhof, Brunnhofweg 13 1069
 – Joh., Maurer, Lorrainestrasse 43
 – Joh., Spinner, Tiefenaustr. 73
 – Joh. Friedr., Abwart u. Ausläuferbei Hr. j Burkhart-Gruner, Marktgasse 44
@@ -2242,18 +2242,17 @@ Bürki, Alfr. Joh., Schlosser, Matte, Schifflaube 46
 – Julie C. Ernestine, Privatiere, Mattenhof, Kapellenstrasse 13
 # Date: 1901-08-20 Page: 25803260/172
 Biirki, Karl, Spenglermeister (Specialität Dampfwaschhafen), Mattenhof, Hopfenweg 29 a
-– Karl Emil, Architekt, Kirchenfeld.
-Thunstrasse 20
+– Karl Emil, Architekt, Kirchenfeld. Thunstrasse 20
 – N., Frau, Kleider- u. Feinwaschereiu. Glätterei, Sulgenbach, Giesserei■weg-12
 – Rosine, M. Masseuse, Ländteweg 3
-| — Rud., Krankenwärter und Masseur, Junkerngasse 3 1639
+— Rud., Krankenwärter und Masseur, Junkerngasse 3 1639
 – Rud. Albr., Postkondukteur, Wyler, Scheibenweg 17
-| — & Cie., Käsehdlg. en gros, Sulgenbach, Könizstrasse 69 1239
+— & Cie., Käsehdlg. en gros, Sulgenbach, Könizstrasse 69 1239
 – Biihlmann, A. Barb., Wwe., i. Fa.
-| Biirki & Cie., Sulgenbach, Könizstrasse 69
+— Biirki & Cie., Sulgenbach, Könizstrasse 69
 – Biihlmann, A., Sus., Wwe., Weissenbiihl, Seftigenstrasse 6
 – Metzler, R., Damenschneiderin, Kirchenfeld, Thunstr. 20
-^-Rey, Karl, Versicherungs-Generalagent (Mattenhof, Gartenstrasse 8), Effingerstrasse 9 1678
+— -Rey, Karl, Versicherungs-Generalagent (Mattenhof, Gartenstrasse 8), Effingerstrasse 9 1678
 – Ritschard, Elisab., Privatiöre, Holligen, Freiburgstrasse 18
 – Rothen, Marg., Witwe, Gerechtigkeitsgasse 21
 – Scheibli, G., Sekretär der städt.
@@ -4631,20 +4630,16 @@ Grauer-Wagner, H. M., Samenhandlung, Marktgasse 30v. Grävenitz - de Roulet, C. 
 Gray, Lse. Marie, Miss, Englischlehrerin, Kirchenfeld, Ringstrasse 3de Gregorio, Marquis P., Sekretär b. d.italien. Gesandtschaft, Sulgenbach, Wabernstrasse 4
 Greisenasyl u. Rosehi-Stiftung, Seftigenstrasse 107/109/111 1159
 Gremly, Sophie, Witwe, Altenbergstrasse 13
-|v. Grenus, Edm., Oberst, in Firma
-# Grenus & Cie., Kirchenfeld, Marien-Q-fvocon 1") 1783
-|— & Cie. (Nachf. v. Tschann & Cie.), Bankgeschäft, Kramgasse 72 948
-– Bridel, Ed., Sohn, Fürspr., in Fa.i Grenus & Cie., Kramgasse 72 982und [Schloss Giimligen 1540
-JGressly-Müller, A., Oberst, Ingenieur, Vertreter der Fa. Krupp in Essen, Längg., Erlachstr. 19 560
+v. Grenus, Edm., Oberst, in Firma Grenus & Cie., Kirchenfeld, Marien-Q-fvocon 1") 1783
+— & Cie. (Nachf. v. Tschann & Cie.), Bankgeschäft, Kramgasse 72 948
+– Bridel, Ed., Sohn, Fürspr., in Fa.i Grenus & Cie., Kramgasse 72 und Schloss Gümligen 1540
+Gressly-Müller, A., Oberst, Ingenieur, Vertreter der Fa. Krupp in Essen, Längg., Erlachstr. 19 560
 Greuter, s. auch Grütter
 – Joh., Laboratoriumsdiener, Längg., Mittelstrasse 30v. Greyerz, Clara A., Frl., Privatiere, Rabbenthalstrasse 77
 – Lina, Frl., Novellistin, Schosshalde, Höhew. 12 (Chalet Hirschau)
-– 0., Br. phil., Lehrer am städtisch
-Gymnasium, Schosshaldenstr. 92 c
-(Schöngrün)
-;— P., Amtsnotar, Hauptagentur der
-Allgemein. Versorgungsanstalt im
-Grossherzogtum Baden in Karlsruhe, Zeughausgasse 14 63
+– 0., Br. phil., Lehrer am städtischen Gymnasium, Schosshaldenstr. 92 c (Schöngrün)
+— P., Amtsnotar, Hauptagentur der
+Allgemein. Versorgungsanstalt im Grossherzogtum Baden in Karlsruhe, Zeughausgasse 14 63
 – Therese, Lehrerin, Effingerstr. Iß
 – Hess, A., Wwe. d. Pfarrers, Rabbenthalstrasse 77
 – -Huber, J., Witwe d. Oberförsters, Mattenhof, Effingerstrasse 16
@@ -4659,8 +4654,7 @@ Bepartement, Käfiggässchen 1
 Gribi, Mar. und Rosa, Bamensehneiderinnen, Mattenhof, Schwarzthorstrasse 59
 – R. E., Telegraphistin, Beundenfeldstrasse 31
 – S., Modiste, Stalden, Läuferpl. 1
-– Lieber, A., Adjunkt der eidg.
-Staatskasse, Beundenfeldstrasse 19
+– Lieber, A., Adjunkt der eidg. Staatskasse, Beundenfeldstrasse 19
 Grieb, Joh., Mechaniker, Matte, Badgasse 3
 Grieder, Albert, Commis, Gerechtigkeitsgasse 18
 – Hans, Kanzlist d. Handelsstatistik, Marktgasse 21
@@ -13737,8 +13731,8 @@ Schützenstube, Schweiz., im hist. Museum, Kirchenfeld, Helvetiaplatz 5
 Schwaar, Chr., Milchhandlung, Matte, Mühleplatz 12
 – Ernst, Sohn,Droschkenführer, Miinzgraben 11
 – W., Angestellter beim Gaswerk, Junkerngasse 24
-J— Wwe., Droschkenhalterei, Junkerngasse 24 1478
-# Schwab, Alb., Dr. med., Rabbenthal, Oberweg 3 1017
+— J., Wwe., Droschkenhalterei, Junkerngasse 24 1478
+Schwab, Alb., Dr. med., Rabbenthal, Oberweg 3 1017
 – Alex., Zimmermann, Länggasse, Seidenweg 26
 – EL, Privatiöre, Kramg. 68
 – Fr., Kondukteur, Lorraine, Dammweg 9
