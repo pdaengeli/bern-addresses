@@ -19,7 +19,7 @@ Spitalgasse 35 779
 {-Hauser, Ernst, Direktor der Firma
 {Lüscher, Leber & Cie., A.-G., Kirchenfeld, Hallwylstrasse 30 1811
 {-Roth, Otto, Direkt, d. Telegraphenwerkstätte v. G. Hasler, Länggasse, Schanzeneckstr. 11 321
-– Schiirch, Marg., Wwe., Gerechtigkeitsgasse 72
+– Schürch, Marg., Wwe., Gerechtigkeitsgasse 72
 Aeberhard, s. a. Aeberhardt u. Eberhard
 – A., Musiker, Gerechtigkeitsg. 21
 – A. 0., Reisender, Länggassstr. 69
@@ -857,7 +857,7 @@ Bauen, Chr., Weinreisend., Dalmaziw.50
 – Em., Postkommis, Dalmaziweg 50
 – E., Maler, Dalmaziweg 50
 Bauer, s. auch Baurf— A. & Cie., Spedition, Camionnage, Möbeltransport, Kohlenhandlung ;
-Bureau: Miinzgraben 11 1638, und Stadtbachstr. 78, Lagerhaus, Mattenhof, Brunnmattstrasse 22 1080
+Bureau: Münzgraben 11 1638, und Stadtbachstr. 78, Lagerhaus, Mattenhof, Brunnmattstrasse 22 1080
 |— Alfons, in Fa. |A. Bauer & Cie., Stadtbachstr. 78 1080
 – Edmund, Angestellt., Münzgrab. 11
 |— G., Buchbinderei, Papierlager und Papierprüfungs - Anstalt (Elfenaugut), Amthausgasse 16 1707
@@ -1335,7 +1335,7 @@ IBezirksgefängnis, kantonales, Speichergasse 7 792
 Bianchini, G., Kunststeinfabrik, Breitenrainstrasse 25
 Biancone, Anton, Kaufmann, Schosshaldenstrasse 29
 – Paul, Bureauangest., Länggasse, Schreinerweg 21
-– Wüthrich, M., Huthandlung, Miinzgraben 3
+– Wüthrich, M., Huthandlung, Münzgraben 3
 Biber, Fr. Rud., Büchsenmacher, Lorr., Lagerweg 12
 Biberstein, Arn., OberstL, Instruktionsoffizier I. Klasse der Infanterie, Kirchenfeld, Thunstr. 13
 Bibo, J., Werkf., Mattenh., Belpstr. 49
@@ -2180,12 +2180,12 @@ Apparate und Utensilien, feinmech.
 Werkstätte u. Glasbläserei, Spitalgasse 34 2181
 Büchler, A. H., Kanzlist d. Waffencbefsd. Art., Beundenf., Schönburgstr. 43
 – G. R., Kaufmann, Breitenrainstr. 23
-Biichler, H., Abwart des Pathologischen
+Büchler, H., Abwart des Pathologischen
 Instituts, Waisenhausplatz 27
 – J., Schuhhandlung und Massgeschäft (Predigerg. 4), Kramg. 61
 – J. Anton, Privatlehrer, Kirchenfeld, Weststrasse 10
 – Joh. Ant., Schuhmacher, Birkenweg 15
-( — W., Buchdrucker in Fa. | Biichler &
+( — W., Buchdrucker in Fa. | Büchler &
 Co., Kirchenf., Marienstr. 8 1788
 |— & Co., Buchdruckerei (vormals
 Michel & Büchler), Kirchenfeld, Marienstrasse 8 1788
@@ -2463,7 +2463,7 @@ Bürki, Anna, Schwalbenweg 30
 – Scheibli, G., Sekretär der städt.
 Armendirektion, Kirchenfeld, Steinerstrasse 41
 – Siegfried, F., gew. Lehrer d.Sulgenbachsch., Weissenb., Seftigenstr. 28
-– Wiithrich, M., Priv., Sulgenrain 26
+– Wüthrich, M., Priv., Sulgenrain 26
 – -Zürcher, Rudolf, Postangestellter, flolzikofenweg 7
 Bürkly, Leo, Adjunkt des eidg. Oberbauinspektorats, Christoffelgasse 6
 (v. l.Mai 1908 an: Ensingerstrasse39)
@@ -2716,7 +2716,7 @@ $— & Läderach, Bau- und Steinhauergeschäft, Schmiedweg 4 460
 12
 Die am Schlüsse der mit Telephonzeichen (|) versehenen Adressenaufgelührten schräg halbfetten Zahlen sind die Telephonnummern.
 # Date: 1907-11-15 Page: 25806085/178
-| Christener-Liithi, AnnaM.,Wwe., Glas-, Geschirr- und Porzellanhandlung, Kramgasse 58 3044
+| Christener-Lüthi, AnnaM.,Wwe., Glas-, Geschirr- und Porzellanhandlung, Kramgasse 58 3044
 – Steiner, Friedr. Herrn., Kaufmann, Länggassstrasse 67
 Christensen, P. J. F. M. J., Steindrucker, Kirchenfeld, Luisenstrasse 7
 /Christkatholisches Pfarramt, Kramgasse 9 1546
@@ -3982,7 +3982,7 @@ Franzen, Th. JEL, Musiklehrer, Schauplatzgasse 33
 {Kanzlei: Kanonenweg 14 511
 Frauch, J., Tramangestellter, Besenscheuerweg 24
 Frauchiger, Alb., Heizer i. Gymnasium, Schauplatzgasse 21
-– Ed., Sattler- u. Tapezierermeister, Eschen weg 5
+– Ed., Sattler- u. Tapezierermeister, Eschenweg 5
 – Ernst, Bankangestellte Tannenw. 10
 – Fr., Lehrer a. d. Brunnmattschule, Stadtb., Wildhainweg 12
 – Fr., Bannangest., Länggasse, Freie
@@ -4533,7 +4533,7 @@ Strasse 3
 – Johann, Müllermeister u.Fuhrhalter, Sulgenbach, Giessereiweg 14
 – Joh., Fuhrm., Ausserholligen 82
 – Joh., Pächter, Schosshalde, Laubeckstrasse 36
-– Joh. Fr., Kanzlist der städt. Polizeidirektion, Wyler, Scheiben weg 30
+– Joh. Fr., Kanzlist der städt. Polizeidirektion, Wyler, Scheibenweg 30
 – Joh., Telephonarbeit., Marzilistr. 49
 – Joh. G., Postfakt., Lgg.,Frohbergw.3
 – Joh. Gottl., Kohlenhändler, Gerechtigkeitsgasse 21
@@ -4635,7 +4635,7 @@ Meilen, Hauptdepot b. Lebensmittelgesellsch. Bern, vorm. Joh. Sommer
 (Gesundheitsamt, eidg., Inselg. 5 1636
 Getreidemagazin, Galgenfeld
 Geuggis, Ad., Bureauangestellter, Gerechtigkeitsgasse 63
-– Liithi, Marie,Wwe., Gerechtigkeitsgasse 63
+– Lüthi, Marie,Wwe., Gerechtigkeitsgasse 63
 (Gewerbegerichte, Sekretariat, Neuengasse 32 551
 Gewerbehalle, Nägeligasse 7 990
 Gewerbekasse in Bern, Bankgeschäft, Spitalgasse 32 2826
@@ -4770,7 +4770,7 @@ Glardon, John, Telegraphist, Aarbergergasse 58
 {Glaser, Ed., Spengler und Lampist, Brunngasse 58 1129
 Glattfelder, Abrah., Schneider, Wyler, Wiesenstrasse 43
 Glatthardt, E. A., Bahnarb., Mattenhof, Cäcilienstrasse 15 a
-– Ed. Jean, Zugführer der T. S. B., Breitenrain, Turn weg 23
+– Ed. Jean, Zugführer der T. S. B., Breitenrain, Turenweg 23
 – Joh., Schreinermeister, Jägerweg 22
 Glättli, A., Klaviermacher, Kesslerg. 42
 {Glatz, David, i. Fa. G. & D. Glatz, Mittelstrasse 8 204
@@ -4857,7 +4857,7 @@ Golay, Henry, Uebersetzer und V orsteherder franz. Abteilung der Staatskanzlei, 
 – J., Beamter d. S. B. B., Kasernenstrasse 46
 Golder, Osk., Feilenhauer, Ob. Beaumontweg 10 b
 Göldi, E. A., Prof. Dr., Zieglerstr. 36
-Goldschmid, W., Prokurist, Länggasse, Falken weg 3
+Goldschmid, W., Prokurist, Länggasse, Falkenweg 3
 Goldstein, Max, Bankier, Kirchenfeld, Obere Dufourstrasse 9
 Goll, Emil, Schlosser d. B. N. B., Freie
 Strasse 11a
@@ -5194,7 +5194,7 @@ Guggisberg, Ad., Bundesweibel, Längg., Mittelstrasse 9l — Albr., Lohnkutscher
 A. Mory (Mattenhofstrasse 12 2146), Zieglerstrasse 43, j Bureau: Kramgasse 83 1680
 – Chr., Pächter, Scliosshaldenstr. 38
 – Chr. Fr., Pächter auf dem Steigerhubel, Freiburgstrasse 82 a
-– Ernst, Schreinermstr., Lgg. (Seidenweg 42), Mittelstr. 50 (Bierhiibeli)
+– Ernst, Schreinermstr., Lgg. (Seidenweg 42), Mittelstr. 50 (Bierhübeli)
 |— Friedr., Droschkenhalter, Nachf.v. Gebrüder Guggisberg, Klösterlistutz 8 1438
 – Gottfr., Gipser- und Malermeister, Langmauerweg 15
 – Gottl., Büchsenm., Scheibenweg 17
@@ -5208,7 +5208,7 @@ Frauenkrankheiten und Geburtshilfe, Bubenbergplatz 9 1025
 – N., Schreinermeister, Belpstrasse 55
 |— Paul, Dr.jur.,Fürsprech., b. ]Spreng
 & Lüscher, Allmendstr. 1 2020
-|— Rud., Mechanische Bau- und Möbelschreinerei, Miinzgraben 12 2508
+|— Rud., Mechanische Bau- und Möbelschreinerei, Münzgraben 12 2508
 {— Rud., Gemeinderat, städt. Polizeidirekt., Wyler, Allmendstr. 1 2020
 – Sam., gew. Portier, Kirchenfeld, Marienstrasse 29
 – Bögli, J., Wwe., Aarbergerg. 55
@@ -5413,7 +5413,7 @@ Hadorn, Berta. Verwalt, der Gesellsch.für Kaffeenallen, Volksbibliothekenu. Arb
 – Christian, Schreiner, Seftigenstr. 23
 – Ernst, Schlosser, Sulgenrain 16
 | — Fritz, Baumaterialien- u. Schieferdeckergeschäft , Handel mit Immobilien (Holzikofenweg 24 959 ), Käfiggässchen 6 3020
-Fritz, Hötel du Pont, Feldeckweg 1 1884
+Fritz, Hôtel du Pont, Feldeckweg 1 1884
 – Fr., Lehrer am Freien Gymnasium, Herrengasse 11
 – Fr., Tramangest., Cäcilienstr. 44
 – Karl, Billetteur d. S. S. B., Belpstr. 26
@@ -5505,7 +5505,7 @@ Adolf, Hotel „Schmieden“, Marktgasse 12 999
 – Christ., Milchhändler, Schosshalde, Tavelweg 7
 Wohnungsnachweis kostenfrei ül v (" t” 1"" -
 # Date: 1907-11-15 Page: 25806132/217
-Haldimann, E. F., Miinzarb., Läuferpl. 8
+Haldimann, E. F., Münzarb., Läuferpl. 8
 – Elis., Glätterin, Münsterplatz 10
 – G., Schneidermeister, Aarstr. 106
 – G., Gärtner, Muristrasse 29
@@ -5845,7 +5845,7 @@ Heil, Elis., Wwe., Schuhhandlg., Kesslergasse (18) 42 |j Heilsarmee, Handelsdepa
 (— Militärschule, Muristrasse 6 a 282
 – Versammlungslokale: Gerechtigkeitsgasse 64 u. Längg., Muesmattstrasse 33 a
 Heim, Augusta, Frl., Altenbergstrasse98
-|— E., gew. Apotheker, Scnosshalde, Brügglenveg 19 1443
+|— E., gew. Apotheker, Schosshalde, Brügglenveg 19 1443
 – El., Frl., Pension, Kramgasse 14
 – E., Privatiere, Junkerngasse 32
 – E., Architekt, techn. Inspektor der
@@ -6594,7 +6594,7 @@ Huber, Ulr., Planton b. Untersuchungsrichteramt, Waisenhausstrasse 7
 – Bänninger, Jak., Heilsarmeeoffiz., Kirchenfeld, Helvetiastrasse 17
 – -Baumeister, Al., Wwe., Hirschengraben 24 c
 – Baumgart, D., Lehrer am Freien
-Gymnasium, Gryphenhiibeli, Grüneckweg 12
+Gymnasium, Gryphenhübeli, Grüneckweg 12
 – Biber, Hans, Hauswart d. Schweiz.
 Volksbank, Christoffelgasse 6
 |-Blesi, Adolf, Direktor der | Gurtenbahn 1989 und Wirt z. {Gurtenkulm 1986
@@ -6634,7 +6634,7 @@ Desinfektionsgesch., Aarbergerg. 14
 – Gottfr., Landjägerkorp., Waisenhausstrasse 7 ’
 – Gottl., Schneider, Münsterplatz 10
 – H. R., Schneider, Hopfenweg 44
-– Joh., Schlosser in der Waffenfabr., Breitenrain, Birken weg 27
+– Joh., Schlosser in der Waffenfabr., Breitenrain, Birkenweg 27
 – K., Schneider, Wylerstrasse 19
 – Kaspar, Beamter der Einnahmenkontrolle der S.B.B., Wildhainw. 12
 – M., Schrein., Ländtew. 3 (Aarzieleh.)
@@ -7418,7 +7418,7 @@ Kappeier, Ed., Kaufm., Sulgenheimw. 17
 – Hugo, Prokurist, Sulgenauweg 10
 – J., i. Fa. Kappeier & Wolfensberger, Kramgasse 52
 – K. H., Kaufmann, Mattenhof, Sulgenheimweg 19
-– P., Polier, Wyler, Scheiben weg 9f— & Wolfensberger, Metzgereiartikelhandlung, Kesslergasse 14 881
+– P., Polier, Wyler, Scheibenweg 9f— & Wolfensberger, Metzgereiartikelhandlung, Kesslergasse 14 881
 – Hippenmeyer, S. K., Wwe., Sulgenheimw eg 17
 Karl, Chr., Schneider, Lorrainestr. 11
 – Emil, Buchdruckerei u. Papeterie, Mattenhof, Mühlemattstrasse 3
@@ -7763,7 +7763,7 @@ Knabenhort, Matte, Schifflaube 52
 1 Knabensekundarschulen , | Viktoria strasse 71 1668 u. j Brunng. 66 936
 (Knabenvvaisenhaus, bürgerliches, Waisenhausplatz 32 950
 Knapp, Chr., Privatier, Hollägen, Freiburgstrasse 60 b
-| Knaus-Tobler, S., Wwe. des Prof., Privatiere, Bierhiibeliweg 13 2726
+| Knaus-Tobler, S., Wwe. des Prof., Privatiere, Bierhübeliweg 13 2726
 Knecht, E. W., Dr. phil., Chemiker, Zeughausgasse 7
 – F. A., Buchhalter, Enge, Daxelhoferstrasse 7
 – & Cie., Chem. Färberei u. Waschanstalt, Ablage Frau Flückiger, Amthausgasse 24 und Frau Hofer-Lüthi, Stalden 26
@@ -8241,7 +8241,7 @@ Kuhn, Gottlieb, Buchhalter, Mattenhof, Besenscheuerweg' 12
 – Karl, Optiker, Lorrainestr. 13 j
 – K., Beamter d. S. B. B., Marktg. 48 i
 – Matth., Magaziner, Wylerringstr. 62
-– Rud., Angestellter bei K. Siegerist, Hopfen weg 14
+– Rud., Angestellter bei K. Siegerist, Hopfenweg 14
 – W., Ingenieur b. eidg. Befestigungsbureau, Kasernenstrasse 52
 – Geelhaar, A., Wwe. des Pfarrers, Mattenhof, Brunnmattstrasse 36
 – -Humbel, Anna, Damenschneiderin, Herzogstrasse 26
@@ -8697,7 +8697,7 @@ Lehmann, s. auch Leemann
 – Alfred, Geh. des Mat.-Bureaus der
 Telegr.-Dir., Längg., Beaulieustr. 78
 – Arn. Chr., Milchhändler, Scheibenweg 36
-– C. W. C., Münzmechanik., Gryphenhiibeli, Grüneckweg 8
+– C. W. C., Münzmechanik., Gryphenhübeli, Grüneckweg 8
 – Chr., Schreiner, Marzilistrasse 26
 – Chr., Pflästerer, Münzgraben 9
 – E., Postkommis, Beundenfeldstr. 41
@@ -8927,7 +8927,7 @@ Lichtensteiger, E., Bankang., Kramg. 28i — Guido, Kaufmann, Lorraine, Ulmenweg
 Werdt-Passage)
 – Meister, Paul, Kaufmann, Flurw. 17
 | Lichtpausanstalten, Schweiz., A. G., Zürich, Fil. Bern: Amthausg.2 2612
-Lieber, E., Spenglermeister, Länggasse, Gesellscnaftsstrasse 50
+Lieber, E., Spenglermeister, Länggasse, Gesellschaftsstrasse 50
 – Ida u. Lina, Zigarrenhdlg. (Hallerstrasse 25), Falkenplatz 1
 – L., Postkondukteur, Weihergasse 14
 – —Bracher, A. M., Witwe d. Spenglers, Hallerstrasse 25
@@ -9278,7 +9278,7 @@ Joh., Brot- u. Zuckerbäcker, Längasse, Zähringerstrasse 16 b 88
 – Kapfer, A. El., Frau, Kleinbäckerin, Mattenh., Cäcilienstr. 33
 – Knutti, L., Witwe, Schosshalde, Muristrasse 29
 – Reuter, Gottfr., Beamter d. Oberpostdirekt., Längg., Yereinsweg 16
-– Schiirch, Gottfr., Kaufm., Längg., Vereinsweg 10i-Spähni, Johann, in Firma l Lüthi, Zingg & Marcet, Beaumont, Werdtweg 1 (Villa Tarragona) 1997
+– Schürch, Gottfr., Kaufm., Längg., Vereinsweg 10i-Spähni, Johann, in Firma l Lüthi, Zingg & Marcet, Beaumont, Werdtweg 1 (Villa Tarragona) 1997
 – Tschannen, M., Wwe., Länggasse, Gesellschaftsstrasse 18 b
 |-Wenger,Frau,Wwe., Buchbinderei, Kirchenf. (Archivstr. 20), Helvetiastrasse 5 1808
 Lüthy, s. auch Lüthi
@@ -10090,7 +10090,7 @@ Mollet, Fr., Metzgermstr., Rathausg. 6
 – Lina, Privatiere, Rathausgasse 9
 – Luise, Privatiere, Rathausgasse 6
 – Rob., Badaufseher, Weihergasse 8
-{Molteni, Carlo, i. Fä. Orrigoni & Cie., Gryphenhiibeliweg 10 3069
+{Molteni, Carlo, i. Fä. Orrigoni & Cie., Gryphenhübeliweg 10 3069
 Monhaupt, C., Musiklehrer, Zeughausg.14
 Moning-Hänni, F.,Kommis, Seftigenstr.24
 Monnard, B., Frl., Privat., Murtenstr. 30
@@ -10221,7 +10221,7 @@ Moser, G., Milchhändl., Steinhölzliw. 23
 – Jak., Tapezierer, Ryffligässch. 13
 – Jean, Privatier, Kirchenf., Habsburgstrasse 6
 – Joh., Sauerkrauthandlung, Sulgenbach, Wabernstrasse 41
-– Joh., Miinzarbeiter, Marzilistr. 32
+– Joh., Münzarbeiter, Marzilistr. 32
 – Joh., Schmiedmeister, Mattenhof, Belpstrasse (37) 35a
 – Johann. Steinhauer, Rütlistrasse 13
 – Joh. Rob., Gipser- u. Malergeschäft, Herrengasse 10
@@ -10334,7 +10334,7 @@ Mühlheim, Fr., Lehrer d. Länggassschule, u. Haupt-Depot des Vereinsfür Verbre
 – Cecile, Frl., Wegmühle - Bern (v.
 Fellenberg-Besitzung)
 – H. F., Dr. pbil., Privatier, Münzrain 1
-– Helene, Frl., Wegmiihle-Bern (v.
+– Helene, Frl., Wegmühle-Bern (v.
 Fellenberg-Besitzung)
 J-v. Bary, Hans, Stadtforstmeister, Muristrasse 66 299l -v. Hallwyl,Wolfg. Friedr., Dr. phil., Prof., Oberbiblioth. d. Stadtbiblioth., Mattenhof, Schwarztorstr. 35 901
 Müllegg, Alex., Fuhrhalter und Ziigler, Schwellenmätteli
@@ -10802,7 +10802,7 @@ Jacot, Edgar, Amthausg. 3 1699
 | Not-Asyl der städt. Armendirektion, Mattenhof, Besenscheuerw. 10 1996
 Noth, Edm., Kanzlist des Justiz- u. Polizeidepart., Marktgasse 32
 Nöth, Mich., Schuhmachermeister und Schuhhandlg., Aarbergergasse 38
-Nöthiger, Gottl., Angestellter, Längg., Fichten weg 15
+Nöthiger, Gottl., Angestellter, Längg., Fichtenweg 15
 – Paul, Buchhalter, Sandr., Dorng. 8
 Notz, Ed., Kondukt, d. S. B. B., Belpstrasse 71
 – Jean, Souschef der Bahnhof-Insp., Stadtbachstrasse 23
@@ -10824,7 +10824,7 @@ Nussbaumer, Arn., Tapezierer, Klösterlistutz 10
 – Kil., Depeschenträger, Länggasse, Zähringerstrasse 45
 – Wilhelm, Abwart bei Marcuard &
 Cie., Christoffelgasse 4
-– Liithi, A. R., Wwe., Kramg. 75
+– Lüthi, A. R., Wwe., Kramg. 75
 Nüssli,Alb.,Spinner,Felsenau,Tunnelw.2
 – H., Fabrikarb., Felsenaustrasse 83
 – Rud., Fabrikarb., Felsenaustr. 26
@@ -11268,7 +11268,7 @@ Picard, Dav., Viehhändler, Kramg. 69
 Piccoli, Ach., Kanzl. d. Bundeskanzlei, Zähringerstrasse 29
 | Pick, Ad., Kapellmeister des Stadt-Orchesters, Helvetiastrasse 7 3042
 Pignatti-Morano, F., Graf, Attache derital. Gesandtschaft, Thunstrasse 6
-Pillichody, Alb., Adj. d. eidg. Oberforstinspektorats, Bierhiibeliweg 11
+Pillichody, Alb., Adj. d. eidg. Oberforstinspektorats, Bierhübeliweg 11
 – Benteli, M., Wwe., Privat., Bubenbergplatz 4
 Piol, Gust., A., eidg. Beamter, Engestr.45jv. Planta, E., Ing., Direktor d. Gesellschaft f. Adhäsionsapparate, A.-G., Schwarztorstrasse 61 2471
 Platel-Fischer, Ida, Wwe., Privatiere, Kramgasse 61
@@ -11483,7 +11483,7 @@ Privatier, Aarbergergasse 49
 |— & Aus der Au, Fabrikation von
 Uniformen, Militäreffekten u. Zivilbekleidung, Laupenstrasse 3 1238
 ]-Fischer, M., Wwe. d. Bäckermstrs., Metzgergasse 31 1539
-Racine, A.L., Waffenkontroll., Stöckern weg 17
+Racine, A.L., Waffenkontroll., Stöckerenweg 17
 Rädecke, A., Musiker, Herzogstr. 26
 Rahm, Joh. Jak., Postkommis, Belpstr. 41
 – J. Jak., Revisor der Telegr.-Kontrolle, Länggasse, Drosselweg 11
@@ -13077,7 +13077,7 @@ Wohnungsnachweis kostenfrei —
 Schmid, Hans, Architekt, Kreuzgasse 3
 – Hedw., Lehrerin, Donnerbühlweg 5
 – Heinrich, Gehilfe d. S. B. B., Daxelhoferstrasse 7
-– J., Schuhmacher, Miinzgraben 7
+– J., Schuhmacher, Münzgraben 7
 Joh. Friedr., Dr. med., Direktor des
 ^Schweiz. Gesundheitsamtes, Länggasse, Gesellschaftsstrasse 1 167
 – Joh., Kaufmann, Bühlstrasse 53b
@@ -13655,7 +13655,7 @@ National, Aeusseres Bollwerk 27
 – Wälti, Magdal., Lohnwäscherin, Weissenbühl, Holzikofenweg 22
 Schwärzler-Schär, El., Wwe., Stalden 38
 Schwarzmann, Andreas, Gipser u. Maler, Lorraine, Quartiergasse 9
-– F. B., Waffenfabrikarbeiter, Wyler, Scheiben weg 36
+– F. B., Waffenfabrikarbeiter, Wyler, Scheibenweg 36
 – Fr. Joh., Elektromonteur, Wyler, Scheibenweg 41
 – Rud., Büchsenmacher, Elisabethenstrasse 36
 – -Riesen, M., Wwe., Breitenrainstr. 23
@@ -14314,7 +14314,7 @@ Stallhof Kirchenfeld, Dählhölzliweg 3
 Stamm, Rob., Korbm., Tavelweg 6
 – Saml., Webermeister, Matte, Schifflaube 42
 – Griitzner, Christ., Bibliothekar, Marktgasse 22
-– Liithi, E. K. M., Frau, Privatiere, Wylerstrasse 40
+– Lüthi, E. K. M., Frau, Privatiere, Wylerstrasse 40
 |-Maurer, Artur, Kaffeerösterei und Braunmehlfabrikat., Postg. 6 1439
 – Risold, W., gew. Kaufm., Ob. Beaumontweg 14
 Stammbach, Fr.,Schreiner, Gesellschaftsstrasse 16jStamminger, H., Schriftgiesserei und Maschinengesch., Mattenhof, Brunnhofweg (37) 33 2138
@@ -15294,12 +15294,12 @@ Triner, Fr., Gehilfe d. Einnahmekontrolle d. S. B. B., Gesellschaftsstr. 13
 Trinler, Mar., Frl., i. Fa. Trinler & Graf, Kramgasse 41
 – & Grat, Bonneterie-, Garn- u. Korbwarenhandlung, Kramgasse 43
 Tritschler-Maier, W., Witwe, Privat., Mattenhof, Seilerstrasse 12
-– Reichert, Frieda, Privat., Gryphenhiibeliweg 4
+– Reichert, Frieda, Privat., Gryphenhübeliweg 4
 Tritten, Jak. A., Kaufmann, Belpstr. 39
-– 0., Kontrollfiihrer der Stadtpolizei, Länggasse, Frohbergweg 9
+– 0., Kontrollführer der Stadtpolizei, Länggasse, Frohbergweg 9
 – Strauss, Anna Maria, Wwe., Mattenhof, Belpstrasse 39
 Trog-Widmer, Emil, Kanzlistd. Handelsstatistik, Kirchenf., Tillierstr. 28
-Trommer, Christ., Büchsenmacher, Lorraine, Polygon weg 7
+Trommer, Christ., Büchsenmacher, Lorraine, Polygoenweg 7
 Trösch, Fr., Registerführer der städt.
 Polizeiairektion, Sandrainstrasse 76
 – H. Alf., Dr. phil., Sek.-Lehrer, Werdtweg 9j— Jak., Geschäftsreisender, Münzgraben 4 2571
@@ -15467,7 +15467,7 @@ Umiker, Emil, Beamter d. Telegraphendirektion, Lgg., Brückfeldstrasse 22
 { Unionsdruckerei (Genossenschaft), Kapellenstrasse 6 2133
 Union Suisse, Allg. Glas-Versicherungs-Ges. i. Genf (Generalagent: G.Kurz), Freiburgstrasse 66
 (United States Express Co. Agentur:
-A. Bauer & Co., Miinzgrab. 11 1638
+A. Bauer & Co., Münzgrab. 11 1638
 ( Universität (Rektorat), Gr. Schanze 804
 Universitätsbibliothek, siehe Stadt- und Hochschulbibliothek, Seite 140
 Unterkunftsasyl des Inselhlilfsvereins, Linde, Murtenstrasse 13
@@ -16014,7 +16014,7 @@ Wegmüller, Alb., Kanzlist d. Alkoholverwaltung, Zähringerstrasse 50
 – Friedr., Gasarb., Gesellschaftsstr. 30
 – Friedr., Schreiner, Kesslergasse 21
 – Gottl., Homöopath, Metzgerg. 66
-– Joh., Bureauangest., Murifeldvveg59
+– Joh., Bureauangest., Murifeldweg59
 – Joh., Bahnang., Tannenweg 15 a
 – K., Schuhm., Matte, Schifflaube 24
 – Karl, Tapez., Luisenstrasse 7
@@ -16031,7 +16031,7 @@ Wehrli, Fr., Schneider u. Pensionshalter, Jennerweg 3
 – Sam., Privatier, Kramgasse 71
 – Samuel, Schriftsetzer, Länggasse, |
 Druckereiweg 3
-– Liithi, A., Privatiere, Länggasse, Senn weg 10
+– Lüthi, A., Privatiere, Länggasse, Senenweg 10
 Wehrlin,C.L., Lithographie u.Druckerei
 (Schönauweg 12), Ryffligässchen 6
 – Heirr. P., Steindr., Schönauweg 12
@@ -16222,7 +16222,7 @@ Schreinerei, Langmauerweg 17
 Werner, Jak., Schuhmacher, Bühlstr. 41
 – Martin, Stadtmissionar, Länggasse, Vereinsweg 30
 (Wernli, Herrn., Mechaniker u. Mühlenbauer, Holligenstrasse (13) 21 1795
-Wernly, Jak., Lehrer der Länggassschule, Fichten weg 19
+Wernly, Jak., Lehrer der Länggassschule, Fichtenweg 19
 |— Jak. Gottl., Lehrer am städtischen
 Gymnasium, Kl. Muristald. 22 2360
 – J. P., Postbureauchef, Fichtenw. 19
@@ -16257,7 +16257,7 @@ Tapezierer, Junkerngasse 1 1403
 Wettler, Hermann, Revisor der Telegraphenkontrolle, Hallerstrasse 36
 Wettstein, F. J., Schlosser, Wyler, Breitfeldstrasse 48j— Georg, Dr., Advokaturbureau, Schwanengasse 5 1151
 – Jb., Beamter d. Alkoholverwaltung, Mattenhof, Cäcilienstrasse 5
-– Ulr., Maler, Miinzgraben 3
+– Ulr., Maler, Münzgraben 3
 – Eberhard, Otto,Dr.jur., Fürsprech, Advokaturbureau (Lgg., Zähringerstrasse 33 221), \ Spitaig. 55 2662
 Wey, E.F.H., Bureauangestellt., Mattenhofstrasse 33
 – Ed. Emil, Lokomotivführer, Länggasse, Forstweg 69
@@ -16313,7 +16313,7 @@ Widmer, Gottfr., Gipser- u. Malermstr., Herzogstrasse 12
 – J. G., Kondukteur d. S. B. B., Längasse, Gesellschaftsstrasse 37ak., Drechsler, Matte, Badgasse 4
 – Jak., Arbeiter der Waffenfabrik, Zeigerweg 7
 |— Jak., Bäckermeister und Spezierer, Schosshalde, Klaraweg 5 1410
-– Joh, Geschäftsangest., Miinzgr. 9
+– Joh, Geschäftsangest., Münzgr. 9
 – K., Postbeamter, Engestrasse 49
 – K. J., Sekretär d. Waffenchefs der
 Artillerie, Lgg., Gesellschaftsstr. 17a
@@ -16375,7 +16375,7 @@ Wildbolz-Müller, S., Wwe., Leihbiblioth., Junkerngasse 27
 – Müller, J., Wwe., Privat., Kirchgasse 18
 (-Rahm, Rob., Handelsmann in Fa.
 (Walthard & Wildbolz, Schossh., Egelgasse 30 (Les Lilas) 1437
-|-Schiirch, Ludw., Priv., Hirschengraben 10 256
+|-Schürch, Ludw., Priv., Hirschengraben 10 256
 – Siegfried, M., Witwe, Privatiere, Zwiebelngässchen 1
 (-Stengel, Rob., Fabrikant, Egel_ gasse 26 (Hohlinden) 1399
 | Wildeisen, A., Tapezierer u. Dekorat., Möbelhandlg, Monbijoustr. 23 2750
@@ -17228,7 +17228,7 @@ Zweili, Arnold, Bankkassier, Muristr. 5
 – Gottfr., Geh. d. Wertzeichenkontr. d.
 Oberpostd., Muristrasse 11
 Zwicker, J. G., Bierdepot, Waisenhausplatz 29
-Zwicky- Simon, Th., Oberst, Kreisinstr.der III. Division, Papiermiihlestr. 9
+Zwicky- Simon, Th., Oberst, Kreisinstr.der III. Division, Papiermühlestr. 9
 | Zwilchenbart, amerik. Bank- u.Passagegeschäft, Vertreter: J. Cadalbert, Neuengasse 19 1687
 Zwinggi, R. V., Schlosserlehrmeister, Schützenweg 18
 Zwolinsky-Röthhsberger,Ld., Schreiner, Belpstrasse 71

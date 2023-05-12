@@ -361,9 +361,9 @@ Bolz, Anna Rosa, Bureaulistin, Kehrgasse 51
 – Rosinä (Rohrer), Wwe., Kehrgasse 51
 Born, Frieda R. (Kiinzler), Wwe., Angestellte, Keltenstrasse 106
 – Maria (Kummer), Wwe., Murtenstrasse 212
-Bornhauser, Jean Otto, Kaufm., Myrten weg 8 [46.212]
+Bornhauser, Jean Otto, Kaufm., Myrtenweg 8 [46.212]
 – Jeannette Elis., Bureaulistin, Myrtenweg 8
-Boese, Willi W. (Liithi), Schneider, Weidmattweg 1Ö\
+Boese, Willi W. (Lüthi), Schneider, Weidmattweg 1Ö\
 Boss, Hans Walter Otto, Elektrotechniker, Riedernstrasse 146
 – Paul,. Lehrer, Chaletweg 3 [46.088]
 – Werner, Zuschneider, Bethlehemstrasse 19 [46.621]
@@ -1810,7 +1810,7 @@ Matter, Ernst, Hilfsarbeiter. Murtenstr. 214
 Matti, Rudolf. Bauarbeiter, Stöckackerstr. 95
 Maurer, Albert H., Maler, Bahnhöheweg 86
 – Charles, Beamter S.B.B., Frankenstr. 61
-– Emil (Iseli), Lok’fiihrer, Burgunderstr. 47
+– Emil (Iseli), Lok’führer, Burgunderstr. 47
 – Ernst, Obergärtner, Bottigenstrasse 72 b
 – Fr., Vorarbeiter. Bahnhöheweg 86
 – Fritz, Coiffeur, Bahnhöheweg 86
@@ -1851,7 +1851,7 @@ Messerli, Anna (Brügger), Gutsbesitzerin, Neuhaus, Bethlehem
 – Rud., Landwirt, Murtenstr. 252 [46.113]
 – Verena, Bürolistin, Aehrenweg 19
 – Werner, Kaufmann, Bümplizstrasse 27
-– Werner, Kunststeingiesser, Veilchen weg 2
+– Werner, Kunststeingiesser, Veilchenweg 2
 Messerli, Werner Gottfr., Tiefbauzeichner, Aehrenweg 19
 Metzger und Mezgfir
 – Gottfr-. G., Fabrikarb., Burgunderstr. 138
@@ -2221,7 +2221,7 @@ Reber, s. auch Räber
 – Alfr., Landwirt, Riedernstrasse 40a
 – Chr., Spezereihandlung, Bottigenstr. 398, Riedbach [ 76.117]
 – Christ, Landwirt, Riedernstrasse 40a
-– El. (Liithi), Wwe., Privatiere, Bäreng. 12
+– El. (Lüthi), Wwe., Privatiere, Bäreng. 12
 – Ernst, Landwirt, Riedernstrasse 40a
 – Ernst, Schreinermstr. in Fa. H. & E Reber, Bernstrasse 98 [46.277]
 – Franz, gew, Abwart, Freiburgstrasse 354
@@ -2247,7 +2247,7 @@ Remund, Albr., Landwirt, Buchweg 4, Riedbach
 – Friedr., Zimmermeister. Matzenriedstr 4, Oberbottigen [76.125]
 – Joh., Landwirt, Buchweg 4, Riedbach
 – Rosa (Wenger), Zimmereigeschäft, Matzenriedstrasse 4, Oberbottigen [76.125]
-– Rud., Zimmermann, Oberbottigen weg 20, Oberbottigen
+– Rud., Zimmermann, Oberbottigenweg 20, Oberbottigen
 – Rud., jun., Zimmermeister. Oberbottigenweg 20. Oberbottigen [76.157]
 Rentsch, E. Elise (Sieber), Privatiere, Freiburgstrassse 332
 – Paul. Maschinentechniker. Freiburgstr.332
@@ -2499,7 +2499,7 @@ Scheidegger, Alfr., Hilfsarbeiter, Brünnackerstrasse 15
 – Friedr.. Bahn-Vorarbeiter, Werkgasse 20
 Scheidegger, Friedr., Bau- u. Möbelschreinerei, Bottigenstrasse 348, Oberbottigen [76.118]
 – Gertrud, Packerin, Werkgasse 20
-– Peter & Go., chemisch-technische Produkte, Veilchen weg 6 [46.651]
+– Peter & Go., chemisch-technische Produkte, Veilchenweg 6 [46.651]
 Schenk, Alfr., Maschinenmeister, Burgunderstrasse 138
 – Christ., Bauhandlanger, Bottigenstr. 243, Oberbottigen
 – Friedr., Handlanger, Murtenstrasse 250
@@ -3280,7 +3280,7 @@ Wyder und Wider
 – Jos., Handlanger, Freiburgstrasse 349
 – Martha, Damenschneiderin, Niederbottigenweg 52
 – Rud., Landwirt, Niederbottigenweg 52
-Wyler, Helene Elsa (Liithi), Bottigenstr. 395
+Wyler, Helene Elsa (Lüthi), Bottigenstr. 395
 – Paul, Schreiner, Werkgasse 25
 Wyniger, Ernst, Schriftsetzer, Peterweg 9
 – Gottfr., Hilfsarbeiter. Bethlehemstrasse 118
