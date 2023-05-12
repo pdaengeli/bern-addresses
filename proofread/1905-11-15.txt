@@ -1876,7 +1876,7 @@ Boss Joh., Landjäger, Lorr., Ulmenw. 5
 – Berger, El., Wwe., Priv., Klösterlistutz 20
 – Schlaphach, J. G., Bureauchef der
 S. B. B., Länggasse, Bühlstrasse 38
-JBossard, Fr., Amtsnotar(Kramgasse28), Neuengasse 8 593
+JBossard, Fr., Amtsnotar(Kramgasse 28), Neuengasse 8 593
 – Gottfr., Schneidermstr., Gerechtigkeitsgasse 64
 – Baumann, Fr., Elektrotechniker, Kirchenfeld, Ensingerstr. 39
 Bossert, F. A., Lithograph, Linde, Murtenstrasse 24
@@ -2701,7 +2701,7 @@ Cardinal, Brasserie, v. Freiburg, Vertretung jG. Grimm, Laupenstrasse
 {Cardoner, J., gewes. Weinhändler, Waghausgasse 10 84
 – Wyss, E., B., Frau, Kirchenfeld, Archivstr. 6
 | Carey, Charles, Generalagentur der
-Genfer Lebensversich.-Ges. (Spitalgasse37), Waisenhauspl.4, v. l.Febr.
+Genfer Lebensversich.-Ges. (Spitalgasse 37), Waisenhauspl.4, v. l.Febr.
 1906 an Gutenbergstrasse 26 2547
 – Bay, M., Frau, Lingerie- u. Broderiehandlung, Kramgasse 74
 Carini, Ant., Dr. med., Assistent am
@@ -5874,7 +5874,7 @@ Hafner, C. G., Beamter d. S. B. B., Mattenhofstrasse 12
 – Jak. Georg, Schuhhandlung, Lorrainestrasse 19
 Hafner, P. L., Beamter der S. B. B., Monbiioustrasse 43
 – Oberholzer, Anna, Klavierlehrerin, Länggasse, Zähringerstrasse 28
-– Wiederkehr, Th., Kaffee- und Küchliw. u. Kostgeb., Kramgasse32
+– Wiederkehr, Th., Kaffee- und Küchliw. u. Kostgeb., Kramgasse 32
 Hagen, Cornelia, Frl., Angestellte, Länggasse, Erlachstrasse 28
 – Fritz, Photograph, Thunstr. 41a
 – G. W., Priv., Stalden, Läuferpl. 1
@@ -6911,7 +6911,7 @@ Holliger, Emil, Betriebschef d. Gurtenbahn, Weissenbühl, Seftigenstr. 83
 – E.Traug., Bankangest., Kirchenfeld, Thunstrasse 30
 | — G. & Cie., Bettwarenhandlg., Linoleum- u. Teppichlager, Tapezierer-Furnit.-Gescnäft, Neueng. 39 540
 – Jak., Postkommis, Lgg., Freie Str. 13
-– Joh. G., Schriftsetzer, Neuengasse9
+– Joh. G., Schriftsetzer, Neuengasse 9
 – Otto, Kassagehilfe d. eidg. Staatskasse, Kramgasse 25
 – Brosi, M., Hebamme, Länggasse, Zähringerstrasse 55
 Holliger-Gfeller, Gottfr., Handelsm. in
@@ -7821,7 +7821,7 @@ Joset, J. Alex., Beamter, Laupenstr. 5
 Josi, Jak., Hültsmaschinist, Matte, Wasserwerkstr. 4
 – Peter, Schneider, Aarbergerg. 27
 – Ther., Frau, Glätt., Aarbergerg.27
-Joss, A. L., Klavierlehrerin, Wallgasse4
+Joss, A. L., Klavierlehrerin, Wallgasse 4
 – Chr. Gottfr., Musikdirekt., Kirchenfeldstrasse 38
 – Fr., Lehrer am Fr. Gymnas., Kirchenfeld, Helvetiastr. 33
 – Fried., Schlosser, Felsenau,Fährw.l2
@@ -9383,7 +9383,7 @@ Lehle, Ad., Kiifermstr., Lgg., Amselw.25
 – Anna Emma, Privatiere, Amselw. 25
 – Aug., Schubmacherm., Gerechtigkeitsgasse 17
 Lehmann, s. auch Leemann
-– A., Damenschneid., Junkerngasse26
+– A., Damenschneid., Junkerngasse 26
 – Ad., Kondukteur A. M. P., Matte, Schifflaube 26
 – Alex., Milchhändler, Längg., Freie
 Strasse 24
@@ -10508,7 +10508,7 @@ Meister, s. auch Meystre
 – Phil., Postkommis, Lgg., Fischerw. 6
 – Th., Xylograph. Atelier, Christoffelgasse 6 a
 – W.A.,Einleger, Lgg., Muesmattstr.43
-– Burri,KatIi.,Wwe., Zeughausgasse4
+– Burri,KatIi.,Wwe., Zeughausgasse 4
 – -Enggist, El., Damenschneiderin, Länggasse, Muesmattstrasse 43
 – Jakoo, M.,Frau, Damenschneiderin, Christoffelgasse 6a
 – Trautweiler, Chr., Hauptkassier d.
@@ -14090,7 +14090,7 @@ Schiatter, Alb., Schuhm., Metzgerg. 54
 – A. E., Frl., Gehilfln d. S. B. B., Lgg., Zähringerstr. 47
 – Gottfr., Weichenwärter, Holligen, Freiburgstrasse 131
 Hans, Schweinmetzger, Weissenb., Seftigenstrasse 30 2267
-– Karl Sev., Magaziner, Postgasse49
+– Karl Sev., Magaziner, Postgasse 49
 – Gammeter, M., Wwe., Weissenbtihl, Seftigenstrasse 28
 |-Ivrenger, Emil, Buchbindermeister, Neuengasse 34 553
 Schlawin, (4., Musiker, Kramgasse 1
@@ -16842,7 +16842,7 @@ Vollenweider, Adolph, Postbureauchef, Kirchenield, Tillierstrasse 1
 – -Krenger, Anna, Wwe., Privatierc, Gerechtigkeitsgasse 16
 – Roth, E., Witwe, Postg. 68
 { Völlger, H., Photograph (Wabernstr. 20), Sulgeneckstr. 6 (Monbijou) 1616
-{Vollmar, Heinr., Horlogerie, Bijouterie, (Waisenhauspl. 2), Spitalgasse2 635
+{Vollmar, Heinr., Horlogerie, Bijouterie, (Waisenhauspl. 2), Spitalgasse 2 635
 Vollmer, Franz, Coiffeur, Mattenhof, Belpstrasse 39 a
 { Volmar, Fritz, Dr. jur., Fürspr. ({Ostermundingen 2807), Spitalg. 36 2359
 – P., Professor, Ostermundingen
@@ -17900,7 +17900,7 @@ Wüthrich, Chr., Beamter d. S. B. B., Mattenh., Brunnhofw. 23
 – Job., Angest. beim Betreibungsamt
 Bern-Stadt, Längg., Hallerstr. 22j— Joh., Bäckermeister, Kirchenfeld, Thunstrasse 18 1901
 – Joh., Schlossermeister, Speicherg. 7
-– Joh., Schuhmacher, Metzgergasse26
+– Joh., Schuhmacher, Metzgergasse 26
 – Joh. E., Schneidermstr., Kirchg. 12
 – K., Postangest., Lgg., Schreinerw. 6
 – Karl, Zugführer d. S. B. B., Längg., Frohbergweg 7

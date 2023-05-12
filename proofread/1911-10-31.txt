@@ -922,7 +922,7 @@ Balsigor, Fr., Bautechniker und Feueraufseher 1). d. städt. Baudirektion, Holzi
 – Gotth, Gasarb., Morillon b. Wabern
 – Gottl., Schreiner, Brunngasse 6
 – J. F., Photograph, Breitfeldstrasse 39
-– J. G., Münzarbeiter, Gerbergasse36
+– J. G., Münzarbeiter, Gerbergasse 36
 – Jak., Handlanger, Brunngasse 32
 •— Joh., Magaziner, Konsumstrasse 4a
 – Joh., Kutscher, Bantigerstrasse 14
@@ -1925,7 +1925,7 @@ Bieri, Lydia, Ladentochter, Elisabethenstrasse 19
 – Oskar,Dr., Sek.-Lelirer, Steinauw. 16
 – Peter, Installateur, Ausserhollig. 96
 | — Rosa, Hebamme, Länggasse, Erlachstrasse 8 108
-– R.D. G..Fabrikarbeiter,Badgasse27
+– R.D. G..Fabrikarbeiter,Badgasse 27
 J — & Cie., Käseexportgeschäft, Effingerstrasse 69 927
 – Bürgi, Chr., Privatier, Gryphenhübeliweg 12
 J-Messerli, Marie, Privatiere, Erlachstrasse 30 _ 570
@@ -6237,7 +6237,7 @@ Gerber-Schneider, A. M.,Wwe. des Käsehändlers, Florastrasse 6
 – Wahlen, M., Witwe, Privatiere, Marktgasse 49
 – von Werdt, Franziska Henr., Effmgerstrasse 49
 |-Witschi, J., Spezereihandlung, Marzilistrasse (10) 10 und 13 566
-Gerhard, Karl, Schneider, Brunngasse44
+Gerhard, Karl, Schneider, Brunngasse 44
 – Müller, Hans, Lokomotivführer der
 S. B. B., Fiscnerweg 10
 – Stauffer, Emil Otto, Departementssekretär der S.B.B., Lerchenweg 20
@@ -7773,7 +7773,7 @@ Hauptpostgebäude. 244
 Hausmann.
 Hauptpostgebäude, Bollwerk 25
 I Hauptwache des Landjägerkorps, Waisenhausstrasse 7 788
-{— (Stadtpolizei),Predigergasse5 2000
+{— (Stadtpolizei),Predigergasse 5 2000
 | Hauptzollamt (Frachtgut), Giiterbahnhof 2845f— (Gepäck), Personenbahnhof 2844
 Hauri, Emil, Beamter d. Oberzolldirekt., Lnisenstrasse lü a
 – Jakob, Schmied, Altenbergstrasse 4
@@ -8620,7 +8620,7 @@ Hofmann (|Monbijoustr. 71 3906 ), Amthausgasse 6 ' 775
 – Rud., Coiffeurgeschäft, Bantigerstrasse 41
 { — Rud., Wasserleitungsunternehmer, Herrengasse 6 892
 – Dubois, A. Joh. Fr., Fussärztin, Monbijoustrasse 23
-{-Jegerlehner, A., Tuchhandlung, ({Marktgasse28 1036 ), Waisenhausplatz 12 596
+{-Jegerlehner, A., Tuchhandlung, ({Marktgasse 28 1036 ), Waisenhausplatz 12 596
 – Meyer, Rosa, Witwe des Tapezierers, Ob. Beaumontweg 24
 – Moser, Katharina, Speziererin, Gerechtigkeitsgasse 34
 – Schneeberger, Margar., Witwe, Rabbentalstrasse 39
@@ -12232,7 +12232,7 @@ I— Ernst, Metzgenu., Kraing. 4 1491
 |-Matliys, Ad., Schweinemetzgerei, Spitalgasse 31 601
 Lochbrunner-Glur, Bertha, Gurteng. 4
 Locher, A., mech. Modellschreinerei u.
-Drechslerei(Gerechtigkeitsgasse21), Postgasse 6
+Drechslerei(Gerechtigkeitsgasse 21), Postgasse 6
 – Berta, Stadtbachstrasse 26
 |— Ed., Briefmarkenhandlung (Diesbachstr. 9), Spitalgasse 29 2843
 | — Felix, i. Fa. Locher & Co., Gartenstrasse 3 2215
@@ -12710,7 +12710,7 @@ Marchand, Gust., Registrator b. Zentralamt f. d. intern. Eisenbahn-Transp., Wytt
 – Martin, Trompeterinstr. derKavall., Papiermühlestrasse 13
 {Marcuard, Adele, Frl., Rent., Laupenstrasse 19 (Villa Marcuard) 1207
 – Christina, Gerechtigkeitsgasse 40
-– E.A.Heinr., Bankier, Spitalgasse34
+– E.A.Heinr., Bankier, Spitalgasse 34
 – K. A. R., Bankier, i. Fa. Marcuard
 & Cie., Gerechtigkeitsgasse 40
 – Luise, Rentiere, Amthausgasse 5
@@ -16402,7 +16402,7 @@ Rüfenacht, Albert, Wäscher, Blumengasse 1
 – Anna, Frau, Schneiderin, Wiesenstrasse 53
 – Chr., Bahnangestellter, Jurastr.35
 |— Chr.’s Erben, Manufaktur- u. Bettwarenhandl., Konfektions- u. Massgeschäft, Spitalg. 15/17 u. 21 648
-– Ed., Kaufmann, Egelgasse30c 3342
+– Ed., Kaufmann, Egelgasse 30c 3342
 – Emil, W einhändler, i. Fa. | Rüfenacht
 &Cie., Brunnad.,Kalcheckw.22 279i — Ernst, Clichdsfabr.,Galvano-u.Zinkotypie, Belpstrasse 41 2164
 {— Ernst, Optiker, Marktgasse 19 2320
@@ -17003,7 +17003,7 @@ Waldburger, Luise Aug., Lingeriegeschäft, Kornhausplatz 14
 – Wälder, Berta, Witwe des Dr.med., Kramgasse 2 1480
 Schärer-Walser, N., Damenschneiderin, Junkerngasse 48
 {Schätti, D., & Cie., Sanitäre und Heizungsanlagen, Filiale Bern, Monbijoustrasse 12 2644
-– E. & Co., Tuchgeschäft u. Gesundheitswäsche, Gerechtigkeitsgasse68
+– E. & Co., Tuchgeschäft u. Gesundheitswäsche, Gerechtigkeitsgasse 68
 – Rob., Gehilfe der Schweiz. Landesbibliothek, Tavelweg 29
 – Ziegler, E., in Fa. E. Schätti & Co., Kramgasse 9
 {Schätz, Adrien, Ingenieur, Engestrasse 57 3669

@@ -711,7 +711,7 @@ Balsiger, Alex., Maschinist, Sandrainstrasse 10
 – Gottl., Gasarb., Morillon b. Wabern
 – Gottl., Schreiner, Brunngasse 6
 – J. F., Photograph, Wiesenstr 51
-– J. G., Münzarbeiter, Gerbergasse36
+– J. G., Münzarbeiter, Gerbergasse 36
 – Karl Friedr., Maler, Gewerbestr. 20
 – Rosa, gew. Angestellte, Wattenwylweg 30
 – Rud., Forstinspektor, Kramg. 14im Sommer in Kl.-Wabern (Bureau;
@@ -3002,7 +3002,7 @@ Dachselt, Fr., Lehrer a. d. Kunstschule, Finkenhubelweg 19
 Daguet, R. Ch., Beamter der S. B. B., Mittelstrasse 56
 – Tellenbach, Phil., Coiffeur, Beimdenfeld, Schönburgstrasse 50t Daheim, Frauenrestaurant, Zeughausgasse 31 1671
 Dahinden, A., Kaufmann, Zentralweg 19
-– Ed., Schneidermeister, Kramgasse39
+– Ed., Schneidermeister, Kramgasse 39
 – Louis, Faktor, Längg., Bühlstr. 39
 Dähler, C. E., Architekt, Seilerstrasse 7 a
 Emil, Beamter der Schweiz. Mob.-V.-G., Seftigenstrasse 57
@@ -4183,7 +4183,7 @@ Forstinspektion Jura, Bureau Herrengasse 1, II
 Fortenbacher, Eug., i. Fa. Nabholz, Kornhausplatz 13
 – Marie, Damenschneiderin u. Weissnäherin, Mattenhofstrasse 34
 (Fortmann, Karl, Bernische Dampffärberei und chemische Waschanstalt, Breitenrain Greyerzweg ((19 393 ), 21 u. 21a 393 . Läden: (Aarbergerg.
-20 37, Amthausgasse4 1706 ; (Falkenplatz 3, 1413 -, Mühlemattstr. 18
+20 37, Amthausgasse 4 1706 ; (Falkenplatz 3, 1413 -, Mühlemattstr. 18
 Fossati, L., Schreiner, Philosophenw. 21
 Fotsch, Ad., Mech., Freiburgstrasse 66
 Fracheboud, J. P., Kondukteur S. B. B , Seidenweg 42
@@ -6613,7 +6613,7 @@ Hirsiger, D., Mech., Freie Strasse 15
 – Geiser, Wwe., Mattenhofstrasse 18
 – Ruprecht, Anna, Priv., Bantigerstrasse 15
 – Weibel, G., Baumeister, Lorraine, Nord weg 12
-Hirter, Joh., Schuhmachermstr., Mezener– J., ^kohlenhandlung, Gurtengasse3
+Hirter, Joh., Schuhmachermstr., Mezener– J., ^kohlenhandlung, Gurtengasse 3
 680 und 5//
 – Johann Walter, Kaufmann, WiM'hainweg 19
 – Karl, Gärtner, Militärstrasse 4o
@@ -6828,7 +6828,7 @@ Holliger, Ad., Heizer, Hallerstrasse 6
 – Erw. Walter, Prokurist, Lentulusstrasse 46
 {— G. & Cie., A.-G., Bettwarenhandlg., Linoleum- u. Teppichlager, Tapezierer-Furnitüren-Geschäft, Neuengasse 39 540
 – Jak., Postkommis, Lgg., Freie Str. 13
-– Joh. G., Schriftsetzer, Neuengasse9
+– Joh. G., Schriftsetzer, Neuengasse 9
 – Otto, Adjunkt der eidgen. Staatskasse, Bühlstrasse 53
 – Gfeller, Gottfr., Handelsmann, Neuengasse 39
 – Kiimmerly, Traugott, Bankkassier, Chuzenstrasse 29
@@ -7460,7 +7460,7 @@ Jacot, Alb., Beamter S. B. B., Holligenstrasse 30 a
 – Eduard, Sekretär d. Kursinspektorsbei der 0. P. D., Schänzlistrasse 57
 \— des Combes-v. Lerber, Edgar, (Direktion der „Norwich Union“ (Lebensvers.-Ges.) für die Schweiz u.
 Generalvertreter der „Rhenania“
-(Unfallversich.-Gesellsch.),(Laupenstrasse7 1241), Amthausgasse3 1699
+(Unfallversich.-Gesellsch.),(Laupenstrasse7 1241), Amthausgasse 3 1699
 – des Combes-Zaugg, B. E., Witwe, Länggasse, Fischerweg 3
 – Guillarmod, Ch., Ingen, d. Landestopographie, Kirchenf., Tillierstr. 8
 (Jadassohn, Jos., Dr. med., Professor, Direktor der Universitäts- u. Poliklinik für Hautkrankh., Spezialarzt, Laupenstrasse 53 326de Jadowsky, Ritter, kais. russ. Gesandt.u. bevollm. Minister, Bernerhof
@@ -8631,7 +8631,7 @@ Krebs, A. El., Damenschneiderin, Schauplatzgasse 25
 – Anna K., Ladentochter, Länggasse, Seidenweg 26
 – Anna, Pension, Länggasse, Brückfeldstrasse 8
 – Alfr., Postkommis, Breitenrain, Kasernenstrasse 43
-– Amalie, Privatiere, Junkerngasse31
+– Amalie, Privatiere, Junkerngasse 31
 – Arnold, Notar, Bubenbergplatz 4
 – Chr., Stallhalter, Aarbergergasse 50
 – Ernst, Milchhandlung, Mattenenge 9
@@ -9074,7 +9074,7 @@ I Lang, A.,Direktor d. {Spar- u. Leihkasse, I Länggasse, Erlachstrasse 16
 # Date: 1909-10-25 Page: 25807587/258
 Lang, Emil K., Buchhändler, Kirchenfeldstrasse 50 a
 }— F. J., Wirt, i. Fa. Findeisen & Lang, Hotel u. Restaur. z. goldenen Löwen
-(|Bundesgasse 16 836), Spitalgasse43
+(|Bundesgasse 16 836), Spitalgasse 43
 605 und 2686
 – Fr., Billettdrucker d. S. B. B., Bühlstrasse 35
 – II., Büchsenmacher, Rodtmattstr. 97
@@ -11938,7 +11938,7 @@ Schweiz. Mobiliar - Versicherungs-Gesellschaft, Schönauweg 10 a
 – Robert, Marktstandhalter, Gerechtigkeitsgasse 71
 Pfotenhauer, J. El., Lehrerin, Monbijoustrasse 21
 Pfrimmer, Theod., Christi. Verlagshaus
-(Beundenfeldstr. 39), Nägeligasse4
+(Beundenfeldstr. 39), Nägeligasse 4
 Pfund, Johann Heinrich, Schriftsetzer, Speichergasse 9
 – Joh. Jak., Schreiner, Murtenstr. 52
 – Paul, Oberst, Oberinstruktor des
@@ -13528,7 +13528,7 @@ Ida E., Frl., Telephonistin, Breitenraim Zaunweg 20
 ~~ J., Kaufmann, Münzgraben 2 2713in Firma 10. Lanz& Cie., Buchdruckerei Bollwerk, Brunnhofw. 20
 Joh., Sattler, Weissenbühl, Friedheimweg 12
 ~~ Josef, Irambilletteur, Bremgartenstrasse 63
-Karl Jakob, Gipser u. Maler (Ban_Jprstrasse 35), Altenbergstr. 10p 'k r Vt^ or gängerin, Kramgasse67kod., Druckereiangestellter, Breit__ feldstrasse 34
+Karl Jakob, Gipser u. Maler (Ban_Jprstrasse 35), Altenbergstr. 10p 'k r Vt^ or gängerin, Kramgasse 67kod., Druckereiangestellter, Breit__ feldstrasse 34
 Spenglermeister, Matte, Gerbergasse 13
 Scheidegger, Rud. Alb., Färber, Matte, Wasserwerkgasse 4
 – Sl., Karussellbesitzer, Moserstrasse 6
@@ -13747,7 +13747,7 @@ Schiatter, Alb., Schuhmacher, Metzgergasse 46
 – G. W. Bankangestellter, Seftigenstrasse 28
 – Gottfr., Weichenwärter, Amselw.25
 – Jos., Gürtler, Wasserwerkgasse 6
-– Karl Sev., Magaziner, Postgasse40
+– Karl Sev., Magaziner, Postgasse 40
 – Gammeter, Al., Wwe., Weissenbühl, Seftigenstrasse 28
 I-Krenger, Emil, Buchbindermeister, Neuengasse (45) 34 553
 Schlawin-Junk, Georg, Klaviermagazin, Speichergasse 14
@@ -14258,7 +14258,7 @@ Spezereihandlung, Lorrainestr. 6 a
 – Jakob, Maurer, Länggassstrasse 30
 – M., Frau, Damenschneiderin, Länggasse, Eschenweg 5
 – Max Vital, Generalsekret. d.Schweiz.
-Depeschenagentur, Junker ngasse53
+Depeschenagentur, Junker ngasse 53
 – R., gewesener Buchbindermeister, Militärstrasse 48
 – Uebersax, V., Chef der Jeidg.
 Wertschriftenverwaltung, Junkerngasse 13
@@ -16497,7 +16497,7 @@ Volkmann, Anton, Kammerdiener, Gerechtigkeitsgasse 26
 |-Reinhard, Max, Kaufmann, Monbijoustrasse 18 2625
 |-Reinhard, M. & B., „Magasin de
 Modes“, Damenhutgesch., Schwanengasse 7 3111
-{Volksbank, Schweizer., Monbijoustr. 10, vom 1. Mail910anChristoifelgasse6
+{Volksbank, Schweizer., Monbijoustr. 10, vom 1. Mail910anChristoifelgasse 6
 Generaldirekt. 430 , Kreisbank 434
 Volksbibliotheken, siehe Rubrik „Bibliotheken“, Seite 131
 { Volkshaus, Zeughausgasse 9 1069
@@ -17278,7 +17278,7 @@ Wildbolz, B. E., Frl., Schanzenbergstr. 21
 – Julie, Frl., gew. Sekundarlehrerin, Junkerngasse 49
 – Rud., Kondukt. d.S. B. B., Junkemf asse 27herese, Junkerngasse 49
 – v. Leiber, Ellen, Mattenh., Gutenbergstrasse 4
-(-Leuenberger, Ed., Coiffeur-Parfümeur, Spezialität: Fabrikationfeiner Haararbeiten (Kramgasse84), Herrensalon: Kramgasse 84 1088', Damensalon: Marktgasse 9 3208l -Marcuard, Ed., Oberst, Oberinstruktor und Waffenchef der Kavallerie, Kirchenfeld, Alpenstrasse 27 1847
+(-Leuenberger, Ed., Coiffeur-Parfümeur, Spezialität: Fabrikationfeiner Haararbeiten (Kramgasse 84), Herrensalon: Kramgasse 84 1088', Damensalon: Marktgasse 9 3208l -Marcuard, Ed., Oberst, Oberinstruktor und Waffenchef der Kavallerie, Kirchenfeld, Alpenstrasse 27 1847
 – Müller, S., Wwe., Junkerngasse 27
 – Müller, J., Wwe., Privat., Kirchgasse 18
 (-Rahm, Rob., Handelsmann in Fa.
@@ -18008,7 +18008,7 @@ Zinder, Ed., i. Fa. Barbier & Zinder, Lorraine, Zentralweg 25
 Zingg, Arnold, Küfer, Effingerstrasse 15
 ( — Chr., Kaufm., i. Fa. { Lüthi, Zingg &
 Marcet, Falkenhöheweg 18 374
-– Elisabeth, Corsetiere (Kirchgasse6), Kramgasse 16
+– Elisabeth, Corsetiere (Kirchgasse 6), Kramgasse 16
 – Emil, Zugführer, Römerweg 22
 |— Fr., Generalagent d. Basler Lebensu. Unfall -Versicherungs - Gesellsch.
 (Lgg., Fellenbergstrasse 5), Bubenbergplatz 10 521
