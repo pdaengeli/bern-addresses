@@ -26,6 +26,13 @@ ALTO_STRING = '{http://www.loc.gov/standards/alto/ns-v3#}String'
 ALTO_TEXTLINE = '{http://www.loc.gov/standards/alto/ns-v3#}TextLine'
 
 
+def is_uppercase(c):
+    return c in 'ABCDEFGHIJKLMNOPQRSTUVWXYZÄÖÜÉÈ'
+
+def is_lowercase(c):
+    return c in 'abcdefghijklmnopqrstuvwxyzäöüéè'
+
+
 class Extractor(object):
     def __init__(self, cachedir):
         self.cachedir = cachedir
@@ -36,15 +43,19 @@ class Extractor(object):
     def run(self):
         if not os.path.exists(self.cachedir):
             os.mkdir(self.cachedir)
-        self.process_proofread()
+        #self.process_proofread()
         for chapter in self.find_chapters():
-            for page in chapter.pages:
-                self.process_page(chapter, page)
-            break
+            if chapter.date[:4] in ['1944', '1861']:
+                continue
+            with open(f'proofread/{chapter.date}.txt', 'w') as out:
+                for page in chapter.pages:
+                    self.process_page(chapter, page, out)
 
-    def process_page(self, chapter, page):
+    def process_page(self, chapter, page, out):
         et = etree.fromstring(self.fetch_page_xml(page.id))
-        #print(f'# Date: {chapter.date} Page: {page.id}/{page.label}')
+        out.write(f'# Date: {chapter.date} Page: {page.id}/{page.label}\n')
+        lines = []
+        cur_line = ''
         for line in et.findall(f'.//{ALTO_TEXTLINE}'):
             tokens = []
             for e in line:
@@ -52,7 +63,32 @@ class Extractor(object):
                     tokens.append(e.attrib['CONTENT'])
                 elif e.tag == ALTO_SPACE:
                     tokens.append(' ')
-            #print(''.join(tokens))
+            this_line = ''.join(tokens)
+            this_line = this_line.replace('[', ' [')
+            if this_line.startswith('■—') or this_line.startswith('*-'):
+                this_line = this_line[1:]
+            if this_line[0] in '-–—':
+                this_line = '– ' + this_line[1:]
+            this_line = ' '.join(this_line.split())
+            if cur_line.endswith('-'):
+                if is_uppercase(this_line[0]):
+                    cur_line = cur_line + this_line
+                else:
+                    cur_line = cur_line[:-1] + this_line
+            elif cur_line.endswith(',') or cur_line.endswith(' und') or this_line[0] == '[':
+                cur_line = cur_line + ' ' + this_line
+            elif is_lowercase(this_line[0]):
+                cur_line = cur_line + this_line
+            else:
+                if cur_line:
+                    lines.append(cur_line)
+                cur_line = this_line
+        if cur_line:
+            lines.append(cur_line)
+        if len(lines) > 10 and all(len(lines[i].split()) == 1 for i in (0,1,2)):
+            lines = lines[3:]
+        for line in lines:
+            out.write(line + '\n')
 
     def find_chapters(self):
         chapters = []
