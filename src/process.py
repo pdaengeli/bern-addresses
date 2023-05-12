@@ -43,11 +43,12 @@ class Processor(object):
                 if line[0] == '#':
                     if m := page_re.match(line):
                         publication_date, page_id, page_label = m.groups()
+                        self.publication_date = publication_date
                         family = None
                         continue
                     else:
                         raise ValueError(
-                            f'{path}:{line_num}: Unknown # directive: {raw_line}')
+                            f'{path}:{line_num}: Unknown # directive: {line}')
                 if line[0] in ('—', '–', '-'):
                     rest = line[1:].strip()
                 else:
@@ -67,7 +68,7 @@ class Processor(object):
         return ((words[0], None), ' '.join(words[1:]))
 
     def report_unknown_family(self, line):
-        print(line)
+        print(self.publication_date, line)
 
 if __name__ == '__main__':
     p = Processor(cachedir='cache')
