@@ -40,8 +40,8 @@ class Processor(object):
         for filename in sorted(os.listdir(dirpath)):
             if not filename.endswith('.txt'):
                 continue
-            #if filename[:4] not in ('1861', '1944'):
-            #    continue
+            if filename[:4] not in ('1908'):
+                continue
             path = os.path.join(dirpath, filename)
             publication_date, page_id, page_label = None, None, None
             line_num = 0
@@ -100,7 +100,11 @@ class Processor(object):
     def split_phone(self, line):
         year = int(self.publication_date[:4])
         phone = None
-        if year == 1944:
+        if year >= 1900 and year <= 1917:
+            if m := re.match(r'^(.+\d(\s?[a-f])?) (\d{2,4})$', line):
+                line, _, phone = m.groups()
+                phone = [phone]
+        elif year >= 1941:
             if m := re.findall(r'\[((\d\s*){5})\]', line):
                 phone = [normalize_phone(p[0], year) for p in m]
             line = re.sub(r'\s?\[.+?\]', '', line)
