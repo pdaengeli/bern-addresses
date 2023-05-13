@@ -10,18 +10,22 @@ import re
 
 
 Record = namedtuple('Record', [
-    'Name', 'Surname', 'Date', 'Phone', 'PageID', 'Page',
+    'Name', 'Surname', 'Date', 'Street', 'Housenumber', 'Postcode', 'City',
+    'Phone', 'PageID', 'Page', 'Latitude', 'Longitude',
 ])
 
 
 class Processor(object):
     def __init__(self, cachedir):
         self.families = self.read_families()
+        self.read_addresses()
         self.unknown_families = Counter()
         self.max_family_name_wordcount = max(
             len(f.split()) for f in self.families.keys())
+        self.num_input_records = 0
         self.good_familyname_count = 0
         self.bad_familyname_count = 0
+        self.bad_address_count = 0
 
     def read_families(self):
         result = {}
@@ -33,6 +37,22 @@ class Processor(object):
                 result[name.lower()] = (name, wikidata_id)
         return result
 
+    def read_addresses(self):
+        self.streets = set()
+        self.addresses = {}
+        filepath = os.path.join(
+            os.path.dirname(__file__), '..', 'data', 'pure_adr_be.csv')
+        for line in open(filepath, 'r'):
+            c = line.split(';')
+            street, housenumber, postcode_city, lng, lat = \
+                c[4], c[5], c[8], c[-2], c[-1]
+            postcode, city = postcode_city.split(' ', 1)
+            if city != 'Bern':
+                continue
+            lat, lng = round(float(lat), 6), round(float(lng), 6)
+            self.addresses[(street, housenumber)] = (street, housenumber, postcode, city, lat, lng)
+            self.streets.add(street)
+
     def process_proofread(self):
         dirpath = os.path.join(os.path.dirname(__file__), '..', 'proofread')
         page_re = re.compile(
@@ -40,8 +60,8 @@ class Processor(object):
         for filename in sorted(os.listdir(dirpath)):
             if not filename.endswith('.txt'):
                 continue
-            if filename[:4] not in ('1908'):
-                continue
+            #if filename[:4] not in ('1944'):
+            #    continue
             path = os.path.join(dirpath, filename)
             publication_date, page_id, page_label = None, None, None
             line_num = 0
@@ -62,16 +82,27 @@ class Processor(object):
                     else:
                         raise ValueError(
                             f'{path}:{line_num}: Unknown # directive: {line}')
+                self.num_input_records += 1
                 if line[0] in ('—', '–', '-'):
                     rest = line[1:].strip()
                 else:
                     family, rest = self.split_family_name(line)
                 phone, rest = self.split_phone(rest)
-                if family:
+                address, rest = self.split_address(rest)
+                if not address:
+                    self.bad_address_count += 1
+                if family and address:
+                    (street, housenumber, postcode, city, lat, lng) = address
                     yield Record(
                         Name=family,
                         Surname='',
                         Date=self.publication_date,
+                        Street=street,
+                        Housenumber=housenumber,
+                        Postcode=postcode,
+                        City=city,
+                        Latitude=lat,
+                        Longitude=lng,
                         Phone=(';'.join(phone) if phone else ''),
                         PageID=self.page_id,
                         Page=self.page_label)
@@ -96,6 +127,22 @@ class Processor(object):
     def report_unknown_family(self, line):
         #print(self.publication_date, line)
         pass
+
+    def split_address(self, line):
+        for suffix in ['Bümpliz', 'Riedbach', 'Oberbottigen', ', ']:
+            line = line.removesuffix(suffix)
+        tokens = line.split(' ')
+        if len(tokens) < 2:
+            return None, line
+        street, housenumber = tokens[-2], tokens[-1]
+        if street[-1] == '.':
+            for abbr, full in [('w.', 'weg'), ('str.', 'strasse')]:
+                if street.endswith(abbr):
+                    street = street.removesuffix(abbr) + full
+                    break
+        if addr := self.addresses.get((street, housenumber)):
+            return addr, ' '.join(tokens[:-2]).removesuffix(',')
+        return None, line
 
     def split_phone(self, line):
         year = int(self.publication_date[:4])
@@ -133,12 +180,19 @@ def read_wikidata_family_names():
 if __name__ == '__main__':
     # wd = read_wikidata_family_names()
     p = Processor(cachedir='cache')
-    with open('out.csv', 'w') as csvfile:
+    with open('bern-address-book.csv', 'w') as csvfile:
         writer = csv.writer(csvfile, quoting=csv.QUOTE_MINIMAL)
-        writer.writerow(['Name', 'Surname', 'Date', 'Phone', 'PageID', 'Page'])
+        writer.writerow(['Name', 'Surname', 'Date', 'Street', 'Housenumber', 'Postcode', 'City', 'Latitude', 'Longitude', 'Phone', 'PageID', 'Page'])
+        num_output_records = 0
         for rec in p.process_proofread():
-            writer.writerow([rec.Name, rec.Surname, rec.Date, rec.Phone,
+            num_output_records += 1
+            writer.writerow([rec.Name, rec.Surname, rec.Date,
+                             rec.Street, rec.Housenumber, rec.Postcode,
+                             rec.City, rec.Latitude, rec.Longitude,
+                             rec.Phone,
                              rec.PageID, rec.Page])
     total_familyname_count = p.good_familyname_count + p.bad_familyname_count
     good_percent = int(p.good_familyname_count * 100.0 / total_familyname_count + 0.5)
+    print(f'records: input {p.num_input_records} -> output {num_output_records} = {int(num_output_records * 100.0 / p.num_input_records + 0.5)}%')
     print(f'family names: total {total_familyname_count}; known: {p.good_familyname_count} = {good_percent}%')
+
