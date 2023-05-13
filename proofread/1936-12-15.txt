@@ -478,7 +478,7 @@ Burri, Alb., Bäckerei, Briinnenstrasse 96 [46.099]
 – Rosette (Hoferl Privatiere. Rriinnenstr. 96
 – Rud., Bahnwärter, Wangenstrasse 125
 – Rud., Maurer, Sägehofweg 9
-Biitikofer, Ernst, Hilfsarbeiter, Niederbottigenweg 110
+Bütikofer, Ernst, Hilfsarbeiter, Niederbottigenweg 110
 – Friedr., Handlanger, Morgenstrasse 7
 – Otto Ed., Lehrer, Bernstrasse 86
 Butterhandels A.-G. Bern-Bümpliz, Kehrgasse 31 [46.571]
@@ -718,7 +718,7 @@ Frey und Frei
 – Otto, Metzger, Rcsshäusernstr. 21, Riedbach
 – Paul, Tapezierer u. Dekorateur, Wohlensti’asse 62c
 – Walter, Müller, Wolilenstrasse 62c
-Friedhof Biimpliz (Gärtner) [46.219]
+Friedhof Bümpliz (Gärtner) [46.219]
 Friedli, Dora, Ladentochter, Aehrenweg 28
 – Friedr. Albert., Hilfsarb., Wangenstr. 27
 – Friedr., Friedhofgärtner, Aehrenweg 28
@@ -1138,10 +1138,10 @@ Hofmann, Johannes, Pächter, Stegenweg 31, Oberbottigen
 Hofmänner, H. G., Maschinenmeister, Freieckweg 2
 Hofstetter, s. auch Hostettler
 – Hans E., Wirt z. Bären, Matzenriedstr. 35, Oberbottigen
-– Joh. Friedr., Techniker, Biimplizstr. 14
-– Leonie, Bureaulistin, Biimplizstrasse 14
-– Paul, kaufm. Angestellter, Biimplizstr. 14
-– Paul, Schreiner, Kostgeberei, Biimplizstrasse 14 [46.644]
+– Joh. Friedr., Techniker, Bümplizstr. 14
+– Leonie, Bureaulistin, Bümplizstrasse 14
+– Paul, kaufm. Angestellter, Bümplizstr. 14
+– Paul, Schreiner, Kostgeberei, Bümplizstrasse 14 [46.644]
 Hohermuth, Adolf, Handlanger. Niederbottigenweg 103
 – Alfred Bend., Handlanger, Heimstr. 34a
 Holzer, Alfred, Landwirt, Riedbaclistr. 348, Riedbach
@@ -1206,7 +1206,7 @@ Hulliger, Ernst, Landarbeiter, Niederbottigenweg 53
 Hunn, Jos. Xaver, Korrektor, Bottigenstr. 71
 Hunziker, Fritz, Stationsgehilfe, Bernstr.43
 – Joh. Rud., Schreiner, Bernstrasse 43
-Hurni, Ernst, Beamter SBB, Biimplizstr. 179 [46.574]
+Hurni, Ernst, Beamter SBB, Bümplizstr. 179 [46.574]
 – ■ Frieda, Näherin, Fröschmattweg 12a
 – Friedr., Hilfsarbeiter, Oberbottigenweg 18, Oberbottigen
 – ■ Lydia, Fachlehrerin, Bümplizstrasse 179
@@ -1357,7 +1357,7 @@ Kalis, Gertrud, Verkäuferin, Stöckackerstr. 99a
 Kantonalbank von Bern, Zweigbüro Bümpliz [46.602]
 Kaplan, Fridolin, Musiker, Bümplizstr. 109 [46.622]
 Karlen, Hs., Handlanger, Eymattstrasse 164
-Kaser, Fritz, Typograph, Biimplizstrasse 179
+Kaser, Fritz, Typograph, Bümplizstrasse 179
 Käser, Chr., Garderobier, Freiburgstrasse 349
 – Ernst, Hilfsarbeiter, Bethlehemstrasse 17
 – Hans. Maurer. Bümplizstrasse 58a
@@ -1499,8 +1499,8 @@ Adolf, kaufm. Angest., Morgenstrasse 6
 – Albr., Schweinezüchter, Kehrgasse 8
 Alfr., Maurer, Freiburgstrasse 474
 Krebs, Anna (Scherler), Wwe., Bottigenstr. 60 [46.187]
-– Eduard, Chauffeur, Biimplizstrasse 12
-– Ernst, Handlanger, Biimplizstrasse 85
+– Eduard, Chauffeur, Bümplizstrasse 12
+– Ernst, Handlanger, Bümplizstrasse 85
 – Ernst, Hilfsarbeiter, Kehrgasse 14
 – Ernst, Maurer, Morgenstrasse 6
 – Ernst, Vorarbeiter, Winterholzstrasse 39
@@ -1545,13 +1545,13 @@ Kunz, Adolf, Hilfsarbeiter, Riedernstrasse 63
 – Alfr., Handlanger, Weidmattweg 7
 – ■ Alfred, Mechaniker, Riedernstrasse 63
 – Bertha (Hänni), Privatiere, Riedern
-– Ernst, Milchhandlung, Biimplizstrasse 88
-– Friedr.. Kohlenhändler. Biimplizstrasse 88
+– Ernst, Milchhandlung, Bümplizstrasse 88
+– Friedr.. Kohlenhändler. Bümplizstrasse 88
 – Fritz, Einleger, Freiburgstrasse 372
 – Gottfr., jun., Maurerhandlanger, Kehrg. 45
 – Karl, Milchträger. Riedernstrasse 52a
 – Lienbard. Chauffeur. Riedernstrasse 63
-– Rud., Handlanger, Biimplizstrasse 12
+– Rud., Handlanger, Bümplizstrasse 12
 – Rud., Milchträger, Riedernstrasse 63
 – Werner, Autotransporte, Riedernstrasse 63 [46.546]
 – $t Co., Fr., Brennmaterialienhdlg., Abendstrasse 54 [46.179]
@@ -1671,7 +1671,7 @@ Luginbühl, Frieda, Verkäuf., Bahnhöheweg 98
 Luraschi, Ernesto Giov., Hilfsarbeiter, Bümplizstrasse 83
 – Giov. B., Maurer, Bümplizstrasse 83
 – Giuseppe, Handlanger, Freiburgstr. 347
-Lüthi und Liithy
+Lüthi und Lüthy
 – Alice Gertr., Fabrikarbeiterin, Kehrg. 49
 – Elisab. (Schraner), Hebamme. Werkg. 29 [46.176]
 – Emil, Briefträger, Bümplizstrasse 8
@@ -1762,8 +1762,8 @@ Gegründet " sg 2 J " " Schwanengasse 5 BERN Telephon 26.326
 # Date: 1936-12-15 Page: 26022330/566
 Marthaler, Marie, Ladentochter, Bernstr. 4
 – Marie, Postablagehalterin, Oberbottigenweg 45. Oberbottigen
-– Paul Niklaus, sen., Biimplizstrasse 118
-– Paul. Milch-, Butter- und Käsehandlung, Biimplizstrasse 118 [46.138]
+– Paul Niklaus, sen., Bümplizstrasse 118
+– Paul. Milch-, Butter- und Käsehandlung, Bümplizstrasse 118 [46.138]
 – -Kud., Landwirt, Riedernstrasse 42
 – Rud., Sohn, Landwirt, Riedernstrasse 42
 Marti, Alex., Viehhändler, Bottigenstr. 245, Oberbottigen
@@ -1778,7 +1778,7 @@ Marti, Alex., Viehhändler, Bottigenstr. 245, Oberbottigen
 – -Hans, Landivirt, Bottigenstrasse 123
 – 'Joh. (Hess), Lehrer, Wintermattweg 4
 – Othmar, Schreiner, Freieckweg 11
-– Otto, Handlanger, Biimplizstrasse 188
+– Otto, Handlanger, Bümplizstrasse 188
 – Rosa A., Bureaulistin, Freieckweg 11
 – Rosa, Ladentochter, Bottigenstrasse 123
 – Rud., Hilfsarbeiter, Bottigenstrasse 76
@@ -1860,7 +1860,7 @@ Meyer und Meier
 – Aug., Geschäftsführer d. Genossenschafts- I
 Zimmerei, Frankenstrasse 83 [46.197]
 – ' Aug. Wilh., Bautechniker, Frankenstr. 83
-– Emma (Hofer), Wwe., Konfiserie, Biimplizstrasse 109 [46.608]
+– Emma (Hofer), Wwe., Konfiserie, Bümplizstrasse 109 [46.608]
 – Emma, Ladentochter, Keltenstrasse 104 , – Ernst. Schlosser. Bümplizstrasse 102 j
 – Erwin, Mechaniker. Keltenstrasse 104
 – ■ Gottfr., Giessereiarbeiter, Bümplizstrasse o
@@ -1993,7 +1993,7 @@ Müller, Ad., Beamter SBB, Lorbeerstrasse 6
 – Ad., Handlanger, Brünnenstrasse 34
 – Ad., Sattler u. Tapezierer, Freiburgstr. 383 [46.633]
 – Alb., Handlanger, Brünnenstrasse 34
-– Albert, Packer, Biimplizstrasse 38
+– Albert, Packer, Bümplizstrasse 38
 – Emil Fr. Jos., Hilfsarbeiter. Murtenstr. 217
 – Ernst W., Hilfsarbeiter, Winterfeldweg 4
 – Friedr., Hilfsarbeiter, Bahnhöheweg 26
@@ -2161,7 +2161,7 @@ Portner, Ernst, Metzg'ermeister, Bümplizstr. 9 [46.213 J
 – Jäk., Sohn, Schriftsetzer, Myrtenweg 11
 – ■ Rud., kaufm. Angestellter, Bernstrasse 88
 Post- und Telegraphenbureaux. (P = Postbureau, T = Telephonbureau mit telephonischer Telegrammvermittlung.)
-– ■ (18) = Nummern des Postbureau Biimpliz.
+– ■ (18) = Nummern des Postbureau Bümpliz.
 – (18) Brünnenstrasse 123 PT [46.102]
 – ■ (19) Oberbottigen, Oberbottigenweg 45
 PT [26]
@@ -2170,9 +2170,9 @@ Prato, Heinr. Hugo, Maler. Bethlehemstr. 116
 – Paul Willy, Maler, Bethlehemstrasse 116
 – Umberto E.. Maler, Bethlehemstrasse 116
 Preisig, E. Walter, Mechaniker b. d. 0TD, Lorbeerstrasse 2
-Primarschule Biimpliz-Dorf, Bümplizstr. 92 u.
+Primarschule Bümpliz-Dorf, Bümplizstr. 92 u.
 94 [46.0601
-– Biimpliz-Höhe, Bernstrasse 35 [46.071]
+– Bümpliz-Höhe, Bernstrasse 35 [46.071]
 – Oberbottigenweg 39 (Oberbottigen 76.184]
 Probst, Fritz, Handlanger, Kehrgasse 55
 – Joh. Rud., Eisendreher, Bottigenstrasse 61
@@ -2206,7 +2206,7 @@ Raggenbass, Paul, Telegraphenbeamter, Heimstrasse 19 [46.108]
 Rähm, Paul, Schneider, Weidmattweg 10
 Raissiq, E. (Bircher). Metzgerei, Bümplizstrasse 167 [46.002]
 – Walter E., Fürsprecher, Bümplizstr. 167 [46.002]
-– Werner W., Damenfriseur, Biimplizstr. 167
+– Werner W., Damenfriseur, Bümplizstr. 167
 Rampa, Louis, Reisender, Fröschmattweg 12a
 – Nilo. Fürsprecher, Fröschmattweg 12a
 – Quirino E. A., kaufm. Angestellter, Fröschmattweg 12a
@@ -2310,12 +2310,12 @@ Riesen, Alb., Chauffeur, Bärengasse 15
 – Dora, Lehrerin, Bernstrasse 6 [46.564]
 – Dora, Haushaltungslehrerin, Riedernstr. 58
 – Edgar, Beamter SBB, Bümplizstrasse 161
-– Eduard, Spengler, Biimplizstrasse 148
+– Eduard, Spengler, Bümplizstrasse 148
 – Friedr., Hilfsarbeiter, Bottigenstrasse 265, Oberbottigen
 – Gottl., Chauffeur, Aehrenweg 21
 – Hans, Chauffeur, Fröschmattweg 12d
 – Hedw., Knabenschneiderin, Riedernstr. 58
-– Joh., Handlanger, Biimplizstrasse 48
+– Joh., Handlanger, Bümplizstrasse 48
 – Joh. Gottl., Karrer, Morgenstrasse 8
 – Otto, Baukontrolleur, Riedernstrasse 58
 – Roh.. Maler, Brünnenstrasse 64
@@ -2338,7 +2338,7 @@ Rindlisbacher, Friedr., Aktuar, Lorbeerstr. 10
 – Otto, Walzenführer, Freiburgstrasse 385
 Ringgenberg, Herrn. Jak., Schlosser, Aehren_ weg 23
 Ritter, Alb., Beamter BLS, Lorbeerstrasse 7
-– E., Hilfsarbeiter. Biimplizstrasse 140
+– E., Hilfsarbeiter. Bümplizstrasse 140
 – Lina, Lehrerin, Lorbeerstrasse 8
 Robert, Paul F., Uhrmacher, Heimstrasse 16
 Roder, Fritz, Angestellter S. S. B.. Aehrenweg 5 [46.281]
@@ -2350,7 +2350,7 @@ Fritz, Schlosser, Brünnenstrasse 110
 Rudolf. Handlanger, Morgenstrasse 4
 Rohr, Peter Paul Otto, Architekt, Bümpliz-Strasse 38 [46.629]
 Rohrbach, Alex., Kunststeinfabrik (Brünnenstrasse 103), Fischermätteliweg 2, Bern [34.435]
-Felix Ferd., Schneider, Biimplizstrasse 146
+Felix Ferd., Schneider, Bümplizstrasse 146
 Friedr., Hilfsarbeiter, Werkgasse 17
 – Hedwig, Verkäuferin, Brünnenstrasse 103
 ~Paul, Hilfsarbeiter, Brünnenstrasse 103
@@ -2365,7 +2365,7 @@ Rolli, Franz, Kässalzer u. Handlung, Bümplizstrasse 19
 – Robert, Hilfsarbeiter, Weidmattweg 3
 – Werner Herrn., Kaufm., Bottigenstr. 391, Riedbach
 – Willi Paul, Hilfsangestellter, Bottigenstrasse 391. Riedbach
-Rösch, Jlans, Vorarbeiter, Biimplizstrasse 56
+Rösch, Jlans, Vorarbeiter, Bümplizstrasse 56
 – Hans, Grubenarbeiter, Keltenstrasse 97
 – Margrith, Leihbibliothek (Bümplizstr. 56), Neuengasse 6
 Rösli, W. (Scherz), Beamter SBB, Brünnenstrasse 103 [46.617]
@@ -2377,7 +2377,7 @@ Rossi und Rossy
 Roth, Adolf, Metzger, Burgunderstrasse 31
 – Gust. Ad., Knecht, Mannenriedstrasse 27
 – Paul Rud., Maurer, Burkhartweg 3 [46.635]
-Rothacher, Ernst Gottfr., Gipser und Maler, Biimplizstrasse 13
+Rothacher, Ernst Gottfr., Gipser und Maler, Bümplizstrasse 13
 – Friedr., Maurer, Bümplizstrasse 13
 Rothen, Alb., Hilfsarbeiter, Fröschmattweg 12
 – Alfr., Mechaniker, Fröschmattweg 16
@@ -2619,7 +2619,7 @@ Schneider, s. auch Schneiter u. Schnyder
 – Math. Rud., Packer, Statthalterstrasse 42
 – Oskar, Schreibmaschinenmechaniker, Statthalterstrasse 13
 – Rud., Handlanger, Kehrgasse 54
-– Rud.. Reisender. Biimplizstrasse 62a
+– Rud.. Reisender. Bümplizstrasse 62a
 – Wilh., Hilfsarbeiter, Fcldheimweg 29
 Schneiter, s. auch Schneider und Schnyder
 – Arthur Franz, Heizungsmonteur, Murtenstrasse 220
@@ -2699,7 +2699,7 @@ Schwab, Armin, Metzger, Bümplizstrasse 13 j
 – Willi, Weinhandlung, Bottigenstrasse 10 [46.647]
 Schwalm, Christ. Alfr., Sek.-Lehrer, Brünnenstrasse 50 [46.1zlJ
 Schwander, Friedr., Handlanger, Werkg. 17
-Schwank, 0. (Baumgartner), Schuhhandlungund Rep.-Werkstatt (Keltenstr. 93), Biimplizstrasse 148 [46.2-J
+Schwank, 0. (Baumgartner), Schuhhandlungund Rep.-Werkstatt (Keltenstr. 93), Bümplizstrasse 148 [46.2-J
 Schwärzei, Paul, Bauamtarbeiter, Bethlehem- [strasse 21 l
 Schweingruber, Joh., Handlanger, Brünnenstrasse 62 I
 – Rob., Schmied, Freiburgstrasse 184
@@ -2984,7 +2984,7 @@ Trachsel, Ad., Privatier, Niederbottigenw. 101
 – Fritz, Elektro-Ingenieur, Keltenstrasse 99 [46.509]
 – Gertrud, Bureaulistin, Niederbottigenw. 101
 – Joh., Handlanger, Weidmattweg 8
-– Joh., Schmied, Biimplizstrasse 83
+– Joh., Schmied, Bümplizstrasse 83
 – Walter, Dreher, Morgenstrasse 75
 – Werner Ad., Hilfsarbeiter. Bahnhöhew. 38
 Trapp, Gertrud Hedwig, Arbeitslehrerin, Freiburgstrasse 366
@@ -3131,7 +3131,7 @@ Wälti, Anna, Ladentochter, Morgenstr. 13
 – Heinrich Paul, kant. Beamter, Brünnenstrasse 1.CH3
 – Joh. Alfr., Bümplizstrasse 153 [46.216]
 – Margaretha, Bureaulistin, Bernstrasse 98
-– Robert, Hilfsarbeiter, Biimplizstrasse 83b
+– Robert, Hilfsarbeiter, Bümplizstrasse 83b
 – Rosa, Fabrikarbeiterin, Werkgasse 9
 – Rud., Zinngiesser, Freiburgstrasse 385
 – Sam., Weibel, Brünnenstr. 106 [46.256]
@@ -3155,7 +3155,7 @@ Fritz, Sohn, Hilfsarbeiter, Bottigenstr. 31
 Fritz, Milchführer, Freiburgstrasse 174
 Fritz, Schmied, Bottigenstrasse 31
 ~-Herm., Milchträger, Freiburgstrasse 511
-– Kaspar. Zimmermann. Biimplizstrasse 56
+– Kaspar. Zimmermann. Bümplizstrasse 56
 Marie, Abwartin, Keltenstrasse 108
 Robert, kaufm. Angest., Freiburgstr. 511
 Werner, Photograph, Weidmattweg 1
