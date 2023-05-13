@@ -3,10 +3,15 @@
 #
 # Process Bern address books (1861-1945), using data produced by fetch.py.
 
-from collections import Counter
+from collections import Counter, namedtuple
 import csv
 import os
 import re
+
+
+Record = namedtuple('Record', [
+    'Name', 'Surname', 'Date', 'Phone', 'PageID', 'Page',
+])
 
 
 class Processor(object):
@@ -35,8 +40,8 @@ class Processor(object):
         for filename in sorted(os.listdir(dirpath)):
             if not filename.endswith('.txt'):
                 continue
-            if filename[:4] != '1944':
-                continue
+            #if filename[:4] not in ('1861', '1944'):
+            #    continue
             path = os.path.join(dirpath, filename)
             publication_date, page_id, page_label = None, None, None
             line_num = 0
@@ -50,6 +55,8 @@ class Processor(object):
                     if m := page_re.match(line):
                         publication_date, page_id, page_label = m.groups()
                         self.publication_date = publication_date
+                        self.page_id = page_id
+                        self.page_label = page_label
                         family = None
                         continue
                     else:
@@ -59,6 +66,16 @@ class Processor(object):
                     rest = line[1:].strip()
                 else:
                     family, rest = self.split_family_name(line)
+                phone, rest = self.split_phone(rest)
+                if family:
+                    yield Record(
+                        Name=family,
+                        Surname='',
+                        Date=self.publication_date,
+                        Phone=(';'.join(phone) if phone else ''),
+                        PageID=self.page_id,
+                        Page=self.page_label)
+                #print(family, phone, rest)
 
     def split_family_name(self, line):
         line = line.removeprefix(',')
@@ -74,17 +91,50 @@ class Processor(object):
         self.unknown_families[words[0]] += 1
         self.report_unknown_family(line)
         self.bad_familyname_count += 1
-        return ((words[0], None), ' '.join(words[1:]))
+        return (None, ' '.join(words[1:]))
 
     def report_unknown_family(self, line):
-        pass  #print(self.publication_date, line)
+        #print(self.publication_date, line)
+        pass
+
+    def split_phone(self, line):
+        year = int(self.publication_date[:4])
+        phone = None
+        if year == 1944:
+            if m := re.findall(r'\[((\d\s*){5})\]', line):
+                phone = [normalize_phone(p[0], year) for p in m]
+            line = re.sub(r'\s?\[.+?\]', '', line)
+        return phone, line
+
+
+def normalize_phone(phone, year):
+     d = phone.replace(' ', '')
+     if year >= 1944:
+         return ' '.join((d[0], d[1:3], d[3:]))
+     return ''
+
+
+def read_wikidata_family_names():
+        import gzip, io
+        result = {}
+        filepath = os.path.join('cache', 'wikidata_family_names.csv.gz')
+        with gzip.open(filepath, mode='rb') as bytestream:
+            with io.TextIOWrapper(bytestream, encoding='utf-8') as stream:
+                for row in csv.DictReader(stream):
+                    name, id = row['Name'], row['WikidataID']
+                    result[name] = id
+        return result
 
 
 if __name__ == '__main__':
+    # wd = read_wikidata_family_names()
     p = Processor(cachedir='cache')
-    p.process_proofread()
+    with open('out.csv', 'w') as csvfile:
+        writer = csv.writer(csvfile, quoting=csv.QUOTE_MINIMAL)
+        writer.writerow(['Name', 'Surname', 'Date', 'Phone', 'PageID', 'Page'])
+        for rec in p.process_proofread():
+            writer.writerow([rec.Name, rec.Surname, rec.Date, rec.Phone,
+                             rec.PageID, rec.Page])
     total_familyname_count = p.good_familyname_count + p.bad_familyname_count
     good_percent = int(p.good_familyname_count * 100.0 / total_familyname_count + 0.5)
     print(f'family names: total {total_familyname_count}; known: {p.good_familyname_count} = {good_percent}%')
-    for name in p.unknown_families.most_common(5000):
-        print(name)
