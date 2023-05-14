@@ -5,6 +5,7 @@
 
 from collections import Counter, namedtuple
 import csv
+import inspect
 import os
 import re
 
@@ -18,6 +19,7 @@ Record = namedtuple('Record', [
 class Processor(object):
     def __init__(self, cachedir):
         self.families = self.read_families()
+        self.firstnames = self.read_firstnames()
         self.read_addresses()
         self.unknown_families = Counter()
         self.max_family_name_wordcount = max(
@@ -25,6 +27,8 @@ class Processor(object):
         self.num_input_records = 0
         self.good_familyname_count = 0
         self.bad_familyname_count = 0
+        self.good_firstname_count = 0
+        self.bad_firstname_count = 0
         self.bad_address_count = 0
 
     def read_families(self):
@@ -35,6 +39,16 @@ class Processor(object):
             if line and line[0] != '#':
                 name, wikidata_id = line.split(';')
                 result[name.lower()] = (name, wikidata_id)
+        return result
+
+    def read_firstnames(self):
+        result = {}
+        filepath = os.path.join(os.path.dirname(__file__), 'givennames.csv')
+        for line in open(filepath):
+            line = list(csv.reader([line.strip()]))
+            key = line[0][0].lower()
+            value = line[0][1]
+            result[key.lower()] = (line[0][0], value)
         return result
 
     def read_addresses(self):
@@ -87,15 +101,20 @@ class Processor(object):
                     rest = line[1:].strip()
                 else:
                     family, rest = self.split_family_name(line)
+
+                firstname = None
+                if family and rest:
+                    firstname, rest = self.split_first_name(rest);
+
                 phone, rest = self.split_phone(rest)
                 address, rest = self.split_address(rest)
                 if not address:
                     self.bad_address_count += 1
-                if family and address:
+                if family and firstname and address:
                     (street, housenumber, postcode, city, lat, lng) = address
                     yield Record(
-                        Name=family,
-                        Surname='',
+                        Name=firstname,
+                        Surname=family,
                         Date=self.publication_date,
                         Street=street,
                         Housenumber=housenumber,
@@ -120,13 +139,25 @@ class Processor(object):
                 self.good_familyname_count += 1
                 return (name[0], ' '.join(words[n+1:]))
         self.unknown_families[words[0]] += 1
-        self.report_unknown_family(line)
+        self.report_unknown_name(line)
         self.bad_familyname_count += 1
         return (None, ' '.join(words[1:]))
 
-    def report_unknown_family(self, line):
+    def report_unknown_name(self, line):
+        print(inspect.stack()[1].function + ": " + line)
         #print(self.publication_date, line)
         pass
+
+    def split_first_name(self, line):
+        words = line.split(',')
+        firstname = words[0]
+        if self.firstnames.get(firstname.lower()):
+          self.good_firstname_count += 1
+          return (firstname, ','.join(words))
+        #TODO: add stat counter of #occurrences per fragment
+        self.report_unknown_name(line)
+        self.bad_firstname_count += 1
+        return (None, line)
 
     def split_address(self, line):
         for suffix in ['Bümpliz', 'Riedbach', 'Oberbottigen', ', ']:
@@ -193,6 +224,9 @@ if __name__ == '__main__':
                              rec.PageID, rec.Page])
     total_familyname_count = p.good_familyname_count + p.bad_familyname_count
     good_percent = int(p.good_familyname_count * 100.0 / total_familyname_count + 0.5)
+    total_firstname_count = p.good_firstname_count + p.bad_firstname_count
+    good_firstname_percent = int(p.good_firstname_count * 100.0 / total_firstname_count + 0.5)
     print(f'records: input {p.num_input_records} -> output {num_output_records} = {int(num_output_records * 100.0 / p.num_input_records + 0.5)}%')
     print(f'family names: total {total_familyname_count}; known: {p.good_familyname_count} = {good_percent}%')
+    print(f'firstnames: total {total_firstname_count}; known: {p.good_firstname_count} = {good_firstname_percent}%')
 
