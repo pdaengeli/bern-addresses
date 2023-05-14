@@ -30,6 +30,9 @@ class Processor(object):
         self.good_firstname_count = 0
         self.bad_firstname_count = 0
         self.unknown_firstnames = Counter()
+        self.firstnames_expansion_map = {
+          "alb.": "Albert"
+        };
         self.bad_address_count = 0
 
     def read_families(self):
@@ -133,16 +136,17 @@ class Processor(object):
         line = line.replace(' - ', '-')
         if line.startswith('v.'):
             line = 'von ' + line[3:].strip()
-        words = line.split(',')[0].split()
+        frags = line.split(',')
+        words = frags[0].split()
         for n in reversed(range(self.max_family_name_wordcount)):
             name_key = ' '.join(words[:n+1]).lower()
             if name := self.families.get(name_key):
                 self.good_familyname_count += 1
-                return (name[0], ' '.join(words[n+1:]))
+                return (name[0], ','.join(frags[1:]))
         self.unknown_families[words[0]] += 1
         self.report_unknown_name(line)
         self.bad_familyname_count += 1
-        return (None, ' '.join(words[1:]))
+        return (None, ','.join(frags[1:]))
 
     def report_unknown_name(self, line):
         print(inspect.stack()[1].function + ": " + line)
@@ -151,12 +155,18 @@ class Processor(object):
 
     def split_first_name(self, line):
         words = line.split(',')
-        firstname = words[0]
+        firstname = words[0].strip()
         firstname_frags = firstname.split(' ')
         all_frags_found = True
         for frag in firstname_frags:
-          if not self.firstnames.get(frag.lower()):
-            all_frags_found = False
+            if not self.firstnames.get(frag.lower()):
+                all_frags_found = False
+            if self.firstnames_expansion_map.get(frag.lower()):
+                all_frags_found = True
+                firstname = firstname.replace(
+                    frag,
+                    self.firstnames_expansion_map.get(frag.lower())
+                )
         if all_frags_found:
             self.good_firstname_count += 1
             return (firstname, ','.join(words))
@@ -168,11 +178,13 @@ class Processor(object):
     def split_address(self, line):
         for suffix in ['Bümpliz', 'Riedbach', 'Oberbottigen', ', ']:
             line = line.removesuffix(suffix)
-        tokens = line.split(' ')
+        frags = line.split(',')
+        tokens = frags[-1].strip().split(' ')
         if len(tokens) < 2:
             return None, line
         street, housenumber = tokens[-2], tokens[-1]
-        if street[-1] == '.':
+        # FIXME: heavy chances of phone here
+        if street and street[-1] == '.':
             for abbr, full in [('w.', 'weg'), ('str.', 'strasse')]:
                 if street.endswith(abbr):
                     street = street.removesuffix(abbr) + full
