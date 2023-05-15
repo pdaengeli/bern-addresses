@@ -411,7 +411,7 @@ Brennstoffamt Bümpliz, Brünnenstrasse 119 [4 60 37]
 Bricola, Giorgio Carlo, Maurer, Bernstr. 28
 Brönnimann, Adolf, Güterarbeiter, Bahnhöheweg 98a
 – Christ., Packer, Bahnhöheweg 98
-– Emst, Handlanger, Freieckweg 16
+– Ernst, Handlanger, Freieckweg 16
 – Ernst, Metzgermeister, Bernstrasse 92 [46.094]
 – Ernst Rob., Mechaniker, Bahnhöheweg 98
 – Fried., gew. Metzgermeister, Bernstr. 94
@@ -574,7 +574,7 @@ Dummermuth, Christ., Bauamtarbeiter, Kehrgasse 12
 Dürig, Ernst, Gärtner, Bottigenstrasse 23
 – Rud., Bahnarbeiter, Chaletweg 12
 Dürrmüller, Jakob Gottfr., Schlosser, Frankenstrasse 63
-Durtschi, Emil Emst, Gärtner, Freiburgstrasse 496 [46.625]
+Durtschi, Emil Ernst, Gärtner, Freiburgstrasse 496 [46.625]
 Duthaler, Walter (Lüdi), Speditionsangestellt., Burgunderstrasse 74
 E.
 Eberhard und Eberhardt
@@ -826,7 +826,7 @@ Gebhard, Frieda, Glätterin, Bärengasse 29
 – Friedr., gew. Ziegeleiarbeit.. Bärengasse 29
 – Friedr., Hilfsarbeiter, Bärengasse 29
 Gehret, Karl Friedr. (Eichler), Handlanger, Freiburgstrasse 393
-Gehri, Emst, Monteur, Werkgasse 37
+Gehri, Ernst, Monteur, Werkgasse 37
 – Reinhard, Schreiner, Freiburgstrasse 490
 Gehrig, Ernst, Handlanger, Wohlenstrasse 62d
 – Fritz, Hilfsarbeiter, Werkgasse 32
@@ -851,9 +851,9 @@ Gerber, Alfred, Ausläufer, Bemstrasse 103
 – Emil (Pfeuti), Bahnbeamter BLS, Peterw. 4
 – Emma, Modistin, Bottigenstrasse 230a
 – Ernst, Bahnarbeiter, Stöckackerstrasse 66
-– Emst, Einleger, Weidmattweg 3
+– Ernst, Einleger, Weidmattweg 3
 – Ernst, Feinmechaniker, Bottigenstr. 230a
-Emst Gottl., Magaziner, Weidmattweg 1
+Ernst Gottl., Magaziner, Weidmattweg 1
 Franz, kaufm. Angest., Bahnhöheweg 36
 Friedr., Angestellter, Freieckweg 7
 Friedr., Bauhandlanger, Werkgasse 21
@@ -1208,7 +1208,7 @@ Freiburgstrasse 182
 – Rud., Pächter, Bümplizstrasse 78
 Hof mann, Christ., Landwirt, Buchweg 5, Riedbach [76.181]
 – E., & Co., Backsteinfabrik, Rehhagweg 116 [46.012]
-– Emst, in Fa. E. Hofmann & Co., Backsteinfabrik, Rehhagweg 116
+– Ernst, in Fa. E. Hofmann & Co., Backsteinfabrik, Rehhagweg 116
 – Ernst (Glaus), Korbmacher, Stöckackerstrasse 95 [46.610]
 – Ernst (Bill), Postchauffeur, Burgunderßtrasse 136
 – Hans Chr., Landw., Buchweg 5, Riedbach [76.181]
@@ -1250,7 +1250,7 @@ Hostettler, s. auch Hofstetter
 – Aug., Hilfsarbeiter, Bernstrasse 21
 – Dora, Damenschneiderin, Freiburgstr. 488
 – Ernst, Bäcker, Niederbottigenweg 103
-– Emst, Hilfsarbeiter, Stöckackerstrasse 75
+– Ernst, Hilfsarbeiter, Stöckackerstrasse 75
 – Ernst, Maler, Freiburgstrasse 349
 – Ernst, Milchträger, Niederbottigenweg 57
 – Friedr., Buchbinder, Bernstr. 92a
@@ -1423,7 +1423,7 @@ Jost, Elise, Bureaulistin, Stöckackerstrasse 72
 Jotterand, Renö Marc, Beamter der S. B.B., Bümplizstrasse 161
 Jufer, Ernst, pens. Postbeamter, Bümplizstrasse 120
 – Margrith Frieda, Bureauangest., Bümplizstrasse 120
-– Werner Emst, Beamter, Bümplizstr. 120
+– Werner Ernst, Beamter, Bümplizstr. 120
 Jungi, Hans, Lehrer, Cedernstrasse 8
 Jungo, A. Viktor, Maschinenmeister, Aehrenweg 25
 – Viktor, Maschinenzeichner, Aehrenweg 25
@@ -2184,7 +2184,7 @@ Niederhäuser u. Niederhauser
 – Christ., Pächter, Rehhagstrasse 13
 – Emil, Knecht, Oberbottigenweg 36, Oberbottigen
 – Ernst, Landwirt, Oberbottigenweg 36, Oberbottigen
-Handlanger, Bottigenstr. 61von Niederhäusern, Emst, Landwirt, Oberbottigenweg 25, Oberbottigen
+Handlanger, Bottigenstr. 61von Niederhäusern, Ernst, Landwirt, Oberbottigenweg 25, Oberbottigen
 ~~ fv™ ann i Hilfsarbeiter, Oberbottigenw. 18, Oberbottigenl5 U i'’i ( Karrer ’ Brünnenstr. 78udolf, Landwirt, Oberbottigenweg 25, Oberbottigen [ 76 . 115 ]von Niederhäusern, Walter, Zimmermann, Oberbottigenweg 40, Oberbottigen
 – Willy, Ausläufer, Morgenstrasse 4
 Niklaus, Werner, Säger, Bernstrasse 44
