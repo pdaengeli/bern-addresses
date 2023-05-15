@@ -30,7 +30,7 @@ class Processor(object):
         self.bad_familyname_count = 0
         self.good_firstname_count = 0
         self.bad_firstname_count = 0
-        self.unknown_firstnames = Counter()
+        self.unknown_given_names = Counter()
         self.bad_address_count = 0
 
     def read_families(self):
@@ -173,7 +173,7 @@ class Processor(object):
         if all_frags_found:
             self.good_firstname_count += 1
             return (firstname, ','.join(parts))
-        self.unknown_firstnames[firstname] += 1
+        self.unknown_given_names[firstname] += 1
         self.report_unknown_name(line)
         self.bad_firstname_count += 1
         return (None, line)
@@ -243,10 +243,11 @@ if __name__ == '__main__':
                              rec.City, rec.Latitude, rec.Longitude,
                              rec.Phone,
                              rec.PageID, rec.Page])
+
     # write out unknown firstnames
     with open('givennames.unknown.csv', 'w') as fp:
         csvw = csv.writer(fp)
-        csvw.writerows(p.unknown_firstnames.items())
+        csvw.writerows(p.unknown_given_names.most_common())
 
     total_familyname_count = p.good_familyname_count + p.bad_familyname_count
     good_percent = int(p.good_familyname_count * 100.0 / total_familyname_count + 0.5)
