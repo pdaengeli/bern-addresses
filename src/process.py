@@ -20,6 +20,7 @@ class Processor(object):
     def __init__(self, cachedir):
         self.families = self.read_families()
         self.firstnames = self.read_firstnames()
+        self.given_name_abbreviations = self.read_given_name_abbreviations()
         self.read_addresses()
         self.unknown_families = Counter()
         self.max_family_name_wordcount = max(
@@ -51,6 +52,14 @@ class Processor(object):
             value = line[0][1]
             result[key.lower()] = (line[0][0], value)
         return result
+
+    def read_given_name_abbreviations(self):
+        abbrevs = set()
+        filepath = os.path.join(os.path.dirname(__file__), 'given_name_abbreviations.csv')
+        with open(filepath) as stream:
+            for row in csv.DictReader(stream):
+                abbrevs.add(row['Abbreviation'])
+        return abbrevs
 
     def read_addresses(self):
         self.streets = set()
@@ -105,7 +114,7 @@ class Processor(object):
 
                 firstname = None
                 if family and rest:
-                    firstname, rest = self.split_first_name(rest);
+                    firstname, rest = self.split_given_name(rest);
 
                 phone, rest = self.split_phone(rest)
                 address, rest = self.split_address(rest)
@@ -150,17 +159,20 @@ class Processor(object):
         #print(self.publication_date, line)
         pass
 
-    def split_first_name(self, line):
-        words = line.split(',')
-        firstname = words[0].strip()
+    def split_given_name(self, line):
+        parts = line.split(',')
+        firstname = parts[0].strip()
         firstname_frags = firstname.split(' ')
         all_frags_found = True
         for frag in firstname_frags:
-            if not self.firstnames.get(frag.lower()):
-                all_frags_found = False
+            if frag in self.given_name_abbreviations:
+                continue
+            if self.firstnames.get(frag.lower()):
+                continue
+            all_frags_found = False
         if all_frags_found:
             self.good_firstname_count += 1
-            return (firstname, ','.join(words))
+            return (firstname, ','.join(parts))
         self.unknown_firstnames[firstname] += 1
         self.report_unknown_name(line)
         self.bad_firstname_count += 1
