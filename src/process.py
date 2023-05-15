@@ -30,9 +30,6 @@ class Processor(object):
         self.good_firstname_count = 0
         self.bad_firstname_count = 0
         self.unknown_firstnames = Counter()
-        self.firstnames_expansion_map = {
-          "alb.": "Albert"
-        };
         self.bad_address_count = 0
 
     def read_families(self):
@@ -149,7 +146,7 @@ class Processor(object):
         return (None, ','.join(frags[1:]))
 
     def report_unknown_name(self, line):
-        print(inspect.stack()[1].function + ": " + line)
+        #print(inspect.stack()[1].function + ": " + line)
         #print(self.publication_date, line)
         pass
 
@@ -161,12 +158,6 @@ class Processor(object):
         for frag in firstname_frags:
             if not self.firstnames.get(frag.lower()):
                 all_frags_found = False
-            if self.firstnames_expansion_map.get(frag.lower()):
-                all_frags_found = True
-                firstname = firstname.replace(
-                    frag,
-                    self.firstnames_expansion_map.get(frag.lower())
-                )
         if all_frags_found:
             self.good_firstname_count += 1
             return (firstname, ','.join(words))
