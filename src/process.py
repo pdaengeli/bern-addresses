@@ -20,6 +20,7 @@ class Processor(object):
     def __init__(self, cachedir):
         self.families = self.read_families()
         self.firstnames = self.read_firstnames()
+        self.given_name_abbreviations = self.read_given_name_abbreviations()
         self.read_addresses()
         self.unknown_families = Counter()
         self.max_family_name_wordcount = max(
@@ -29,7 +30,7 @@ class Processor(object):
         self.bad_familyname_count = 0
         self.good_firstname_count = 0
         self.bad_firstname_count = 0
-        self.unknown_firstnames = Counter()
+        self.unknown_given_names = Counter()
         self.bad_address_count = 0
 
     def read_families(self):
@@ -51,6 +52,14 @@ class Processor(object):
             value = line[0][1]
             result[key.lower()] = (line[0][0], value)
         return result
+
+    def read_given_name_abbreviations(self):
+        abbrevs = set()
+        filepath = os.path.join(os.path.dirname(__file__), 'given_name_abbreviations.csv')
+        with open(filepath) as stream:
+            for row in csv.DictReader(stream):
+                abbrevs.add(row['Abbreviation'])
+        return abbrevs
 
     def read_addresses(self):
         self.streets = set()
@@ -105,7 +114,7 @@ class Processor(object):
 
                 firstname = None
                 if family and rest:
-                    firstname, rest = self.split_first_name(rest);
+                    firstname, rest = self.split_given_name(rest);
 
                 phone, rest = self.split_phone(rest)
                 address, rest = self.split_address(rest)
@@ -133,34 +142,38 @@ class Processor(object):
         line = line.replace(' - ', '-')
         if line.startswith('v.'):
             line = 'von ' + line[3:].strip()
-        words = line.split(',')[0].split()
+        frags = line.split(',')
+        words = frags[0].split()
         for n in reversed(range(self.max_family_name_wordcount)):
             name_key = ' '.join(words[:n+1]).lower()
             if name := self.families.get(name_key):
                 self.good_familyname_count += 1
-                return (name[0], ' '.join(words[n+1:]))
+                return (name[0], ','.join(frags[1:]))
         self.unknown_families[words[0]] += 1
         self.report_unknown_name(line)
         self.bad_familyname_count += 1
-        return (None, ' '.join(words[1:]))
+        return (None, ','.join(frags[1:]))
 
     def report_unknown_name(self, line):
-        print(inspect.stack()[1].function + ": " + line)
+        #print(inspect.stack()[1].function + ": " + line)
         #print(self.publication_date, line)
         pass
 
-    def split_first_name(self, line):
-        words = line.split(',')
-        firstname = words[0]
+    def split_given_name(self, line):
+        parts = line.split(',')
+        firstname = parts[0].strip()
         firstname_frags = firstname.split(' ')
         all_frags_found = True
         for frag in firstname_frags:
-          if not self.firstnames.get(frag.lower()):
+            if frag in self.given_name_abbreviations:
+                continue
+            if self.firstnames.get(frag.lower()):
+                continue
             all_frags_found = False
         if all_frags_found:
             self.good_firstname_count += 1
-            return (firstname, ','.join(words))
-        self.unknown_firstnames[firstname] += 1
+            return (firstname, ','.join(parts))
+        self.unknown_given_names[firstname] += 1
         self.report_unknown_name(line)
         self.bad_firstname_count += 1
         return (None, line)
@@ -168,11 +181,13 @@ class Processor(object):
     def split_address(self, line):
         for suffix in ['Bümpliz', 'Riedbach', 'Oberbottigen', ', ']:
             line = line.removesuffix(suffix)
-        tokens = line.split(' ')
+        frags = line.split(',')
+        tokens = frags[-1].strip().split(' ')
         if len(tokens) < 2:
             return None, line
         street, housenumber = tokens[-2], tokens[-1]
-        if street[-1] == '.':
+        # FIXME: heavy chances of phone here
+        if street and street[-1] == '.':
             for abbr, full in [('w.', 'weg'), ('str.', 'strasse')]:
                 if street.endswith(abbr):
                     street = street.removesuffix(abbr) + full
@@ -228,10 +243,11 @@ if __name__ == '__main__':
                              rec.City, rec.Latitude, rec.Longitude,
                              rec.Phone,
                              rec.PageID, rec.Page])
+
     # write out unknown firstnames
     with open('givennames.unknown.csv', 'w') as fp:
         csvw = csv.writer(fp)
-        csvw.writerows(p.unknown_firstnames.items())
+        csvw.writerows(p.unknown_given_names.most_common())
 
     total_familyname_count = p.good_familyname_count + p.bad_familyname_count
     good_percent = int(p.good_familyname_count * 100.0 / total_familyname_count + 0.5)

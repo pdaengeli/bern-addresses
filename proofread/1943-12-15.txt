@@ -961,7 +961,7 @@ Gehrig, Ernst, Handlanger, Wohlenstrasse 62d, Post Wohlen
 – Fritz, Hilfsarbeiter, Werkgasse 32
 Geiser, Franz X., Käsesalzer, Bottigenstr. 245, Oberbottigen
 Geissbühler, Ernst (Stalder), Postchauffeur, Kebrgasse 7 [ 4 64 77J
-– Emst, Möbelschreiner, Kehrgasse 7
+– Ernst, Möbelschreiner, Kehrgasse 7
 – Erna, Verkäuferin, Kehrgasse 7
 – Flora Margrit, Lorbeerstrasse 3
 – Klara Fr. Olga, Bureaulistin, Lorbeerstr. 3
@@ -1328,7 +1328,7 @@ Bahnhöheweg 50 .. , ^
 Hubacher
 Hirschi, Max Emil, Werkzeugmacher, Burgun, derstrasse 51
 ’ _Hob. (Mischler), Hilfsarbeiter, Frciburg5 Strasse 393lj Hirsiger, Ford. Wilh., Tramkonduktour, Bur>. ganderstrasse 73
-| Hirt, Emst, Hilfsarbeiter, Feldheimweg 40
+| Hirt, Ernst, Hilfsarbeiter, Feldheimweg 40
 – Erwin, Mechaniker, Feldheimweg 40j? -Fritz, Mechaniker, Feldheimweg 40jj -Gottfr., Monteur, Freiburgstrasse 383
 Kitz, Engelhard, Maler, Freiburgstrasse 503
 Hödel, Dora, Bureaulistin, Heimstrasse 14
@@ -2375,10 +2375,10 @@ Moser, Aline Elisab., Bureaulistin, Bottigenstrasse 123
 – Barbara M., Verkäuferin, Freiburgstr. 364
 – Bernh., Bauamtarbeiter, Freieckweg 11
 – Emil (Jendly), Magaziner, Bümplizstr. 173
-– Emst, Handlanger, Freieckweg 11
+– Ernst, Handlanger, Freieckweg 11
 – Ernst Ales., Beamter, Myrtenweg 9
 – Ernst, Chauffeur, Waldmeisterstrasse 18
-– Emst, Fabrikarbeiter, Aehrenweg 36
+– Ernst, Fabrikarbeiter, Aehrenweg 36
 – Ernst, Mech. Werkstätte (Freiburgstr. 155), Kehrgasse 33
 – Ernst, Hilfsarbeiter, Weidmattweg 2
 – Erwin Karl, Bäcker u. Konditor, Bottigenstrasse 67
@@ -2446,7 +2446,7 @@ Münger, Friedr,, gew. Zimmermstr., Brünnenstrasse 26 [4 63 60]
 Muri. Murri und Mury
 – Adelheid, Fabrikarbeit., Briinnackerstr. 19
 – Ernst, Milchhändler, Kirchackerweg 17 [4 61 58]
-– Emst, jun., Milchhändler. Kirchackerw. 17
+– Ernst, jun., Milchhändler. Kirchackerw. 17
 – Ernst (Sollberger), Schlosser und Hilfsarbeiter, Glockenstrasse 18
 – Joh. Emil, Schuhmacher, Werkgasse 19
 – Karl, Karrer, Niederbottigenweg 93
@@ -2768,7 +2768,7 @@ Keif
 # Date: 1943-12-15 Page: 26033853/641
 641
 Ryseri- und Storenfabrik Bern, R. Senn, Lagerhausweg 16- [4 60 61]
-Rolli, Emst (Holzknecht), Steinhauer, Statthalterstrasse 30
+Rolli, Ernst (Holzknecht), Steinhauer, Statthalterstrasse 30
 – Ferdinand, Ausläufer, Brünnenstr. 96
 – Franz, Kässalzer und Handlung, Bümplizstrasse 19
 – Gottfr., Restaurant, Bottigenstr. 391, Riedbach [7 61 88]
@@ -2907,7 +2907,7 @@ Saner, Hugo, Kaufmann, Morgenstr. 74
 – E. & H., Modellschreinerei u. Holzwarenfabrikation, Kehrgasse 5
 Sarbach, Hans Alf.. Sek.-Lehrer. Brünnenstrasse 84
 Saurer, Christ., Zimmermeister. Stöckackerstrasse 98
-– Emst Joh., Handlanger, Niederbottigenweg 105
+– Ernst Joh., Handlanger, Niederbottigenweg 105
 – Hans Otto (Huber), Hilfsarb., Aehrenw. 20
 – Gertr M., Schneiderin, Freiburgstrassei
 – Hans, Chauffeur, Werkgasse 28
@@ -3465,7 +3465,7 @@ Thomet, Adolf. Landarbeiter, Bottigenstr. 383, Riedbach
 – Alfred Gottfr., Landwirt, Bottigenstr. 410, Riedbach [7 61 63]
 – Anna (Isenschmid), Wwe., Mannenriedstrasse 21, Riedbach [7 6131]
 – Erna, Näherin, Freiburgstrasse 180
-– Emst, Landwirt, Bottigenstr. 410, Riedbach
+– Ernst, Landwirt, Bottigenstr. 410, Riedbach
 – Fritz Albert, Landwirt, Riedbachstr. 350, Riedbach [7 61 13]
 – Fritz, Hilfsarbeiter, Matzenriedstrasse 126, Oberbottigen
 – Hans, Landwirt, Riedbachstr. 310, Riedbach [7 61 35]

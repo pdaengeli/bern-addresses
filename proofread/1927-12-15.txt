@@ -184,7 +184,7 @@ Bümpliz
 – Anna, Bureaulistin, Schönbergweg 12
 – .Anna Marie, Privatiere, Erlenweg 10
 – Elise, Herzogstrasse 20
-– 'Emst, Bureaulist, Gerbergasse 48
+– 'Ernst, Bureaulist, Gerbergasse 48
 – Ernst, Elektriker, Altenbergstrasse 19
 – Ernst, Karrer, Altenbergstrasse 20
 – Ferd., Angestellter der Hypothekarkasse, Frohbergweg 11
@@ -699,7 +699,7 @@ Christ. 4073
 – Fritz, Hilfsarbeiter, Weberstrasse 12
 – Fritz Otto, Notar, Stadtbuchhalter, Spitalackerstrasse 69
 – Gottfr., Landwirt, Melchenbühlweg 36
-– Hans Emst, Notar, Kaisthioferstrasse 34
+– Hans Ernst, Notar, Kaisthioferstrasse 34
 Christ. 4470
 – Jak. Fr., Goldschmied, Spitalackerstr. lb
 – Joh., Landwirt, Melchenbühlweg 36
@@ -804,7 +804,7 @@ Bollw. 1453
 – Rud., Handlanger, Gerbergasse 1
 – Wilh., Schreiner, Gerechtigkeilsgasse 42
 – & Sprenger, Vertretungen, Lentulusstr. 23
-– Billeter, Emst Hch., i. Fa. Ammann &
+– Billeter, Ernst Hch., i. Fa. Ammann &
 Sprenger, Lentulusstr 23 Christ. 6284
 – Bürgin, Lydia, Wwe., Brunnadernstr. 28
 – Hafner, E. Wwe.. Monbijoustrasse 21
@@ -921,9 +921,9 @@ Anderwert, Ernst Albert, Kaufmann, Brunnhofweg 25
 Andina, Giovanni. Ingenieur, Muristrasse 57
 – Pietro, Gipser- u. Malermeister, Schwarztorstrasse 1,1 Christ. 3563
 Andler, Jak. Georg, Kaufmann, Falkenhöheweg 7
-Andre, Emst, Handlanger, Buchenweg 14
+Andre, Ernst, Handlanger, Buchenweg 14
 – Fr., Bauamtarbeiter, Mattenhofstrasse 40
-– Emst, Kaufmann, Mattenhofstr as se 40
+– Ernst, Kaufmann, Mattenhofstr as se 40
 – H. W., Schreiner, Schreinerweg 4
 – Ida, Bankangestellte. Mattenhofstrasse 40
 – Martha El., Bureaulistin, Mattenhofstr. 40
@@ -983,7 +983,7 @@ Werkstätte, Eschenweg 13
 – Müller, Th., Revisor d. eidg. Handelsstatistik, Lerchenweg 20
 – Steiner, H., Techniker d. eidg. Amtes für
 Wasserwirtschaft, Freie Strasse 47
-– Volck, Emst, Koch, Metzgergasse 4-8
+– Volck, Ernst, Koch, Metzgergasse 4-8
 Ankiin, Leo, Postkommis, Weisisensteimstr. 47
 Aniiker, Ad., Buchbindermeister (Gryphenhübeliweg 45), Helvetiastrasse 19 Chr. 2613
 – Alb., Abwart der KantonaLbank. Schauplatzgasse 1
@@ -1210,7 +1210,7 @@ Auber, Emma Martha, Knabenschneiderin, Liebeggweg 8
 Auberson, Alb., Dienstohef der Obertelegr.-Direktion, Geselilschaftsstr. 18 Christ. 5181
 – Alph., RanzleisekretäT b. Internation. Telegraphenamt, Gesellschaftsstrasse 18
 – Emil, Pferdewärter G. R. D., Erikaweg 9
-– Emst U., Kondukteur S. B. B., Berchtoldistra.sse 31
+– Ernst U., Kondukteur S. B. B., Berchtoldistra.sse 31
 Auberi, Fr. E., int. Beamter, Vennerweg 16
 – Lucien. Kaufmann, Marktgasse 8
 – Rosa, Robes, Marktgasse 8 Christ. 2780
@@ -1326,9 +1326,9 @@ Bachmann, Alb., Telephonarbeiter, Muesmattstrasse 51
 – Emil, diplom. Ingen., Berchtoldstrasse 46
 – E., Milch-, Butter- und Käsehdlg., Mar« zilistrasse 15 Christ. 5679
 – Ernst, Chauffeur, Gerbergasse 34
-– Emst, Hilfsarbeiter, Bümplizstrasse 24
-– Emst, Schlosser, Standstrasse 35
-– Emst, Schneider, Rodtmattstrasse 61
+– Ernst, Hilfsarbeiter, Bümplizstrasse 24
+– Ernst, Schlosser, Standstrasse 35
+– Ernst, Schneider, Rodtmattstrasse 61
 – Ernst, Wärter, Zieglerspital
 – Franz, Kaufmann, Bonstettenstrasse 5
 Christ. 1242
@@ -1648,7 +1648,7 @@ Balsiger, A. A., Heizer, Münzrain 14
 – Ernst Rob., Kommis, Hochfeldweg 9 i
 – ■ Ernst, Bahnarbeiter, Rohrweg 8 j
 – Ernst, Handlanger, Centralweg 22
-– Emst, Handlanges, Weidmattweg 5, Bümpliz j
+– Ernst, Handlanges, Weidmattweg 5, Bümpliz j
 – Fel., Dr. phil., Gymnasiallehrer, Scheuerrain 1 Christ. 1844
 – Fr., Bautechniker und Feueraufseher beid. städt. Baudirektion, Lentulusstrasse 26
 – Frieda A., Ladentochter, Lentulusstr. 26
@@ -1797,7 +1797,7 @@ Baer, Adolf, Fabrikaufseher, Felsenaustr. 28
 – E., Büchsenmacher, Wiesenstrasse 52
 – Elsa Wilhelmine, Bureaulistin, Breitenminstrasse 59
 – Ernst, Weber, Zähringerstrasse 45
-– Emst Otto, Werkstätte für feinmech. Apparate, Fischermätteliweg 18 Christ. 5533
+– Ernst Otto, Werkstätte für feinmech. Apparate, Fischermätteliweg 18 Christ. 5533
 – Ernst, Mechaniker, Scheibenstrasse 17
 – • Erwin Ed., Konfiseur. Luisenstrasse 18
 – Fanny, Wwe., Monbijoustrasse 33
@@ -2523,8 +2523,8 @@ M
 Begert, A., Bäcker, Pestalozzistrasse 8
 – -Elsa Johanna, Bundesangestellte, Humboldtstrasse 47
 – Ernst Arn., Bankangest., Gryphenhübeliweg 20
-– Emst, Eierbdlg., Gerecbtigkeitsgasse 8
-– Emst Otto, Zahntechniker. Wyttenbachstrasse 18
+– Ernst, Eierbdlg., Gerecbtigkeitsgasse 8
+– Ernst Otto, Zahntechniker. Wyttenbachstrasse 18
 – Franz. Metzgermeister, Bottigenstrasse 16, Bümpliz
 – Fritz, Landwirt, Bottigenstr. 12, Bümpliz
 – Jakob, Polizeigefreiter, Wyttenbachstr. 18
@@ -3334,7 +3334,7 @@ Biefer, Klara, Bureaulistin, Schwanengasse 8
 – Kiibler, Berta, Wwe„ Speichergasse 29
 Bieger, Hans W.. eidg. Beamter. Muldenstr. 3
 Biel, Jakob, Bankangestellter, Brunnhofw. 18
-Bieler, Emst, Beamter O. K. K.. Steigerw. 20
+Bieler, Ernst, Beamter O. K. K.. Steigerw. 20
 – L. Martha, Steigerweg 20
 – Olga Helene, Privatiere, Tavelweg 10
 Bielser, Arnold, in Fa König & Bielser, Beundenfeldstrastse 21 Christ. 2100
@@ -3486,7 +3486,7 @@ Bollw. 2372
 – Christ., Handlanger, Bottigenstrasse 59, Bümpliz
 – Emil, Fabrikarbeiter, Sodweg 13
 – Emma Luise, Weiss- und Buntstickerei, iTC,0,Qq1pTO , 5| CCD II
-– Emst Gottfr., Beamter S. B. B„ Bollwerk 25
+– Ernst Gottfr., Beamter S. B. B„ Bollwerk 25
 – Ernst, Heizer, Magazinweg 10
 – 'Ernst Heinr., Kaufm., Beundenfeldstr. 50
 – — Ernst, Mechaniker, Wylerstrasse 41b
@@ -3647,7 +3647,7 @@ Binggeli, Adolf, Mechan., Lorrainestrasse 10
 – Alfr., pens. Bauamtarbeiter. Jurastr. 59
 – Chr. Rud., Gipser, Läuferplatz 3
 – Christ., Bauamtarbeiter, Jurastrasse 59
-– Emst, B auamtarb eiter, Qtrartieirhof 3
+– Ernst, B auamtarb eiter, Qtrartieirhof 3
 – Friedr., Sekuritaswächter, Weidmattweg 9, Bümpliz
 – Friedr., Bauamtarbeiter, Gruberstrasse 12
 – Friedr., Gipser, Scheiben strasse 30
@@ -4237,7 +4237,7 @@ Böhringer
 171
 Bon Marche
 Böhringer, Alb., Beamter S. B. B., Länggassstrasse 69
-– Emst, Techniker, Stockernweg 4
+– Ernst, Techniker, Stockernweg 4
 – Julie, Schneiderin, Zielweg 5
 – Wilh., Ausläufer, Seidenweg 40
 – Bemoulli, Mathilde, Habsburgstrasse 5
@@ -4456,10 +4456,10 @@ Borter, Han«, Coiffeurgeschäft (Metzgerg. 39), Ländteweg 3
 – Rob., Konfiserie-Patisserie, Luisenstr. 14
 Bollw. 1846
 Borys, Frang. Emile, Kalkulator, Bernstr. 21, Bümpliz
-Bösch, Alb. Emst, Werkzeugmacher, Rossfeldstrasse 11
+Bösch, Alb. Ernst, Werkzeugmacher, Rossfeldstrasse 11
 – Anna Fanny, Mützenmacherin, Bundesrain 14
 – B., Beamter S. B. B., Mittelstrasse 2
-– Emst Jul., Schneidermeister, Sickingerstrasse 3 Bollw. 4359
+– Ernst Jul., Schneidermeister, Sickingerstrasse 3 Bollw. 4359
 – Jakob, Buchbinder, Fichtenweg 3a
 – Paul, Kunstmaler und Graphiker, Bierhübeliweg 11 Christ. 6529
 – Müller, Walter, Masch.-Zeichner, Depotstrasse 24
@@ -4765,7 +4765,7 @@ Bräuchi, Ernst, Kondukteur, Blockweg 9
 – Otto, Schreiner, Weidmattweg 3, Bümpliz
 Brauchli, Emil, Buchhalter der Schweiz. Mobiliarversicherungsgesellschaft, Seilerstr. 27
 Christ. 2156
-Brauen, Emst, Sattler, Lorrainestrasse 11
+Brauen, Ernst, Sattler, Lorrainestrasse 11
 – Rosa, Bureaulistin, Beundenfeldstr. 57
 – Walter, Quartieraufseher des III. Bezirks, Speichergasse 12 Bollw. 4725
 – Egli, Fritz, Beamter d. städt. Polizeidirektion, Beundenfeldstr. 57
@@ -4810,7 +4810,7 @@ Brechbühl, Adolf, Maler, Stalden 28
 – Eli se, Atelier für Handarbeiten und Aussteuern, Effingerstr. 4a Christ. 5238
 – Ernst, Bankangestellter. Polygonweg 19
 – Ernst, Hilfsarbeiter, Wylerringstr. 80
-– Emst, Hilfsarbeiter, Eiisabethenstrajsse 57
+– Ernst, Hilfsarbeiter, Eiisabethenstrajsse 57
 – Ernst. Viehhändler, Bümplizstrasse 81
 Zähr. 6058
 – Franz, gew. Bahnangest., Hopfenweg 25
@@ -5253,7 +5253,7 @@ Bryner, Ad., Schneidermeister, Spitalackerstrasse 59
 Bub-Heiniger, Joh., Koch, Bühlstrasse 39
 Büchele, Robert, Optiker, Wagnerstrasse 28
 Biicheli, Arthur, Musterweber, Junkerngasse 3
-Büchelin, Emst, Elektrotechniker, Elisabetbenstrasse 29
+Büchelin, Ernst, Elektrotechniker, Elisabetbenstrasse 29
 Bücher. Adolf, eidg. Beamter, Pavillonweg 7
 – Adolf, Schlosser, Muristrasse 69
 – Aibin Georg, Maler, Brunnhofweg 21
@@ -8518,8 +8518,8 @@ Enz, Klara, Klavierlehrerin. Bernastrasse 68
 OberpostkontroUe, Bernastr. 68 Chr. 6008
 Enzen, Adolf, Handlanger. Fröschmattw. 12d, Bümpliz
 – Albert, eidg. Beamter. Thunstr. 113
-– Emst, Gasarbedter, Morgenstr. 7, Bümpliz
-– Emst, Packer, Eggimannstraisise 39
+– Ernst, Gasarbedter, Morgenstr. 7, Bümpliz
+– Ernst, Packer, Eggimannstraisise 39
 I Enzen, Friedr., Maurer, Fröschmattweg 12d, Bümpliz
 – Gottfr., Fensterreiniger, Militärstrasse 49
 – Gottfr., Heizer, Belpstrasse 49
@@ -8846,7 +8846,7 @@ Christ. 4411
 Bollw. 1046
 – Ernst, eidg. Beamter, Brunnhofweg 22
 Christ. 6136
-Fankhauser, Emst, Autogarage u. Reparaturwerkstätte, Lagerweg 12 Christ. 2929
+Fankhauser, Ernst, Autogarage u. Reparaturwerkstätte, Lagerweg 12 Christ. 2929
 – Ernst, Maschinenmeister. Murifeldweg 68
 – Franz, Dr. phil., eidg. Forstinspektor, Schanzeneckstrasse 9
 – Friedr., Hilfsarbeiter, Wylerringstrasse 64
@@ -9419,7 +9419,7 @@ Flegel, Fritz, Schneider. Kasernenstrasse 45
 – Chamorel, Marie Melanie, Hebamme, Kasernenstrasse 45 Christ. 5323
 Fleiner, Alfr. Fr., Angestellter, Wyttenbachstrasse 38
 – Herrn., Buchbinder, Wyttenbachstrasse 38
-Fleischmann, Emst, Kaufmann, Südbahnhofstrasse 8
+Fleischmann, Ernst, Kaufmann, Südbahnhofstrasse 8
 Fleury, Jos. Fr., Sattler, Pestalozzistrasse 27
 – Paul, Bahnbeamter, Kasernenstrasse 42
 # Date: 1927-12-15 Page: 25907030/220
@@ -9670,7 +9670,7 @@ Forstamt, burgerl., Bundesgasse 6 Bollw. 4305
 Forstdirektion d. Kant. Bern, Herrengasse 1
 (Annex des Stiftgebäudes) Bollw. 3711
 Förster, August, Dr. med., Arzt, Schanzeustrasse 23
-– Emst, Reparateur und Abwart, Stauffacherstrasse 78
+– Ernst, Reparateur und Abwart, Stauffacherstrasse 78
 – Eug. N., Privatiere, Schanzeneckstr. 25
 – Joh. Otto, Kolonialwarenhdlg., Nelkenweg 17 Christ. 2885
 – Joh. Albert, Mech., Elisabethenistrasse 40
@@ -10218,7 +10218,7 @@ Schweiz. Nationalbank, Zweiganstalt Bern, Diesbachstrasse 25
 – Elisabeth, Schneiderin, Nägeligasse 6
 – Emil, Kommis, Könizstrasse 71
 – Emil, Schreiner, Metzgergasse 6
-– Emst, Dr., Zahnarzt (Scheuerrain 3a
+– Ernst, Dr., Zahnarzt (Scheuerrain 3a
 Christ. 1659), Waisenhauspl. 2 Bollw. 2778
 – Frz. Josef, Handlanger, Wylerstrasse 37
 – Frz. Ed., Maurerpolier, Wylerstrasse 37
@@ -10925,7 +10925,7 @@ Gemeinnützige Gesellschaft «Altes Schloss»
 (Alkoholfreies Restaurant), Bümpliz
 Zähr. 6124
 Gemeinnützige Wohnbaugenossenschaft Jolimont-M uristrasse, Bubenb^rgplatz 9
-Gempeler, Emst, Lehrer, Rohrweg 21
+Gempeler, Ernst, Lehrer, Rohrweg 21
 Zähr. 5053
 – Walter, Kaufm., Spitalgasse 0 Bw. 4245
 Gemperle, Jos. Alb., kaufmänn. Angestellter, Marziiistrasse 6
@@ -12289,7 +12289,7 @@ Liebeggweg 12 :
 – Müller, Adele, Wwe., Liebeggweg 12
 Greil. Richard Hans, Musiker, Jägerweg 4
 Greinacher, Herrn. Heinr., Dr. phil., Professor, Donnerbühlweg 1 Christ. 5671
-Greiner, Emst, Buchhalter, Viktoriarain 7
+Greiner, Ernst, Buchhalter, Viktoriarain 7
 – Louis, Ing., Zentralheizungen. Rabbental- jstrasse 37 Christ. 2579 j
 # Date: 1927-12-15 Page: 25907057/247
 Greisenasyl und Roschi-Stiftung, Seftigenstrasse 107/109/111 Bollw.1944
@@ -13369,7 +13369,7 @@ Habegger, Ahrah., ISchneider. Alleeweg 2
 – Arthur Arnold, Ingenieur, Wabernstr. 1
 – E. J., Maler, Kesslergasse 33
 – Emil, Maler, Seftigenstrasse 19
-– Emst, Kartograph d. eidg. Landestopographie, Jubiläumsstrasse 87
+– Ernst, Kartograph d. eidg. Landestopographie, Jubiläumsstrasse 87
 – Ferdinand, Reisender, Werkg. 28, Bümpliz
 – Frieda Lina. Frl., Mittelstrasse 13
 – Frieda, Bankangestellte. Bühlstrasse 46
@@ -13717,7 +13717,7 @@ Haldimann, s. auch HaLdemann
 – Hans, Ausläufer, Murifeldweg 5
 – J. J., Schmied, Länggassstrasse 97a
 – Joh., Handlanger, Stalden 12
-– Job. Emst, Kondukteur, Berchtoldstr. 27
+– Job. Ernst, Kondukteur, Berchtoldstr. 27
 – Julia, Lehrerin, Seidenweg 47
 – Karl Rob., Arzt, Freiburgstrasse 18
 – Marg., Verkäuferin, Metzgergasse 47
@@ -14043,7 +14043,7 @@ Harisberger, Gottl., Spengler, Bahnhofplatz 9
 Harnisch, Alice, Buchhalterin, Scheuermattweg 4
 – Anna, Vorgängerin, Liebeggweg 16
 Harri, s. Hari
-Haerry, Emst Tr., Hausierer, Morellweg 10
+Haerry, Ernst Tr., Hausierer, Morellweg 10
 – Hans, Ingenieur, Adj. des Vermessungsinspektors, Burgernzielweg 20
 – Walt., D,r. phil., Hochschulverwalter, Monbijoustrasse 37 Christ. 2644
 – Aebi, Emil, Revisor der Oberpostdirektion, Monbijoustrasse 37 Christ. 2644von Harten, Karl, Jurist, Habsburgstrasse 6
@@ -14056,7 +14056,7 @@ Hartmann, Adolf, Bautecihniker. Jubiläumsstrasse 4S
 – C. F., Agentur u. mech. Schilfrohrweberei, Muldenstrasse 53 Bollw. 4090
 – Elise, Frau, Gehilfin S. B. B.. Neufeldstr. 5
 – Ernst, Aktuar, Flurstrasse 26a
-– Emst, Fräser, Militärstrasse 61
+– Ernst, Fräser, Militärstrasse 61
 – Erwin Karl, Bahnarbedter. Lorrainestr. 65
 – Fr., Maschinist, Bahnstrasse 59
 – Friedr., Installateur, Mattenenge 24
@@ -14580,7 +14580,7 @@ Bollw. 2930
 – Hilfsposten, Zähringerstrasse 51
 # Date: 1927-12-15 Page: 25907078/268
 Heim, Augusta, Frl., Altenbergstrasse 98
-– Emst Rud., Experte, Kureaalstrasse 3
+– Ernst Rud., Experte, Kureaalstrasse 3
 – Herrn.. Chefmonteur, Dalmazirain 30
 – Johanna, Klavierlehrerin, Schwarzenburgstrasse 2
 – K. Arthur. Beamter S. B. B., Freiburgstrasse 362, Bümpliz
@@ -14972,7 +14972,7 @@ Herrmann, s. auch Hermann
 – H. Fr., Metzgermeister, Waisenhauspl. 6
 Bollw. 3618
 – Helene. Ladentochter, Junkerngasse 25
-– Joh. Emst, Ausläufer, Murtenistrassc 47
+– Joh. Ernst, Ausläufer, Murtenistrassc 47
 – J. Alfr.. Rangierarbeiter, Scheibenstr. 54
 – J. J., Maurer, Turnweg 27a
 – Joh., Schreiner, Rodtmattstrasse 99
@@ -15219,7 +15219,7 @@ Hidber, Bertha, Wwe., Kramgasse 26
 Hieber-Moser, Sophie, Wwe., Effingerstr. 13
 Christ. 2258
 Hietscher, Erich Alfr., Präparator, Ostermunddgenstras'se 16
-Hiemer, Emst Otto, Schneider. CäciMenstr. 17
+Hiemer, Ernst Otto, Schneider. CäciMenstr. 17
 – Friedr.. Maschinenmeister. Cäcilienstr. 17
 – Heinr., Schneider, Gäcilienstrasse 17
 – Joh., Schneider, Gäcilienstrasse 17
@@ -15279,7 +15279,7 @@ Hiltbrunner, Ad.. Uhren- u. Bijouteriehdlg.
 – Dora Lina, Ladentochter, Neufeldstr. 27f
 – E. K., Beamter S. B. B., Viktoriarain 1
 – Ernst, Chauffeur, Greyerzstrasse 40
-– Emst, Fabrikarbeiter, Freibuxgstrasse 147
+– Ernst, Fabrikarbeiter, Freibuxgstrasse 147
 – Ernst, Schuhmacher, Brunngasse 40
 – Frieda, Bureaulistin, Frohbergweg 6
 – Fr., Telegr.-Angestellter, Schulweg 9
@@ -15368,7 +15368,7 @@ Bollw. 3645
 – E. L., Lok.-Führer der S. B. B„ Zähringerstrasse 52
 – Ernst, Hilfsarbeiter, Bümplizstrasse 102
 – Ernst, Pferdewärter, Rodtmattstrasse 106
-– Emst, Atelier «Gervus» f. künstl. Geschäftsreklamen, Graphik, Plakat-Entw., Gliches, Kyburgstrasse 6 Christ. 2459
+– Ernst, Atelier «Gervus» f. künstl. Geschäftsreklamen, Graphik, Plakat-Entw., Gliches, Kyburgstrasse 6 Christ. 2459
 – Ernst, Angestellter, Hopfenweg 54
 – Friedr., Ausläufer, Neubrückstrasse 85
 – Friedr., Maurerpolier, Wylerringstrasse 9
@@ -15404,7 +15404,7 @@ Hirsig, Alb., Gipser, Aarbergergasse 21
 Hirsiger, A. E., Schlosser der S. S. B., Breitfeldstrasse 35
 – Christ., Bauamtarbeiter. Jurastrasse 6
 – Daniel, Werkführer, Freie Strasse 40
-– Emst, Postbureaudiener, Kirchbergerstrasse 79
+– Ernst, Postbureaudiener, Kirchbergerstrasse 79
 – Ferd. Wilh., Mechaniker, Chutzenstr. 17
 – Fritz, Telephonmonteur, Breitenrainpl. 31
 – Hans, Kondukteur. Bridelstrasse 88
@@ -15412,7 +15412,7 @@ Hirt, C. Eug., Baumeister, in Fa. E. Hirt &
 Sohn. Nordweg 4 Bollw. 2339
 – Ernst, Elektriker, Lenzweg 4
 – Ernst, Ausläufer, Feldheimweg 40, Bümpliz
-– Emst, Handlanger, Freiburgstrasse 113
+– Ernst, Handlanger, Freiburgstrasse 113
 – Ernst, Monteur, Metzgergasse 27
 Chemiserie
 MAX HINNERS Bonneterie Marktg.21
@@ -15588,7 +15588,7 @@ Hofer, E.. Tuch- u. Massgeschäfl. Zeughausgasse 18 Christ. 6481
 – Emma L., Verkäuferin, Wiesenstrasse 51
 – Ernst, Bahnhofportier, Seidenweg 35
 – Ernst, Handlanger, Bottigenstr. 51, Bümpliz
-– Emst, Hilfsarbeiter, Mühleplatz 10
+– Ernst, Hilfsarbeiter, Mühleplatz 10
 – Ernst, Karrer. Papiermühlestrasse 11
 – ■ Ernst, Kaufmann, Könizstrasse 61
 – Ernst, Kutscher, Nydeckhof 27
@@ -15779,9 +15779,9 @@ Hofmann, s. auch Hoffmann
 – Emma Emilie, Bureaulistin, Seidenweg 35
 – Ernst, Dr. med.. Spezialarzt f. Geburtshilfeu. Frauenkrankheiten, Laupenstrasse 6
 BoJlw. 4177
-– Emst, Fabrikleiter, Rehhagweg 116, Bümpliz
+– Ernst, Fabrikleiter, Rehhagweg 116, Bümpliz
 – Ernst, Obergärtner, Boiligenstrasse 117
-– Emst, Bauamtarbeiter, Waldheimstr. 86
+– Ernst, Bauamtarbeiter, Waldheimstr. 86
 – Ernst, Hilfsarbeiter, Weber Strasse 23
 – Ernst Gottl.. Fabrikarbeiter, Polygonweg 23
 – E. Rud., i. Fa. R. Hofmann & Cie., Herrengasse 6
@@ -16274,7 +16274,7 @@ Hubacher, Ad., Bauamtarb., Buchenweg 64
 – Ernst, Dreher, Marzilistrasse 15
 – Ernst, Pfarrer an der Friedenskirche, Mattenhofstrasse 41 Bollw. 3808
 – ■ Ernst Friedr., Polizist, Predigergasse 5
-– Emst, Schriftsetzer, Bühlstrasse 41
+– Ernst, Schriftsetzer, Bühlstrasse 41
 – F. A., Malermeister, Zeigerweg 8
 – ■ Friedr., Buchbinder. Lorrainestrasse 74
 – Friedr., Pferdewärter, Radtmattstras.se 89
@@ -16614,7 +16614,7 @@ Christ. 5399
 – Emma. Rosa. Modistin, Ahornweg 5
 – Ernst, Abwart, Laupenstrasse 5
 – Ernst Gottfr.. Elektr., Brunngas sh aide 63
-– Emst, Elektriker, Mittelstrasse 28
+– Ernst, Elektriker, Mittelstrasse 28
 – Ernst, Schlosser, Pestalozzistrasse 13
 – Frieda, Ladentochter, Ahornweg 5
 – Fr., gew. Materialverwaltung d. Stadtwerkhofes, Marzilistrasse 49
@@ -17747,7 +17747,7 @@ Bollw. 4690
 – Merz, Emma, in Fa. Jenni & Co., Thormannstrasse 51
 Jenni und Jenny
 – Nydegger, Emma, Damenschneiderin, Pestalozzistrasse 30
-– Pauli, Karl Emst, Koch, Fichtenweg 3a
+– Pauli, Karl Ernst, Koch, Fichtenweg 3a
 – Reinhard, J., Bankkassier, Kapellenstr. 30
 Christ. 3263
 – Schenk, Marie, Wwe. des Hochschulverwalters, Soheuermattweg 12 Christ. 1630
@@ -17770,7 +17770,7 @@ Christ. 1081
 – Jäggi, E., Priv., Effingerstr. 56 Chr. 1198
 Jenzer, Anna, Kindergarten- u. Kursleiterin, Breitenrainplatz 38b
 – Elisa, Steinauweg 27
-– Emst, Angest. S. B. B., Eggimannstrasse 17
+– Ernst, Angest. S. B. B., Eggimannstrasse 17
 – Frieda A., Ladentochter, Gäcilienstrasse 15
 – Frieda Lina, Ladentochter, Hopfenweg 26
 – Fritz, Molkereiangestellter. Marzilistr. 6
@@ -18344,7 +18344,7 @@ Kämpf, siehe auch Kempf
 – Albert, Mechaniker, Ulmenweg 4
 – Emil, Bahnangestellter, Gutenbergstr. 27
 – Erna, Coiffeuse, Maulbeerstrasse 17
-– Emst, Abwart, Bernastrasse 28
+– Ernst, Abwart, Bernastrasse 28
 – Frieda, Ladentochter, Marzilistrasse 12
 – ■ Fritz, pens. Bahnarbeiter, Rabbentalstr. 78
 – Helene, Bureaulistin, Neuengasse 18
@@ -18866,7 +18866,7 @@ Keusen, Ad., Buchdrucker, Militärstrasse 56
 – Chr., Privatier, Gesellschaftsstr. 41
 – Ernst, Coiffeurgesch. (Gesellschaftsstr. 41), Kramgasse 61
 – Ernst, Schweinemästerei. Forsthausweg 14
-– Emst Fritz, Hilfsarbeiter, Länggassstr. 57
+– Ernst Fritz, Hilfsarbeiter, Länggassstr. 57
 – Fr., Reisender, Weissensteinstrasse 60
 – Friedr., Postangest., Berchtoldstrasse 48
 – Fritz, Kondukteur der S. B.B., Länggassstrasse 94
@@ -21142,7 +21142,7 @@ Lanz, Albert, Versicherungsbeamter, Zwyssigstrasse 20 Christ. 5242
 – Edwin, in Fa. Lanz & Huber. Holzikofenweg 24
 – Elise, Damenschneiderin, Bantigerstr. 10
 – Emanuel, gew. Lehrer der Mattenschule, Breitenrainstrasse 12
-– Emst, Kaufmann, Sulgenauweg 34
+– Ernst, Kaufmann, Sulgenauweg 34
 – Frieda, Südbahnhofstrasse 10
 – Fritz, Beamter d. S. B. B., Brückfeldstr. 25
 – F., Chirurg, Kramgasse 61
@@ -21495,16 +21495,16 @@ Jubiläumss'trasse 44 Christ. 3549
 Lehmann, s. auch. Leemann
 – Ernst, Küfer, Werkgasse 37, Bümpliz
 – Ernst, Gipser- u. Malermeister, Mezenerweg 8 Bollw. 4547
-– Emst, Magaziner, Bridelstrasse 6
+– Ernst, Magaziner, Bridelstrasse 6
 – Ernst, Mechaniker, Postgasse 48
 – Ernst, Schlosser, Dammweg 41
 – Ernst, Schriftenmaler, Breitenrainstr. 63
 – Ernst, Postbeamter, Greyerzstras.se 32
 – Ernst Ed., Schlosser, Brünnenstrasse 104, Bümpliz
 – Ernst Herrn., Elektromechaniker, Werkgasse 37, Bümpliz
-– Emst, Gärtnermeister, Neubrückstrasse 81
+– Ernst, Gärtnermeister, Neubrückstrasse 81
 Christ. 3289
-– Emst 0., Billetteur, Hochfeldweg 29
+– Ernst 0., Billetteur, Hochfeldweg 29
 – Ernst Viktor, Mechaniker, Maulbeerstr. 10
 – Ernst, Vers.-Beamter. Schwarztorstr. 55
 – Erwin, Angest. S. B. B., Fischermätteliw. 2
@@ -22234,7 +22234,7 @@ Bollw. 1574
 Limonadenfabrik Althof, Waghausgasse 7
 Christ. 3747
 Linck, s. auch Link
-– Emst, Kunstmaler (Viktoriarain 11), Kramgasse 19 Christ. 2784
+– Ernst, Kunstmaler (Viktoriarain 11), Kramgasse 19 Christ. 2784
 Lindauer, Jeanne, Vorsteherin des Pflegerinnenheimes des Roten Kreuzes, Niesenweg 3 Bollw. 2903
 Linde, Otto Aug., Kommis, Sehwarztonstr. 11
 Lindegger, Alb., eidg. Beamter, Neubrückstrasse 45
@@ -22882,7 +22882,7 @@ Lüthi u. Lüthy
 Bümpliz
 – Ernst, Beamter B.K. W.. Muldenstrasse 1
 – Ernst, Metzger, Bernstrasse 103, Bümpliz
-– Emst, Bauamtarbeiter, LageTweg 2
+– Ernst, Bauamtarbeiter, LageTweg 2
 – Ernst Friedr., Gärtner, Brunnmattstr. 71
 – Ernst, Handlanger, Freiburgstr. 52
 – Ernst, Hilfsarbeiter, Moritzweg 28
@@ -23389,7 +23389,7 @@ Maraggia, Elv. M., Ladentochter. Statthalterstrasse 18, Bümpliz
 – Giuseppina, Damenschneiderin, Statthalterstrasse 18, Bümpliz
 – Mario, Kaufm., Statthalterstr. 18, Bümpliz
 Marbach, A., Architektur- und Baugeschäft, Kursaalstrasse 23 Bollw. 3392
-– Emst, Kaufmann, Zähringerstrasse 68
+– Ernst, Kaufmann, Zähringerstrasse 68
 – Fritz, Dr. phil., Sekundarlehrer, Humboldtstrasse 51 Christ. 2177
 – Job. Ad., Mechaniker S.B. B.. Freiburgstrassie 129
 – Th. Herrn., Hotelier, Schauplatzgasse 4
@@ -23583,7 +23583,7 @@ Christ. 2674
 – Ernst Aug., Sattler, Rosenweg 9
 – Ernst, Schlosser, Stockernweg 11
 – Ernst Jak., Buchbinder, Rosenweg 9
-– Emst Emil, Magaziner, Gerechtigkeitsg. 37
+– Ernst Emil, Magaziner, Gerechtigkeitsg. 37
 – Felix. Monteur, Polygonweg 7
 – Fr., Mechaniker, Werkgasse 9, Bümpliz
 – Frieda, Ladentochter, Bühlstrasse 44
@@ -24212,7 +24212,7 @@ Meister, s. auch Meystre
 – E. Th., Bankbeamter, Optingenstrasse 41
 – Ed., Bäckerei und Kondit., Marzilistr. 25
 Christ. 4923
-– Emst Fr., Bankangestellter, Bodtmattstr. 94
+– Ernst Fr., Bankangestellter, Bodtmattstr. 94
 – - Ernst, techn. Bureau f. elektr. Anlagen und Apparate (Seilerstrasse 27 Christ. 4991), Monbijoustrasse 31 Christ. 302Ü9
 – Fritz W., Metzger, Metzgergasse 24
 – Georg Kasimir, Bankangestellter. Kirchenfeldstrasse 6
@@ -25575,7 +25575,7 @@ Bollw. 4070
 – Lina, Bureaulistin, Distelweg 23
 – Lina, Maschinenstrickerei, Murifeldw. 65
 – Lina, Vorgängerin, Schönauweg 4
-– Ludw. Emst, Kaufmann, Elisabethenstr. 13
+– Ludw. Ernst, Kaufmann, Elisabethenstr. 13
 – -Maria, Wwe., Fürsprechs, Daxelhoferstr. 19
 Christ. 3622
 – Marie Math., Bureauangestellte, Landhausweg 6a
@@ -26566,7 +26566,7 @@ Neeser, Arnold, Lehrmeister in d. Lehrwerkstätten, Schreinerabteilung, Lorraine
 – Walter, Architekt, Effingerstrasse 65
 Nef, Alb., Dr., Kapellmeister, Thunstrasse 63
 Christ. 4340
-Neher, Emst, Fabrikant. Schlösslistrasse 19
+Neher, Ernst, Fabrikant. Schlösslistrasse 19
 Christ. 5894
 Neher. Gallus, Zuschneider, Anshelmstr. 22
 – J. M., Söhne, A.-<G., Fabrikation v. Schreibbüchern, Bureauartikeln und Leder waren, Belpstrasse 20 Bollw. 2196
@@ -26623,7 +26623,7 @@ Neuenschwander, Alb., Arbeiter der T.-W., Könizstrasse 81
 Neuenschwander, Ernst Walter, Feinmechaniker, Rohrweg 311
 – Ernst Emil, Koch, Marzilistrasse 2
 – ■ Ernst, Postbureaudiener, Brunnmattstr. 75
-– Emst, Schreinermeister, Gerechtigkeitsg. 27
+– Ernst, Schreinermeister, Gerechtigkeitsg. 27
 – Ferdinand, Landwirt, Neubrückstr. 192
 – - Frieda M., Telephonistin, Lorrainestr. 27
 – - Friedr., Angestellter, Feilenbergstrasse 15
@@ -26754,8 +26754,8 @@ Niederhäuser u. Niederhauser
 – Elise, Privatiere, Hopfenweg 43
 – Emil, mechan. Bau- und Kunstschlosserei, Fabrikat, v. Patentart., Oelen, Fetten, Gesellschaftsstrasse 30a Bollw. 2446
 – ■ Emil, Postillon, Ladenwandstrasse 25
-– Emst, Hilfsarbeiter, Marktgasse 15
-– Emst, Installateur, Speichergasse 6
+– Ernst, Hilfsarbeiter, Marktgasse 15
+– Ernst, Installateur, Speichergasse 6
 – Ernst, Mechaniker, Sägehofweg 9, Bümpliz
 – .Ernst, Tapezierermeister, Bantigerstr.31
 Christ. 1596
@@ -26930,7 +26930,7 @@ Norwich-Union, Lebensversich.-Gesellsch., Generalvertr. f. d. Schweiz: R. Schmid
 Not-Asyl, städt. Jugendheim, Tscharnerstr. 10
 Bollw. 1996
 Noth, Anna, Schneiderin, Waffenweg 15
-– Charles Emst, Postbeamter. Gesellschafts■strasse 22
+– Charles Ernst, Postbeamter. Gesellschafts■strasse 22
 – Peter, Maschinist, Glockengasse 12, Bümpliz
 – & Messerli, Lichtpaus- und Kunstdruck-Atelier, Kramgasse 76 Christ. 4798
 – Schmutz, E., Kaufm., Wyttenbachstr. 28
@@ -26994,7 +26994,7 @@ Nussbaumer, Andre, Beamter b. eidg. Militärdepartement, Wyttenbachstrasse 29
 – Arnold Walter, Kommis, Lentulusstr. 63
 – Christine Gharl., Glätterin, Wiesenstr. 43
 – Engelbert, Maler, Greyerzstrasse 46
-– Emst, Dekorateur, Aarbergergasse 29
+– Ernst, Dekorateur, Aarbergergasse 29
 Nussbaumer, Georg, Lok.-Führer, iSchwarztor.strasse 80
 – Georg, Postbureaudiener, Berchtoldstr. 52
 – Hans Martin, Wadsenhausplatz 16
@@ -27044,7 +27044,7 @@ Nydegger, Ad. Chauffeur. Muesmattstr. 53
 – Elise, Ladentochter, Wylerringstrasse 41
 – Emil, Pferdewärter, Scheibenstrasse 53
 – Emma Lydia, Ladentochter. Scheibenstr. 53
-– Emst, kant. Angestellter, Aegertenstr. 47
+– Ernst, kant. Angestellter, Aegertenstr. 47
 – Ernst, Gipsgiesser, Stadtbachstrasse 26
 – Fritz, Konditor, Aarbergergasse 23
 – Friedr., Kutscher, Seidenweg 33
@@ -28408,7 +28408,7 @@ Boilw. 2211
 – Emil, Mechaniker, Schifflaube 16
 – Ernst, Bundesbeamter, Spitalackerstr. 53
 – Ernst, Lok.-Führer B. L. S., Freiburgstr. 117
-– Emst, Schmied S. S. B., Hopfenweg 16
+– Ernst, Schmied S. S. B., Hopfenweg 16
 – Erwin, Elektromechan., Rodtmattstr. 102
 – Fr., Bankbeamter, Breitenrainstrasse 33
 – Friedr., Wirt, Aarbergergasse 5
@@ -28617,7 +28617,7 @@ Rabu, Ant., Kupferstecher b. d. eidg. Landestopographie. Beundenfeldstrasse 50
 Rabus, Marie, Frl., Marktgasse 40
 – ■ Otto, Papier- und Schreibwaren en gros
 (Zähringerstr 5 Christ. 3727), Speichergasse 35 Bollw. 3919
-Racheter, Emst, Dachdecker, Neubrückstr. 208
+Racheter, Ernst, Dachdecker, Neubrückstr. 208
 Rachlin, Sal., Reklameakquisiteur, Ryffligässchen 6
 Racine, R. A., Bankangest., Kyburgstrasse 13
 Racle, Fr. Chs., Handlanger, Steinhölzliw. 41
@@ -29502,7 +29502,7 @@ Riesen, Christ., Karrer, Sandrainstrasse 4a
 – Ernst, Ausläufer, Wylerringstrasse 69
 – Ernst, Kommis, Belpstrasse 41
 – Ernst, Hilfsarbeiter. Tannenweg 18
-– Emst, Techniker S. B. B„ Fabrikstrasse 36
+– Ernst, Techniker S. B. B„ Fabrikstrasse 36
 – Fr., Häuserverwalter, Hopfenweg 23
 – Fr. E., Mechaniker, in Fa. Riesen & Sägeser, Hopfenrain 16 Christ. 4416
 – Franz, Gipser, Breitfeldstrasse 56
@@ -29870,7 +29870,7 @@ Bümpliz
 – Ernst, Landwirt, Stegenweg 31, Bümpliz
 – Ernst, Autotaxi, Altenbergstrasse 102
 # Date: 1927-12-15 Page: 25907220/410
-Rohrbach, 'Emst, Mechaniker. Trachselweg 3ö
+Rohrbach, 'Ernst, Mechaniker. Trachselweg 3ö
 – Franz Arth., Schneider, Birkenweg 17
 – ■ Friedr. Adolf, Maschinenmeister, Metzgergasse 23
 – Friedr., Packer, Wylerringstrasse 61
@@ -30322,8 +30322,8 @@ Röthlisberger, Anna, pens. Arbeitslehrerin, HolLigenstrasse 76
 – Ernst, Angestellter, Krippenstrasse 24
 – Ernst, Rechnungsführer der kant. Forstdirektion. Spitalgasse 29
 – ■ Ernst 0.. kant. Beamter, Ulmenweg 9
-– Emst, Magaziner. Ladenwandstrasse 98
-– ■ Emst Louis, Maschinenmstr., Jurastr. 21
+– Ernst, Magaziner. Ladenwandstrasse 98
+– ■ Ernst Louis, Maschinenmstr., Jurastr. 21
 – Frieda, Ladentochter, Eggimannstr. 25
 – Frieda Elisa, Gryphenhü'beliweg 43
 – -Fr., Angest. d. städt. Feuerwehr, Zähringerstrasse 52 Christ. 2088
@@ -30697,7 +30697,7 @@ Boliw. 3444
 – Ernst, Clichefabr., Galvano- u. Zinkotypie, Belpstrasse 41 Christ. 2164
 – Ernst, Postangestellter, Lentulusstrasse 38
 – ■ Ernst Willi., Schriftsetzer, Lagerweg 9
-– Emst, Zimmermann, Eggimannstrasse 36
+– Ernst, Zimmermann, Eggimannstrasse 36
 – ■ Ferd., Streckenwärter B. W. B.. Viktoriaraän 6
 – Fr., Schriftsetzer, Belpstrasse 30a
 – Friedr., Handlanger, Bottigenstrasse 387a, Bümpliz
@@ -30758,7 +30758,7 @@ Rufener, Alb., Schlosser, Steckweg 17
 – Arth. E., Lehrer, Waisenhausplatz 32
 – Arthur E., Möbelschreiner, Bühlstrasse 27a
 – Chr., Milchhändler, Stalden 34
-– Emst, Ausläufer. Scheuerrain 8
+– Ernst, Ausläufer. Scheuerrain 8
 – Ernst, gew. Käsehändler, Kramgasse 16
 – Ernst, Sohn, Milch-, Butter- und Käsehandlung (Kesslergasse 2), Neuengasse 8
 Christ. 3901
@@ -31394,7 +31394,7 @@ Sauer, Hch., Buchbinder, Hopfeniweg 14
 Sauerer, Wolfg., Nachf. von Asper & Sauerer, Buchbinderei (Flurstr. 6 Christ 2228), Nägeligasse 7 Bollw. 3980
 Säuglingsfürsorgestelle der Stadt Bern, und Milchküche, Bundesgasse 17 Christ. 1856
 Saugy, Ghr., Schreiner, Kirchgasse 12
-– Emst, Handlanger, Kirchgasse 12
+– Ernst, Handlanger, Kirchgasse 12
 – Hans Gottfr., Schlosser, Stockemweg 11
 – Henry, Zollbeamter, Freie Strasse 43
 – Louis Walter, Magaziner, Muldenstr. 55
@@ -31929,8 +31929,8 @@ Klinik Breitenrain, (Polygonweg 15), Herzogstrasse 24 Christ. 5266
 – • Ernst, Fahrdienstarbeiter S. B. B„ Martiweg 10
 – Ernst, Kommis, KasernenstTasse 52
 – Ernst Jul., Angestellter E. W. B., Könizstrasse 55
-– Emst, Schneider, Bümplizstrasse 60
-– F. Emst, Handlanger, Polygonweg 7
+– Ernst, Schneider, Bümplizstrasse 60
+– F. Ernst, Handlanger, Polygonweg 7
 Scheidegger, F. K., Schlosser. Polygonweg 7
 – Fr., Lokomotivführer der S. B. B., Länggassstrasse 53
 – Fr., Instrumentenmacher, Schmidweg 7
@@ -32317,7 +32317,7 @@ Scheurmann, s. auch Schürmann
 – J., Adjunkt der Oberpostdirektion, Postinspektorat, Sulgenauweg 22
 Schiavi, Battista, Früchte- u. Gemüsehandlg., Metzgergasse 75
 Schibbye, Arthur, Apotheker, Freiburgstr. 49
-Schibier, Emst, Bureaulist. Brünnenstr. 11, Bümpliz
+Schibier, Ernst, Bureaulist. Brünnenstr. 11, Bümpliz
 – ■Roland E., Kaufmann, Spitalgasse 9
 Schibli, J. R., Beamter d. S. B. B., Myrthenweg 10, Bümpliz
 – Josef Emil, Sekretär des Verbands Schweiz.
@@ -32339,7 +32339,7 @@ Christ. 2947
 Christ. 6139), Spitalgasse 31 Christ. 4463
 – Lily, Privatiere, Thunstrasse 79 Chr. 4918
 – -Walter, Telegraphist, Mittelstrasse 61
-Schiesser, Emst, Mechan.. Altenbergstr. 132
+Schiesser, Ernst, Mechan.. Altenbergstr. 132
 – Martin, Bereiter, Murifeldweg 5
 – Glauser, David, Pferdewärter, Murifeldweg 5
 Schiessl, Georg, (Schlosser, Länggassstr. 55
@@ -33205,7 +33205,7 @@ Schneider, s. auch Schneiter und Schnyder
 – : Alb., Magaziner, Pestalozzistrasse 36
 – Albert, in Fa. Schneider & Dellsperger, Melchenbühlweg 23
 – Alb., Schlosser S. S. B.. Melchenbühlweg 23
-– ALbr., Handlang., Weidmattw. 18. Bümpliz
+– Albr., Handlang., Weidmattw. 18. Bümpliz
 – Alex., Polizist, Breitenrainstr. 71
 – Alfr., Ausläufer, Marzilistr. 6
 – Alfr. Hch., Bureaulist, Waldheimstr. 86
@@ -35348,7 +35348,7 @@ Spittler, Friedr. Rud., Magaziner, Depotstr. 46
 Spitznagel, Ad., Handlanger, Turnweg 11
 Splendid-Palace, Cinöma, v. Werdt-Passage
 Spöhel, Heinrich, Speditionsarbeiter, Metzgergas se 5
-Spörri, Emst Hch., Beamter S. B. B., Neubrückstrasise 45
+Spörri, Ernst Hch., Beamter S. B. B., Neubrückstrasise 45
 – Erwin, Beamter S. B. B., Simonstrasse 15
 – Franz Jos^ Schriftsetzer, Kesslergasse 15
 – Heinrich, Ing., Dalmazirain 36
@@ -35973,7 +35973,7 @@ Steiger, s. auch v. Steiger
 – Erika, Bureaulistin, Wabernstrasse 22
 – Ernst, i. Fa. Buchdruckerei Steiger, Allmendstrasse 2 Boilw. 2075
 – Ernst Willy, jun., Buchdrucker, Allmendstrasse 2
-– Emst Paul, Kartograph, Ländteweg 1
+– Ernst Paul, Kartograph, Ländteweg 1
 – Eug., Maler, Wiesenstrasse 58
 – Ferd., Prokurist, Museumstrasse 10
 – Frz., Dr. med., prakt. Arzt, Seftigenstr. 23
@@ -36489,7 +36489,7 @@ Stiftung für das Alter, Kl. Muristalden 26
 Christ. 3358
 Stigeler-Lindenmann, Anna, Wwe., Aegertenstrasse 77
 – Lüthy, Marie Louise, Wwe., Privatiere, Gesellschaftsstrasse 15
-Still, ALb., Maler, Aarbergergasse 24
+Still, Alb., Maler, Aarbergergasse 24
 – Gottl., Angestellter, Gerechtigkeitsgasse 8
 – Rud., städt. Beamter, Kesslergasse 2
 Stiner, 0., Dr. med., Adj. d. Dir. d. Schweiz.
@@ -36970,7 +36970,7 @@ Dufourstrasse 21
 – Emma Martha, Bureaulistin, Seftigenstr. 32
 – Ernst, Postbeamter. Humboldtstrasse 47
 – Ernst, Holzmaschinist, Gerechtigkeitsg. 28
-– Emst, städt. Beamter, Morgenstr. 71, Bümpliz
+– Ernst, städt. Beamter, Morgenstr. 71, Bümpliz
 – Ernst Werner, Angest. der Schweiz. Mob.-Versich.-Gesellschaft. Ostermundigenstr. 6
 – Ernst, Tramführer, Lenzweg 9
 – Fanny, Bureaulistin, Ob. Dufourstr. 21
@@ -38030,7 +38030,7 @@ Trommer, Christ., Polygonweg 7
 – Emil K., Mechaniker, Polygonweg 7
 # Date: 1927-12-15 Page: 25907295/485
 Tronsberg, Josef, Hilfsarbeiter, Breitfeldstrasse 36
-Trösch, Emst, Dr. phil., Vorsteher d. Knabensekundarschule, Kreis II, Lentulusstr. 52
+Trösch, Ernst, Dr. phil., Vorsteher d. Knabensekundarschule, Kreis II, Lentulusstr. 52
 Christ. 3996
 – Ernst, Prokurist, Breitenrainstrasse 73
 – Fritz Jakob, Hilfsarbeiter, Platanenweg 3
@@ -38180,7 +38180,7 @@ Tschanz, Ad., Tramangestellter, Wachtelw. 17
 – Ernst Ed., Bankangestellter, Elisabethenstrasse 22
 – Ernst, Bankbeamt., Bernastr. 39 Christ. 5957
 – Ernst Heinr., Buchhalter. Dalmaziweg 67
-– 'Emst, Karrer, Bahnstrasse 75
+– 'Ernst, Karrer, Bahnstrasse 75
 – Ernst Walter, Magaziner, Muldenstr. 45
 – Franz, Schmied, Bümplizstrasse 118
 – Fr., Bahnarbeiter, Kelnigasse 2, Bümpliz
@@ -39359,10 +39359,10 @@ Bollw. 1940
 – Erna Johanna, Drogistin, Knüslihubelw. 13
 – Ernst, Ausläufer, Randweg 8
 – Ernst, Beamter d. S. B. B., Länggassstr. 98
-– Emst, Lok.-FühTer d. S. B. B., Brünigw. 17
-– Emst Gottfr., Metzgermeißter, Zimmerw. 10
+– Ernst, Lok.-FühTer d. S. B. B., Brünigw. 17
+– Ernst Gottfr., Metzgermeißter, Zimmerw. 10
 Bollw. 3286
-– Emst, Sekundarlehrer, Luisenstrasse 23
+– Ernst, Sekundarlehrer, Luisenstrasse 23
 Christ. 6194
 32geführten halbfetten Zahlen sind die im offi-Telophonnummern.
 # Date: 1927-12-15 Page: 25907308/498
@@ -39502,10 +39502,10 @@ Boilw. 1173
 Boiiw. 3740
 – Ernst, Magaziner, Lentulusstr. 47
 – Ernst, Afficheur, Laupenstrasse J 7
-– Emst, Metzgerei u. Viehhandel. Kramg. 34
+– Ernst, Metzgerei u. Viehhandel. Kramg. 34
 Christ. 3778
-– Emst, Schlosser, Murifeldweg 29
-– Emst, Siegrist d. Friedenskirche. Kirchbühlweg 23 Christ. 2185
+– Ernst, Schlosser, Murifeldweg 29
+– Ernst, Siegrist d. Friedenskirche. Kirchbühlweg 23 Christ. 2185
 – Ernst Hans, Schreiner, Mezenerweg 10
 – Ernst Johann, Schlosser, Morgemstrasse 7, Bümpliz
 – Ernst Rud., Schriftsetzer, Murifeldweg 22
@@ -39812,7 +39812,7 @@ Weber, s. auch Wäber
 – Emil, Buchbinder, Länggassstrasse 34a
 – Emil, Trambilletteur, Wittigkofenweg 1
 – Emilie, Bureaulistin, Spitalgasse 55
-– Emst, Bahnangestellter, Bümplizstr. 192d
+– Ernst, Bahnangestellter, Bümplizstr. 192d
 – Ernst. Bahntieaniler. Weissensteinstr 22
 – Ernst, Kaufmann, Standstr. 6 Christ. 6219
 – Ernst, Hilfsarbeiter, Bottigenstr. 31, Bümpliz
@@ -40565,7 +40565,7 @@ Aarbergergasse 42
 Christ 1007
 – Paul E., Zeichner, Balmaziweg 79
 – Bobert, Hafnermeister (Köniz). Seftigenstrasse 47
-– Ber,set, Emst, Fürsprecher, Sekretär dereidg. Handelsabteilg., Babbentalstr. 37f
+– Ber,set, Ernst, Fürsprecher, Sekretär dereidg. Handelsabteilg., Babbentalstr. 37f
 Christ. 6226
 – Maurer, O. B., Wwe., Bepotstrasse 44
 Wespi, Arth. Ed., Heizer, Pflug weg 6
@@ -41723,7 +41723,7 @@ Baudirektion, Hallerstrasse 41 Christ. 6329
 – Ernst. Elektriker, Metzgergasse 14
 – Ernst, Hilfsarb., Bottigenstr. 74, Bümpliz
 – Ernst, Packer, Wyttenbachstrasse 37
-– Emst Arn., Sattler u. Tapezierer, Quartierhof 8
+– Ernst Arn., Sattler u. Tapezierer, Quartierhof 8
 – Ernst, Schriftsetzer, Morellweg 12
 – Ernst W., Hilfsmonteur, Ladenwandstr. 11
 – Fr., Packer, Federweg 45
@@ -42022,7 +42022,7 @@ Zaugg, Ad., Heizer S. B. B., Trachselweg 15
 – Ernst, Lokomotivführer, Rohrweg 5
 – Ernst, Mechaniker, Zimmerweg 14
 – Ernst, Schreiner. Rodtmattstrasse 110
-– Emst, Telegraphist, Feilenbergstrasse 7
+– Ernst, Telegraphist, Feilenbergstrasse 7
 – Esther Emma, Weissnäherin, Brünnenstrasse 123, Bümpliz
 – Ferd. Alfr., Kaufmann, Blumenweg 9
 – Fr., Postkommis, Brückfeldstrasse 25
@@ -42393,7 +42393,7 @@ Zimmerlin, Martha, Laborantin. Hallerstr. 4
 Zimmermann, Adolf, Kanzlist, Viktoriastr. 89
 – Adolf, Handlanger, Weissensteinstr. 35
 – Alb., Wagenführer S. S. B.. Frohbergw. 10
-– ALbert Isidor, Kaufmann, Effingerstr. 92
+– Albert Isidor, Kaufmann, Effingerstr. 92
 – Alb., Wirt, Muesmattstrasse 40 Bollw. 2326
 – Alb., Babnarbeiter, Kirchbergerstr. 69
 – • Alex Max, Feinmechaniker. Militärstr. 24
