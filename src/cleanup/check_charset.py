@@ -11,7 +11,7 @@ import os
 
 
 ALLOWED_CHARS = set(
-    ',.–—-&/()[]↯«»’ 0123456789'
+    ',.:;–—-&/()[]↯ 📞«»’ 0123456789½'
     'ABCDEFGHIJKLMNOPQRSTUVWXYZ'
     'abcdefghijklmnopqrstuvwxyzäöüéèß')
 
