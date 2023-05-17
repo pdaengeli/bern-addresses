@@ -11,7 +11,7 @@ import os
 
 
 ALLOWED_CHARS = set(
-    ',.:;–—-&/()[]↯ 📞«»’ 0123456789½'
+    ',.:;–—-&/()[]↯ 📞«»’ 0123456789'
     'ABCDEFGHIJKLMNOPQRSTUVWXYZ'
     'abcdefghijklmnopqrstuvwxyzäöüéèß')
 
@@ -19,12 +19,13 @@ ALLOWED_CHARS = set(
 def check():
     dirpath = os.path.join(os.path.dirname(__file__), '..', '..', 'proofread')
     stats = {}
+    exceptions = read_exceptions()
     for filename in sorted(os.listdir(dirpath)):
         if not filename.endswith('.txt'):
             continue
         date = filename.removesuffix('.txt')
         year = int(date[:4])
-        # if not year < 1870: continue
+        # if year != 1935: continue
         num_records = 0
         num_bad_records = 0
         with open(os.path.join(dirpath, filename)) as f:
@@ -39,11 +40,22 @@ def check():
                 ok = ok and line.count('(') == line.count(')')
                 ok = ok and line.count('[') == line.count(']')
                 ok = ok and line.count('«') == line.count('»')
-                if not ok:
+                if not ok and line not in exceptions:
                     num_bad_records += 1
-                    # print(line)
+                    print(line)
         stats[date] = (num_bad_records, num_records)
     return stats
+
+
+def read_exceptions():
+    path = os.path.join(os.path.dirname(__file__), 'charset_exceptions.txt')
+    result = set()
+    with open(path) as f:
+        for line in f:
+            line = line.strip()
+            if line and line[0] != '#':
+                result.add(line)
+    return result
 
 
 def print_stats(stats):
@@ -61,5 +73,3 @@ def print_stats(stats):
 if __name__ == '__main__':
     stats = check()
     print_stats(stats)
-
-
