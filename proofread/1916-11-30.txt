@@ -990,7 +990,7 @@ Balmer, Emma, Bureaulistin, Gesellschaftsstrasse 27
 Balsiger, A., Bäekermstr., Kramgasse 57 {846
 – A. A., Heizer, Buchenweg 14
 – Ad., Maler, Gesellschaftsstrasse 24
-– Ad., Kaufmann, in Firma Balsiger & Go., Scheuerrain 1 {1609
+– Ad., Kaufmann, in Firma Balsiger & Co., Scheuerrain 1 {1609
 – Alb., Buchbinder, Schwarzenburgstr. 8
 – Albert, Pferdewärter, Breitfeldstrasse 52
 – Alex., Heizer, Holzikofenweg 16
@@ -1064,8 +1064,8 @@ Bandi, Alex., Schreiner, Freie Strasse 28
 – Joh., Turnlehrer, Flurstrasse 35
 – Jul., Kaufmann, Kramgasse 35
 – L. K., Bureaulistin, Freie Strasse 15
-– Marbach, Lina Josephine, i. Fa. J. Bandi-Marbach & Go., Kramgasse 35
-– Marbach, J., & Go., Korbwaren- und Kinderwagengeschäft, Kramgasse 59 {2589
+– Marbach, Lina Josephine, i. Fa. J. Bandi-Marbach & Co., Kramgasse 35
+– Marbach, J., & Co., Korbwaren- und Kinderwagengeschäft, Kramgasse 59 {2589
 Bandlin, 0., Dienstchef b. Telegraphenbureau, Sennweg 12
 – Tschantre, Hans, Aktuar b. Richteramt H, Berchtoldstrasse 6
 Bangerter, E., Vertreter, Effingerstr. 67 {213/
@@ -2258,7 +2258,7 @@ Bigler, Hans, Stallhalter (Berchtoldstr. 25), Speichergasse 5
 – Rudolf, Schmied, Scheibenstrasse 27
 – U. Walter, Assistenzarzt, Schanzenstr. 23
 – W., Stereotypeur, Lorrainestrasse 2
-– Spichiger & Go., techn. Bureau, eiektr.
+– Spichiger & Co., techn. Bureau, eiektr.
 Bahnmaterial, Bahnhof platz 1 (2620
 – Feldmann, Friedr., Chauffeur, Metzgecg.18
 – Gisiger, Franz, Oberst, Mattenhofstr. 41
@@ -3366,7 +3366,7 @@ Brunschwyler, Alfr., in Fa. J. Brunschwylers
 Söhne, Ghoisystrasse 7 11948
 Brunschwyler, J. O., Spengler, Haldenweg 18
 – J.’s Söhne, Sanitäre Anlagen und Tiefbau, Bubenbergplatz 9 11608; Zementwarenfabrik Liebefeld
-– & Gie., Zentralheizungsunternehmer, Scheibenstrasse 17 (4570
+– & Cie., Zentralheizungsunternehmer, Scheibenstrasse 17 (4570
 – -Scheurer, Joh. L., Ingen., i. Fa. J. Brunschwylers Söhne, Weissenbühlweg 7 (3216
 Brupbacher, A., Konditor, Schauplatzgasse 19
 – A., Frl., i. Fa. Schwestern Brupbacher, Zeughausgasse 16
@@ -4274,7 +4274,7 @@ Christen, Albert, Angestellter, Graffenriedw, 6
 Bern, Niggelerstrasse 10
 – Emil, Kommis, Beundenfeldstrasse 21
 – E., Bankangestellter, Kramgasse 38
-– E. & Go., Zig.-Import, Bubenbergpl. 13376
+– E. & Co., Zig.-Import, Bubenbergpl. 13376
 – E. A., Postangestellter, Ralligweg 16
 – Ernst, i. Fa. E. Christen & Cie., Zigarrenhandlung, Engestrasse 43
 – Ernst, Zimmermann, Waffenweg 24
@@ -4906,7 +4906,7 @@ Dreifuss und Dreyfuss
 – J., Uebersetzer der Bundeskanzlei, Falkenplatz 24
 – Max, Angestellter, Gerechtigkeitsgasse 11
 – S., Tuchhandlung (Optingenstrasse 51), Waisenhausplatz 4
-– & Go., Gonfection Exzelsior, Waisenhausplatz 3 (4771
+– & Co., Gonfection Exzelsior, Waisenhausplatz 3 (4771
 – Bloch, Saml., Weisswarenhändler, Gerechtigkeitsgasse 11
 Drenckhahn-Rietmann, Hans, Glasmalerei, Postgasshalde 35 1159
 Dressler-Beisswenger, Rosa, Warenhaus «Old
@@ -5422,7 +5422,7 @@ Ellenberger, Alb., Schlosser, Zieglerstrasse 62
 – Friedr. Gottl., Angestellter, Wasserwerkg. 8
 – Mina, Bureaulistin, Schwarztorstrasse 55
 – Otto Albert, Chauffeur, Zieglerstrasse 62
-– Rob., Prokurist d. Firma Ryff & Gie., A.-G., Kirchenfeldstrasse 61 $5322
+– Rob., Prokurist d. Firma Ryff & Cie., A.-G., Kirchenfeldstrasse 61 $5322
 – Rob., Weichenw., Murtenstrasse 131
 – Rud., Maler, Bühlstrasse 39
 – -Frauenfelder, Albert, Vorsteher d. Anstalt
@@ -6263,7 +6263,7 @@ Förster, A., Dr. phil., Prof, der Physik u. Meteorologie, (Observatorium, Gr.. 
 – Eug. N., Privatiere, Sternwartstr. 5
 – K., Dr. med., Arzt u. Spezialarzt f. Frauenkrankh. u. Geburtshilfe, Falkonpl. 22 (2645
 – Olga Marg., Angestellte, Gurtengasse 3
-– & Go., Teppichhaus, Effingerstr. 1, Ecke
+– & Co., Teppichhaus, Effingerstr. 1, Ecke
 Monbijoustrasse (Bund-Haus) (240
 – Meyer, Karl, i. Fa. Förster & Co., Sulgenheimweg 5 (3364
 – Nydegger, Lina, Pension, Monbijoustr. 24
@@ -6695,7 +6695,7 @@ Fürst, Emil, städt. Beamter, Nordweg 10
 – Jak., Hilfsmonteur, Burgfeldweg 15
 – L., Lehrerin, Breitenrainplatz 38b
 – Niki., Schuhmacher, Brunngasse 46
-– F. & Gie., A.-G., Schuhhandlg. u. -Fabrikation, Spitalgasse 9 $80
+– F. & Cie., A.-G., Schuhhandlg. u. -Fabrikation, Spitalgasse 9 $80
 – Wagner, Agnes, Nordweg 10
 Furier, Ernst, Elektromonteur, Neufeldstr. 15
 – Hans, Zollbeamter, Monbijoustrasse 21
@@ -8434,7 +8434,7 @@ Hotelgasse 3
 – Rudolf, Handlanger, Neuhäuserweg 8
 – Rudolf, Schlossermeister, Quartierhof 13
 – Wälder, J., Vizedirektor d. Schweiz. Mob.-Vers.-Gesellschaft, Marienstrasse 16
-Gygi, Fritz, Maler, in Firma F. Gygi & Go., Dekorations- und Flachmalerei, Weststrasse 25 14512
+Gygi, Fritz, Maler, in Firma F. Gygi & Co., Dekorations- und Flachmalerei, Weststrasse 25 14512
 – F. & Co., Dekorations- und Flachmalerei, Gipserei, Florastrasse 4 11827
 – Severin, Walter, Bildhauer und Architekt
 – (Florastrasse 6), Schauplatzgasse 33
@@ -8464,7 +8464,7 @@ Gysin, Emil, Beamter der Oberpostdirektion, Höhe weg 11 !
 Gysling-Seiler, Alb., Kunstmaler, Kunsthdlg.und Papeterie (Schwarztorstr. 59), Monbijoustrasse 39
 H.
 Haab, Sim. Robert, Dr. jur., Generaldirektorder S. B. B., Schwarztorstr. 26 11465
-Haaf & Go., A.-G., ehern. Fabrik und Drogen-Grosshandlung, Liebefeld 11587
+Haaf & Co., A.-G., ehern. Fabrik und Drogen-Grosshandlung, Liebefeld 11587
 – Rubin, Fritz, Haafsche Apotheke u. Drogerie (Lombachw. 40 12786), Marktg. 44 181
 Haag, E., Zimmermstr., Flurstrasse 4 13537
 – Friedr., Kommis, Belpstrasse 30
@@ -9412,7 +9412,7 @@ Henzi, s. auch Henze
 – M., Frl., Privatiere, Vereinsweg 6
 – Max, Bankkassier, Tillierstrasse 53
 – W., Kaufmann, Tillierstrasse 53
-– & Go., R., Photo-chemigraphische‘ Anstalt, Langmauerweg 12 ↯1571
+– & Co., R., Photo-chemigraphische‘ Anstalt, Langmauerweg 12 ↯1571
 – Brechet, Emil, Notar, Nachf. von Henzi, Heimei & Cie., Notariat u. Vermögensverwalt. (Thunstr. 29 ↯1899), Marktg. 46 ↯1107
 – Dietler, Anna, Privatiere, Tillierstrasse 53
 – Gfeller, Otto, Bankangest., Stockernweg 10
@@ -14521,14 +14521,14 @@ Locher, Alb., Reg.-Rat, Schläflistr. 12 {4285
 – J., Beamter der S. B. B., Zähringerstr. 31
 – Job., Einzieher u. Abwart, Kramgasse 32
 – K. Hugo, Direktor der Firma G. Holliger
-& Go. A.-G., Sulgenauweg 22
+& Co. A.-G., Sulgenauweg 22
 – Konr., Reisender, Frohbergweg 3 {4761
 – K., Bäckerei, Speichergasse 9 {3483
 – Mina, Kanzlistin d. Stadtkanzlei, Seftigenstrasse 20
 – Rob. Emil, Angestellter des Militärdepartements, Zieglerstrasse 42
 – Werner, Beamter d. S. B. B., Diesbachstr. 3
 – Wilh. Gottl., Schreiner, Gerbergasse 4
-– & Go., Tee-, Kaffee- u. Kolonialwarenhdlg., Spitalgasse 40 {748 (Bureau-Privat-Teleph.
+– & Co., Tee-, Kaffee- u. Kolonialwarenhdlg., Spitalgasse 40 {748 (Bureau-Privat-Teleph.
 {2416). Engros-Lager. Belpstrasse 37a
 Locher-Bürki, Herrn., i. Firma Locher & Co., Generalkonsul von Costa Rica, Sulgenauweg 12 {719
 – Burri, Rosa Marie, Wwe., Hallerstr. 39
@@ -14856,7 +14856,7 @@ Lüthi, s. auch Lüthy
 – J., & Zingg, feine Weine und Spirituosenen gros, Hirschengraben 6 11232
 – Zingg & Marcet, Weinimport en gros, Hirschengraben 6 11232
 – & Bilgeri, Gipser- u. Malermstr., Schwarztorstrasse 25 191g
-– & Go., Schuhwarenhdlg., Spitalg. 43 11172
+– & Co., Schuhwarenhdlg., Spitalg. 43 11172
 – Buchser, Anna, Wwe., Murifeldweg 3
 Lüthi, s. auch Lüthy
 – Falb, E., alt Gymn.-Lehrer, Direktor der
@@ -16027,7 +16027,7 @@ Meyer u. Meier
 251
 Militärversicherung
 Meyer und Meier, s. auch Maier und Mayer
-– -Müller & Go., A.-G., Teppichhaus, Linoleum-Fabrik Northallerton, Deutsche Linoleumwerke. «Hansa», Delmenhorst, Teppich-Fabrik St. Nicolas, Bubenbergplatz 10 (532
+– -Müller & Co., A.-G., Teppichhaus, Linoleum-Fabrik Northallerton, Deutsche Linoleumwerke. «Hansa», Delmenhorst, Teppich-Fabrik St. Nicolas, Bubenbergplatz 10 (532
 _Mürle, Joh. Jakob, Goldschmied, Gesellschaftsstrasse 11
 _Roy, Siegfr., Zugführer S. B. B., Gäcilienstrasse 59
 – -Ruch, Ernst, i. Fa. Meyer & Cie., Weinhandlung, Optingenstrasse 44
@@ -16622,7 +16622,7 @@ JMühlematter, Gottfr., Handlgr.,Freiburgstr.lll
 – Eugen, Kaufmann, Fischerweg 6
 – Marie M., Ladentochter, Brückfeldstr. 10
 – & Co., Käseexport, Effingerstrasse 69 (927
-– Poyet, Ernst, Kaufmann, i. Fa. von Müh-Jenen & Go., Effingerstrasse 69
+– Poyet, Ernst, Kaufmann, i. Fa. von Müh-Jenen & Co., Effingerstrasse 69
 Mühlestein, Rosa, Hebamme, Gurtenbülil 631
 – Sattler j. Zeughaus, Zähringerstr. 27
 Mühlethaler, A., Magaziner, Lentulusstr. 40
@@ -18140,7 +18140,7 @@ Piller, Alph. Franc;., Bureaulist, Kramg. 68
 Pillichody, Hans, Kaufm., Schwarztorstr. 57
 – Benteli, M., Wwe., Priv., Bubenbergpl. 4
 – Nivert, Albert, eidg. Forstinspektor, Bühlstrasse 29
-Pilz, Heinr., Warenkredithaus «Globus», vormals A. David & Gie., Marktgasse 9 {2271
+Pilz, Heinr., Warenkredithaus «Globus», vormals A. David & Cie., Marktgasse 9 {2271
 Pistermann, Esther, Damenschneiderin, Waldheimstrasse 16de Pitard-Bullock, Guy, Luisenstrasse 22
 Pittet, E., Tramführer, Weissensteinstr. 47
 Plakatgesellschaft, allgemeine, Neueng. 24 {710
@@ -18579,7 +18579,7 @@ Rauscher, C., Privatiere, Tscharnerstrasse 1
 Rauss, E. L., Geometer, MurifeldAveg 24
 – F. E., Tramführer, Brunnmattstrasse 81b
 – P. Emil, Magaziner, MurifeldAveg 24
-Rausser & Go., techn. Bureau, Ziegelei-Einrichtungen, Bolhverk 39 #092
+Rausser & Co., techn. Bureau, Ziegelei-Einrichtungen, Bolhverk 39 #092
 – Kramer, Alfr., Ingenieur, i. Fa. Rausser
 & Co., Bollwerk 39
 Rauter, F. H., Zuschneider, Hallerstrasse 27
@@ -19248,7 +19248,7 @@ Roos, Anna, Apothekerin, Freiburgstrasse 4
 – Wolfram, A., Wwe., Beundenweg 6
 Rooschiiz, Hans, Kaufm. (Falkenhöheweg 5
 $ 345 ), Schanzenstrasse 6 $857
-– & Go., Agenturen, Verwaltungen, Import u.
+– & Co., Agenturen, Verwaltungen, Import u.
 Export, Schanzenstrasse 6
 Roost, Hermann, Bureauchef S. B. B., Mittelstrasse 61
 Roquette-Lasserre, A., Frau Dr., Wwe. d. kgl.
@@ -19403,13 +19403,13 @@ Roth, Gertrud, Ländteweg 1
 – Rud., Kondukteur, Pestalozzistrasse 10
 – Ulrich, Tapezierer, Bettfedernreinigung, Desinfektionsanstalt, Weihergasse 19 14616
 Rothenbach, A., sen., Ing., i. Fa. Rothenbach
-& Go. K. A.-G., Monbijoustr. 9t 1941
+& Co. K. A.-G., Monbijoustr. 9t 1941
 – Alfr. Emil, jun., Ing., i. Fa. Rothenbach &
 Co. K. A.-G., Monbijoustrasse 95 1941
-– Ernst, Ingenieur, i. Fa. Rothenbach & Go.
+– Ernst, Ingenieur, i. Fa. Rothenbach & Co.
 K. A.-G., Monbijoustrasse 97 1941
 – Max Paul, Architekt, Monbijoustrasse 91
-– & Go. K. A.-G., Ingenieurbureau, Bau und Betrieb von Gaswerken, Monbijoustrasse 91
+– & Co. K. A.-G., Ingenieurbureau, Bau und Betrieb von Gaswerken, Monbijoustrasse 91
 1941
 Rothenbühler, Ernst, Postkommis, Gesellschaftsstrasse 39
 – Jak., Handlanger, Aarbergergasse 34
@@ -19986,7 +19986,7 @@ Salvisberg, Herrn., eidg. Beamter, Gryphenhübeliweg 19 :3245
 – Haller, Paul, Geschäftsführer d. Velofabr.
 «Gosmos», Filiale Bern, Falkenplatz 5 {2076
 – Jenny, Otto, Baumeister, i. Fa. Salvisberg
-& Gie., Moserstrasse 15 {3770
+& Cie., Moserstrasse 15 {3770
 – Schibier, E. K., Wwe., Optingenstrasse 42
 – -Steiner, Rosa, Murtenstrasse 43
 Salz, G., Buchdrucker, Eschenweg 5
@@ -20345,11 +20345,11 @@ Schönau, Schönauweg 5 11941
 – Weber, 0., Vertreter, Optingenstr. 46 {3708
 – Wenger, Elise, Wwe., Frohbergweg 4
 Schärli, Jak., Schriftsetzer, Allmendstr. 38
-Scharplatz, Joh., i. Firma Bergner & Go., Optingenstrasse 45
+Scharplatz, Joh., i. Firma Bergner & Co., Optingenstrasse 45
 Scharschawsky, D., Chemiker, Seftigenstr. 27
-Schätti, E. & Go., Tuchhdlg., Kramg. 16 {4148
+Schätti, E. & Co., Tuchhdlg., Kramg. 16 {4148
 – Herrmann, Rob., Beamter, Tavelweg 29
-– -Ziegler, E., in Fa. E. Schätti & Go., Bubenbergstrasse 19
+– -Ziegler, E., in Fa. E. Schätti & Co., Bubenbergstrasse 19
 Schätz, Adrien, Ingen., Engestrasse 57 {3669
 Schätzte, E., Damen- u. Herren-Goiffeurgesch.
 (Brüekenstr. 1 {4043), Bundesgasse 3 13939
@@ -21743,7 +21743,7 @@ Schwab-v. Arx, Berta, Privatiere, Rabbentalstrasse 91 ↯2634
 – Hartmann, Marie, Wwe., Zähringerstr. 7
 ,—Wiedmer, Marie, Bundesgasse 20
 Schwabe, F., Gipser- und Malermeister, i. Fa.
-Gygi & Go., Dekorations- u. Flachmalerei, Gipserei, Florastrasse 2 ↯1827
+Gygi & Co., Dekorations- u. Flachmalerei, Gipserei, Florastrasse 2 ↯1827
 – Heinr., Blumenhändler, Schauplatzgasse 29
 Schwager, Josef, Beamter S. B. B., Bümpliz
 Schwader, Jos. Emil, mech.-technische Werk. stätte, Schwarztorstrasse 83 ↯4643
@@ -24029,9 +24029,9 @@ Thibaud, G., Bureauangestellte, Florastrasse 26
 Thiebaud, Eug. O.. Schneider, Bremgartenstrasse 39
 Thiele, Charles, Prediger, Laupenstrasse 13
 Thielert, Gottl. Franz, Kaufm., Muristr. 47
-– H., & Gie., Sattelfabrik und Reiseartikelgeschäft, Spitalackerstrasse 60 {1131
-– Herrn., in Firma H. Thielert & Gie., Zeughausgasse 5
-– M. Emma, in Firma H. Thielert & Gie., Muristrasse 47 {4493
+– H., & Cie., Sattelfabrik und Reiseartikelgeschäft, Spitalackerstrasse 60 {1131
+– Herrn., in Firma H. Thielert & Cie., Zeughausgasse 5
+– M. Emma, in Firma H. Thielert & Cie., Muristrasse 47 {4493
 – Kunz, Gottl., Vater, Muristrasse 47 {4493
 Thierstein, Alfred, Architekt, Mayweg 14
 – Fr.,. Bäckerei u. Konditorei, Gerbergasse 6
@@ -24132,7 +24132,7 @@ Tivoli, Gastwirtschaft, Hofweg 11 {376v. Tobel, s. auch Vontobel
 {2831
 – Gottfried, Instrumentenmacher, Länggassstrasse 60
 – & Co., R. (Nachfolger von Berthoud & Co.), Weinhandlung, Effingerstrasse 15 {664
-– Keller, Rud., in Firma R. v. Tobel & Go., Effingerstrasse 15 {5329
+– Keller, Rud., in Firma R. v. Tobel & Co., Effingerstrasse 15 {5329
 Tobler, s. auch Dobler
 – E. E., Frl., Privatiere, Ob. Dufourstr. 49
 – Gust., Dr. phil., Prof., Sulgeneckstrasse 8
@@ -25567,7 +25567,7 @@ Weissmüller-Rufener, H., Butter- und Käsehandlung, Monbijoustrasse 27 12528
 Weitpert, Friedr., Schriftsetzer, Kasernen-Weilauer, W., Tarifbeamter S. B. B., Fichtenweg 3
 Wellinger, Emil, Monteur, Turnweg 26
 Wells Fargo Co. Express, Agentur !A. Bauer
-& Go., Münzgraben 11 11638
+& Co., Münzgraben 11 11638
 Welmer-Greber, Frz., Bankabwart, Ghristoffelgasse 2
 Welten, Klara, Ladentochter, Ryffligässchen 15
 Weiter, Klara, Vorsteherin des Notasyls, Tscharnerstrasse 10
@@ -25921,7 +25921,7 @@ Wiesmann, s. auch Wyssmann
 – E., Frau, Glätterin und Wäscherin, Klösterlistutz 8
 – Emma Marie, Brunnmattstrasse 38a
 – Gottlieb, Schreiner, Klösterlistutz 8
-– Paul, Ingenieur, in Fa. Wiesmann & Go., staatl. Automobilexperte, Monbijoustrasse 6
+– Paul, Ingenieur, in Fa. Wiesmann & Co., staatl. Automobilexperte, Monbijoustrasse 6
 12515
 – Reinhold, Redaktor d.. (Schweiz. Depeschen, agentur, Aegertenstrasse 64
 – & Cie., elektr. Anlagen (vorm. Wiesmann &
@@ -26581,7 +26581,7 @@ Firma G. Wyss, Wwe., Sandrainstrasse 33v. Wyss, Helene, Privatiere, Kramburgstr.
 – v. Jenner, G. S. E., Wwe., Kramburgstr. 16
 – v. Muralt, Anna, Privatiere, Kramburgstrasse 16 13053
 Wyssbrod, Emil, Reisender der Firma R. von
-Tobel & Gie., Daxeihoferstrasse 1
+Tobel & Cie., Daxeihoferstrasse 1
 Wyssenbach, s. auch Weissenhach
 – F. Erhard, Bankangest., Fellenbergstr. 13
 – Fr., Tapezierer, Feilenbergstrasse 13
