@@ -179,7 +179,7 @@ Aeschbacher, Anna, Krankenwärterin, Spitalg. 16
 – Biirki, Frau E., Wochenmagd, Nydeckhof 35
 – Ochsner, Beamter d. J.-B.-L.-Bahn, Längg., Druckereiweg 3
 – Ochsner, Frau, Damenschneiderin, Längg., Druckereiw. 3
-■-Wiss, Fr., Blumenhandlg., Waisenhausplatz 27
+– Wiss, Fr., Blumenhandlg., Waisenhausplatz 27
 – Frl., Rentiere, Herreng. 22
 Aeschlimann, Adele, ßroderiehandlung, (Brunng. 50), Kornhausplatz 6
 – Clir., Drosclikenhalter, Marktg. 48
@@ -2674,7 +2674,7 @@ Grau, J. U., Schuhmacher, Aarbg. 12
 Gräub,Gottfr., Thierarzt (Waisenhstr.16), Aarbergerg. 41
 – Joh., Schneider, Mattenhof, Brunnhofweg 5
 – Gertsch, H., Bahnhofeinnehmer, Kramgasse 31
-■-Gertsch, M., Modiste u. Huthdlg., Kramg. 31
+– Gertsch, M., Modiste u. Huthdlg., Kramg. 31
 Grauer-Mtiller, Samenhdlg., Aarbergergasse (35) 89v. Grävenitz, Aug.,Hauptm., Bundesg. 18
 Grebert, lcathoL Vikar, Gerechtigkg. 64
 Greiseirasyl u. Roschi-Stiftung, Seftigenstrasse 109
@@ -3292,7 +3292,7 @@ Hirsbrunner, A. Barb., Flussbadhalterin, Marzilistr. 29
 – R., Drechsler (in Fa. Ruch & Hirsbrunner), Längg. (Mittelstrasse 30), Zähringerstr. 27
 – R. W., Amtsger.-Weibel, Holligenstrasse 30
 – -Fierz, J., Metzger und Spezierer, Herreng. 14
-■-Fiiri, Frau, Damenschneid., Längg., Mittelstr. 30
+– Fiiri, Frau, Damenschneid., Längg., Mittelstr. 30
 Hirschburger, Ph., Kappenm., Marktg. 18
 Hirschi, Chr. Fr., Schlosser, Stalden 36
 – Ch., Uhrenmacher, Herreng. 4
@@ -4057,7 +4057,7 @@ Hirter & Werthmüller, Spitalg. 10
 – Schenkel, Lithograph, Länggasse, Mittelstrasse 26
 – -Schmidlin, Arnold, Oberst, Gesellschaftsstrasse 1
 Keller-Steinegger, El., Wwe. d. Malers, Altenbergstr. 58
-■-Steinegger, L., Wittwe, Fleuriste, Gerechtigkeitsgasse 29
+– Steinegger, L., Wittwe, Fleuriste, Gerechtigkeitsgasse 29
 – & Siegenthaler, Sauerkrauthandlg., Brunng. 25; Bureau: Inn. Bollw. 3
 (j Concerthalie)
 Kempf, K., Schuhmacher, Matte, Badg. 35
@@ -4743,7 +4743,7 @@ Lequin, P. A., gew. Handelsgärtner, Weissensteinstrasse 4'2
 Lerber-Schule, Predigergasse 12von Lerber, F. Theodor, Schuldirektor, Suigeneckstrasse 44
 – J., Frl., Privatiere, Sulgenrain 11
 – Lauterburg, Arth.Gymnasiallehrer, Gerechtigkeitsgasse -.2
-■-Marcuard, Karl, Architekt, Laupenstrasse 7
+– Marcuard, Karl, Architekt, Laupenstrasse 7
 Lerch, Jak., Dr., Oberrichter, Aargauerstalden, Papiermühlestr. 9
 – J., Abwart des Geniebureau, Aarbergerg. ->2
 – Stadelmann, Karol., 5 Damenschneiderin, Aarbergergasse 32
@@ -6576,7 +6576,7 @@ Haspehveg 12
 – Willi., Damenschneid., Waisenhpl. 21
 – Buchser, Frau, Hebamme, Lorr., Centralweg 21
 – Meng, B., Schneider, Metzgerg. 70
-■-Messerli, Frau, Wäscherin, Matte, Gerberg. 21
+– Messerli, Frau, Wäscherin, Matte, Gerberg. 21
 – Rosat, Fr., Weinhdlr. (Stadtbach, Wildhainw. 4), Aeuss. Bollw. 21
 – Schild, S. K., Wittwe, Privatiöre, Marktg. 24
 – -Schleucher, G., Wirth, Cafe Bellevue, Beundenf., Militärstr. 42
@@ -7000,7 +7000,7 @@ I-Böhlen, Felix, Dr. med., Bandagist
 – Hofer, J., Angest. b. d. Exped. d.
 „Bund“, Kesslerg. 37
 Schenkel-Meyer, J., Bedient., Marzstr. 35
-■-Meyer, M., Damenschneid., Marzilistr. 35
+– Meyer, M., Damenschneid., Marzilistr. 35
 Schenker, Pr., Geometer, Neueng. 23
 – Fischer, Wwe., Weisswaarenhdl., Kramgasse 10
 Scherb, G., Zahnarzt, Waisenhauspl. 25

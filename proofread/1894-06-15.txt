@@ -2582,7 +2582,7 @@ Bureau, Sandrainstrasse 52
 – J. W., Angestellter des Militärdep., Sandrainstrasse 52
 Ehrbar, Bertha, Geliülfin d. J. S., Käfiggässchen 24
 – Ernst, Commis der J. S., Kiifiggässchcn 24
-■-Teutsch, R., Wwe., Käfiggässcii. 24
+– Teutsch, R., Wwe., Käfiggässcii. 24
 Ehret, s. auch Ehrat
 – Karl, Schuhmacher, Kesslerg. 37
 Ehrsam, Elis., Privatiöre, Länggasse, Mittelstrasse 32
@@ -2927,7 +2927,7 @@ J-LieutenantErnst Steinegger, Altenbergstrasse 10
 {— -Lieutenant K. Hofstetter, Neuengasse 44
 – Adjutant Kehrer, Kramg. 58
 – Oberumbieter J. Rieder, Metzgergasse 73
-■-Foldweibol Karl Hofer, Stalden 26
+– Foldweibol Karl Hofer, Stalden 26
 – Wachtmstr. Zimmermann, Schosshalde, Friedhof
 |-Wachtmeister Arber, Murtenstr. 43t — -Korporal Lanz, Sulgenb., Giessereiweg 18
 Feusi, J. M., Mechaniker, Kramg. 38
@@ -3795,7 +3795,7 @@ Gloor, Adolf, Lehrer, Lorr., Centralw. 25
 – Otto, Fürsp recher, Breitenrain, (Zaunweg "i),' Vvaghausgasse 4
 (siehe Inseratenteil, pag. 61)
 – R., Kaffee- u. Kiichliwirt, Neueng. 10
-■-Bnxcel, Aug., Kaufmann, in Fa.
+– Bnxcel, Aug., Kaufmann, in Fa.
 Müller & Cie., Schreibbücherfabrik
 Bern, Längg., Mittelstr. 42
 – Ellenberger, K., Frau, Spezereihandlung, Länggasse 44, II
@@ -3854,7 +3854,7 @@ Götz, Ch., Möbelmagazin, Metzgerg. 42
 • — Franz, Herren- und Knabenkleulerverkauf, Waisenhausplatz 5
 – Mich., Schneider, Worblaufenstr. 11
 – Böhlen, M. E., gew. Wirtin, Kramgasse 40
-■-Niggli, E., Kleider-, Hut- u. Tuclihandlung, Neuengasse 23
+– Niggli, E., Kleider-, Hut- u. Tuclihandlung, Neuengasse 23
 – Oswald, C., Küfer, Gerechtigg. 36
 – Oswald, Frau, Kostgeberin, Gerechtigkeitsgasse 36v. Goumoens -Wurstemberger, A. E., Rentier, Spitalgasse 26
 Gräber, Arnold, Schriftsetzer, Liingg., Bäckereiweg 13
@@ -5148,7 +5148,7 @@ Hönger, Gottl., VVeber, Matte, Gerbergasse 22
 Hönle, Karl, Sehreiner, Matte, Gerbergasse 8
 Hopf, Paul, Kanzlist des Dep. d. Auswärtigen, Schauplatzgasse 39
 – Manuel, Frau, Schauplatzgasse 39
-■-Kickli, A. B. K., Witwe des Br., Junkerng. 53
+– Kickli, A. B. K., Witwe des Br., Junkerng. 53
 – -Stucki, Wwe., Brunnmattstrasse 46
 Hopfenkranz, Oberer, Bierwirtschaft, Neueng. 1 u. Waisenhausplatz 8
 {— Unterer, Bierbrauerei u. Bierwirtschaft, Matte, Gerbergasse 11
@@ -5952,7 +5952,7 @@ Känel, Gottfr., Bureaudiener, Worblaufenstrasse 11v. Känel, Christian, Spengle
 – Marie, Lehrerin, Breitenrain, Turnweg 7
 – Itten, H., Blumen-, Federn- u. Huthandlung, Schauplatzg. 37
 – Ryser, Anna, Witwe, Brunng. 9
-■-Wahlen, M., Wwe., Kleinbäckerin, Waisenhausplatz 6j Kantonalbank, Bundesg. rfj Kantonsbuchhalterei, Münsterplatz 31>
+– Wahlen, M., Wwe., Kleinbäckerin, Waisenhausplatz 6j Kantonalbank, Bundesg. rfj Kantonsbuchhalterei, Münsterplatz 31>
 Kantonskasse, Ilerreng. 1 (Annex des
 Stiftgebäudes)
 (Kantons-Kriegskommissariat, Beundenfeld, Papiermühlestr. 17
@@ -7231,7 +7231,7 @@ Justizdirektion, Länggasse, Neufeldstrasse 6
 – Geschw., Spezerei-, Mercerie- und Garnhandlg., Lorrainestrasse 20
 |— Baur & Frutiger, Notariatsbureau, Schauplatzgasse 37
 – Allemann, Wwe. des Professors, Zeughausgasse 20
-■-Glauser, El., Frau, Lehrerin, Marzilistrasse 6
+– Glauser, El., Frau, Lehrerin, Marzilistrasse 6
 – Glauser, Fr., Lehrer, Marzilistr. 6
 – Graf, Frau, Korsettmacherin, Länggasse, Lerchenweg 26
 – Kauer, A. M., Wwe., Kostgeberin, Gcrechtigkeitsgasse 77
@@ -7364,7 +7364,7 @@ Lceb, David, Handelsmann, i. Fa. j Gebr.
 Loeb, Hirschengraben 8
 J — Gebr., Garn-, Mercerie- u. Wollenwarenhandlung, Spitalgasse 32
 Lobsiger, Alex., Metzgermeister, Kramgasse 39
-■-Ritter, Frau, Fleuriste, Marktg. 56
+– Ritter, Frau, Fleuriste, Marktg. 56
 Lochbrunner, Th., Uhrenmacher (Inselgasse 4), Amtliausgasse 3
 Locher, Bertha, Damenschneid., Spitalgasse 23
 !— C., Thee- und Kolonialwarenhdlg., Spitalgasse 42j— J., Kolonialwaren- und Weinhdlg., Kramgasse 8; Filiale: {Rabbenthal, Oberweg 10
@@ -12519,7 +12519,7 @@ Vereinsweg 30
 – Kiienzi, P., Witwe, Gemüsehändlerin, Bolligenstrasse 38
 – Ledermann, A. El., Witwe des
 Bäckermeisters, Stalden 27
-■-Morf, M., Frau, Damenschneiderin, Marktgasse 20
+– Morf, M., Frau, Damenschneiderin, Marktgasse 20
 – Schwarzmann, Wwe., Lorr., Quartiergasse 11
 Tschäppi, Ferd., Aufseher in der Spinnerei Felsenau, Felsenaustr. 18v. Tscharner, A. B. Paul, Handelsmann,.
 Junkerng. 61
@@ -12782,7 +12782,7 @@ Wäber, Laupenstr. 8
 – S. El., Frl., Länggasse, Gesellschaftsstrasse 21
 – Lina, Frl., Privatiere, Junkerng. 5
 |-Lindt, Ad., gew. Gymnasiallehrer, Neubriickstrasse 29 (Neufeld)
-■-Sclimid, K., Werkm., Laupenstr. 8
+– Sclimid, K., Werkm., Laupenstr. 8
 Wabst, 0., Schneider, Junkerng. 28
 Wächli, K., Chef d. städt. Steuerbureau, Kirchenfeld, Florastrasse 11
 – Mgdl., Frau, Pensionshalterin, Lgg., Lerchenweg 28
@@ -13481,7 +13481,7 @@ Wittwer, s. auch Widmer u. Wiedmer
 – R., Büchsenmacher, Lorr., Dammweg 23
 – Rud., Schmied, Länggassstr. 93
 – Samuel, Bahnhofarbeiter, Wolilenweg 50
-■-Bill, Sam., Milch-, Käs- u. Ankenhändler, Aarbergergasse 34
+– Bill, Sam., Milch-, Käs- u. Ankenhändler, Aarbergergasse 34
 – Bircher, Lina, Wwe., Krankenwärterin, Weissensteinstr. 36
 – Bükler, El., Vorgängerin, Gerechtigkeitsgasse 49
 – Luginbühl, El., Witwe, Lorraine, Haldenweg 18
@@ -13604,7 +13604,7 @@ Kirchenfeld, Thunstrasse 18
 – Glauser, Fr., Grossmetzgermeister, Spitalgasse 20
 – Grossenbacher, Joh., Kanzlist deseidg. Militärdep., Längg., Hohgantweg 5
 – Hirsbrunner, A., Wwe. des Schuhmachers, Aarbergergasse 29
-■-Moser, A., Wwe. d. Angestelltend. Amtschreiberei, Brunngasse 2
+– Moser, A., Wwe. d. Angestelltend. Amtschreiberei, Brunngasse 2
 – Siegenthaler, Elise, Milcnhandlg., Aarbergergasse 44
 – Wyss, Marg., Witwe, Mattenhof, Brunnhofweg 16
 Wybrecht, J., Schlosser, Marktgasse 27

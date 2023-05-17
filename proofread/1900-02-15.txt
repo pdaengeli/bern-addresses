@@ -6262,7 +6262,7 @@ Isenschmid, Adolf, Polizist, Schauplatzgasse 17
 – P. B.. Lehrerin an der Mädchen-Sek.-Schule, Mattenh., Könizstr. 22
 – Rud., Amtsnotar (Kirchgasse 18), Kornhauspl. 7 (Bureau Hahn)
 – Sal. Mario, Lehrerin, Länggassstr.52
-■-Jonquiere, Josephine, Schänzlistrasso 47 (Lindenegg) 1039
+– Jonquiere, Josephine, Schänzlistrasso 47 (Lindenegg) 1039
 – -Joss, Elise, Frau, Gross- u. Feinwascherei, Altenbergstrasse 20
 – -Rosenmund, C. E., Witwe, Linde, Murtenstrasse 22
 Isler, A., Sekretär d. Materialverwaltg.d. J. S., Längg., Mittelstrasse 40
@@ -6758,7 +6758,7 @@ Ern., Fabrikarbeiter, Felsenaustr. 14
 – Lina, Knabenschueid., Gr. Schanze, Falkenplatz 6 a
 – Ros., Schneid., Kirchgasse 10
 – Urs Jos., Bahnangestellt., Kramg. 49
-■-Greber, Witwe, Lorr., Nordweg 10
+– Greber, Witwe, Lorr., Nordweg 10
 # Date: 1900-02-15 Page: 1704892/233
 Kaufmann-Reinhardt, R., Bettwarenhandlung, Kesslergasse (16) 40
 – Theiler, M., Wwe., Kostgeberei, Wyler, Stockernweg 11
@@ -11001,7 +11001,7 @@ Rolli, Alfr., Postcommis, Mattenhofstr. 25
 – Gottfr., städtischer Strassenmeister, Wyler, Wiesenstrasse 59
 – Joh., Nachtwächter am Bahnhof, Sandrainstrasse 4
 – - Sam., Abwart, Bundesgasse 6
-■-Althaus, Bertha, Glätterin, Brunngasse 68
+– Althaus, Bertha, Glätterin, Brunngasse 68
 – Zurbuchen, Barb., Wwe. d. Steinhauers, Matterhofstrasse 35
 Rollier, Ileinr. Aug., Assistenzarzt, Mattenhof, Belpstrasse 42
 – Chaillet, Frau, Rentiere, Gerechtigkeitsgasse 25
@@ -11278,7 +11278,7 @@ Riietschi, s. auch llntschi
 – Rud., Prof. Dr., gew. Pfarrer am
 Münster, Herreng. 3
 – Burgdorfer, Adele, Wwe., Leihbibliothek, Parfümeriehandlung u. Theeverkaut, Hôtelgasse 6
-■-Gerster, A. F., Wwe. d. Pfarrers, Längg., Erlachstrasse 21
+– Gerster, A. F., Wwe. d. Pfarrers, Längg., Erlachstrasse 21
 Rüfenacht, Ad., Kondukteur der S.C.B., Sulgenauweg 2
 – Anna, Damenschneiderin, Brunng. 2
 J— Chr., Manufakturwarenhandlung, Spitalgasse 15/17 u. 21 321
@@ -14508,7 +14508,7 @@ Walter, s. auch Wälder und Walther
 – Eug., Bankangestellter, Länggasse, Vereins weg 23
 – Max, Uhrmacher, Kesslergasse 36
 – Obi, M. A., Wwe., Breitenrainstr. 18
-■-Stucki, M., Militärschneiderin, Matte, Weihergasse 8
+– Stucki, M., Militärschneiderin, Matte, Weihergasse 8
 Waltert, J. A. L., Zimmermann, Längg., Zeltweg 7j Walthard, A., vorm. Ballif & Cie., Teigwaren und Kaffee-Extraktfabrik im
 Schermen, bei Bolligen 629
 – E., Damenschneid., Aarbergerg. 61

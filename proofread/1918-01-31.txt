@@ -2846,7 +2846,7 @@ Bojak, H. P., Schreiner, Gewerbestrasse 12
 Boillat, Ed. Albert, Kellner, Th. Kocherg. 5
 – Helene Karoline, Bureaulistin, Kirchenfeldstrasse 18
 Boinay, Paul L. J., Bankbeamter, Archivstr. 8
-■-Hubacher, Emil P., Bankbeamter, Pestalozzistrasse 8
+– Hubacher, Emil P., Bankbeamter, Pestalozzistrasse 8
 Boisard, L. E., Bereiter, Parkstrasse 3
 Bois-Fleury, Pension, Riedweg 17 23970
 Bolens-Rychner, Selma, Graffenriedweg 16
@@ -4173,7 +4173,7 @@ IBürki & Cie., Könizstrasse 69 12125
 – Scheuermann, Karol., Wwe. d. Spenglermeisters, Hopfenweg 22
 – Siegfried, Anna, Barbara, Wwe., Seftigenstrasse 28
 – Wüthrich, Marg., Sulgenrain 26
-■-Zesiger, Anna Barb., Altenbergstr. 36
+– Zesiger, Anna Barb., Altenbergstr. 36
 Bürkly, Leo, Adjunkt d. eidg. Oberbauinspektors, Ensmgerstrasse 39
 Bürky, Julie, Frl., Rent., Kapellenstr. 13 1812
 Burla, Alfr., Sanitätspolizist, Wyderrain 3
@@ -4263,7 +4263,7 @@ Burri, Joh., Schuhmacher, Herzogstrasse 10
 – Meyer, Anna El., Wwe., Gerechtigkeitsg. 33
 – Morgenthaler, Ad., Dr. phil., Rektor desstädt. Progymnasiums, Spitalackerstr. 55
 {5427
-■-Müller, Joh. Rud., Hilfsarbeiter, Philosophenweg 5
+– Müller, Joh. Rud., Hilfsarbeiter, Philosophenweg 5
 – Neukomm, G., Spezereihdlg., Drosselw. 27
 – Perret, Emil, Tramangest., Graffenriedw. 6
 – Plattner, Fritz, Dr. phil., Hausvater i. Seminar Muristalden, Muristrasse 8
@@ -4602,7 +4602,7 @@ Betten, Bettfedernreinigung, Quartierg. 21
 – Salvisberg, Emil, Wirt, Neuengasse 29
 – Schöni, Elisabeth, Flurstrasse 30
 – Walther, Hs., Obergärtner, Lentulusstr. 38
-■-Wyttenbach, Luise, Wwe., Terrassenweg 16
+– Wyttenbach, Luise, Wwe., Terrassenweg 16
 Christener, Franz, Bäckermeister, Landhausweg 6 11952
 – Jak., Bahnarbeiter, Lerchenweg 32
 – J. Martha, Damenschneid., Zieglerstr. 62
@@ -5093,7 +5093,7 @@ Dietrich, Adele, Malerin, Ensingerstrasse 23
 – Kl. M., Lehrerin a: d. Brunnmattschule, Kapellenstrasse 18
 – R., Wagner, Seftigenstrasse 45
 – Bossard, Gottlieb, Buchdruckerei, Altenbergstrasse 59 13966
-■-Kraft, Herrn., Speditionsgehilfe, Lorrainestrasse 23
+– Kraft, Herrn., Speditionsgehilfe, Lorrainestrasse 23
 – Wälti, Wilhelm, Wirt z. Steinbock, Aarbergergasse 32 12272
 Dietsche-Sulzer, Modiste, Aarbergergasse 24
 Dietschi, Emil Fr., Kommis, Junkerngasse 48
@@ -10076,7 +10076,7 @@ Heller, A. A., Pflästerer, Elisabethenstr. 24
 – Jos., Wirt z. Effingergarten, Effingerstrasse 18 {1205
 – Lina M., Modiste, Elisabethenstr. 24
 – Rosa Luise, Damenschneid., Elisabethenstrasse 24
-■-Bücher, Friedr., Architekt, Baugeschäft
+– Bücher, Friedr., Architekt, Baugeschäft
 (Scheuerrairi 7 {4510), Wabernstrasse 38
 {2100 (Bureau) u. Freiburgstr. 21 {1807
 – Bürgi, Marg., Wwe. d. Baumeisters, Wabernstrasse 38 {2117
@@ -13010,7 +13010,7 @@ Keller, Max, i. Fa. H. & M. Keller, Gutenbergstrasse 33 J3984
 Oberpostdir., Marzilistrasse 15
 – Rychener, R. Otto, Buchhalter, Freiburgstrasse 56
 – Schmidlin, Arn., Oberst, Scheuerrain 5
-■-Schmidt 0. Hans, Kontrollingenieur beim
+– Schmidt 0. Hans, Kontrollingenieur beim
 Eisenbahndepartement, W aldheimstrasse 12
 – Stucky, Klara, Wwe., Privatiere, Schwarztorstrasse 11
 – Wegmüller, Elis., Schweinemetzg., Kramgasse 27 1872
@@ -13559,7 +13559,7 @@ Gottfr., Billetteur, Ostermundigenstr. 57
 – Ulr., Mechaniker, Seftigenstrasse 27
 ; —Walter, Bankangestellter, Seidenweg 27
 – Walter, Spengler, Badgasse 33
-■-Halbritter, P., Reisender, Bollwerk 21
+– Halbritter, P., Reisender, Bollwerk 21
 – Hirs, Gottl., Priv., Schwarztorstr. 5 2989
 – Kübel, Adelheid, Wwe. des Ingenieurs, Schwarztorstrasse 36
 – Möri, Maria, Wwe., Seminarstrasse 11
@@ -14584,7 +14584,7 @@ Kyburz, Friedr., Schreiner, Schifflaube 32
 – Johann, Büchsenmacher, Lorrainestr. 59
 – Theodor Paul, Angestellter, Genfergasse 10
 – & Bernhard, Tapezierer- u. Sattlerartikelen gros, Bollwerk 41 (4242
-■-Linder, Karl, i. Fa. Kyburz & Bernhard, Thunstrasse 9
+– Linder, Karl, i. Fa. Kyburz & Bernhard, Thunstrasse 9
 L.
 Labhardt u. Labhart
 – Gust., eidg. Beamter, Lentulußstrasse 53
@@ -16643,7 +16643,7 @@ Martin, Marcel A., Beamter S. B. B., Gesellschaftsstrasse 27
 – Werner, Dr. jur., Fürspr., Advokaturbureau
 (Scheuerrain 14), Laupenstrasse 7 $3918
 – Hotz, Ludw., Materialverwalter d. Obcrtelegr.-Direkt., Meisenweg 25 $5061
-■-Zehnder, Karl, Fürspr., Advokaturbureau, Südbahnhofstrasse 10
+– Zehnder, Karl, Fürspr., Advokaturbureau, Südbahnhofstrasse 10
 Marty, Jos., Postangestellter, Allmendstr. 42a
 – Josef Franz, Schneider, Standstrasse 48
 Martz, Alb., Angestellter, Niesenweg 10
@@ -20101,7 +20101,7 @@ Pulver, Albr., Karrer, Schreinerweg 6
 – ’sche Apotheke (Dr. K. Heuberger), Spitalgasse 37 (715
 – Burri, Christ., Viehhändler, Optingenstr. 37
 (4055
-■-Hemmann, A., Frau, Priv., Falkenpl. 16
+– Hemmann, A., Frau, Priv., Falkenpl. 16
 (4528
 – Leuenberger, F., Witwe des Apothekers, Nischenweg 13 (1179
 – Soltermann, Lina, Spezereihandlg., Haushaltungs- und Küchengeschirr, Beundenfeldstrasse 9 ' - (4239
@@ -23532,7 +23532,7 @@ Schreyer und Schreier
 – Portner, Florian, gew. Verwalter d. eidg.
 Bekleidungsmagazins, Kasernenstrasse 50
 Schriber-Wenker, A. Helene, Damencoiffeuse, Geniergasse 12
-■-Wcnker, Jos., Bodenölfabrikation, Genfergasse 12
+– Wcnker, Jos., Bodenölfabrikation, Genfergasse 12
 Schröder, Alfred, Bäckermeister, Lorrainestrasse 58 13479
 – Ernst, Bäckerei und Konditorei, Fischermätteliweg 18c 14826
 – Paul Aug., Kommis, Fischermätteliweg 24
@@ -23734,7 +23734,7 @@ Schütz, Ernst, Schriftsetzer, Scheibenstr. 17
 – Gebr., Malermeister, Postgasse 29
 – & Go., Käse- und Butterhandlung en gros, Stöckacker
 – Bichsei, Ernst, Beamter d. Schweiz. Mob.-Versicherungsgesellschaft, Wabern
-■-Chätelain, Bernard, Maschinen-Ingenieur, Muesmattstrasse 34
+– Chätelain, Bernard, Maschinen-Ingenieur, Muesmattstrasse 34
 – Eggimann, Rosa, Merceriegesch., Fischermätteliweg 18
 – Meister, A., Privatier, Ob. Dufourstr. 45
 {3568
@@ -26550,7 +26550,7 @@ Trüssel, Berta, Lehrerin, Gesellschaftsstr. 14a
 11787
 – Fr., Dr. jur., Fürspr., Oberrichter, Beatusstrasse 32 13607
 – & Cie., Weinhdlg., Bahnh. Weissenbühl 1432
-■-Walther, Ida, Wwe. des Weinhändlers, Gesellschaftsstrasse 14a 1115
+– Walther, Ida, Wwe. des Weinhändlers, Gesellschaftsstrasse 14a 1115
 Tschabold, Fr., Schreiner, Blumenbergstr. 53
 Tschachtli, Friedr., Ingen., Kirchenfeldstr. 22
 – Bischoff, Hans, Ingen., Beundenfeldstr. 33

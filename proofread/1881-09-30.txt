@@ -1268,7 +1268,7 @@ Büler, Karl Frz., Schneider, Anrbgg. 65
 Bünzli, II., Sekretär der J.-B.-L.-Bahn, Längg. -OOz
 – G., Adjunkt d. admin. Inspektoratsd. Eisenbahn - Departem., Gerechtigkeitsgasse 64v. Büren - v. Sinner, Otto, eidg. Oberst, Gemeindepräsident, Schosshalde 87, Ablage Gerechtigkeitsg. 126
 – v. Effinger, Eng., Sachwalter und Banquier, Nydeckl. 197 u. Käfichgässchen 111
-■-v. Sa’is, Eugen, Nydeckl. 197 und Käfichg. 111
+– v. Sa’is, Eugen, Nydeckl. 197 und Käfichg. 111
 – v. Saks, Franz, Junkerng. 179 und Käfichg. 11!
 – v. Tavel, Wittwe, Blumenrain 82
 – Anna, Privatiere, Junkerng. 152
@@ -3972,7 +3972,7 @@ Jauch, Frau, Damenschneiderin, Brunngasse 26
 Jaumann, Marie Elise, gew. Bierwirthin, Längg. 404
 Jaussi- Walther, Gutsbesitzerin, Breitenrain 125
 Javet, Emil, Heizer und Kommissionärder J.-B.-L.-B., Grosse Schanze
-■-Rohrer, E., Wittwe d. Buchbinders, Kesslerg. 279
+– Rohrer, E., Wittwe d. Buchbinders, Kesslerg. 279
 – Rudolf, Buchbinder, Kesslerg. 279und 259
 – Moritz, Buchdrucker, Linde 158
 – Meister, Karl, Mechaniker, Kesslergasse 257
@@ -4163,7 +4163,7 @@ Imhoof, F. IL, Negotiant, llotellaube 238
 – J. Schreiner, Stalden 10
 Immer, A. H., Professor, Marktg'. 58
 – Ad., Leinen- und Baumwollwaarenhandlung, Marktg. 50 u. Monbijou 04
-■-Gerber, Euch, Badhalter, Gefberngrabeu 142
+– Gerber, Euch, Badhalter, Gefberngrabeu 142
 – -Ilcnzi, des Plärrers Wittwe,.Länggasse 226
 Imobersteg, Gottl., Landjäger, Bollw. 261
 – J., Längg. 212 f
@@ -4278,7 +4278,7 @@ Käser, Chr., Oelkrämer, Nydeckl. 201
 – Schären, Schneiderin u. längere, Aarziele 30
 – Joh., prov. Gehülfe d. Telegr.-Dir., Matte 86
 – Daniel, Posamenter, Kesslerg. 213und 244
-■-Steinmann, Joh., gew. Weinhdh, Gerechtigkeitsgasse 100
+– Steinmann, Joh., gew. Weinhdh, Gerechtigkeitsgasse 100
 – Friedr., Handelsmann, Spitalg. 174
 – Otto (Buchhandlg M. Fiala), Spitalgasse 171, Buchhandlg. Kramg. 197
 – Kiipfer, Wittwe, Spitalg. 174
@@ -4309,7 +4309,7 @@ Kauert, Wagner, Länggasse, Ringstrasse
 200 k
 Kaufmann, Friedr., Geschäftsreisender, Mattenhof 105 d
 – Fr., Umbieter, Metzgergasse 112
-■-Beutler, Frau, Gemüse- u. Obsthdl.,.
+– Beutler, Frau, Gemüse- u. Obsthdl.,.
 Metzgergasse 112
 – Mina, Wittwe, Essenzfabr., Linde
 184 d
@@ -4403,7 +4403,7 @@ Kinder-Krippe, Gerberngraben 138 und Lorraine 40
 Kindler, Elis., Hutmacherin, Aarbg. 28
 – K. F.j Kassier d. Bern. Handelsbank, Aarziele 7
 – Wyler, Magdal., Aarziele 7
-■-Hubacher, K., Weberin, Altenb. 110
+– Hubacher, K., Weberin, Altenb. 110
 – K. dir., Gehülfe bei d. Güterexp., Holligen 159 b
 – S. G-, Kaufmann, Marktg. 45
 – & Comp., Coloniahvhdlg., Marktg. 45ziele 51
@@ -4762,7 +4762,7 @@ Kuhn, Chr., Geschäftsmann, Marktg. 94, Eing. Käiichgässchen
 – Friedr., Küfer, Schutzmiilile 21 und Junkerngasse 148
 – F. R., des Klasshelfers Wittwe
 Hotellaube 230 >
-■-Jenner, Fr., Commis, Metzgerg. 101
+– Jenner, Fr., Commis, Metzgerg. 101
 – Joh. Fr., Küfer, Junkerng. 191
 – J. F., Papeteriehdlg. u. Verkauf v.
 Fremden-Artikeln, am Bahnhofplatz
@@ -4843,7 +4843,7 @@ Küpfer-Hiigli, Ad., Angest. d. Steuerverwaltung, Junkerng. 146 c.
 Kiipfer-Lüthy Wittwe, Zähringerstr. 224
 – Gerber, N., Speicherg. 7 a
 – Leuenberger, Kramgasse 173
-■-Wüthrich, Glätterin, Brunng. 13
+– Wüthrich, Glätterin, Brunng. 13
 – Ballif, Frau Pfr., Junkerng. 182 a
 Kupferschmied, Chr., Uhrm., Kramg. 225
 – N., Seiler, Aarbergerg. 37 a
@@ -7099,7 +7099,7 @@ Rüedi, A. F., Angest. d. Centralpolizei, Kesslergasse 255
 Ruef, M., Handelsagent, Marktgasse 62, Eing. Gerbern!
 – Grossenbacher, Fr., Angest. bei
 Hrn. Architekt Ischer, Kirchg. 262
-■-Grossenbacher, Modiste,Kirchg.262
+– Grossenbacher, Modiste,Kirchg.262
 – J. C., Krankenwärter, Kesslerg. 242
 – Elise, Lehrerin a. d. Neueng.-Sch., Kesslergasse 242
 Ruefer, Gott!, Chef d. Mandatbureau, Zähringerstrasse 281
@@ -7565,7 +7565,7 @@ Schmid (s. auch Schmidt und Schmied)
 – Lüscher, G. (Firma: G. Schmid, &
 Comp.), Inselg. 133 b
 – G. & Comp., Tuchhandlung, Herrenund Damen-N ouveautes, Schneidereiauf Maass, „Zum alten Zeughaus“, Zeughausg. 157 b
-■-Krautter, G., Wittwe, Wirthin, Neueng. 116 e
+– Krautter, G., Wittwe, Wirthin, Neueng. 116 e
 – G. M., Ingenieur, Stadtb. 176 w
 – Hch., Goldschmied (Lager der Orte vrerie Christofle, I. Et.), Marktg. 54
 – Gottfr. Bud., Gehülfe der S. C. B., Längg. 278

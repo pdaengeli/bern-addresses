@@ -2667,7 +2667,7 @@ Dasen, Fritz, Major, Instruktor 1. Kl., Längg., Freie Strasse 15
 |— Hans, Arch., Waisenhauspl. 25 134
 – H.. Oberst, Zeughausverwalter, Waisenhausplatz 4
 – Karl, Tuchhandlung, Zeughausg. 5
-■-Linsmayer, Fr., Koch, Mattenhof, Cäcilienstrasse 40
+– Linsmayer, Fr., Koch, Mattenhof, Cäcilienstrasse 40
 – Schwestern, Mattenhof, Schwarzthorstrasse 61
 ! Dättwyler, siehe Dettwyler.
 – Fr., Arzt u. Inselarzt, Marktg. 52 201
@@ -7619,7 +7619,7 @@ Koller, siene auch Köhler
 – Beat, Dr. med., Arzt, Lorrainestr. 16
 – Gottl., Kontrollingenieur b. Eisenbahndepartement, Muristrasse 6 e
 – Jul. Fr., Uebersetzer b. eidg. Depart. d. Innern, Altenbergstr. 56
-■-Misteli, Anna, Witwe d. Prof, vet., Lorrainestrasse 16
+– Misteli, Anna, Witwe d. Prof, vet., Lorrainestrasse 16
 {-Stauder, J., Witwe d. Ingenieur, Kirchenf., Gryphenhübeliw. 11 1625
 Kölliker, Aug., Mechaniker, in Firma
 Kölliker & Hauert, Länggasse, Tannenweg 16
@@ -7977,7 +7977,7 @@ Kuhn, Fr., Küfermeister, Junkerng. 26
 – -Geelhaar, Wwe. des Pfarrers, Mattenhof, Brunnmattstrasse 36
 – Jenner, Fr., Gehülfe beim eidg.statist. Bureau, Kirchenfeldstr. 24
 – Reinhard, Frau, Damenschneid., Neuengasse 15
-■-Schütz, E., Frau, Geschäfts- und Placierungsbur., Kirchenfeld, Florastrasse 23 2015
+– Schütz, E., Frau, Geschäfts- und Placierungsbur., Kirchenfeld, Florastrasse 23 2015
 Kuhnen, Peter, gew. Schmiedemeister
 Längg. Donnerbühlweg 19 ’
 # Date: 1901-08-20 Page: 25803344/256
@@ -9103,7 +9103,7 @@ Rosa), Schneiderinnen, Mattenhof, Schwarzthorstrasse 61
 – Niehans, V. M., Privatiere, Sulgenbach, Giessereiweg 14
 – Reuter, Gottfr. 2 Postbureauchef, Länggasse, Yereinsweg 14
 – Schürch, Gottfr., Kaufm., Längg., Yereinsweg 10
-■-Spähni, Johann, in Firma jLüthi, Zingg & Marcet, Beaumont, Werdtweg 9 (Villa Tarragona)
+– Spähni, Johann, in Firma jLüthi, Zingg & Marcet, Beaumont, Werdtweg 9 (Villa Tarragona)
 – Tschannen, M., Wwe., Wäscherinund Glätterin, Mattenhof, Cäcilienstrasse 19
 Lüthy, s. auch Lüthi
 – Ad., Schreiner, Brunngasse 18
@@ -11869,7 +11869,7 @@ Ris, Albert, Bureaulist, Kirchenfeld, Luisenstr. 24
 – Fr., Bäckermeister, Metzgerg. 48
 % — Gottl. Rud., Schneider u. Kleiderreiniger, Herrengasse 18
 – Martha, Lehrerin, Kirchenf., Luisenstrasse 24
-■-Fetscherin, M., Wwe., Privatere, Kirchenfeld, Luisenstrasse 24
+– Fetscherin, M., Wwe., Privatere, Kirchenfeld, Luisenstrasse 24
 – Henzi, A. M., Witwe, Privatere, Altenbergstrasse 88
 – Oberholz, R., Glätterin, Waisenhausplatz 27
 – Roth, L.,Frau, Hüppen-, Gaufrettesund Bretzelnfabrikantin, Marktg. 63
@@ -12420,7 +12420,7 @@ Rutishauser, Fr., Einleger, Kirchenfeld, Dählhölziweg 3 (Stallhof)
 – Rud., Dr. phil., Chemiker, Adjunktder Kriegspulverfabrik, Wyler, Militärstrasse 50
 – Dill, H., Angestellter der Telegraphenwerkstätte, Aarestr. 30
 – -Lohm, M., Glätterin, Kirchenfeld, Dählhölzliweg 3 (Stallhof)
-■-Siegenthaler, Wwe., Rosa, Wäscherin, Matten enge 13jRüttimann, H. E., Mehl-, Futter- u. Getreidehdlg. u. Müllerei, Matte (Gerberg. 30), Wasserwerkg. 31 2110
+– Siegenthaler, Wwe., Rosa, Wäscherin, Matten enge 13jRüttimann, H. E., Mehl-, Futter- u. Getreidehdlg. u. Müllerei, Matte (Gerberg. 30), Wasserwerkg. 31 2110
 | Rütli, Kaffeehalle, Militärstr. 38 712
 Rutschi, Jb., Spinnermeister, Weissenbühl, Morillonweg 40jRütschi, S., Kupferschmied, Sandrainstrasse 10 1275 ; Ablage bei Hrn. J.
 H. Pfeifer, Waghausgasse 20von Rütte, Eug., Arzt, Niederbipp— Oskar, Negt.,Droguerie, feineWeineund Spirituosen (Obstbergweg 4), Kramgasse 12 1765
@@ -12809,7 +12809,7 @@ J— W., Witwe, Reiseartikel-Fabrik., Kramg. (11) 19 {1762 u. Kirchg. 11
 – Werner, Sekretär d.Materialbureausd. Telegraphen-Direktion, Kirchenfeld, Thunstrasse 10
 |-Berger, A. M., Wwe., Länggasse, Gesellschaftsstrasse 27 600
 – & Meyer, Bureau f. Liegenschafts-Darlehen und Associationsvermittlungen, Agentur, Aarbergerg. 19
-■-Gygax, Otto, Schlosser, Stadtbach, Wildhainweg 12
+– Gygax, Otto, Schlosser, Stadtbach, Wildhainweg 12
 – Jossi, Kathr., Frau, Tabak- und Cigarrenhandlung, Spitalgasse 37
 – Linder, Ros., Witwe, Weissenbühl, Landhausweg 9l -Wälder, Bertha, Witwe d. Dr. med., Kramgasse 2 1479
 – -Walser, N., Damenschneiderin, Kramgasse 7
@@ -15339,7 +15339,7 @@ Polizeidir., Spitalgasse 5
 – Wilh., Oberrichter, Obere Villette, Lindenrain 3
 – Wilhelm, Sohn, Beamter, Obere
 Villette, Lindenrain 3
-■-Peter. J., Angestellter bei Herrn
+– Peter. J., Angestellter bei Herrn
 C. Rüfenacht, Käfiggässchen 6
 – Wenger, M., Witwe des Amtschr., Schwaneng. 6
 Thaler, Alb., Schneidermeister, Kornhausplatz 16, Eingang Zeughausg. 1
@@ -16037,7 +16037,7 @@ Walter, s. auch Wälder und Walther
 – Alois, Biirstenfabrikant (Metzgergasse 58), Kramgasse 66
 – Eug., Bankangestellter, Länggasse, Vereinsweg 23
 – Max, Uhrmacher (Kesslergasse 36), Länggasse, Gesellschaftsstrasse 4
-■-Stucki, M., Militärschneiderin, Marzili, Weihergasse 8
+– Stucki, M., Militärschneiderin, Marzili, Weihergasse 8
 Waltert, A. L., Wirtin, Herrengasse 26
 – J. A. L., Zimmermann, Länggasse, Zeltweg 7
 {Walthard, A., vorm. Ballif & Cie., Teigwaren und Kaffee-Extraktfabrik im

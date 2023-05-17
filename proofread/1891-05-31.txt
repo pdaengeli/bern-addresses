@@ -132,7 +132,7 @@ Althaus, Bertha, Gross-u. Feinwascherei, Altenbergstrasse 43j— Emil Oscar, Wir
 Althaus.
 111
 Andrist.j Althaus-Hofer, El., Tabak- u. Cigarrengeschäft, Bärenplatz 15
-■-Kulmen, Magd., Wwe., Wirthin, Inneres Bollwerk 8
+– Kulmen, Magd., Wwe., Wirthin, Inneres Bollwerk 8
 Altwegg, Ed., Negot. (Hirschengr. 4), Marktg. 48
 Amann, s. auch Ammann
 – & Kuli, Schuhwaarengeschäft, Kramgasse 72
@@ -1630,7 +1630,7 @@ Wehrlin, Herrengasse 17
 – M., Dr., Redaktor des „Bund“, Marktgasse 15
 – Schwestern, Schneiderinnen, Kornhausplatz 12
 – & Schwarz, Colonialwaarenhandl., Kramgasse 72
-■-Mürner, Frau, Modiste, Strolihutriistezin, Kesslergasse 33
+– Mürner, Frau, Modiste, Strolihutriistezin, Kesslergasse 33
 – Röthlisberger, Wwe., gew. Wirthin, Sorchengässchen 3
 – Spaling, A. M. M., gew. Speziererin, Kramgasse 68
 – Widmer, Jost, Klavier- u. Gesanglehrer und Gehülfe b. eidgen. Statist. Bureau, Neuengasse 9
@@ -2366,7 +2366,7 @@ Egger, Ed., Schlosser, Matte, Badg. 25
 R. Ubert, Kirchenfeld, Florastr. 3
 – -Günther, Jul., Inselpörtner, Mattenhol, Eftingerstrasse 65
 – Schär, Elise, Wwe., Spezereihandlung, Matte, Schiffl. 48 j
-■-Stäubli, El.. Wwe., Coiffeurgesch., j
+– Stäubli, El.. Wwe., Coiffeurgesch., j
 Mattenh. (Philosopheuw. 17), Brunnhofweg 3 |
 Eggimann, s. a. Eggemann u. Eggmann
 – El., Wäscherin, Metzgergasse 41
@@ -4392,7 +4392,7 @@ Hermann, Frz., Vertr. d. Fa. Perrenoud
 – & Senn, Weisswaarengesch., Marktgasse 22
 – Bochsler, Maria, Frau, Schneiderin, Broderiewaarenlullg., Metzgerg. 6
 – Corecco, L., Sekr. d. eidg. Kriegsmaterialverwaltg., Kramg. 11
-■-Fiala, E., Kaufm., Lorr., Lagenv. 2
+– Fiala, E., Kaufm., Lorr., Lagenv. 2
 – Hauser, Theod., Bibliothekar der
 Hochschulbibliothek, Herreng. 38
 – Hiestand, Ernst, Substitut b. HH.
@@ -4834,7 +4834,7 @@ Branntweindepöt, Wein- u. Liqueurhandlung f Aarbergerg. 10
 – Rud., Steinhauer, Beundenweg 28
 – Rud., Steinhauer, Längg., Sodw. 7
 – Sam., Zimmermann, Lorrainestr. 59
-■-Tschanz, Mar., Wwe., Wäscherin, Beundenweg 20
+– Tschanz, Mar., Wwe., Wäscherin, Beundenweg 20
 ; Hotel de France, Neuengasse 46
 I — Löwen (Haldimann-Cottier), in Miinsingen
 I — Ochsen (Depping), in Münsingen
@@ -5196,7 +5196,7 @@ Schweiz, kaufm. Vereins. Kramg. 70
 – Urs, Holzhändler, Lorr., Jurastr. 42
 – Willi., Schreiner, Lorr., Quartierh. 3
 – Gossewitsch, J., Bettmacherin, Gerechtigkeitsgasse 52
-■-Kneubühler, Mercerie- und Bijouteriehandlung, Kramgasse 70
+– Kneubühler, Mercerie- und Bijouteriehandlung, Kramgasse 70
 – Otti, H., Nationalrath, Wirth im
 Steinibach, Tiefenau
 – Thunauer, Sophie, Manufaktur- u.
@@ -5222,7 +5222,7 @@ Jenzer, A., Angest. b. d. Materialverw.d. J.-S., Brunngasse 9
 – Paul, Titelkassier der Eidg. Bank, Christoffelgasse 3
 – Ulr., Angestellter bei d. Maschinenfabrik, Längg., Schwalbenweg 26
 – Dennler, A., Privatier, Chistoffelgasse 3
-■-Dirks, J., Direktor d. Ostermundigen-Steinbrüche, Ostermundigen
+– Dirks, J., Direktor d. Ostermundigen-Steinbrüche, Ostermundigen
 – Kubli, B., Wittwe, Bundesg. 28
 – Röthlisberger, Gottf., i. F. | Röthlisberger & Comp., Kirchenfeld, Thunstrasse 7
 – Rubli, A.M., F'cinwascherin, Brunngasse 9
@@ -5510,7 +5510,7 @@ Basel; Vertreter: HH. R. v. Bergen, Notar, Spitalg. 23 u. Friedr. Kunz, Käfichg
 – Simon, Dr., Privatier, Längg., Gesellschaftsstrasse 8
 '— W., Schulbuchhandlung, Papier- u.
 Kunstgeschäft ((Muesmatt, Fabrikstrasse 1), Spitalg. 31
-■-Kaiser, Verena, Finkenmacherin, Brunngasse 50
+– Kaiser, Verena, Finkenmacherin, Brunngasse 50
 Kälble, X., Arbeitsmann, Brunngasse 54
 Kälin, s. auch Kählin
 – Dominik, Seidenweber, Länggasse, Muesmattstr. 39
@@ -5872,7 +5872,7 @@ Koch, Andr., Werkführer, Felsenaustr.26
 – Franz, Schreinermstr., Schutzmühle, Langmauerweg 17 a
 {— J. J., Lederhandlung, Metzgerg. 24u. J Gerberei, Matte, Gerbergasse 9
 – IIoffmann,Lina,AVwe. d. Handelsm., Junkerng. 45
-■-Schmidt, Joh., Schneidermeister, Langmauerweg 12 (Pelikan)
+– Schmidt, Joh., Schneidermeister, Langmauerweg 12 (Pelikan)
 Kocher, A.,gew.Oberingen.,Laupenstr.23
 – Alex., Kreispostdirekt., Länggasse, Vereinsweg 10
 – B., Schuhmacher, Breitenr., Turnweg 20
@@ -6744,7 +6744,7 @@ Ablage b. Hr. A. Peyer-Rotli, Zeughausgasse 13 a
 – Meister, Anna, Leichcnbitterin und Schätzerin, Kramgasse 32
 – Oppliger, Jak., Lehrer a. d. Primarschule d. ob. Stadt, Längg., Steinhauerweg 3
 – Spycher, Oskar, Spezereihandlung, Sandrain 76
-■-Züricher, El. Cöl., Privat., Mattenhof, Schwarztliorstr. 45
+– Züricher, El. Cöl., Privat., Mattenhof, Schwarztliorstr. 45
 Leutenegger, A., Glätterin, Lorr., Quartierhof 17
 – Joh., Pflasterer, Lorr., Quartierh. 17
 Leuthold, lieh., Schuhmacher, Matte, Badgasse 5
@@ -6921,7 +6921,7 @@ Luder, Fr., Spezereihandlung, Kaffeeexport, Papeterie, Militäreffekten, Beunden
 # Date: 1891-05-31 Page: 3013855/200
 Luder-Hauser, M., Damenschneiderin n.
 Modistin, Marktgasse 3
-■-Hauser, Kud., Commis, Marktg. 3
+– Hauser, Kud., Commis, Marktg. 3
 – Kiihni, Wittwe des Amtsgerichtsschreibers, Breitenrain, Zaunweg 18
 Liidi, Ad., Angestellter der Schreibbücherfabrik, Längg., Seidenw. 27
 – Audi'., Steinllauer, Aarbergerg. 25
@@ -7526,7 +7526,7 @@ Wwe., gew. Wäscherin, Marzilistr. 2
 – Gehr., Maurer, Stalden 16
 – & Fuog, Leder-, Häute- u. Fellhdlg., Zeughausgasso 19
 – Gurtner, A., Fuhrhalterin, Schwarzthorstrasse 81
-■-Krähenhühl, M., Wwe., Gerechtigkeitsgasse 45
+– Krähenhühl, M., Wwe., Gerechtigkeitsgasse 45
 – -Masshardt, Ros., Wwe., Pensionshalterin, Mattenhof, Brunnhofw. 13
 Messmer, s. auch Mesmer
 – Ad., in Fa. JF. Jäggi & Cie, Verwaltungsbureau, Gerechtigkg. 42
@@ -8474,7 +8474,7 @@ Ott, s. auch Otth
 – Marie, Privatiere, Längg., Gesellschaftsstrasse 21
 – Reg., Kostgeberin, Kramgasse 55
 – Bigler, R., Küfer und Kostgeber, Aarbergergasse 16
-■-Schindler, Ad., Pensionshalterin, Längg., Zähringerstr. 40
+– Schindler, Ad., Pensionshalterin, Längg., Zähringerstr. 40
 – Schindler, Sam., Schritts., Längg., Zähringerstrasse 40
 – Wahli, Ros., Privatiere, Marzilistrasse 12
 Otte, Heinrich, Schuhmacher u. Schuhhandlung, Metzgergasse 54
@@ -9320,7 +9320,7 @@ Haspelweg 12
 – Rosat, Fr., gew. Weinhdlr., Stadtbach, Wildhainw. 4
 – Schild, S. K., Wwe., Priv., Marktg. 10
 – Schleucher, G., Inspektor der Bäloise, Mattenhof, Brunnhofweg 13
-■-Schlittel, El., Frau, Priv., Neueng. 5
+– Schlittel, El., Frau, Priv., Neueng. 5
 – Stöckli, Magd , Wittwe d. Schriftsetzers, Längg., Ahornweg 3
 – Wagner, R., Sekretär u. Archivard. Spar- u. Leihkasse, Gurteng. 6
 – Weber, Em., Wittwe d. Cigarrenhändlers, Spitalg. 13
@@ -9959,7 +9959,7 @@ J Scherz, A., Oberst, städt.Polizeidirekt., Längg., Bühlstras'se 29
 – Sus., Spezereihdh, Altenbergstr. 100
 – Th., Bnreaulist, Aarbcrgerg. 34
 – Bieri, Ros.. Wwe., Fegerin, Längg., Forstweg 38
-■-Luchsinger, Sl., Kassier der städt.
+– Luchsinger, Sl., Kassier der städt.
 Armendirektion, Altenbergstr. 100
 – Züricher, Emma Ros., Wittwe des
 Nat.-Raths, Amthausg. 16
@@ -10317,7 +10317,7 @@ Schnell, Fr., Küfer, Gerechtigkeitsg. 80
 – Sigm., Geschäftsführer, Gurteng. 3
 – Grimm, Karl, Sekretär d. Maschinenfabrik, Wohlenstr. 3
 – LuginbühljA.M., Wäscherin,Brunngasse 70
-■-Rindlisbacher, Kostgeb. u. Kiichliwirthschaft, Gerechtigkeitsg. 80
+– Rindlisbacher, Kostgeb. u. Kiichliwirthschaft, Gerechtigkeitsg. 80
 Schnetz,Urs. Willi., Schriftsetzer, Altenbergstrasse 48
 Schnitzler-Staufifer, J. Mich. (i. Fa. Jent
 & Gassmann), Stadtbachstr. 48
@@ -12986,7 +12986,7 @@ Jacot)
 – S., Weichenwärter, Längg., Sodw. 7
 – AVerner, Statistiker b. eidg. Statist.
 Bureau, Alarktgasse 13
-■-Bürki, A. AL, AVwe., Schneiderin, Alarktgasse 43
+– Bürki, A. AL, AVwe., Schneiderin, Alarktgasse 43
 – Hänni, A., Längg., Hallerstr. 34
 Zeindler, Kasp., Zuschneider bei Hrn.
 G. Fueter, Aluristalden, Gryphenhübeliweg 12

@@ -505,7 +505,7 @@ Ammannv. Allmen, Fr. B., Hilfsarbeiter, Bümpliz
 – Karl L., Fabrikarbeiter, Bümpliz
 – R. L., Klavierlehrerin, Finkenrain 15
 – Rud., Angest. b. 0. K. K., Falkenplatz 8
-■-Stauffer, L. P., Beamter der Landestopographie, Ensingerstrasse 24
+– Stauffer, L. P., Beamter der Landestopographie, Ensingerstrasse 24
 Allzeit Bereit, Organ des Schweiz. Pfadfinderbundes, Geschäftsstelle: Amthausgasse 6
 (Buchhandlung Bäschlin)
 «Alpenblick», Hotel m. Restaurant, Kasernenstrasse 29 11313
@@ -1981,7 +1981,7 @@ Beer, D., Beamter d. B. L. S., Mattenhofslr. 33
 – Johann, Direktor d. Schweiz. Strassenbaugesellschaft. Brückenstrasse 1 i5577
 – M. Luise, FrL, Ländteweg 3
 – Braun, Rudolf, Bäckermeister, Muesmattstrasse 41
-■-Moegle, Werner Rud., Zahnarzt (Gesellschaftsstr. 12 $2159), Schwanengasse 1
+– Moegle, Werner Rud., Zahnarzt (Gesellschaftsstr. 12 $2159), Schwanengasse 1
 $1099
 Beerenwinkel, Emil, Werkmeister, Fischerw. 2
 – Otto, Webereileiter, Wylerringstrasse 48
@@ -2880,7 +2880,7 @@ Bahnmaterial, Bahnhofplatz 1 (2620
 – Seitz, E. G., Wwe., ob. Dufourstrasse 23
 {4938
 – Stähli, Elise, Witwe, Bureaulistin, Muristrasse 11
-■-Streit, Ernst, Fuhrhalterei und' Holzhandlung, Brunnmattstrasse 23 {3817
+– Streit, Ernst, Fuhrhalterei und' Holzhandlung, Brunnmattstrasse 23 {3817
 Biland, K., Kaufmann, Gutenbergstrasse 19
 Bilang, Emil Adolf, Kommis, Belpstr. 26
 Bilger, Georg, Tapetenhdlg. und Dekorationsmalerei, Beundenfeldstrasse 32
@@ -12481,7 +12481,7 @@ Heller, Adolf, Handlanger, Freiburgstr. 119
 – Jos., Gerechtigkeitsgasse 54 (6213
 – Lina M., Modiste, Elisabethenstr. 24
 – Rob. Otto, Handlanger, Freiburgstr. 119
-■-Bücher, Fritz, Baumeister (Scheuerrain 7
+– Bücher, Fritz, Baumeister (Scheuerrain 7
 (4510), Monbijoustrasse 39 (2100
 – Hirter, Berta Klara, Wwe. des Dr. med., Wildhainweg 19 (322
 – Rupp, J. H., Fabrikant von Spielwerken, Handel in Briefmarken, Holzschnitzereienund Kunstgegenständen, Bundesgasse 20
@@ -12779,7 +12779,7 @@ Theologie, Willadingweg 39 (4279
 – Otto, Bureaulist, Cäcilienstrasse 36a
 – Rob., Bankangestellter, Hallerstrasse 39
 – R. & B., Frl., Willadingweg 39
-■-Gurtner, Rosina El., Kapellenstr. 26
+– Gurtner, Rosina El., Kapellenstr. 26
 (6057
 – Leuenbergcr. Hans, Oberbriefträger, Konsumstrasse 12
 – Suter, Arn., Generalagent, Zeitglocken 5
@@ -12838,7 +12838,7 @@ Hess, II., Buchdruckerei, Steckweg 17 (2628
 – Krebs, Lina, Leihbibliothek, Parfümeriehandlung und Teeverkauf, Spitalgasse 28
 – Rüetschi, M., Wwe., Finkenhubelw. 14 (147
 – Schenk, A., Monbijoustrasse 125 (5309
-■-Schenke, Rosa, Wwe. des Professors.
+– Schenke, Rosa, Wwe. des Professors.
 Brückfeldstrasse 34
 – -Schneider, Elisabeth. Privatiere, Spitalgasse 28
 – Tschanz, A., Hebamme, Zähringerstr. 49
@@ -13422,7 +13422,7 @@ Hofmann, s. auch Hoffmann
 – -Werner, Tiefbautechniker, Bantigerstr. 6
 – Werner Aug., Goldschmied,' Bollwerk 29
 – Baur, Fritz, Kaufmann, Finkenhubelweg 29b 15485
-■-Butz, Anna, Restaurant, Lorrainestr. 23
+– Butz, Anna, Restaurant, Lorrainestr. 23
 11713
 – Dubois, A. Joh., Frau, Pavillonweg 4
 – Jegerlehner, A., Tuchhandlung, Generalagentur d. Stuttgarter Lebensversich.-Banka. G. (alte Stuttgarter), Marktg. 28 1596
@@ -22147,7 +22147,7 @@ J. Moser & Sohn, Schwarztorstr. 93 {2381
 – -Scherb, B. Elisab., Wwe., Distelweg 23
 – Soltermann, L., Wwe. des Bankdirektors, Marzilistrasse 42 {3194
 – Strich, Emma, Wwe., Zigarren- u. Tabakhandlung (Brunnhofweg 32), Belpstr. 65
-■-Weber, Konrad, Prokurist b. Fritz Marti
+– Weber, Konrad, Prokurist b. Fritz Marti
 A.-G., Ensingerstrasse 23 {5956
 Mosimann, Alb., Postkommis, Optingenstr. 48
 – Alb., Sattler, Zeigerweg 10
@@ -23132,7 +23132,7 @@ Neuenschwander, Alb., Kl. Muristalden 36
 {6341
 – & Zbinden, Spezereihdlg., Stöckackerstr. 93, Bümpliz
 – Ruef, Fritz, Buchdrucker, Seidenweg 2
-■-Schuhmacher, Lydia, Donnerbühlweg 19
+– Schuhmacher, Lydia, Donnerbühlweg 19
 – Simmen, Frau, Postbureau, Kl. Muristalden 36
 – Walther, Alfred, Schlosser, Waffenw. 11
 Neuhaus, Abraham Gottfried, Handlanger, Bahnhöheweg 38, Bümpliz
@@ -23477,7 +23477,7 @@ Sulgeneckstrasse 16
 – Rud., Pferdewärter, Lorrainestrasse 57
 – Walter, Chemigraph, Brunnmattstrasse 63
 – Werner, Biskuitbäcker, Neuengasse 23
-■-Darbre, Lisa, Handlung photogr. Artikel, Amateur-Arbeiten, Effingerstr. 53 27336
+– Darbre, Lisa, Handlung photogr. Artikel, Amateur-Arbeiten, Effingerstr. 53 27336
 – Leuenberger, Anna M., Wwe., Mayweg 17
 – Ruch, Walter, Angestellter d. Kantonalbank, Tscharnerstrasse 28
 Nyffeler, Alfr., Bahnarbeit., Freie Strasse 11a
@@ -24467,7 +24467,7 @@ Plüss, Arn., Handlanger, Murifeldweg 36
 11545
 – Meyerhofer, Eug., Beamter beim Bundesarchiv, Erikaweg 3
 – Muhmenthaler, Gottl., eidg. Beamter, Bantigerstrasse 28
-■-Reist, Elisabeth, Tscharnerstrasse la
+– Reist, Elisabeth, Tscharnerstrasse la
 – Rhyn, F., Kaufmann, Kanonenweg 16
 Pochet, L. H. J., Spinner, Felsenaustrasse 45
 Pochon, A. H., Versicherungsbeamter, Mattenhofstrasse 22
@@ -27838,7 +27838,7 @@ Scheurer, Adele, Frl., Knabenschneiderin, Spitalgasse IC
 – Marie, Frl., Arbeitslehr., Muldenstrasse 29
 – Rud., Sek.-Lehrer, Neufeldstrasse 19a
 – W. Arn., Konditor, Bundesgasse 32
-■-Caspar, F., Wwe., Konfiserie zum «Weltpostdenkmal». Ecke Bundesgasse-Schwanengasse {1275
+– Caspar, F., Wwe., Konfiserie zum «Weltpostdenkmal». Ecke Bundesgasse-Schwanengasse {1275
 # Date: 1920-12-15 Page: 25901079/377
 Scheurer-Demmler, Helene A., Ob. Dufourstrasse 31
 – Nikles, E., Frau, Thunstrasse 18
@@ -35485,7 +35485,7 @@ Wittwer, s. auch Widmer, Witmer u. Wittmer
 – Stämpfli, Anna Maria, Wwe., Breitenrainplatz 40
 – -Tanner, A., Wwe., Jägerweg 2
 – Wenger, E., Postbeamter, Diesbachstr. 25
-■-Zumstein, Gottl., Lehrer, Steigerweg 38
+– Zumstein, Gottl., Lehrer, Steigerweg 38
 Witz, Gottfried, gew. Holzhändler, Aegertenstrasse 52
 – ■ Margaritha Rosa, Bureaulistin, Seidenw. 43 ■
 – Rob. Gottfr., Angestellter d. Zentralsteuerverwaltung, Schönburgstrasse 26
