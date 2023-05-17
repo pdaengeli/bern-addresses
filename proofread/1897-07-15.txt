@@ -2722,7 +2722,7 @@ Diwy, Karl, Kanzlist der Handelsstatistik, Kramgasse 58
 – Spalinger, Hans, Bautechniker, Junkerngasse 47
 Döbeli, Jak., Postangestellter, Sulgeneckstrasse 58
 – Keiser, L., Frau, Schosshalde, Bantigerstrasse 12
-■-Pflüger, Emilie, Aushülfe, Weissenbühlweg 15
+– Pflüger, Emilie, Aushülfe, Weissenbühlweg 15
 Dobler, s. auch Tobler
 – N., Sigrist d. römisch-kathol. Kirchgemeinde, Kramgasse 68
 Dolder, Gott]., Handlanger, Länggasse, Seidenweg 21
@@ -3703,7 +3703,7 @@ Mattenhof, Brunnhofweg 45
 – Joh., Bäckermstr., Lgg., Bühlstr. 27
 – Tobias, Spinner, Felsenaustr. 16
 – Ulr., Pferdewärter, Schosshalde, Melchenbühlweg 13
-■-Benkert, Ros., Wwe., Damenschneiderin, Gerechtigkeitsg. 37
+– Benkert, Ros., Wwe., Damenschneiderin, Gerechtigkeitsg. 37
 # Date: 1897-07-15 Page: 3015820/172
 Friedli-Binggeli, Frau, Verkäuferin, Spitalgasse 3
 Friedrich, Joh. Phil., Schneider, Aarbergergasse 47
@@ -5329,7 +5329,7 @@ Hense, T., Gärtner, Holligen, Freiburgstrasse 60 b
 Henze, s. auch Henzi
 – M., Frl., Lehrerin, Kramgasse 72
 – Ducommun, A., Beamter d. J. S., Gr. Schanze, Kanonenweg 12
-■-Schaffer, Wwe., Kramgasse 72
+– Schaffer, Wwe., Kramgasse 72
 – -Sedelmeyer, E., Buchhalt. d. Kantonalbank, Längg., Zähringerstr. 22
 Henzer, Ohr., Bodenleger, Speicherg. 43
 – .Toh., Bodenleger, Aarbergerg. 28
@@ -7252,7 +7252,7 @@ Generalvertretung f. d. Schweiz für
 – Meier, M. M., Wwe., Mattenhofstr. 9
 – Menzi, Rob., Buchhalter u. Sekret.d. Inselspitals, Lorrainestr, 16
 – Müller,G., Postcommis, Mattenhof, Könizstr. 36
-■-Oesch, El., Wwe., Inneres Bollwerk 8
+– Oesch, El., Wwe., Inneres Bollwerk 8
 – Rigassi, Ed., Sekretär des Bahningenieurs der S. C. B., Mattenhof, Könizstrasse 32
 – Rufer, A. M., Witwe des Schnlinspekt., Breitenrain, Jägerweg 14
 •-Simon, J. F., Wwe. d. Baumeisters, Mattenh., Könizstr. 32 (Schwarzthor)
@@ -7760,7 +7760,7 @@ Kyburz, joh., Büchsenmacher, Lorraine, Thalweg 13
 – Mathys, M. L., Wwe., Matte, Schifflaube 32
 Ii.
 Labhardt, Andr., Buchhalter, Weissenbühlweg 81
-■-Wanzenried, M., Witwe, Länggasse, Zähringerstrasse 49
+– Wanzenried, M., Witwe, Länggasse, Zähringerstrasse 49
 Labhart, Jean, Hafnermstr , Ofenlageru. Geschirrhdlg., Mattenhof, Mühlemattstrasse 8 '
 Renten - Yolksversiclierungen.
 •alagentur Hern, Marktg. 2 .
@@ -8901,7 +8901,7 @@ Maurer, Rosa, Ladengehülfin, Lorr., Quartiergasse 31
 J— & Hofer, Velo- u. Nähmaschinenhandlung, V ertreter landwirtsch.
 Maschinen, Speichergasse 39
 – Aeschbacher, A., Wwe., Frau, Wäscherin, Holligen, Fcderg. 15
-■-Aerni, F., Wwe., Spezereihandlg., Längg., Mittelstr. 58
+– Aerni, F., Wwe., Spezereihandlg., Längg., Mittelstr. 58
 – Blaser, Frau, Spezereihandlung, Stalden 8
 – Egli, Elis., Witwe, Vorgängerin, Altenbergrain 2
 – Eggen, Alfred, Möbelhändl., Aarbergerg. 64
@@ -8937,7 +8937,7 @@ v. May.
 Meister.v. May & Ad. Simon, Notariats- u. Sachwalterbureau, Spitalgasse 28
 |— -Seeger, Ed., Reehnungsführer b.
 Üentral-Remontendepot, Schänzlistrasse 25 (Belvoir)
-■-Thormann, Franz R. A., Pfarrer, Junkerngasse 51
+– Thormann, Franz R. A., Pfarrer, Junkerngasse 51
 – • -v. Tscharner, Frau, Spitalg. 38
 – v.Wagner, E., Sachwalt. (i Weissenhiihi, Seftigenstr. 11), Spitalg. 28
 – v. Werdt, Arthur, Prokurist der
@@ -10965,7 +10965,7 @@ Lebens - Kenten - Yolksversicherungen.
 Generalagentnr Bern, Marktg. 2.
 # Date: 1897-07-15 Page: 3015919/271
 Ris-Fetscherin, M., Wwe., Privatiöre, Kirchenfeld, Luisenstrasse 24
-■-Ilenzi, A. M., Witwe, Privatiere, Altenbergstrasse 88
+– Ilenzi, A. M., Witwe, Privatiere, Altenbergstrasse 88
 – Oberholz, R., Glätterin, Kesslerg. 46
 – Schnell, Fr. ; Gymnasial-Lehrer u.
 Direktor d. eidg. Eichstätte, Längg., Erlachstrasse 10
@@ -11044,7 +11044,7 @@ Rohrbach, Gottfr., Bezirks-Polizeidiener, Kirchenfeld, Marienstrasse 10
 – M., Frl., Lingere, Schauplatzg. 9
 – R.W.,Frau,Vorgängerin u.Krankenwärterin, Gerechtigkeitsgasse 55
 – Fankhauser, J. F., Vater, Droschkenhalter, Brunngasse 27
-■-Miihlethaler, Frau, Hebamme und Schröpferin, Kesslergasse 28
+– Miihlethaler, Frau, Hebamme und Schröpferin, Kesslergasse 28
 – Teigkäs, M., Witwe, Sandrain, Schönauweg 8
 Rohrer, Chr., Hutformenmacher, Lorr., Schmiedweg 4
 – Chr., Handlanger, Holligen, Freiburgstrasse 70
@@ -11644,7 +11644,7 @@ Salzmann, Gottfr., Mechaniker, Lorr., .1 urastrasse 26
 – Bögli, E., Wäscherin, Sandrain 8
 (Eichplätzli)
 – Gasser, Frau, Goflriererin, Lorr., Polygonweg 11
-■-Hodel, J., Buchbindermeister, Predigergasse 8
+– Hodel, J., Buchbindermeister, Predigergasse 8
 – -Meyer, G., Confiseur, Wyler, Breitfeldstrasse 53
 Samariter-Posten und -Materialdepots, siehe Samariter-Verein, Seite 86
 Sander, H.,gew. Wirt,Liingg.,Landw. la
@@ -11954,7 +11954,7 @@ Schenks Söhne, Matte, Gerberg. 39
 |-Böhlen, Felix, Dr. med., Bandagist, Christoffelpl. 9; Atelier f Münzr. 10
 – Dällenbach, Wwe., Beundenw. 20
 (Beundenhof)
-■-Hegi, Sus., Wwe., Näherin, Sandrain, Schöneckweg 12
+– Hegi, Sus., Wwe., Näherin, Sandrain, Schöneckweg 12
 – Ltithi, S., Schlosser d. Telegraphenwerkstätte, Matte, Badgasse 2ö
 •-Pflughaupt, Chr., Kondukteur d.
 Aufzuges Matte-Plattform, Matte, Badgasse 37
@@ -12108,7 +12108,7 @@ Schläfli, Arn., Wirt, Marzili, Weiherg.17
 – Sus., Schneiderin, Sulgeneckstr. 4
 – Bigler, Ros., Wwe., Spezereihdlg., Sulgenb., Könizstr. 61
 – Krebs, E., Frau, Damenschneiderin, Aarbergergasse 45
-■-Scherrer, M., Witwe, Maschinenstrickerei, Neuengasse 18
+– Scherrer, M., Witwe, Maschinenstrickerei, Neuengasse 18
 – Stämpfli, Wwe., Marktgasse 48
 Schlaginhaufen, Otto, Kaufmann, Mattenhof, Schwarzthorstrasse 51
 Schlapbach, Joh., Zimmermann, Länggasse, Sodw. 11
@@ -12243,7 +12243,7 @@ Kunsthandlung, Aeuss. Bollwerk 5
 {-Ltischer, G., Tuch- u. Manufakturwarenhandlung z. alten Zeughaus, Zeughausgasse 22
 – Mosimann, A., Frau, Priv., Längg., Zähringerstr. 38
 – v. Niederhäusern, Magd., Witwedes Wirts, Zeughausgasse 15
-■-Poinsignon, Th. Kath., Witwe des
+– Poinsignon, Th. Kath., Witwe des
 Schuldirektors, Lgg., Neufeldstr. 23a
 Damen- und Herren - Konfektion, Marktgasse 42.
 # Date: 1897-07-15 Page: 3015936/288
@@ -13715,7 +13715,7 @@ Korkzäpfenhandlg., Aarbergerg. 22
 Spar- & Leihkasse, Aarbergerg. 22
 Strasser, H., Dr., Prot, der Anatomie, Stadtbach, Finkenhubelweg 20
 – Klara, Frl., Lehrerin a. d. Primarschule d. unt. Stadt, Muristr. 8 d
-■-Hiltbrunner, El., Frau, Schneiderin, Schauplatzgasse 11
+– Hiltbrunner, El., Frau, Schneiderin, Schauplatzgasse 11
 Strässle, Jos., Spezerei- und Kolonialwarengesch., Gerechtigkeitsg. 64
 {-Cottet_, A., Konditor, Spitalg. 8
 – Siegfried, A., Vater, gew. Konditor, Gerechtigkeitsgasse 64
@@ -15290,7 +15290,7 @@ Wiggli, Franz, Sekretär des Materialbureaus der Telegraphendirektion, Kramgasse
 Wihler, siehe auch Weiler u. Wyler
 – Karl, Küfer, Matte, Aarstr. 30
 – Wwe., & Söhne, Küferei, Schützengässchen 4
-■-Küpfer, Wwe. des Küfers, Matte, Aarstrasse 30
+– Küpfer, Wwe. des Küfers, Matte, Aarstrasse 30
 Wikart, J. A., Baumstr., Schauplatzg. 5
 Wild, Bertha, Frl., Privat., Schauplatzgasse 39
 – Sam., Revisor bei der eidg. Finanz-Kontrolle, Laupenstrasse 5
@@ -16011,7 +16011,7 @@ Zingg, Arn., Küfer, Metzgergasse 60.
 – Sam., Schmied, Altenbergstrasse 82
 J— Sam., Sohn, Schreiner und Glaser, Junkerngasse 12; Möbelmagazin u.
 Särgelager, Junkerngasse 14l — ’s Söhne, Käsehdlg. en gros u. Sauerkrautfabrikation, Sandrain, Dorngasse 8
-■-Bürgi, H. Chr., Handelsmann, Sandrain, Dorngasse 8
+– Bürgi, H. Chr., Handelsmann, Sandrain, Dorngasse 8
 – Fischer, Jak., Telephonarbeiter, Metzgergasse 34
 – -Lftthy, F. E., Handelsmann, Sandrain, Dorngasse 8
 – -Mauerhofer, Marg., Wäscherin u.

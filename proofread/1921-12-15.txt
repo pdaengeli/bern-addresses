@@ -646,7 +646,7 @@ Unfallversicherungsanstalt in Luzern, Nydecklaube 13
 – Ritter, L. M., Verkehrsschule Bern, Effingerstrasse 12 (5449
 – Schweizer, Alice, Wwe., Thunstr. 30 (6851
 – Zeindler, J., Damenschneiderin, Marktgasse 39 (5732
-■-Zulauf, A., Wwe., Pavillonweg lad’Ammann, Jean, Dr. jur., Industrieller, Engl.
+– Zulauf, A., Wwe., Pavillonweg lad’Ammann, Jean, Dr. jur., Industrieller, Engl.
 Anlage 6 (4944
 Ammon, Adele, Krankenpflegerin, Gewerbestrasse 12
 – Ernst, Schriftsetzer, Pestalozzistrasse 13
@@ -7902,14 +7902,14 @@ Bureau: Genfergasse 10 1770
 – Feldweibel Joh. Sieber, Muesmattstr. 40
 (2013
 – Fourier Fr. Gasser, Aarbergerg. 47 (2036
-■-Fourier Rud. Reber, Waffenweg 4 (2052
+– Fourier Rud. Reber, Waffenweg 4 (2052
 – Wachtmeister Schmid, Langmauerweg 15
 (3109
 – Wachtmeister J. Sieber, Konradweg 7
 (2694
 – Wachtmeister Bücher, Lentulusstrasse 35
 (2075
-■-Wachtmeister Hoffmann, Parkstr. 7 (2038
+– Wachtmeister Hoffmann, Parkstr. 7 (2038
 – Wachtmeister Lanz, Quartiergasse 3
 12969 Spitalacker
 – Wachtmeister H. Luginbühl, Zähringerstrasse 61 (7126
@@ -13805,7 +13805,7 @@ Holzer, Joh., Gutsbesitzer, Riedbachstr. 354, Bümpliz
 – Rudolf, Packer bei der Telegr.-Direktion, Badgasse 7
 – Walter, Bahnarbeiter der S. S. B., Münzgraben 7
 – Walter, Postangestellter, Viktoriastrasse 91
-■-Marti, Rosa, Wwe., Anshelmstrasse 22
+– Marti, Rosa, Wwe., Anshelmstrasse 22
 – Zumstein, Anna, Pension, Elisabethenstrasse 32
 Holzgenossenschaft in Bern, Mittelstrasse 46
 (3657
@@ -27880,7 +27880,7 @@ Scheidegger, Joh., Tramarbeiter, Unt. Villettenmattstrasse 11
 – Walter, Drogist, Bubenbergstrasse 34
 – Bönzli, Luise, Wwe., Murifeldweg 12
 – Dietiker, L., gew. Coiffeuse, Bubenbergplatz 4
-■-Hauser, Siegfried, Bahnhofrestaurateur, Personenbahnhof {2188
+– Hauser, Siegfried, Bahnhofrestaurateur, Personenbahnhof {2188
 – Isler, V. H., Subdirektor der Schweizer.
 Volksbank, Falkenweg 3
 – Mosimann, R., Damenschneiderin, Spitalgasse 3 {2713
@@ -34179,7 +34179,7 @@ Buchdruckerei u. Wagnersche Verlagsanstalt. Breitenrainstr. 97 12259 Spitalacker
 – Wilh. Jos., Schlosser, Aarbergergasse 22
 – — sehe Verlagsanstalt, Verlagsbuchhandlung, Zeitschriftenverl., Clicheanstalt, Ecke Viktoriarain-Breitenrainstr. 97 14440 Spit.
 – —Egli, Johann, Schuhmachermeister, Optingenstrasse 41 12281 Spitalacker
-■-Romy, Leo, Postangestellter, Neuengasse 3
+– Romy, Leo, Postangestellter, Neuengasse 3
 – Sollberger, E. R. J., Privatiere, Münsterplatz 8
 Wahl. Gottfr., Telegr.-Angestellter, Schlösslistrasse 22
 Wahlen, Alb., i. Fa. Wolf & Wahlen, Baumat.-Hdlg., Greyerzstr. 83 12379 Spit.

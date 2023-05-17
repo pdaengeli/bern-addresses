@@ -837,7 +837,7 @@ J — & Hänni, Bauunternehmer, Lorraine, Blumenweg 3 379
 – Berger, A., Büchsenmacher, Wyler, Flurweg 30
 – Bondeli, Karl, Hundehandlung, }
 Chalet Holligen, Neue Könizstr. 15
-■--Jeanneret, C. H., Kaufmann, Kirchenfeld, Luisenstrasse 27
+– -Jeanneret, C. H., Kaufmann, Kirchenfeld, Luisenstrasse 27
 – Keller, A. B., Frau, Damenschneid., Gerechtigkeitsgasse 75j-Niederhäuser, Karl, Buchdrucker
 (Gerechtigkeitsg. 75),Postg.47 1500
 – Pflugshaupt, Ros., Wwe., Priv., Kramgasse 17
@@ -1387,7 +1387,7 @@ Bieri, Chr., Magaziner, Lgg. Tannenw. 17
 # Date: 1904-11-30 Page: 25799519/148
 Bietenharder, E., Postkommis, Lorraine, Ulmenweg 13
 |— Gottl., städt. Strassenmeister, Sulgeneckstrasse 62 1604
-■-Stämpfli, El., Wwe., Lorr., Ulmenweg 13
+– Stämpfli, El., Wwe., Lorr., Ulmenweg 13
 Bigler, Alb.. Camionneur, Brunngasse 28
 – Alex., Schreiner, Lorr., Jurastr. 89
 – Alfr., Bautechniker, Schosshalde, Erikaweg 7
@@ -9000,7 +9000,7 @@ Fettwarenhdlg., Matth. (Schwarztorstr.45), Unt.Yillettenmattstr.13 2200
 – Künzli. Ros. Sus., Wwe., Schosshalde, Brunnadernweg 61
 – Leuenberger, F. R. Verena, Wwe,, Kirchenf., Museumstr. 10
 – Lutz, M., Witwe d. Arzts, Längs?., Hallerstrasse 12 b
-■-Miescher, Eduard, Dr. med., Arzt, Junkerngasse 25
+– Miescher, Eduard, Dr. med., Arzt, Junkerngasse 25
 – Rolli, EL, Gemüsehändlerin (Stand
 Kramgasse 62), Kesslergasse 9
 {-Roesch, Ed., Hutmacher, Kirchenfeld, Jungfraustrasse 30 1860
@@ -13372,7 +13372,7 @@ Rüetschi, s. auch Riitschi
 – Luise, Frl., Privatlehrerin, Längg., Finkenhubelweg 14
 – Burgdorfer, Adele, Wwe., Leihbibliothek, Parfümeriehandlung u.
 Teeverkauf, Hotelgasse 6
-■-Gerster, Anny, Wwe. d. Pfarrers, Kirchenfeld, Alpenstrasse 7
+– Gerster, Anny, Wwe. d. Pfarrers, Kirchenfeld, Alpenstrasse 7
 {-Matter, A. M., Wwe., Spezereihdlg., Beundenfeld, Breitenrainpl. 20 2405
 Ruf, s. auch Ruef und Ruof
 – Joh. Gottfr., in Fa. | Buchmüller
