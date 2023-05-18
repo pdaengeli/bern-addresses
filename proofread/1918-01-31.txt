@@ -347,7 +347,7 @@ Althaus, Alb., Notar, Wattenwylweg 17
 – Fritz, Aufseher beim Kantonsbauamt, Rathausplatz 1 12089
 Althaus, Gottfr., Zeughausarb., Murifeldw. 21
 – Jak. Fr., Goldschmied, Spitalackerstr. lb
-– Job., Sek.-Lehrer, Steigerweg 24
+– Joh., Sek.-Lehrer, Steigerweg 24
 – Joh., Schreiner, Sodweg 11
 – Marie Magd., Priv., Monbijoustrasse 95
 – Otto Emil, Schrifts., Morellweg 12
@@ -1406,7 +1406,7 @@ Mittelstrasse 53 1252
 – Benker, W., Import- und Exportgeschäft, Gutenbergstrasse 20 13834
 – Berger, A., Kontrollgehilfe, Allmendstr. 26
 – Bigler, Marie Luise, Witwe des Baumeisters, Greyerzstrasse 61 1407
-– Bondeli, Job. Karl, Hundehandlung, Neue
+– Bondeli, Joh. Karl, Hundehandlung, Neue
 Könizstrasse 19
 – Herre, G., Lehrer an der Schosshaldenschule, Seminarstrasse 11
 – Marti, Eduard, Handlanger W.-F., Platanenweg 3
@@ -5886,7 +5886,7 @@ Erni, s. auch Aerni
 – Andr., Beamter S. B. B., Freie Strasse 13a
 – A. Th., Kupferstecher, Bernastrasse 34
 – Fridolin, Handlanger, Philosophenweg 21
-– Job., Kommis, Bernastrasse 34
+– Joh., Kommis, Bernastrasse 34
 – Joh. Jak., Beamter S. B. B., Berchtoldstr. 17
 – Benz, J., Kontrolleur b. eidg. Amt f. geist.
 Eigentum, Bernastrasse 34
@@ -7109,7 +7109,7 @@ Fürst, Emil, städt. Beamter, Nordweg 10
 – Friedr., Bankangest., Zentralweg 23
 – Fried., Magaziner, Metzgergasse 69
 – Jak., Hilfsmonteur, Burgfeldweg 15
-– Job., Spengler, Freiburgstrasse 70
+– Joh., Spengler, Freiburgstrasse 70
 – L., Lehrerin, Breitenrainplatz 38b
 – Niki., Schuhmacher, Brunngasse 46
 – F. & Cie., A.-G., Schuhhandlg. u. -Fabrikation, Spitalgasse 9 $80
@@ -14877,7 +14877,7 @@ Laubscher, Alb., Arbeiter i. d. Waffenfabrik, Wankdorfweg 59
 – Math., Gehilfin an der schweizer. Landesbibliothek, Bubenbergstrasse 2
 – Guggisberg, Fritz, Angestellter, Scheuerrain 5
 Läuchli, Wilh., Fabrikaufseher, Fluhweg 9
-Lauener, Job., Oberrichter, Moserstrasse 2
+Lauener, Joh., Oberrichter, Moserstrasse 2
 – Paul, Dr., städt. Schularzt (Frohbergw. 14), Predigergasse 10
 Lauer, E. R., Instrum.-Macher, Weberstr. 19
 – Friedr., Schlosser, Gerbergasse 19
@@ -14940,7 +14940,7 @@ Lebensmittelbureau, eidg. (für Zivilversorgung), Amtbausgasse 3 {1299
 – kant., Waisenhausstr. 7 {5497
 – städt., Polizeigebäude {3051
 Lebensmittel-Aktiengesellschaft Bern, vorm.
-Job. Sommer & Cie., Kolonialwaren-, Konserven- u. Weinhdlg., Zeughausg. 31 {1124;
+Joh. Sommer & Cie., Kolonialwaren-, Konserven- u. Weinhdlg., Zeughausg. 31 {1124;
 Zentralbureau u. Lagerhäuser in Zollikofen
 {9907; Filialen: Depotstr. 22 {3962; Postgasse 58; Schauplatzg. 9; Seftigenstr. 28;
 Luisenstr. 16 {3418; K. Muristalden 34;
@@ -16325,7 +16325,7 @@ Maier, s. auch Mayer, Meier und Meyer
 – Emil, Steindrucker, Trechselstrasse 2
 – Hans, Abteilungssekr. im Schweiz. Polit.
 Depart. (Handelsabtlg.), Wabernstrasse 20
-– Job., Marchand-Tailleur, Mezenerweg 8
+– Joh., Marchand-Tailleur, Mezenerweg 8
 – Josef. Kutscher, Junkerngasse 12
 – Jos. A., Kommis, Lerchenweg 27
 – Mark., Küfer, Armandweg 8
@@ -21437,7 +21437,7 @@ Rüedi, E. L., Gehilfin d. S. B. B., Waisenhausplatz 4
 – Wagner, R. F. R., Kaufm., Kasernenstr. 52
 RSedy, Emil, Sohn, Magazinarbeiter, Moserstrasse 33
 – Ferd., Kontrollchef der kant. Polizeidirektion, Weissenbühlweg 44 $259
-– Job., Magaziner i. Zeughaus, Moserstr. 33
+– Joh., Magaziner i. Zeughaus, Moserstr. 33
 – HandftUpchule u. Berner Handelsakademie, Bollwerk 35/37 $30ifuef, s. auch Ruf und Ruof
 – Adolf, Schreiner, Mittelstrasse 18
 – r-Anna, Elise, Ladentochter, Brückenstr. 7
@@ -24825,9 +24825,9 @@ Stalder, Alfr., Hauswart, Effingerstrasse 3
 – Jakob, Uhrmacher, Cäcilienstrasse 21
 – Jakob, Schreiner, Muesmattstrasse 41
 – Jakob, Journalist, Bernastrasse 71
-– Job. Friedr., Ingenieur b. eidg. Eisenbahndepartement, Optingenstrasse 10
+– Joh. Friedr., Ingenieur b. eidg. Eisenbahndepartement, Optingenstrasse 10
 – Joh., Ausläufer, Breitfeldstrasse 54
-– Job., Mechaniker, Jurastrasse 27
+– Joh., Mechaniker, Jurastrasse 27
 – Julius, Beamter beim eidg. Amt für geist.
 Eigentum, Köniz
 – Karl, Bahnarbeiter, Mittelstrasse 17
@@ -27471,7 +27471,7 @@ Bureaus für geist. Eigentum, Bubenbergstrasse 49
 – Hans, Installateur, Breitfeldstrasse 32
 – J. F., Schreinerei (Berchtoldstr. 46), Neubrückstrasse 16 {949
 – Jak., Schieferdeckermstr. (Lentulusstr. 33), Pestalozzistrasse {2458
-– 'Job., Bureauangestellte]', Steckweg 9
+– 'Joh., Bureauangestellte]', Steckweg 9
 – Joh., Wirt, Cafe Malaga, Lilienw. 20 {5348
 – Karl, Müllermeister, in Firma {Stettier &
 Wälti, Haspelgasse 16
@@ -28049,7 +28049,7 @@ Wenger, Alfr., Postbeamter, Schwarzenburgstrasse 79
 Wenger, Joh., Bäckermstr., Breitfeldstr. 67
 – Joh., Landjäger, Amthaus
 – Joh., Maurer, Wiesenstrasse 55
-– Job., Pferdewärter, Breitfeldstrasse 55
+– Joh., Pferdewärter, Breitfeldstrasse 55
 – Joh., Schlosser, Schöneggweg 18
 – Joh. G., Schreiner, Altenbergstrasse 44
 – Joh. R., Schuhmacher, Landweg la
@@ -28271,7 +28271,7 @@ Widmer und Wiedmer, s. auch Witmer, Wittmer und Wittwer
 – Joh., Schlosser, Steinauweg 25
 – Joh., Wegmeister, Badgasse 17
 – Joh., Schmied, Neubrückstrasse 93b
-– Job., Wegmeister, Magazinweg 6
+– Joh., Wegmeister, Magazinweg 6
 – Joh. Gottl., Maurer, Postgasse 50
 – Joh. Jak., Bureaulist, Länggassstrasse 38
 – Jos., Bereiter beim Kav.-Rem.-Depot, Kasernenstrasse 44
@@ -28576,7 +28576,7 @@ Festungsbauten, Lentulusstrasse 54
 – Hel., Frl., eidg. Beamtin, Schulweg 9
 – Jakob, Gehilfe d. S. B. B., Berchtoldstr. 39
 – Joh., Kommis, Ryffligässchen 15
-– Job., Steinhauermeister, Pappelweg 11
+– Joh., Steinhauermeister, Pappelweg 11
 – K. F., Gipser, Schauplatzgasse 24
 – -Karl Josef, Lok.-Heizer, Freiburgstr. 117
 Margr., Ladentochter, Mühlenplatz 4

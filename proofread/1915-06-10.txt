@@ -35,7 +35,7 @@ Aeberhard, s. a. Aeberhardt und Eberhard.
 – H. Rud., Coiffeur, Junkerngasse 3
 – Jakob, Wagner, Rodtmattstr. 108
 – Joh., Bäcker, Metzgergasse 76
-– Job., Pflästerer, Badgasse 35
+– Joh., Pflästerer, Badgasse 35
 – Joh., Müller, Wasserwerkstrasse 4
 – Joh., Hilfsmonteur, Badgasse 35
 – Lina, Münzarbeiterin, Sandrainstrasse 7
@@ -1018,7 +1018,7 @@ Baisiger, Alb., Buchbinder, Schwarzenburgstrasse 8
 – J. F., Photograph, Breitfeldstr. 39
 – J. G., Münzarbeiter, Gerbergasse 36
 – Jak., Handlg., Brunngasse 14
-– Job., Kutscher, Belpstrasse 30
+– Joh., Kutscher, Belpstrasse 30
 – Joh., Schreiner, Seidenweg 2 a
 – Joh., Maschinist, Wasserwerkstr. 4
 – Karl Friedr., Maler, Zähringerstr.38
@@ -1449,7 +1449,7 @@ Baur, s. auch Bauer
 – Ed., Maler, Muristrasse 38
 – Ernst Jul., Kartograph, Moserstr. 32
 Hans, Geschäftsbücherfabrik und Schreibmaterialienhdlg.(Bühlstr.59), Zeughausgasse 26 940
-I— Jak., Baumstr. (Job. Beaumontweg
+I— Jak., Baumstr. (Joh. Beaumontweg
 11 2759 ), Mühlemattstr. 16 2142
 – Jb., Patentanwaltsbureau, Marktasse 31/33b., Notariats- und Verwaltungsbureau, Marktgasse 31/33
 – Jakob, Schuhmachermstr., Postg. 60
@@ -2503,7 +2503,7 @@ Blaser, Adolf, Pierriste, Pestalozzistr. 6
 Tschanz, Matte, Schifflaube 36
 – Ernst A., Spengler, Murtenstrasse 50
 – Ernst, Installateur, Cäcilienstr. 23
-– Ernst Job., Steindrucker, Quartiergasse 17
+– Ernst Joh., Steindrucker, Quartiergasse 17
 – Friedrich, Mechaniker, Wylerringstrasse 55
 – Fr., Gärtner und Landwirt, Altenbergstrasse 20
 – Friedr., Handlanger, Weissensteinstrasse 7j— Fr., Hotel Eiger, Belpstr. 75 2156
@@ -2699,7 +2699,7 @@ Seidenbaus E.3ucker& [!sm s riTheaferplalz,
 Bögli, Gottfr., Prokurist, Gerechtigkeits- 1gasse 29
 – Henriette, eidg. Angestellte, Mon- ibij onstrasse 9 i
 – Johann, Handlanger, Postgasse 32 j
-– Job.,Postangestellter,Allmendstr.28 ;
+– Joh.,Postangestellter,Allmendstr.28 ;
 – Karl, Schriftsetzer, Quartierhof 7 |
 – Marie, Bureaulistin, Zeughausg. 9 I
 – Peter Arn., Schuhmacher, Rüthstr.7 |
@@ -3046,7 +3046,7 @@ Bureau, Thunstrasse 87
 – J., Camionneur, Münzgraben 11
 – Jak., städt. Armenkassier, Längg., Vereinsweg 1
 |— J.,Wirt, CafeBreitenrainpl. 26 2077
-– Job., Karrer, Belpstrasse 53
+– Joh., Karrer, Belpstrasse 53
 – J. Ernst, Kaufmann, Brunnhofweg 22
 – K., Kaminfegerm., Aarbergerg. 9
 – Karl, Bahnarbeiter, Altenbergstr.102
@@ -4914,7 +4914,7 @@ Dubach, Alfred, Kondukteur, Vereinsweg 7
 – Hans, Schlosser B. L. S., Fischermätteliweg 18 e
 – Joh., Giessereiarbeiter, Murtenstrasse 153 d
 – Joh. A., Beamter der S. B. B., Neubrückstrasse 43
-– Job. Friedr., Kondukteur, Vereinsweg 7
+– Joh. Friedr., Kondukteur, Vereinsweg 7
 – Karl, Maurer, Schifflaube 10
 – Rud., Fuhrmann, Konsumstrasse 11
 |-Treuberg, Fritz, Bau- und Möbelschreinerei, Sarglager, Florastr. 3
@@ -6329,7 +6329,7 @@ Freiburghaus, Emil, Maschinist, Freiburgstrasse 68
 – Fritz, Sekretär des Allg. Spar- u.
 Prämienvereins, Gutenbergstr. 10
 – Gottl.,Bannwart,Papiermühlestr.120
-– Job., Bahnarbeiter, Murtenstr. 45
+– Joh., Bahnarbeiter, Murtenstr. 45
 – Karl Rudolf, Angestellter, Greyerzstrasse 31
 – Karl, Bureaulist, Beundenfeldstr. 5
 – Karl, Zimmermann, Römerweg 22
@@ -6576,7 +6576,7 @@ Fuchs, Albert, Beamter der Nationalbank, Mittelstrasse 61
 – Ernst, Installateur, Alt. Aargauerstalden 27
 – F., Schriftsetzer, Hohgantweg 14
 – F. E., Maurer, Scheibenweg 35
-– Job. Daniel, Mechaniker, Elisabethenstrasse 28
+– Joh. Daniel, Mechaniker, Elisabethenstrasse 28
 – Joh. Alfr., Magaziner, Seftigenstr. 57
 – Jules, Gärtner, Wallgasse 6
 | — Lina, Privatiere, Liebeggw. 22 1322
@@ -6593,7 +6593,7 @@ Fueter, Emil, Elektrotechniker,Kanonenweg 18i— Fritz, Dr. med., Arzt u. Wundar
 – Matter, P., Bücherexperte, Kanonenweg 18l -Staub, Gustav, Tuchhandlg., Massu. Konfektion (| Habsburgstrasse 12
 2123), Marktgasse 38 1047
 Füger, Joh., Hilfsarbeiter, Kramg. 19
-(Fugina, Job., Wagenmaler (Hopfenweg 15), Tscharnerstr. 14 3028
+(Fugina, Joh., Wagenmaler (Hopfenweg 15), Tscharnerstr. 14 3028
 Füglistaler, F. L., Schreiner, Sodweg 11
 Führer, s. auch Furrer
 – Alfr., Dienstmann, Greyerzstrasse 33
@@ -18668,7 +18668,7 @@ Polizeidir., Mattenh., Brunnhofw. 22
 – Hadorn, Marie, Kaffeewirtschaft, Herzogstrasse 14
 Rupp-Otz, Franz, Postbeamter, Neubrückstrasse 11b
 – Rubin, W alter, eidg. Beamter, Engestrasse 43
-– Schmid, Job., Kondukteur, Elisabethenstrasse 24 a
+– Schmid, Joh., Kondukteur, Elisabethenstrasse 24 a
 – Zimmer, S., Wwe., Gesellschaftsstrasse 18 a
 Ruppert, Rud., Beamter der S. B. B., Berchtoldstrasse 42
 Ruppli, s. auch Rubli
@@ -23619,7 +23619,7 @@ Wälti, s. auch Welti
 – Hans, Installateur, Rütlistrasse 15
 – Gottfr., Reinigungsinstitut, Scheibenweg 25j— J., Schiefer- u. Ziegeldecker, Weissenbühl, Lentulusstrasse 33 2458
 – Joh., Wirt, Gerbergasse 34
-– Job., Bureauangestellter, Steckw. 3
+– Joh., Bureauangestellter, Steckw. 3
 – Karl Rud., Bankangest., Weissenbühlweg 29 a
 – Karl, Müllermeister, in Fa. f Stettier
 & Wälti, Haspelgasse 16
