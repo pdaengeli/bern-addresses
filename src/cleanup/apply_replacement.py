@@ -3,10 +3,11 @@ import re
 
 FIXES = [
     ('(g|G)ehiilf', '\g<1>ehülf'),
+    ('Herrn\.', 'Herm.'),
     #(r'£(\d\d+)', '↯\g<1>'),
     #(r'gasse(\d+)', r'gasse \g<1>'),
-	#(r'Kirclienfeld|Kirchen-\sIfeld', r'Kirchenfeld'),
-	#(r'\\Vildhain'  , r'Wildhain'),
+    #(r'Kirclienfeld|Kirchen-\sIfeld', r'Kirchenfeld'),
+    #(r'\\Vildhain'  , r'Wildhain'),
     #(r'^\d+\s+(.+)$'
 ]
 
