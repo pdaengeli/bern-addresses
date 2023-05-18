@@ -20,7 +20,7 @@ Telegraph-Verwaltung, Stalden 34
 – F., Schlosser, Aarbergergasse 17
 – Gottl., Garnhandlung, Neueng. 16
 – J., Arbeitsmann, Metzgerg. 28
-– Job., Schlosser, Matte, Bubenbergsrain 21
+– Joh., Schlosser, Matte, Bubenbergsrain 21
 – Joh., Schneider, Brunngasse 50
 – J. F., Schlosser, Länggassstrasse 87
 – Niki., Privatier, Neueng. 16
@@ -299,7 +299,7 @@ Arpagaus, Lorenz, Postfaktor, Längg., Zähringerstrasse 45v. Arx, Emil, Arbeite
 – Walther, Telephon-Beamter, Linde, Murtenstrasse 28
 Aeschbach, Aug., Amtsnotar (Breitenrain, Zaunw. 18), Waisenhauspl. 27
 (Bureau Bonnneli)
-– Job., Manövrist, Engestrasse 130
+– Joh., Manövrist, Engestrasse 130
 – Rud., Bahnangestellt, Schosshalde, Stationsweg 25 b (Stationsgebäude)
 Aeschbacher, s. auch Eschbacher
 – E., Schlosser, Mattenenge 9
@@ -641,7 +641,7 @@ Baumgartner, Ad., Arbeiter im Giiterbahnhof, Beundenweg 16
 – J., Möbelschreiner, Münzgraben 7
 – J., Uhrenmacher, Anatomieg. 11
 – J. J., Sehuhm., Matte, Gerberg. 38
-– Job., Zimmermann, Stalden, Läuferplatz 6
+– Joh., Zimmermann, Stalden, Läuferplatz 6
 – Jos. F., Schokolade-Arbeiter, Dalmaziweg 59 a
 – Joh. G., Maler, Gerechtigkeitsg. 3
 – Karl, Koch, Neueng. 17
@@ -938,7 +938,7 @@ Spengler Meier, Inn. Bollwerk 10
 |— Gottl., Dachdeckermeister (Unternehmer y. Holzcementbedachungen), Kirchenfeld, Archivstrasse 8
 – Gottl., Kleinbäcker, Zeughausg. 5
 – Johann, Schulabwart, Kirchenfeld, Aegertenstrasse 46
-– Job. Ernst, Schreiner, Ob. Villette, Niesenweg 10
+– Joh. Ernst, Schreiner, Ob. Villette, Niesenweg 10
 – Joh. Friedr., Elektriker, Marktasse 44
 . F., Pension, Marktgasse 44
 – N., Gipser u. Maler, Brunnhofw. 27 a
@@ -1828,7 +1828,7 @@ Burkhardt, s. auch Burkart, Burkhardund Burkhart
 – Fr., Möbelschrein. (Aarbergerg. 43), Speichergasse 13
 $— Jakob, Holzhändler, Weissenbühl, Seftigenstrasse 35
 – Jak., Postangestellter, Postg. 54
-– Job., Schuhmacher, Könizstr. 8
+– Joh., Schuhmacher, Könizstr. 8
 – Joh., Schuhmacher, Metzgergasse 5
 – Marie, Weissnäherin, Kesslerg. 16
 – M., Damenschneid., Christoffelg. 11j— Ulrich, Holzhändler, Weissenbühl, Seftigenstrasse 35
@@ -2036,7 +2036,7 @@ Christen, Altenbergstr. 56
 – J., Küfer, Aarbergergasse 33
 – Joh., Schneider, Kircngasse 42
 – Joh. Gottf., gew. Gürtler, Sandrain, Schönauweg 7
-– Job., Milchnändler, Matte, Badg. 15
+– Joh., Milchnändler, Matte, Badg. 15
 – Jos., Metzger (Metzgergasse 26), grosse Schal
 – K.j Zugführer, Stadtbach, Wildhainweg 12
 – Karl, Abwart des kantonalen chem.
@@ -2564,7 +2564,7 @@ Eichenberger, A., Witwe, Näherin, Mattenhofstr. 7
 – Fr., Dachdecker, Matte, Schifflaube 46
 – J., Korbmacher, Postgasse 30
 – J., Portier d. Mechan. Seidenstoffweberei, Längg., Seidenweg 10
-– Job., Mechaniker, Brunngasse 56
+– Joh., Mechaniker, Brunngasse 56
 – J. F., Hufschmied u. Huibeschlaglehrer d. Tierarzneischule, Schiitzenmattstrasse 10
 – Joh. Jak., Buchbinder, Lorrainestrasse 15
 – J. S., Schuhmachermeister Aarbergergasse 13
@@ -3558,7 +3558,7 @@ Gertsch, Christ., Hutmacher, Kirchg. 10
 – Fr., Buchhalter, Murtenstrasse 26
 – Fr., Instruktionsoffizier, Kramg. 31
 – Joh. F., Schreiner, Weissenbühl, Landhausweg 13
-– Job., Handlanger, Mattenenge 9
+– Joh., Handlanger, Mattenenge 9
 – Ulr., Zeichner b. Oberbauinspektorat, Beundenfeld, Militärstr. 44
 Gerwer-Imhoolf, R., Privatiere, Kornhausplatz 7j Gesandtschaftskanzlei, Amerikanische, Hirschengraben 6
 – Bayrische, Wallgasse 1
@@ -3899,7 +3899,7 @@ Grogg, C., Zimmermeister, Junkerng. 43
 Basler Löwenbräu und dem Bürgerlichen Brauhaus in Pilsen.
 # Date: 1895-05-31 Page: 3014922/168
 Grogg, J., Lehrer, Längg., Mittelstr. 9
-– Job., Lehrer, Breitenrain, Allmendweg 1
+– Joh., Lehrer, Breitenrain, Allmendweg 1
 – S„ Schreiner, Glaser u. Möbelhdlr.
 (Gerechtigkg. 3), Postg. 63
 Grosjean, Cel., Privatiere, Gerechtigkeitsgasse 28
@@ -4388,7 +4388,7 @@ Hasler, F., Schuhmacher u. Placierungsbureau, Münsterplatz 4
 Häsler, Alb.. Prokurist d. Buchdruckerei
 (Stämpfli & Comp., Längg., Zähringerstrasse 63
 – Elise, Damenschneiderin, Längg., Ahornweg 1
-– Job., Sattler, Längg., Ahornweg 1
+– Joh., Sattler, Längg., Ahornweg 1
 – Peter, Handelsm., Altenbergstr. 4
 – Benkert, M. J., Wwe. des Bodenlegers, Lorrainestrasse 66
 Hastiger, Jos., Maschinenschlosser, Mattenhof, Brunnhofweg 9
@@ -4408,7 +4408,7 @@ Haudenschild, A., Bäckermeister, Gereclitigkeitsg. 78
 Flaschen-Exportbier aus dem
 # Date: 1895-05-31 Page: 3014929/175
 Haudenschild, Gotth. Fr., Angestellterder Stadtbuchhalterei, Lorr., Quartiergasse 13
-– Job. Ed., Postangestellter, Längg., Zähringerstrasse 35
+– Joh. Ed., Postangestellter, Längg., Zähringerstrasse 35
 – J. U., Spezereihändler, Brunng. 40
 Hauenstein, Walther, Angest. d. eidg.
 Landesbefestigungs-Bureau, Breitenrain, Zaunweg 16
@@ -4588,7 +4588,7 @@ Henze, s. auch Henzi
 – Schaffer, wwe., Kramgasse 72
 – -Sedelmeyer, E., Bankbuchhalter, Gerechtigkeitsgasse 55
 Henzer, Chr., Bodenleger, Aarbergg. 46
-– Job., Bodenleger, Aarbergerg. 28
+– Joh., Bodenleger, Aarbergerg. 28
 Henzi, s. auch Henze
 – A. E., Ingenieur, Längg., Hallerstrasse 5
 – B. L., Schreiner, Postgasse 20
@@ -4774,7 +4774,7 @@ Hirsbrunner, A. Barb., Flussbadhalterin, Marzilistrasse 29
 S— Friedr., Hafnermeister, Mattenhof, Philosophenweg 29
 – Gotth, Spenglermeister (Länggassstrasse 30). Längg., Mittelstr. 8 a
 – Jak., Schuhmachern., Matte, Schifflaube 42
-– Job., Briefträger, Matte, Gerberg. 17
+– Joh., Briefträger, Matte, Gerberg. 17
 – Joh. Ant., Schreinergeselle, Sulgenbach, Könizstrasse 48
 – Joh. Chr.Paul, Metzger, Herreng. 14
 – Joh-, Ingen.-Topograph, Länggasse, Fabrikstrasse 14
@@ -4800,7 +4800,7 @@ Hirschi, Chr., Uhrenmacher, Herreng. 4
 – Friedr., Tramwaykontrolleur, Gerechtigkeitsgasse 38
 – J., Mechaniker, Länggasse, Zähringerstrasse 4 t
 – J., Modellschreiner, Länggasse, Mittelstrasse 16
-– Job., Zhnmermann, Längg., Gesellschaftsstrasse 33
+– Joh., Zhnmermann, Längg., Gesellschaftsstrasse 33
 – Bocher, Ida, Frau, Modiste, Gerechtigkeitsgasse (38) 36
 – Wichtermann, Affich., Herreng. 4
 Hirsig, Alb., Gipser, Metzgergasse 66
@@ -4821,7 +4821,7 @@ J — C. Eugen, Bauführer, Lorrainestr. 13
 – Leuw, Ros., Witwe, Seftigenstr. 32
 | Hirter - Böhlen, J., Speditor, Gurtengasse (3) 3 a
 – Hofer, Wwe. d. Schiffmstrs., Matte, Schifflaube 10
-Hirzel, Job., Buchbinder, Metzgerg. 8
+Hirzel, Joh., Buchbinder, Metzgerg. 8
 – Ludw., Prof. Dr., Längg., Gesellschaftsstrasse 17
 Hittmann, J., Ingenieur, Amthausg. 4
 Hitz, Eng. Ed., Hauptbuchhalter d. Kantonalbank, Murist., Höheweg 14 c
@@ -4892,7 +4892,7 @@ Friedr., Steinhauer, Neueng. 29
 – J., Hutrüster, Altenbergstr. 54
 – J., Schuhmachermeister, Gerechtigkeitsgasse 64
 – Jakob, Krämer, ,Tunkerngasse 11
-– Job., Gürtler, Metzgerg. 50
+– Joh., Gürtler, Metzgerg. 50
 – Joh., Wächter der Waffenfabrik, Längg., Steinhauerweg 8
 – Joh., Schneider, Metzgergasse 24
 – Joh. Friedr., Büchsenmacher, Lorr., Quartierg. 0
@@ -5148,7 +5148,7 @@ Hubmann, K., Schriftsetzer, Metzgerg. 26
 Hiibseher,F., Eisenbahnangestellter, Ob.
 Yillette, Bühlstr. 4
 – Gottl., Commis, Dählhölzliweg 60
-– Job. Mart., Privatier, Länggasse, Mittelstr. 4
+– Joh. Mart., Privatier, Länggasse, Mittelstr. 4
 – Jos. Ant., Schneider, Metzgerg. 68
 Huck, Ad., Schlosser, Neuengasse 30
 Hufschmied, Joh. Georg, Maschinenführer der S. C. B., Amthausg. 26
@@ -5375,7 +5375,7 @@ Jarretout, Jean, Zuschneider, Marktg. 15
 Jasselin, J., Eisen- u Antiquitiitenhdlg., Kramg. 37
 Jaun, Em.^ Packer, Längg., Mittelstr. 7
 – Gottlieb, Kondukteur, Länggasse, Falkenweg 5
-– Job., Abwart im kant. Frauenspital, Schanzeustrasse 23
+– Joh., Abwart im kant. Frauenspital, Schanzeustrasse 23
 Jauner, siehe auch Johner
 – Johann , Magazinier , Mattenhof, Besenscheuerweg 8
 – Rudolf, Tramkondukteur, Neueng.3
@@ -5432,9 +5432,9 @@ Bollwerk 19
 – G., Gärtner, Längg., Bremgartenstrasse 77
 – Johann, Posamenter, Brunnadernweg 58
 – Jon., Zimmermeister u. Wirt, Länggasse, Bühlstrasse 22
-– Job., Schneider, Aarbergerg. 52
+– Joh., Schneider, Aarbergerg. 52
 – J., Spenglermeister (Postgasse 28), Sternengässchen 1
-– Job. Kud., Büchsenmacher, Breitenrain, Turnweg 57
+– Joh. Kud., Büchsenmacher, Breitenrain, Turnweg 57
 – M. L., Buchhalterin, Postgasse 28
 – N., Angestellter d. S. C. B., Längg., Frohbergweg 5
 – Rud., Bahnarbeiter, Tiefenaustr. 65
@@ -5588,7 +5588,7 @@ Jutzi, Fr., Dachdecker, Wyler, Flurw. 29
 – Friedr., Abwart der bern. Musikgesellschaft, Kirehgasse 24
 – Friedr., Schlosser, Lorr., Turntv. 18
 – Gottl., Steinhauer, Wyler, Wankdorfweg 70
-– Job., Kutscher, Marzilistr. 2
+– Joh., Kutscher, Marzilistr. 2
 – Joh., Wegmeister, Enge, Thormannmätteliweg 19
 – W., Sattler, Matte, Aarstrasse 30
 – Gygax, Eh, Wwe., Längg., Seiden■weg 31
@@ -5611,7 +5611,7 @@ Imer, F. A., Bereiter, Wyler, Scheibenweg 4
 Im Hof - v. Watteuwyl, Theod., Dr. phih, Lehrer am Freien Gymnasium, Stadtbach, Pavillonweg 13
 Imhof, A., Damensclmeiderin, Holligen, Federgasse 6
 – J., Tapezierer, Sandr., Schönamv. 6
-– Job., Bannwart, Wohlenweg 5
+– Joh., Bannwart, Wohlenweg 5
 – Joh., Hirschenw'ärter, Waisenhph 18
 – Johann, Zimmermann, Mattenhof, Brunnmattstrasse 38
 – Jos. Franz, Schriftsetzer, Längg., Fellenbergstrasse 19
@@ -5668,8 +5668,8 @@ Ischer, C. Fr., Kanzlist bei der Stadtkanzlei und Spezereihandlung, Gerechtigkei
 – Rud., Dr. phil., Gymnasial-Lehrer, Kramgasse 15j Ischl, Alb., Bäckenneistr., Spitalg. 39;
 Filiale: Mattenhof, Zieglerstr. 31
 – Eman., Dienstmann, Länggasse, Druckereiweg 5
-– Job., Dienstmann, Längg., Seidel# 1weg 25
-– Job., Kässalzer, Mattenhof, Philosophenweg 21
+– Joh., Dienstmann, Längg., Seidel# 1weg 25
+– Joh., Kässalzer, Mattenhof, Philosophenweg 21
 – Wälchli, El., Knabenschneiderin, Aarbergergasse 53
 Iseli, siehe auch Iseiin
 – Andr., Hutriister, Lorr., Quartierh. 8
@@ -5682,10 +5682,10 @@ Iseli, siehe auch Iseiin
 – Gottfr., Maschinenmeister, Längasse, Zähringerstrasse 45
 ., Bäcker, Längg., Gesellsehstr.41
 – Jak., Eisen- und Flaschen-Trödler, Langmauerweg 17
-{— Job., Quartieraufseher, Lorr., Quartiergasse 13
+{— Joh., Quartieraufseher, Lorr., Quartiergasse 13
 – Johann Fr., Schreiner, Länggasse
 (Ahornweg 3), Schreinerweg 4
-– Job., Schreiner, Postgasse 34
+– Joh., Schreiner, Postgasse 34
 – Isaak, Eisengiesser, Stalden 26
 – Marie, Glätterin, Lorr., Ilaldenw. 16
 – N., Schlosser, Brunngasse 26
@@ -5723,7 +5723,7 @@ Iten, s. auch Itten
 Itten, s. auch Iten
 – Gottl. Rud., Bäckermeister, Matte, Gerbergasse 6
 – Joh., Postcommis, Längg., Mittelstrasse 15
-– Job., Lehrer der Länggassschule, Längg., Zeltweg 17
+– Joh., Lehrer der Länggassschule, Längg., Zeltweg 17
 H.
 Käch, Jak., Sekundarlehrer, Kirchenfeld, Archivstrasse 10
 {— Hotel Bären in Münchenbuchsee
@@ -6566,7 +6566,7 @@ Kunz, s. auch Kuentz u. Kuenz
 – Jak., Schuhmach., Lgg., Seidenw. 14
 – Jak. Friedr., Schreiner, Matte, Gerbergasse 42
 – Joh., Holzhauer b. HH. Burkhardt, Gebr., Schöneckweg 12
-– Job., Schneider, Brunngasse 62
+– Joh., Schneider, Brunngasse 62
 – K. F., Kondukteur S. C. B., Aarbergergassc 43
 – Oskar, Kontrollgehülfe der Telegraphen-Direk., Mattenhof, Brunnmattstrasse 23
 – Rob., Revisionsgehülfe der eidg.
@@ -6897,7 +6897,7 @@ Lehmann, Lochgut b. Wabern
 – Jb., Bäcker, Matte, Schifflaube 22
 – Jak., Angest. b. IIH. F. Jäggi & Cie., Bubenbergsrain 13
 – Joh., Küfermeister, Tiefenaustr. 91
-– Job., Steinhauer, Matte, Badgasse 3
+– Joh., Steinhauer, Matte, Badgasse 3
 – Joli., Polizcidiener, Stalden 34
 – Joh., Landwirt, Steinhölzliweg 25
 – Joh., Wagner, Altenberg, Uferw. 4l — Jules, Lithographie und Accidenz-Druckerei (Junkerng. 50), Gerechtigkeitsgasse 79
@@ -7098,8 +7098,8 @@ Liechti, A., gew. Wirt, Marzilistr. 6
 – Jakob, Bahnarbeiter, Mattenhof, Brunnhofweg 13
 – Joh., Wagnermstr., Holligenstr. 76
 – Joh., Schmied, Längg., Steinhauerweg 7
-– Job., Wegknecht, Mattenh., Philosophenweg 23
-– Job. Chr., Schuhmacher, Lorraine, Waldweg 2
+– Joh., Wegknecht, Mattenh., Philosophenweg 23
+– Joh. Chr., Schuhmacher, Lorraine, Waldweg 2
 – Joh. Fr., Küfer, Sandrainstrasse 7
 – Klara, Postcommise, Speichers. 29
 – Niki.,Zurichter, Matte, Schifflaube 34
@@ -7811,7 +7811,7 @@ Messerli, Chr., gew. Wirt, Neueng. 45
 – Joh., Eisenbahnarbeiter, Breitenrainstrasse 44
 – Joh., Ausläufer der Tannerschen
 Apotheke, Aeuss. Bollwerk 21
-– Job., Oeler, Felsenauweg 20
+– Joh., Oeler, Felsenauweg 20
 – Karl, Schreiner, Schosshalde, Obstbergweg 3
 Basler Löwenbräu und dem Bürgerlichen Brauhaus in Pilsen.
 # Date: 1895-05-31 Page: 3014974/220
@@ -8029,7 +8029,7 @@ Möckly, Lina, Lingere, Spitalg. 20
 Moginier, K., Sekretär d. Expeditionsbur. d. J. S., Längg., Vereinsw. 42
 Möhler, J. F., Schneider, Aarbergerg. 29
 – J. F., Handelsrepräsentant, Längg., Zähringerstrasse 35
-Mohni, Job., Drosehkenführer, Metzgergasse 58
+Mohni, Joh., Drosehkenführer, Metzgergasse 58
 Mohren, Zunfthaus, Kramgasse 12
 Mohrenschild, Emilie, Privat., Münzgr. 13
 Moilliet, G., Oberstlt., Wylerstrasse 16
@@ -8368,7 +8368,7 @@ Krankenmobilienmag., Metzgerg. 8
 |-Stotzer, A., Tabak- und Cigarrenhandlung, Aarbergergasse 4i -Torny, V., Wwe., V erkauf v. Kohlen, Coaks, Briquettes, Metzgergasse 58;
 Limonade- u. Mineralwasserfabrik, Metzgergasse 46
 – Widmer, R. M., Witwe, Müllerin, Sulgenrain 30
-– Winzenried, Job., Privat, Weissenbtihl, Morillonweg 43 (Bellevue)
+– Winzenried, Joh., Privat, Weissenbtihl, Morillonweg 43 (Bellevue)
 Müller-Zaugg, Witwe, gew. Wirtin, Laupenstrasse 5
 – Zulauf, R., Witwe, Aarbergerg. 4
 Müllhaupt, F., geograph. Kunstinstitut, Obere Villette, Niesenweg 3
@@ -8396,7 +8396,7 @@ Sanitätsmagazins, Herrengasse 28i— Hans, Sohn, Gipser u. Maler, Spitalgasse 1
 (— J., Vater, Tapetenhdlr. (Marzilistrasse 15), Spitalgasse 16
 – J., Korbmacher,Längg., Seidenw.23
 – Joh. Jak. Gottl., Wagner, Wyler, Wankdorfweg 61
-– Job., Angest. d. Nähmaschinenhdlg.
+– Joh., Angest. d. Nähmaschinenhdlg.
 Singer, Lorr., Haldenweg 18
 – Rud. Alf., Heraldikeru.Dekorationsmaler, Marzilistr. 30
 – Abderhalden, M., Wwe., Privatiere, Wylerstrasse 16
@@ -9236,7 +9236,7 @@ Reichel, Ad., alt Musikdirektor, Sulgenbach, Könizstr. 8 (Salzbüchslein)
 – Alex., Professor, Marzilistr. 20 a
 { Reichenbach, Bierbrauerei(J.Hofweber
 & Cie.)
-– Job. Rud., Bankangestellter, Münzgraben 9
+– Joh. Rud., Bankangestellter, Münzgraben 9
 Reichesberg, N., Dr., Doeent a. d. Universität, Kirchenf., Ringstr. 3
 Reidenbach, Karl, gew. Spenglermeister, Mattenhof, Belpstrasse 59
 Reimann, G. C., internat. Sekretär des
@@ -10262,7 +10262,7 @@ Garten, Altenbergrain 21
 Söhne, Matte, Gerbergasse 39
 – G., Cementer, Matte, Schifflaube 2
 – J., Zimmermann, Wyler, Allmendweg 29
-– Job., Lithogr. (Matte, Gerberg. 36), Kramgasse 79t— Johanns Söhne, Müllerei, Matte, Mühlenplatz 11/13
+– Joh., Lithogr. (Matte, Gerberg. 36), Kramgasse 79t— Johanns Söhne, Müllerei, Matte, Mühlenplatz 11/13
 – K., Magazinier, Weissenbühlweg 31
 – Karl, Friedr., Schneider, Lorraine, Jurastrasse 24
 – R., Schuhmacher, Bubenbergsr. 23
@@ -10733,13 +10733,13 @@ Schönenberger, Felix, Adjunkt d. eidg.
 Oberforstinspektorat, Gr. Schanze, Falkenplatz 18
 – Gilgian, Bierdepothalter (Kramg.
 46), Kornhausplatz 9
-– Job. Jb., Schneider, Lorr., Ulmenweg 8
+– Joh. Jb., Schneider, Lorr., Ulmenweg 8
 – P., Inspektor der Londoner Union, Mattenhof, Schwarzthorstrasse 71
 – Frey, Pension, Mattenh., Schwarzthorstrasse 71
 I Schöneweid, L. G., Koch, Aarbergerg. 15gMP' Carl Gossweiler, Flaschen-Exportbier aus dem
 # Date: 1895-05-31 Page: 3015013/259
 Schönholzer, Fr., Kommissionär u. Musiker, Längg., Wyderrain 7
-– Job., Bahnangestellter, Länggasse, Muesmattstrasse 42
+– Joh., Bahnangestellter, Länggasse, Muesmattstrasse 42
 Schön i, Anna, Verkauf v. Bläuewasserund Tinte, Brunngasse 34
 – Anna, Seidenweherin, Länggasse, Seidenweg 14
 – Joh., Zimmermann, Matte, Miihlenplatz 12
@@ -11040,7 +11040,7 @@ Carl Crossweiler, Flaschen-Exportbier aus dem
 # Date: 1895-05-31 Page: 3015017/263
 {Senn, Gottf., Spezerei-u.Schuhhandlg., Längg., Bühlstrasse 55 a
 – Heinr., Mechaniker, Lorrainestr. 31
-– Job. Jak., Büchsenschäfter, Lorr., Randweg 8
+– Joh. Jak., Büchsenschäfter, Lorr., Randweg 8
 – Jos. Theod., Sehuhmachermeister, Längg., Seidenweg 27
 – Joh.,Wagner, Längg., Gewerbestr.il
 – Rosa, Krankenwärterin, Länggasse, Hallerstrasse 14
@@ -13633,7 +13633,7 @@ Ziegler.
 Zigerli, Ernestine, Bureauangestellte, Gerechtigkeitsgasse 76
 – G., Uhrenfabr., Kramgasse 77
 – Bob., Techniker, Matte, Gerberg. 16
-Zihler, Job., Negt., Altenbergstr. 59illig, J. B., Steinhauer, Kirchgasse 10
+Zihler, Joh., Negt., Altenbergstr. 59illig, J. B., Steinhauer, Kirchgasse 10
 Zimmerleuten, Gasthof und Zunfthaus
 (Joh. Stalder) Marktgasse 4
 Zimmerli, Friedr., Schmiedmeister, Inn.
