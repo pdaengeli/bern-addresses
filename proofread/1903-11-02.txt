@@ -441,8 +441,8 @@ Strasse 28 a
 – Jörg, Joh. Ernst, Buchhalter der
 Kantonalbank, Lgg.,Zähringerstr.31
 – Lehmann, Rosa, Marg., Frau, Glasund Geschirrhandlung (Anatomiegasse 9). Neuengasse 4
-– Liidi, Elisabeth, Witwe, Privatiere, Länggasse, Donnerbühlweg 1
-– Schiipbach, M. El., Witwe, Länggasse, Vereinsweg 14
+– Lüdi, Elisabeth, Witwe, Privatiere, Länggasse, Donnerbühlweg 1
+– Schüpbach, M. El., Witwe, Länggasse, Vereinsweg 14
 Aeschimann, Christ., Schuhmachermstr., Gerechtigkeitsgasse 26
 Aeschlimann, Adele, Broderiehandlung, Kramgasse 87
 – Alb., Bahnangest., Weyermannshaus, Murtenstrasse 133 I
@@ -538,7 +538,7 @@ Bachofner, Anna Elisabeth, Krankenwärterin, Speichergasse 35
 – Chr., Steinhauer, Langmauerweg 19a
 – Joh. Friedrich, Schneider, Aarbergergasse 44
 – N., Küfer, Aarbergergasse 35
-– Biirki, Wwe., Känggässchen 14
+– Bürki, Wwe., Känggässchen 14
 ( Bächtelen-Anstalt, Kleinwabern 1980
 Bächtold, Hans, Küfer u. Wirt, Länggasse, Seidenweg 5
 | Bäckerei-Genossenschaft der Arbeiterunion, Langmauerweg 17 1440
@@ -903,7 +903,7 @@ Bay, E. Otto, Kunstmaler, Schosshalde, Höheweg 14; Atelier Postgasse 46
 Bay-Bay, C. L., Wwe. d. Pfr., Schosshalde, Höheweg 14
 – Bay, R., Kommandant, Schauplatzgasse 9 .
 Bayrische Gesandtschaft, Kanzlei, Amthausgasse 1
-(Bazar bernois (C. E. Riiegseggers
+(Bazar bernois (C. E. Rüegseggers
 Wwe.), Marktg. 13 und Amthausgasse 8 1681
 – Streiff, Bärenplatz 4
 Beaujon, Charles, Registrator des polit.
@@ -2011,7 +2011,7 @@ IBrunschwig, Jules & Cie., Pferdehändler, Zähringerstr. 3 92
 – J. L., Ingenieur, Schwarztorstr. 53a
 Brupbacher, J., Kontrolleur b. d. Kriegsmaterialverwaltung, Marktg. 42
 – Moser, E., Schuhhandlung (Moserstr. 33), Schwanengasse 9
-– Riiegsegger, E., Witwe, Privat., Lorrainestrasse 16
+– Rüegsegger, E., Witwe, Privat., Lorrainestrasse 16
 Bruppacher-Liechti, Sus., Wwe., Negt., Felsenaustrasse 20
 | Brüstlein, Alfr., Dr. jur , Fürsprech, Kirchenfeld, Bubenbergstr. 9 1819
 # Date: 1903-11-02 Page: 25703715/159
@@ -2650,7 +2650,7 @@ Cousin, Emil, Prof., Lehrer für Violine, Kornhausplatz 12
 Creaturaz, J. L., Beamter d. S. B. B., Amthausg. 16
 Crelier, Louis Jacques, Dr., Privatdozent, Biel
 Cron, J. J., Maschinentechniker b. Gaswerk, Sandrainstrasse 15de Crousaz, J., Beamter d. S. B. B., Weissenh., Steinauweg 10
-Cueni, s. auch Kühne und Kiihni
+Cueni, s. auch Kühne und Kühni
 – Em., Angestellter der Hyp.-Kasse, Sulgenbach, Könizstrasse 63
 Cuenod, Artur, Privatier, Kirchenfeld, Florastrasse 3
 Cuttat, Alfr., Vizedirektor der eidgen.
@@ -2815,7 +2815,7 @@ Dienstbotenschule, Längg., Zähringerstrasse 14
 Diensten-Spital, Junkerngasse 21
 Dier-Rothenbühler, Wwe., Postgasse 30
 { v. Diesbach, Rob., Kommissionssekretär, Längg., Beaulieustr. 82 25
-– v. Tavel, Sophie, Witwe, Neubriiekstrasse 2
+– v. Tavel, Sophie, Witwe, Neubrückstrasse 2
 Diethelm, J., Bildhauer, Zähringerstr. 38
 – U. A., Schriftsetzer, Hotelg. 3
 Dietiker, Marie, Brodeuse, Marktg. 55
@@ -2925,7 +2925,7 @@ Dubach, E., Frl., Telegraphistin, Längasse, Mittelstrasse 18mil, Lithograph, Ma
 {— Joh., Droschkenhalter u. Kalberhändler, Altenbergstrasse 30 1434
 Dubey, J. A., Beamter d. S.B.B., Längg., Neufeldstrasse 25 c
 – Jos. K., Bereiter, Wyler, Rodtmattstrasse 106
-Dübi, s. auch Diiby
+Dübi, s. auch Düby
 – Bend., Bodenleger, Junkerng. 26
 $— Heinr., Dr. phil., Lehrer am städt.
 Gymnasium, Redakt. d. Jahrbuches
@@ -2942,7 +2942,7 @@ Dubler, Ed., Maler u. Lackierer, Neuengasse 29
 – R. A., Postkommis, Länggasse, Frohbergweg 11
 – Girard, K., Registrator b. internat.
 Bureau f. geist. Eigentum, Kirchenfeld, Thunstrasse 11
-Diiby, s. auch Dübi
+Düby, s. auch Dübi
 – A., Angestellter der | Direktion des
 Armenwesens, Junkerngasse 51
 – Karl, Kanzlist beim Departementdes Innern, Weissenb., Zimmerw. 3
@@ -3746,7 +3746,7 @@ Fotsch, Ad., Mech., Mattenenge 22
 Fräfel, Joh., Schneider, Junkerngasse 11
 – Raschle, Frau, Ling., Junkerng. 11
 Fraisse, Brugger & Cie., chemische
-Waschanstalt und Kleiderfärbereiin Murten, Filiale Bärenplatz 2
+Waschanstalt und Kleiderfärberei in Murten, Filiale Bärenplatz 2
 (France & Terminus, Hotel (Alfred
 Fleury), Neuengasse 46 798
 Francke, s. auch Franke
@@ -3944,7 +3944,7 @@ Fues, s. auch Fuss.
 – P., Lehrerin a. d. Primarschule d.untern Stadt, Mattenhofstr. 9
 – Rosine, Frl., Schneiderin, Weissenbühl, Seftigenstrasse 107
 – Ruch, B., Wwe., Lgg., Seidenw. 28
-Fueter, Cec., Frl., Neubriiekstrasse 10
+Fueter, Cec., Frl., Neubrückstrasse 10
 ( — Fritz, Arzt, Waisenhausplatz 21 48
 (— G., Tuch- und Konfektionshandlung
 ((Schosshalde, Ob.Haspelw.10 1465 ), Marktgasse 38 1047
@@ -4550,7 +4550,7 @@ Glauser, Fr., gew. Wirt, Lgg., Gesellschaftsstrasse 12
 – Rud., Schweinmetzger, Marzilistr.Gb
 – Rud., Telephonarbeiter, Lorraine, Steckweg 11
 – Samuel, Spezerei- und Holzhandlg., Brunngasse 26
-– Biirki, A., Witwe, Kornhauspl. 12
+– Bürki, A., Witwe, Kornhauspl. 12
 – Moser, Wwe., Holzhändler, Sandrainstrasse 52
 Gleu-Medina, R., Modiste, Länggasse, Gewerbestr. 18
 Glinz, Chr. Ernst, Schlosser, Gerechtigkeitsgasse 22
@@ -4808,7 +4808,7 @@ Grossenbacher, Ad., Postpacker, Lgg., Mittelstrasse 30
 – F., Mechaniker der eidg. Waffenfabrik, Wyler, Stockernweg 13
 – G., Zeughausarbeiter, Metzgerg. 66
 – Jon., Schneidermstr. u. Vogelhdlr., Metzgergasse 64
-– L., Frl., u. Biirki, M., Fr., Kleiderund Feinwascherei und Glätterei, Altenbergstrasse 10
+– L., Frl., u. Bürki, M., Fr., Kleiderund Feinwascherei und Glätterei, Altenbergstrasse 10
 – Lörtscher, A. C. A., Wwe., Marktgasse 46j Grossglauser, Hans, Schweinemetzger, Spitalgasse 45 601
 Grosshans, Georg Friedr., Drechsler, Langmauerweg 19 a
 Grossheim-Jester, M., Frau, Lehrerinan der Primarschule der obern
@@ -5152,7 +5152,7 @@ Leop., Lohnkutscner u. Wirt zur
 Nydeck, Stalden 30 396
 – Nikl., Schreiner- und Glasermeister, Metzgergasse 20
 – Nikl. Rud., Sohn, Bauschreinerei, Linde, Murtenstrasse 26
-Häberii, -Biirki, V.,Wwe. d. Oberrichters,.
+Häberii, -Bürki, V.,Wwe. d. Oberrichters,.
 Mattenhof, Belpstrasse 35
 – Imhof, M., Witwe, Kirchenfeld, Tillierstrasse 20
 |-Lindt, Rosa, Wwe., Rentiere, Länggasse, Erlachstrasse 11 368
@@ -7534,7 +7534,7 @@ Klauser, Joh. Bapt., Drechsler, Gerechtigkeitsgasse 42
 Klauser-Hefti, Magd., Frau, Glätterin, Gerechtigkeitsgasse 42
 Klausner-Stolz, M. A., Wwe., Lorraine, Quartierhof 9
 Klay, Alfr., Regierungsrat, Länggasse, Falkenhöheweg 18
-– Friedr., Gehilfe der Giiterexped., Weissenbühl, Weissensteinstr. 45
+– Friedr., Gehilfe der Güterexped., Weissenbühl, Weissensteinstr. 45
 – Joh., Heizer, Ausserholligen 85
 – Karl, Obermüller, Matte, Gerberg. 39
 – Ryser, Fried., Manufakturwarengesch. z. „Volksmagazin“ (Kirchenf., Museumstrasse 14), Theaterplatz 3
@@ -8598,7 +8598,7 @@ Leibiin, R. J., Kaufmann, Uferweg 10
 – Hans, Postangestellter, Breitenrain, Turnweg 26
 – Mar., Privatiere, Nägeligasse 7
 – Gassmann, Osk., i. Fa. Leibundgut
-& Cie., Monbiioustrasse 35
+& Cie., Monbijoustrasse 35
 (-Imobersteg, G., i. Fa. Leibundgut
 & Cie., Kirchenf., Marienstr. 26 1852
 ( — & Cie., Garnhandel u. -Fabrikationen gros, Amthausgasse 26 1675
@@ -8761,7 +8761,7 @@ Lichtensteiger, Ernst, Bankang., Kramgasse 28
 Lieber, E., Snengiermeister, Länggasse, Gesellschaftsstrasse 40
 – L., Postkondukt., Marzili, Weihergasse 14
 – Bracher, A. M., Witwe d. Spenglers, Längg., Gesellschaftsstr. 50
-– Pliiss, Ros., Witwe, Marzili, Gasstrasse 11
+– Plüss, Ros., Witwe, Marzili, Gasstrasse 11
 – -Riedmann, M., Witwe, Rentiere, Längg., Finkenrain 9
 Liebeskind, C. M. R., Schneider, Länggasse, Freie Strasse 28
 Liebi, Ed., Architekt, Hirschengr. 24 b
@@ -8799,7 +8799,7 @@ Waffenchefs des Genie, Stadtbach, Terrassenweg 16
 (Lienhard, Alb., Dep. d. Brauerei Warteck Basel und Flaschenbierhandel, Mattenhof, Belpstrasse 38 c 2143
 – Fr. Aug., Schuhmachermstr., Lgg., Zeltweg 7
 – -Bergdorf, Am., Geschirrhändlerin, Lorrainestrasse 60 b
-– Liidi, A., Frau, Glätterin, Amthausgasse 12
+– Lüdi, A., Frau, Glätterin, Amthausgasse 12
 Lier, Fr., Vater, Gipser- u. Malermeisterin Fa. Lier & Sohn (Matte, Mühlenplatz 4), Gerbergasse 12
 – Fr., Sohn, Gipser u. Maler in Fa.
 Lier & Sohn (Matte, Gerberg. 40), Gerbergasse 12
@@ -11415,7 +11415,7 @@ Ramseyer, s. auch Ramseier
 – Ros., Wwe., Längg., Vereinsweg 9
 – Frau, Aarstrasse 76 567
 – Aeberhard, A., Witwe., Wyler, Parkstrasse 11
-– -Schiipbach, Ernst, Amtsnotar in
+– -Schüpbach, Ernst, Amtsnotar in
 Firma { Meyer & Ramseyer, Kirchenfeld, Dählhölzliweg 11
 – Steck, E., Wwe., Lorr., Haldenw. 1
 Ramsler-Beljean, M. Luise, Gerechtigkeitsgasse 31
@@ -12265,7 +12265,7 @@ Ruffner, G., Chirurg-Masseur, Hühneraugenoperateur , Krankenwärter, Aarbergerg
 |Ruffy,E., Direktor d. Internat. Bureauscf. W eltpostvereins(Rabbent.,Oberw.
 121174 ), Bureau: { Christolfelg.6 431
 { Rufli, J., Papierhandlung, Luxuspapieren gros, Postkarten-Verlag, Länggasse, Finkenrain 3 121
-Rüfli, s. auch Riiefli
+Rüfli, s. auch Rüefli
 |— Rud., älter, Privatier, gew. Parkettfabrik., Schossh., Munstr. 19 1324
 – Rud., Dienstmann, Mattenhofstr. 37
 – Rud., Kondukteur, Mattenhofstr. 37
@@ -12869,7 +12869,7 @@ Scherr, s. auch Schär
 – Luise, Kinderkonfekt., Spezialitätfür Mädchen, Aeusseres Bolhv. 23
 Schertenleib, B.,Zimmerm., Metzgerg.46
 – Bend., Karrer, Neuengasse 39
-– Friedr., Angestellter b. Betreibungsamt Bern-Stadt, in Giimlingen
+– Friedr., Angestellter b. Betreibungsamt Bern-Stadt, in Gümlingen
 – Jak., Postangestellter, Kirchenfeld, Gryphenhübeliweg 13
 – J., Ausläufer, Marktgasse 53
 – Rud., Bez.-Polizist, Weissenbühl, Graftenriedweg 6j Scherz, A., Oberstdivis., Abteilungsch.f. d. Polizeiwesen u. Sekr. d. eidg.
@@ -13013,7 +13013,7 @@ Schlick, Marie, Zitherlehrerin, Kornhausplatz 5
 Schüttler, Saml., Beamter d. S. B. B., Lorraine, Seelandwe^ 7
 Schlosser, El., Schneiderin, Länggasse, Seidemv. 28
 – II.,Schrifts.,Weissenb., Zimmerw. 12
-– Biittikofer, Karol., Wwe., Weissenbühl, Zimmerweg 20
+– Büttikofer, Karol., Wwe., Weissenbühl, Zimmerweg 20
 Schluchter, Emma, Frl., Damenschneiderin, Gerechtigkeitsgasse 64
 – Joh., Packer bei d. Telegr.-Direkt., Gerechtigkeitsgasse 64
 – Sam.,Telephonarb.,Lgg.,Forstw. 69
@@ -13477,7 +13477,7 @@ Schröer, E. 0., Spezierer und Spengler’
 Länggasse, Neufeldstrasse 21
 – 0. E., Zigarren- u. Tabakhandlung, Kramgasse (,80) 16
 Schroff, E., Frau, Milch-, Butter- und Käsehandlung, Waghausg. 4
-Schryber-Pliiss, J., Sekr. d.Mat.-Bur.d.
+Schryber-Plüss, J., Sekr. d.Mat.-Bur.d.
 Telegr.Dir., Lgg., Donnerbühlw. 11
 Schubnell, Heinrich, Schreiner, Längg.
 Schreinerweg 13
@@ -14203,7 +14203,7 @@ S. B. B., Längg., Mittelstrasse 6
 |— Robert, Elektr. Installationsgeschäft, Weissenbühl, Weissensteinstrasse 81 983
 – Rud., Sekretär der Forstdirektion, Kirchenfeld, Dählhölzliweg 12
 – Bücher, E., Frau, Spezereihandlg., Kirchenf.(Dählhölzliw.l2),Thunstr.8
-– -Bücher, 0., Rechnungstiihrer der
+– -Bücher, 0., Rechnungsführer der
 Forstdir., Kirchenf., Dählhölzliw. 12
 – Spycher, A. M., Wwe., Privatiere, Weissensteinstrasse 35
 – Stöckli, Marg., Wwe., Milch- und Butterhandlung, Brunngasse 46
@@ -14857,7 +14857,7 @@ Stryffeler, G., Schuhmacher, Wyler, Rodtmattstrasse 108
 Stüber, Alb., Schreinermeister, Längg(Frohbergw. 8), Genossenw. 5
 – Ludw. Pliil., Spengler, Mattenhof, Hopfenweg 32 a
 – Rud.. Fürsprech, alt Gemeinderat, Kircnenfeld, Marienstrasse 30
-– Briigger, El., Wwe. d. Schmieds, Länggasse, Hallerstrasse 20
+– Brügger, El., Wwe. d. Schmieds, Länggasse, Hallerstrasse 20
 Stübner, L., Privatiere, Brunngasse 42-Stückelberger, E., Witwe, Schneiderfurnituren- u. Merceriehandlung, Kramgasse (76) 74
 – J., Handelsmann, Kramgasse 76
 Stucker, Ernst, Sattler, Lgg., Mittelstr. 4
@@ -14952,7 +14952,7 @@ Stump, El., Frl., Postkommise, Ländteweg 1 (Aarzielehof)
 – Paul, Postbureauchef, Kirchenfeld, Bubenbergstrasse 49
 Stumpf, Alb., Sekret, d. Mat. Bureausder Telegr.-Dir., Kirchenfeld, Helvetiastrasse 35
 – W., Zeichner beim eidg. hydrom.
-Bureau, Kirchenf., Manenstr. 16j v. Stürler, A., Schloss Giimlingenj— Art., Prokurist, Waldhöhew.29 1309
+Bureau, Kirchenf., Manenstr. 16j v. Stürler, A., Schloss Gümlingenj— Art., Prokurist, Waldhöhew.29 1309
 – Jul., Amtsnotar i. Firma ] Stettier, v. Fischer & Cie., Schwanengasse 14
 – Lud., Ingenieur, Direktor d. (Waffenfabrik, Wylerstrasse 48
 ( — & Cie., Getreidehandel en gros, Aeusseres Bollwerk 19 763
@@ -15216,7 +15216,7 @@ Tieche-Frei, Adolf, Architekt, Mattenh., |
 Tillisch, Birgit, Frl., schwedische Heilgymnastik u. Massage, Zeughausgasse 41 (( Hotel Kreuz)
 Tinguely-Ehrbar,P.,Bankbeamter,Mühlemattstrasse 20
 Tissot, J. E A., Kommis d. S. B. B., Länngg., Freie Strasse 15 aj Tivoli, Gastwirtschaft (Hr. L. Schwarz), Lorraine, Hofweg 11 376v. Tobel, s. auch Voiitobel
-– E., Droguist, Monbiioustrasse 35
+– E., Droguist, Monbijoustrasse 35
 – -Keller, Rud., im Hause (Ls. Berthoud & Cie.,Mattenh.,Effingerstr. 15
 – Wälchli, Wwe., Monbijoustr. 35
 Tobler, s. auch Hobler
