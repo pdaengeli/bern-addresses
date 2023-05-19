@@ -21,6 +21,17 @@ class Processor(object):
         self.families = self.read_families()
         self.firstnames = self.read_firstnames()
         self.given_name_abbreviations = self.read_given_name_abbreviations()
+        self.accepted_affixes = { # accepted fragments in firstnames
+          "Frau": True,
+          "Frl": True,
+          "Frl.": True,
+          "Gebr.": True,
+          "Gebrüder": True,
+          "Schwest.": True,
+          "Schwestern": True,
+          "Wittwe": True,
+          "Wwe.": True
+        };
         self.read_addresses()
         self.unknown_families = Counter()
         self.max_family_name_wordcount = max(
@@ -168,6 +179,8 @@ class Processor(object):
             if frag in self.given_name_abbreviations:
                 continue
             if self.firstnames.get(frag.lower()):
+                continue
+            if self.accepted_affixes.get(frag):
                 continue
             all_frags_found = False
         if all_frags_found:
