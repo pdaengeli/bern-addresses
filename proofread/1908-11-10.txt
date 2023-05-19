@@ -1030,7 +1030,7 @@ I. Kl. d. Kavallerie, Rabbental, Ober- jweg 2 1264 l
 { Beckert, Karl Ed., Geschäftsführer der
 Smith Premier Typewriter Co., Sulgenheimweg 15 3099
 Bedert, Jul., Bäckermeister, Wyler, Scheibenweg 39
-– ■ Alex, Magaziner, Muesmattstr. 34
+– Alex, Magaziner, Muesmattstr. 34
 Beer, D., Beamter d. T. S. B., Wabernstrasse 12
 { — E., Vertreter d. Papierfabrik Landquart, Gutenbergstrasse 11 3137
 – Emil, Bahnarbeiter, Forstweg 67
@@ -2893,7 +2893,7 @@ Däscher, El., Frau, Damenschneiderin, Postgasse 60
 Dasen, H., Oberst, Zeughausverwalter, Waisenhausplatz 4
 Dätwyler, siehe auch Dettwyler
 – G., Bahnangest., Bühlstrasse 6
-– ■ Gottl., Büchsenmacher, Rodtmattstasse 86
+– Gottl., Büchsenmacher, Rodtmattstasse 86
 Herm., zum Stadtgarten, Neuengasse 22 559
 { -Schneider, R. G., Wwe. d. Arztes, Marktgasse 52 2115
 |— -Spörry, Alfred, Restaurateur, Comestibles und Traiteurgeschäft, Kramgasse 77 2330
@@ -3059,7 +3059,7 @@ Westbau 1335
 |— desGemeindewesens, Kramg.24 1550
 |— d. Gürbetalbalin, Waghausg. 1 2184
 | — des Innern, Münsterpl. 3 (Stift) 885
-■ — der Justiz, Kirchgasse 2 1551
+— der Justiz, Kirchgasse 2 1551
 – der Landwirtschaft, Kramg. 24 1970
 – d. Militärs, Beundenfeldstr. 17 1516l — der öffentl. Bauten und der Eisenbahnen, Münsterpl. 3a (Stift) 898
 |— der Polizei und der Sanität, Kramgasse 24 1549f — der städtischen Strassenbahnen, Mühlemattstrasse 12 2066f— des Unterrichtswesens, Münsterplatz 3 (Stift) 889
@@ -3751,7 +3751,7 @@ Finger, Fr., Schunm., Lorrainestrasse 68
 – Fritz, Briefträger, Junkerngasse 15
 – Fr., Dienstmann, Metzgerg. 63
 – Fried., Bureauangestellter, Wyler, Flurweg 28
-– ■ Gottl. Magaziner, Lgg., Hallerstr. 26
+– Gottl. Magaziner, Lgg., Hallerstr. 26
 – S., Kanzlist, Längg., Hallerstr. 26
 – Hediger Ernst, Bahnangestellter, Gerecntigkeitsgasse 35
 – -Hediger, H., Frau, Spezereihandlg., Gerecntigkeitsgasse (35) 52
@@ -5554,7 +5554,7 @@ Haller, A., Postangest., Archivstrasse 8
 – E.Em.,Lithogr.,Fischermätteliw. 23
 – F. B., Direktor des eidg. Amtesfür geistiges Eigentum, Schwarzenburgstrasse 21
 – G., Kondukteur, Lgg., Vereinsw. 7
-|—■ Hermann, Frieuhofgärtner, Bremgartenfriedhof, Murtenstr. 55 1774
+— Hermann, Friedhofgärtner, Bremgartenfriedhof, Murtenstr. 55 1774
 – Karl, Spengler, Tannenweg 11
 – Paul, | kanton. Lehrmittelverwalter, Neubrückstrasse 3
 – R., Münzärbeiter, Kl. Muristalden ob
@@ -5601,7 +5601,7 @@ Handwerker- und Kunstgewerbeschule, .. Zeughausgasse 2 (Gewerbemuseum)
 Stroh-Handelsgesellschaft, Falkenhöheweg 16 2900
 Häni, s. auch Hänni
 – Bend., Aarbergergasse 33
-– ■ Fr., Privatier, Mattenhof, Hopfenweg 26
+– Fr., Privatier, Mattenhof, Hopfenweg 26
 Hänni, s. auch Häni.
 – A., Ansichtskartenverlag, Waisenhausstrasse 22
 – Ad., Kondukteur d. S. B. B., Rodtmattstrasse 97
@@ -5989,7 +5989,7 @@ Bundesgasse 2
 Henzer,Joh .Bodenleger, Schauplatzg. 23
 Henzi, s. auch Hänzi u. Henze
 – A. E., Ingen., Adi. für Neubauten b.städt. Ingenieurbur., Laupenstr. 27
-| — Alf., Installationsgeschäft, Waldheimstrasse 45 2592 ■
+— Alf., Installationsgeschäft, Waldheimstrasse 45 2592
 – Jos., Buchdrucker, Zeughausgasse 7
 – M., Frl., Privat., Lgg., Yereinsweg6
 – Max, Bankkassier, Jäger weg 14
@@ -6756,7 +6756,7 @@ Sektion des eidg. Eisenbahndepart, Mattenhof, Effingerstrasse 42
 – Scheler, Wwe. a. Prof., Landweg 1
 Hulliger, Gottfr., Fraiser d. Waffenfabr,, Rodtmattstrasse 83
 – Rettenmund, Frau, Weissnähern], Mattenhof, Schwarztorstrasse 25
-Humbel, C.F.,Hauswart i. neuenBunde8- |haus, Römerweg 22 ■
+Humbel, C.F.,Hauswart i. neuen Bundeshaus, Römerweg 22
 – Emil, Schuhmacher, Kirchgasse 14
 Humbert-Geiger, Jules, Angestellter der
 Kantonalbank, Allmendstrasse 33 , { Humboldtianum, wissenschaftl. Institut, Bundesgasse 28 2716
@@ -7272,7 +7272,7 @@ Hals-, Nasen- u. Ohrenkrankheiten, Privatdozent, Bundesg. 32 1278
 1 Joos, Ed., Architekt ((Stadtbach, Pavillonweg 14 333), Amthausg. 2 2304
 Jordan, E. V., Magazingehülfe d.S.B.B., Längg., Zeltweg 5
 – Franz Jos., Vorarbeiter, Stationsweg 36
-– Eichelberger■ Marie, Privatiere, Kirchenfeld, Thunstrasse 46 a
+– Eichelberger Marie, Privatiere, Kirchenfeld, Thunstrasse 46 a
 – Förster, J. C. R., Reisender, Mattenhof, Belpstrasse 77
 # Date: 1908-11-10 Page: 25806860/244
 Jordan-Förster, H., Sekundarlehrerin, Mattenhof, Belpstrasse 77
@@ -10581,7 +10581,7 @@ $ — Ernst Frz., Schlachtnausbuchhalter, Neubrückstrasse 25 a 1744
 – Fr., Dachdeckerei, Gerechtigkeitsgasse 48
 – Fried., Maler, Breitenr., Turnweg 8j— Fr.,Spenglermstr.,Sulgenrainl8 1536
 – Fried., Packer, Mattenh., Besenscheuerweg 8 a
-I — Friedrich, Metzgermeister, Zimmerweg 10 2915 ■
+— Friedrich, Metzgermeister, Zimmerweg 10 2915
 – Fr., Vergolder, Wyler, Stockernw. 13
 – Frida, Frl., Vorsteherin der Anstalt Kinderheim „Bethanien“, TiefeDaustrasse 94
 – Friedr., Hauswart, Amthausgässch. 5
@@ -12207,7 +12207,7 @@ Rolli, Alfred, Postdienstchef, Mattenhof, Schwarzenburgstrasse 20
 – Gottfried, städtischer Strassenmeister, Wyler, Wiesenstrasse 55
 – Ida, Frl., Damenschneiderin, Wiesenstrasse 55
 – Karl Herm., Beamter d. S. B. B., Bernastrasse 12
-– Althaus, Berta, Glätterin, Ryffli- ■gässchen 15 j
+– Althaus, Berta, Glätterin, Ryffligässchen 15 j
 Rollier, Ariste, Fürsprecher und Kam- ;merschreiber, Gesellsehaftsstr. 15
 – Kinkelin, B., Wwe. des Oberzolldirektors, Länggasse, Gesellschaftsstrasse 15
 Römer, Emma, Sekundarlehrerin, Dalmaziweg 61
@@ -12994,7 +12994,7 @@ Scheidegger, A. F., gew. Pensionshalt., Brunngasse 39
 – Fr., Reisender, Schauplatzgasse 24
 – Fr., Instrumentenmacher, Lorraine, Schmidweg 7
 – Friedr. Münzang., Münzgraben 5
-– ■ Fritz, Polizist, Kirchenf., Dählhölzliweg 3
+– Fritz, Polizist, Kirchenf., Dählhölzliweg 3
 – Gottfr., Schreiner, Brunnhofweg 5
 – Gottfr., Zeugschmied, Ostermundigen, Burgfeldweg 3
 Scheidegger, Gottl., Maler d. Telephonwerkstatt, Breitenrain, Zaunweg 20
@@ -14685,21 +14685,20 @@ Steiger, Emil, Schuhmachermeister, Breitenrainplatz 28
 – Ernst, Associö d. | Buchdruckerei
 Steiger, Beundenfeldstrasse 35
 – Fanny, Frl., Gesanglehrerin, Murtenstrasse 27 (Rosenbühl)
-– Franz, Bureauangest. der Giesserei
-Bern, Murtenstrasse 27
-■(— Frz., Dr. med., prakt. Arzt, Seftigenstrasse 23 939
-|— Heinr., Lithograph in Fa. (Steiger
-& Benteli, Kirchenfeld, Museum-Strasse 10 1892
+– Franz, Bureauangest. der Giesserei Bern, Murtenstrasse 27
+— Frz., Dr. med., prakt. Arzt, Seftigenstrasse 23 939
+— Heinr., Lithograph in Fa. (Steiger & Benteli, Kirchenfeld, Museum-Strasse 10 1892
 – J., gew. Lehrer d. neuen Mädchenschule, Alter Aargauerstalden 4
 – Jak., Associd der j Buchdruckerei
-Steiger, Spitalacker, Elisabethenstrasse 6t — J., Dr. jur., Privatdozent, Redakteur, Kirchenfeld, Obere Dufourstrasse 11 1859
+Steiger, Spitalacker, Elisabethenstrasse 6t
+— J., Dr. jur., Privatdozent, Redakteur, Kirchenfeld, Obere Dufourstrasse 11 1859
 – J. N., Angestellter, Gesellschaftsstrasse 16
 – Joh., Adjunkt d. Ausgabenkontr.d. S. B. B., Lgg., Neufeldstr. 28 a
 – Jos., Postbureauchef, Ober. Beaumontweg 10 d
 – Jul., Kanzlist des Kursinspektorsder Oberpostdir., Holzikofenweg 16
-| — Max,Wirt(vorm.CaföManz),Waisenhausplatz 26, Ecke Aarbergergasse 2 2683
+— Max, Wirt(vorm.CaföManz),Waisenhausplatz 26, Ecke Aarbergergasse 2 2683
 – Max, Assistenzarzt, Schanzenstr. 23
-| — Moritz, Kaufmann, i. Hause Steiger-Zoller, Jägerweg 5 2897
+— Moritz, Kaufmann, i. Hause Steiger-Zoller, Jägerweg 5 2897
 – Paul, Lehrer a. städt. Gymnasium, Alter Aargauerstalden 4
 – Robert, Wirt zum Cafe Stadtbachgarten, Stadtbachstrasse 6
 – Wilh., Schlosser, Lorr., Quartierh. 15
