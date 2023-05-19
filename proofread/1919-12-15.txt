@@ -899,7 +899,7 @@ Gesellschaftstrasse 19b {3395
 – Hedw. Marg., Bureaulistin, Gesellschaftsstrasse 19b
 – Herm., Bankprokurist, Spitalackerstr. 69
 – Herm., Beamter S. B. B., Daxelhoferstr. 9
-– Herm., Photohaus Bern (Weissenbühlweg 14 16646), Ghristoffelgasse 4 12955, Bureau: Bahnhofplatz 1 (4791
+– Herm., Photohaus Bern (Weissenbühlweg 14 16646), Christoffelgasse 4 12955, Bureau: Bahnhofplatz 1 (4791
 – Jak., Handlanger, Gesellschaftsstrasse 35
 – Joh., Bahnarbeiter, Bümpliz
 – Joh. Arn., Beamter d. S. B. B., Bümpliz
@@ -5884,7 +5884,7 @@ Dätwyler, s. auch Hettwyler
 – Spörry, Alfr., Restaurateur-Konfiseur, Gomestibles- und Traiteurgeschäft, Kramgasse 74 {2330
 Datzmann, Jos., Schneider, Flurstrasse 25
 Daut, Karl, gew. Apotheker, Lorrainestr. 16
-– Grieb, Herm., Berner Schirmfabr., en grosu. detail (Laupenstr. 57 13186), Ghristoffelgasse 5 1749
+– Grieb, Herm., Berner Schirmfabr., en grosu. detail (Laupenstr. 57 13186), Christoffelgasse 5 1749
 Oauwalder, Albert Emil, Schreiner, Mattenhofstrasse 23
 – -Ant. J., Schuhmacher, Münsterplatz 6
 David, Aug., Tramangest., Gäcilienstrasse 21a
@@ -12678,7 +12678,7 @@ Hirsbrunner, Alfr., Schlosser, Kramgasse 84
 – Walter Friedr., Geschäftsführer d. M. A. G.
 Bern (Waisenhausstr. 18) Volkshaus (3983
 – de Bruin, Frau, Damenkonfektion, Bubenbergplatz 10 (3101
-– Ghristeler, Rosa, Glätterei, Brunnmattstrasse 85
+– Christeler, Rosa, Glätterei, Brunnmattstrasse 85
 Hirschburger, E., Papet. (Jubiläumsstr. 56), Thunstrasse 2 (1820
 Hirschei, B., z. Stadt Paris, Manufakturwarenhandlung (Hallwylstrasse 48 ( 6445 ), Spitalgasse 1 (641
 – Louis Theodor, Kommis, Hallwylstrasse 48
@@ -17917,7 +17917,7 @@ Lefebre, R., Kaufmann, Tscharnerstrasse 1
 {5920
 Lefers-Riesen, Fred., Kapellmeister, Kesslergasse 23
 Lefilleul. Arsene Louis, franz. Buchhandlung
-Pflugweg 5), Ghristoffelgasse 9 {5537
+Pflugweg 5), Christoffelgasse 9 {5537
 Lefort, A., luxemburgischer Geschäftsträger, Monbijoustrasse 14 {3811
 Legier, Karoline, Privatiere, Sulgeneckstr. 23
 Lehle, Aug., Schuhmachermeister (Gerechtigkeitsgasse 17), Metzgergasse 56
@@ -19561,9 +19561,9 @@ Marconi, Ed., Maurer, Aarbergergasse 31
 Marcuard, Adele, Frl., Rent., Laupenstr. 19
 (Villa Marcuard) 11207
 – Beatrice, Gerechtigkeitsgasse 40
-– Ghristina, Gerechtigkeitsgasse 40
+– Christina, Gerechtigkeitsgasse 40
 – Elise Laure Antoinette, Spitalgasse 34
-– Georges M. B., Fürspr. u. Instruktionsoffizier, Ghristoffelgasse 4 {6293
+– Georges M. B., Fürspr. u. Instruktionsoffizier, Christoffelgasse 4 {6293
 – Jeanne M. S., Spitalgasse 34
 – K. A. R., Bankier, i. Fa. Marcuard Sc Cie., Gerechtigkeitsgasse 40 {4358
 – & Cie. in Liq., Bankiers, Engl. Konsulat, Christoffelgasse 4 {421
@@ -20220,7 +20220,7 @@ Meinerzhagen, B., Schriftsetzer, Mittelstr. 11
 – M. B., Bautechniker, Graffenriedweg 12
 Meis-Dähler, Dora, Verkäuferin, Turnweg 11
 Meiss & Cie., A.-G., schweizer. Reise-Agentur
-«Lloyd», Ghristoffelgasse 3 {4863
+«Lloyd», Christoffelgasse 3 {4863
 Meister, s. auch Meystre
 – Anna, Angestellte, Lorrainestrasse 14
 – Anna, Finkenhubelweg 6
@@ -22705,7 +22705,7 @@ Nussbaumer, Andre, Kanzlist b. d. kant. Militärdirektion, Wyttenbachstrasse 29
 – Georg, Lok.-Führer, Schwarztorstrasse 80
 – Georg, Postbureaudiener, Neubrückstr. 43
 – Joh. Ad., Gärtner, Altenbergrain 21
-– K. Friedr., Bauzeichner, Ghristoffelgasse 4
+– K. Friedr., Bauzeichner, Christoffelgasse 4
 – Kil., Telegr.-Angest., Zähringerstrasse 45
 – Martha, Ladentochter, Kramgasse 51
 – Otto Fr., Telegraphist, Zähringerstr. 45
@@ -22849,7 +22849,7 @@ Oberli, Gottfr., Fabrikarbeiter, Gerechtigkeitsgasse 76
 Oberlin, Gotth., Ansetzer, Felsenaustrasse 84
 – Herm., Ing., Vizedirektor des eidg. Amtesfür geistiges Eigentum, Neubrückstr. 71
 – J. M., Spinnereiaufseher, Felsenaustr. 20
-– 0. W. H., Zahnarzt, Ghristoffelgasse 4
+– 0. W. H., Zahnarzt, Christoffelgasse 4
 16314
 Oberpferdearzt, eidg., Münzgraben 2 11365
 Oberpostdirektion, Hauptpostgebäude
@@ -34024,7 +34024,7 @@ Wissler, Ed., Schneider, Scheibenstrasse 32
 12209
 – -Wisler, M. R., Wwe., Gryphenhübeliw. 21
 Witjes, Evert, Damenschneider, Zeitglocken 4
-Witmer, Berta, Frl., Dr. med., Ghristoffelgasse 7 12566
+Witmer, Berta, Frl., Dr. med., Christoffelgasse 7 12566
 – Julian, Dr. med., Augenarzt, Bundesg. 36
 14449
 – Lüdemann, Anni, Dr. med., Augenärztin, Bundesgasse 36 14449

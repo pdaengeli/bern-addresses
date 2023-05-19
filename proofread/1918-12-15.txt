@@ -809,7 +809,7 @@ Gesellschaftstrasse 19b {3395
 – Hedw. Marg., Bureaulistin, Gesellschaftsstrasse 19b
 – Herm., Bankprokurist, Spitalackerstr. 69
 – Herm., Beamter S. B. B., Daxelhoferstr. 9
-– Herrn!, Photohaus Bern (Weissenbühlweg 14), Ghristoffelgasse 42, Bahnhofpl. 1
+– Herrn!, Photohaus Bern (Weissenbühlweg 14), Christoffelgasse 42, Bahnhofpl. 1
 {2955
 – Jak., Handlanger, Gesellschaftsstrasse 35
 – Joh., Bahnarbeiter, Bahnhofstr., Bümpliz
@@ -1635,7 +1635,7 @@ Könizstrasse 19
 – Schneiter, Christ., Notar, Amtsschreiber, Wattenwylweg 26
 – Schwehr, Jacques, Musiklehrer u. Instrument.-Virt., Lerchenweg 20
 – Siegrist, Hans, Beamter der eidg. Militärversicherung, Mittelstrasse 60
-– Stein, Ghristina Elisabeth, Schwarzlorstrasse 51
+– Stein, Christina Elisabeth, Schwarzlorstrasse 51
 – -Wyss, Rob., Notar, Notariats- u. Verwalt.-Bureau (Engestr. 43), Amthausg. 18 $2890
 Baumberger, Friedr., Schlosser, Hopfenw. 31a
 – Joh. Georg, Handlanger, Poslgasse 48
@@ -2134,7 +2134,7 @@ Berger-Stalder, Osw., Sattlerei u. Reiesartikelfabrik (Thormannstrasse 56 {2914)
 – Wolf, K., Schneider, Seftigenstrasse 99
 Berghoff, Wilh. Friedr. Aug., Ingenieur, Schwarztorstrasse 53a
 – Jäggi, Sophie, Wwe., Florastrasse 19
-Bergmann, A. M., Ladentochter, Ghristoffelgasse 3
+Bergmann, A. M., Ladentochter, Christoffelgasse 3
 – Ant., Geschäftsführer d. Buchdruckerei des
 «Berner Tagblatt», Zeughausgasse 14 {1137
 – Arth. Ant., Kommis, Zeughausgasse 14
@@ -5249,7 +5249,7 @@ Christensen, F., Steindrucker, Thunstr. 105
 Christkatholisches Pfarramt, Metzgergasse 12
 11546
 Christliches Verlagshaus, Buchhandlung fürchristl. Literatur u. Kunst, Nägelig. 4 11145
-Ghristodoroff, Philipp K., Monbijoustrasse 8
+Christodoroff, Philipp K., Monbijoustrasse 8
 Christoffel, John B., Direktor der Bell Tel.
 Mfg. Co., Weststrasse 23 14063
 Christofides, M. G., Export und Import, Bubenbergplatz 5
@@ -5578,7 +5578,7 @@ Dätwyler, s. auch Dettwyler
 – Spörry, Alfr., Restaurateur-Konfiseur, Comestibles- und Traiteurgeschäft, Kramgasse 74 {2330
 Datzmann, Jos., Schneider, Flurstrasse 25
 Daut, Karl, gew. Apotheker, Lorrainestr. 16
-– Grieb, Herm., Berner Schirmfabr., en grosu. detail (Laupenstr. 57 { 3186 ), Ghristoffelgasse 5 {749
+– Grieb, Herm., Berner Schirmfabr., en grosu. detail (Laupenstr. 57 { 3186 ), Christoffelgasse 5 {749
 Dauwalder, Ant. J., Schuhmacher, Junkerngasse 29
 David, Aug., Tramangest., Gäcilienstrasse 21a
 – Const., Bereiter, Beundenfeldstrasse 31
@@ -11892,7 +11892,7 @@ Hertach, Samuel, Kommis, Hallerstrasse 32
 Herter, Christian, Spezialassistent d. amerik.
 Gesandtschaft, Muristrasse 65
 – Martha, Frl., Sek.-Lehrerin, Kramgasse 54
-– Pension (Aerni-Ghrist, C.), Kramg. 5 (1763
+– Pension (Aerni-Christ, C.), Kramg. 5 (1763
 Hertig, Chr. Samuel, Bahnarbeiter, Stöckacker
 – Fr., Magaziner, Murtenstrasse 24
 – Fr., Bahnarbeiter, Tannenweg 9
@@ -12200,7 +12200,7 @@ Hirsbrunner, Alfr., Schlosser, Kramgasse lk
 – Walter Friedr., Geschäftsführer d. M. A. G.
 Bern (Waisenhausstr. 18) Volkshaus {3983
 – de Bruin, Frau, Damenkonfektion, Bubenbergplatz 10 13101
-– Ghristeler, Rosa, Glätterei, Brunnmattstrasse 85
+– Christeler, Rosa, Glätterei, Brunnmattstrasse 85
 Hirschberger, Martha, Brügglerweg 20
 Hirschburger, E., Papet. (Jubiläumsstr. 56), Thunstrasse 2 I1®2Ö
 # Date: 1918-12-15 Page: 25880358/227
@@ -23169,7 +23169,7 @@ Phoenix, franz. Feuer- u. Lebensversicherung
 A.-G., Generalvertreter: P. König & Grimmer, Hotelgasse 1 (828
 – Assurance Company, Feuer-Rückversich.-Gesellschaft London, Generalagentur: Rob.
 Aeschlimann, Bollwerk 23 (2398
-Photohaus Bern (H. Aeschbacher), Spezialgeschäft für Amateure, Ghristoffelgasse 4und Bahnhofplatz 1 (2955
+Photohaus Bern (H. Aeschbacher), Spezialgeschäft für Amateure, Christoffelgasse 4und Bahnhofplatz 1 (2955
 Physiologisches Institut (Hallerianum), Bühlplatz 5 (124
 Piaget, Adele El., Angestellte, Könizstr. 40
 – Marie Th., Bureaulistin, Könizstrasse 40
@@ -32842,7 +32842,7 @@ Wellingcr, Emil, Monteur, Turnweg 26
 Wellner, Franz, Ingenieur, Dalmaziweg 60
 Wells Fargo Co. Express, Agentur {A. Bauer
 & Co., Münzgraben 11 {1638
-Welmer-Greber, Frz., Bankabwart, Ghristoffelgasse 2
+Welmer-Greber, Frz., Bankabwart, Christoffelgasse 2
 Welten, Emil, Telegraphist, Ryffligässchen 15
 – Klara, Ladentochter, Ryffligässchen 15
 Weiter, Klara, Vorsteherin des Notasyls, Tscharnerstrasse 10
@@ -33727,7 +33727,7 @@ Vuilleumier freres in Paris, Schillingstrasse 24 (1857
 – Oskar, Kupferstecher, Jubiläumstrasse 58
 – Victor, Beamter, Lentulusstrasse 23
 – Werter, Ingenieur, Helvetiastrasse 29
-Wullimann-Ghristen, Otto, Beamter S. B. B., Beaumontweg 38
+Wullimann-Christen, Otto, Beamter S. B. B., Beaumontweg 38
 Wullschleger, Alex. Heinrich, Metzger, Dorfstrasse, Bümpliz (8253
 – Alfred Numa, Angestellter, Herzogstr. 9
 – E. Fritz, Bankangestellte Falkenhöhew. 16
