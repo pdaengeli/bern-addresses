@@ -2181,7 +2181,7 @@ Balmer, s. auch Ballmer
 – Hans E., Vers.-Inspektor, Optingenstr. 12 [23.668]
 – Hans (Läderach), Verchromungsanstalt
 (Jurastrasse 5), Dammweg 7a
-– Hoh., Schuhmachermstr. (Weidmattweg 4, Bümpl.z), Kiosk Wiesenstrasse 83
+– Hoh., Schuhmachermstr. (Weidmattweg 4, Bümpliz), Kiosk Wiesenstrasse 83
 – Heinr., Hilfsarbeiter, Falkenhöheweg 19
 – Ida, Kramgasse 16 [24.660]
 – Ida (Küenzi), Wwe., Weberstrasse 5
@@ -4626,7 +4626,7 @@ Bigler, Franz, Abwart, Bollwerk 25 [62.315]
 – Gottl.. Billetteur S S. B., Brunnmattstr. 53a
 – Gottl., Chauffeur, Weissensteinstrasse 104
 – Hans, kaufm. Angestellter, Marzilistr. 24a [20.730]
-– Hs., graphisches Fachgeschäft (Bernstr. 4, Bümpl.z), Freiburgstrasse 115 [32.971]
+– Hs., graphisches Fachgeschäft (Bernstr. 4, Bümpliz), Freiburgstrasse 115 [32.971]
 – Hans Emil, Chauffeur, Effingerstr. 55 [26.152]
 – Hans. Güterarbeiter. Raineggweg 6
 – Hans Werner (Schneeberger), Lehrer, Standstrasse 5
@@ -21917,7 +21917,7 @@ Inderbitzin, Klara, Näherin, Sulgenbachstr. 42
 Indermühle, Adelheid, Frau, Pianistin, Altenbeigstrasse 120 [27.9-44]
 – Christ., Milch-, Butter- u. Käsehandlung, Brunnadernstrasse 71 [24.i20]
 – E., Telegr.-Beamter. Weissenbühlweg 29 [31.651]
-– Ernst, Architekt (Kirchackerstr. 9, Bümpl.z [46.601]), Spitalgasse 34 [26.055]
+– Ernst, Architekt (Kirchackerstr. 9, Bümpliz [46.601]), Spitalgasse 34 [26.055]
 – Ernst (Schwarzer), Hilfsarbeiter, Kesslergasse 23
 – Fritz, Pianist, Altenbergstrasse 120 [27.944]
 – Klara, Bureaulistin, Laupenstrasse 27
@@ -25860,7 +25860,7 @@ Aeschbaeh, Länggassstrasse 40 [35.661]
 Lorraine - Breitenrain, Nordquartier' Lorrainestrasse 23 [32.665]
 Mattenhof - Weissenbühl - Beaumont: Graffenriedweg 14
 Fischermätteli : Drogerie Rinderknecht, Könizstrasse 71 [20.314]
-Bümpl.z: Polizeiwache, Keltenstrasse 106 [46.198]
+Bümpliz: Polizeiwache, Keltenstrasse 106 [46.198]
 Krankenpflege der Friedenskirchgemeinde:
 Schwester Hannie Keller. Schwarztorstrasse 78 [36.042]
 Krankenpflege der Heiliggeistgemeihde:
@@ -26938,7 +26938,7 @@ Küpper, Alfred Erwin, Dr. rer. pol., Fischerweg 22
 – Ernst Rob., Postbeamter, Lentulusrain 5
 – Franz, Postangest.., Schanzenbergstr. 30
 – Friedr., Reisender, Gesellschaftsstr. 19c
-– Gertrud (Fahrni), Modes (Bümpl.zstr. 109, Bümpl.z [46.038]), Monbijoustr. 117 [27.716]
+– Gertrud (Fahrni), Modes (Bümplizstr. 109, Bümpliz [46.038]), Monbijoustr. 117 [27.716]
 – Marie Eugenie, Beundenfeldstrasse 44
 – Otto, Magaziner. Waldheimstrasse 53
 Kuratle, Herm., Metallschleifer, Zähringerstrasse 32
@@ -36530,7 +36530,7 @@ Post- und Telegraphenbureaux. (P = Postbureau, T = Telephonbureau mit telephonis
 – (1) Transit (Paketausgabe), Aeuss. Bollwerk 8 P [25.401]
 – (2) Beundenfeld, Breitenrainplatz 36
 PT [25.292]
-– (18) Bümpl.z, Brünnenstr. 123 PT [46.102]
+– (18) Bümpliz, Brünnenstr. 123 PT [46.102]
 – (3) Bundeshaus (Bundeshaus-Westbau, I. Stock), Bundesgasse 1 PT [61]
 – (16) Burgernziel, Thunstr. 103 PT [25.299]
 – (4) Felsenau, Reichenbachstrasse 5
@@ -36613,7 +36613,7 @@ Primarschule innere Stadt, Speichergasse 4 [23.866] und Postgasse 66 [22.577’
 – Breitfeld, Standstrasse [22.373
 – Brunnmatte, Brunnmattstr. 16 [27.448
 – Bümpliz-Dorf, Bümplizstrasse 92 u. 94 [46.0601
-– Bümpl.z-Höhe, Bernstrasse 35 [46.071]
+– Bümpliz-Höhe, Bernstrasse 35 [46.071]
 – Bümplizstrasse 152
 – Kirchenfeld, Aegertenstrasse 46 [22.791]
 – Matte. Mühlenplatz 16 und Schifflaube 1 [33.662] und 3
@@ -42265,7 +42265,7 @@ Schmid und Schmied, siehe auch Schmidtund Schmitt
 – Emil, Bauamtarbeiter, Wiesenstrasse 67
 – Emil, Krankenwärter, Postgasse 32
 – Emil. Pferdewärter, Wiesenstrasse 44
-– Emil, Schuhmachermstr. (Bethlehemstr. 115, Bümpl.z), Chalet Tramhalt Brunnhof, Brunnmattstrasse
+– Emil, Schuhmachermstr. (Bethlehemstr. 115, Bümpliz), Chalet Tramhalt Brunnhof, Brunnmattstrasse
 – Emma (Kramer), Schneiderin, Gewerbestrasse 21
 – Emma (Keller), Glätterei. Greyerzstr. 36 [32.3071
 – Emma (Laubbacher), Wwe., Friedensstr. 6 [22.925]
