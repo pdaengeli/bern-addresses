@@ -443,7 +443,7 @@ Beck, Adele, Glasmalerin, Lorrainestr. 27
 – A., Privatier, Sulgeneckstrasso 16
 (Monbijou)
 – C., Zeughausarbeiter u. Waagmstr., Bolligenstrasse 12
-– ■ Ed., Reliefkartenfabrik., Marzilistr. 8
+– Ed., Reliefkartenfabrik., Marzilistr. 8
 – Gottl., Schuhmacher, Metzgerg. 50
 – Gust., Dr. med., Brunnmattstr. 37
 (Brunnenhof)
@@ -2166,7 +2166,7 @@ Genie, Lorraine, Centralweg 23
 – Karl, Gymnasiallehrer, Lorr., Lagerweg 7
 – Rob., Dr., Angest. des eidg. statist.
 Bureau, Länggasse 55
-– ■ Rosa, Telegraphistin, Inn. Bollw. 8
+– Rosa, Telegraphistin, Inn. Bollw. 8
 – S., Damenschneiderin, Kramg. 58
 – Baudenbacher, Wwe., Gerechtigkeitsgasse 64
 – Droz, Aug., Telegraplien-Direktor, Hirschengraben 10
@@ -2440,7 +2440,7 @@ Gerber, Gottl., Mehlhdlr., Aarbergerg. 50
 – Peter, Zeugschmied und Schlosser, Stalden 21
 – Sam., älter, Stadtbachstr. 54
 – Sam., Droschkenhalter, Neubriickstrasse 17
-– ■ Ulr., Wirth z. Adler, Gerechtigkeitsgasse 7
+– Ulr., Wirth z. Adler, Gerechtigkeitsgasse 7
 – Wittwe, Glätterin, Aarbergerg. 55
 – Wittwe des Schneiders, Mattenhofstrasse 9
 – Wittwe Elise, Näherin, Länggasse, Mittelstr. 26
@@ -3308,8 +3308,8 @@ Hirsig, J., Wirth (Mattenhofstrasse 12), Belpstr. 45
 Hirsiger, Schwestern, Feinwascherinnen, Inselg. 24
 Hirt, B., Arbeitsmann, Herreng. 8
 – Chr., Schuhmacher, Holligenstr. 22
-– ■ Frau, Strickerin, Spitalg. 19
-– ■ Joh., Münzarbeiter, Münzrain 4
+– Frau, Strickerin, Spitalg. 19
+– Joh., Münzarbeiter, Münzrain 4
 – Wittwe, Kostgeb., Bankgässch. 8
 Hirter-Böhlen, J., Speditor, (Associe v.
 Hirter & Werthmüller), Gurteng. 3
@@ -5085,7 +5085,7 @@ Manuel, Ernst, Dr. jur., Fürsprech, Advokatur-Bureau (HH. A. v. Tavelund R. v. 
 – König, N. R., Privat., Junkerng. 41
 Manz, Heinr., Wirth, Waisenhauspl. 26
 Marbach, Friedr., Baumeister, Breitenr., Jägerweg 12
-– ■ Jon., gew. Bäckerm., Mattenenge 9
+– Jon., gew. Bäckerm., Mattenenge 9
 – Johann, Gastwirth z. Bären, Schauplatzgasse 4
 – Magdal., Jgfr., Käfichgässchen 14
 – Rua., Gypser und Maler, Längg., Conradweg 13
@@ -5405,7 +5405,7 @@ Matteuschule, Wabernstr. 49
 – Mantel, L., (Meyer & Trischler), Eisenhändler, Metzgergasse 55
 – Probst, E., Wwe., Fingere, Inn.
 Bollwerk 8
-– ■ -Streiff, B., Handelsmann, Marktgasse 49
+– -Streiff, B., Handelsmann, Marktgasse 49
 – &Tritschler, Glas- u. Eisenwaarenhandlung. Kramgasse 60
 Meyerhofer, A., Maler, Altenbergstr. 50
 – Fr., Schreiner, Fischereigeräthsch.-Handlung, Metzgergasse 16
@@ -5447,7 +5447,7 @@ Minder, A., Jgfr., Wirthin z. Schweizergarten, Papiermühlestrasse 12
 – G., Tapezierer, Postgasse 27
 – J., Reisender, Stadtbachstrasse 8
 – Frau, Tapeziererin, Stadtbachstr. 8
-– ■ Rud., Mechaniker, Postg. 38
+– Rud., Mechaniker, Postg. 38
 – U., Wagner, Holligenstrasse 30
 – Wwe, Speisewirthin, Aarbergerg. 7
 – Karlen, Elise, Bäurisch-Schneiderin, Länggasse, Mittelstrasse 11
@@ -5645,7 +5645,7 @@ J— IL, Wirth z. Cafe Krone, (Fischereieräthschaftenverkauf), Gerechtigeitsg. 
 – IL, Mechaniker, Speicherg. 33
 – J. H., Glasmaler, Gerechtigkg. 36
 – J. u. S., Frl., Kramg. 54
-– ■ J., Bnreaulist, Längg., Mittelstr. 28
+– J., Bnreaulist, Längg., Mittelstr. 28
 – J., Sattler, Murtenstr. 54
 – Jb., Schreiner, Mattenh., Wiesen-Strasse l.o
 – Jak., Mehlhändler, Neueng. (9) 12
@@ -6181,7 +6181,7 @@ Trachsel), Hirschengraben 5
 – & Trachsel, Baumeister, Hirschengraben 5
 – Fischer, Frau, Damenschneiderin, Matte, Gerbergasse 46
 – Küfer, Wittwe, Kaffee- u. Speisewirthin, Aarbergergasse 5
-– ■ -Schärer, Moriz, Ingenieur (i. Firma
+– -Schärer, Moriz, Ingenieur (i. Firma
 Probst, Chappuis & Wolf), Stadtbach, Pavillonweg 14
 – Stotzer. S., Frau, Metzgerg. 68
 Protzen-Frei, Schriftsetzer, Länggasse, Druckereiweg 1
@@ -6226,7 +6226,7 @@ Ramseier, s. a. Ramseyer
 Ramseier, Fd., Steinhauer, Lorr., Dammweg 23
 – Joh., Hundehdl. u. Dresseur, Lorr., Jurastr. 65
 – Kath.j Privatere, Altenbergstr. 100
-– ■ M., Lmgöre, Bundesgasse 8
+– M., Lmgöre, Bundesgasse 8
 – Frau, Weissnäherin, Anatomieg. 9
 Ramser, Bend., Steinhauerm., Holligenstrasse 34
 – Rosa, Damenschneiderin, Kramg. 4
@@ -7195,7 +7195,7 @@ Schmied, s. auch Schmid und Schmidt
 – B., Spezierer, Gerechtigkeitsg. 34
 – Christ., Spengler, Metzgerg. (62) 20
 – Fr. Ludw., Metzgerg. 10
-– ■ F., Brunnengräber, Schönauw. 10
+– F., Brunnengräber, Schönauw. 10
 – J., Tapezierer, Brunng. 64
 – J., Angest. auf dem Stadtbauamt, Mattenhof, Brunnhofweg 16
 – J. R., Kutscher, Murtenstrasse 56
@@ -7431,7 +7431,7 @@ Schwarz, Fr., .Spezierer (Inn. Bollw. 7), Aarbergerg. 57
 – Friedr., Commis bei HH. Kummer
 & Comp., Belpstr. 36
 – Friedr., Angestellter d. Kantonalbank, Marktgasse 49
-– ■ J., Schreiner, Murtenstr. 28, (Lindenhof), Ablage Schauplatzg. 21
+– J., Schreiner, Murtenstr. 28, (Lindenhof), Ablage Schauplatzg. 21
 – Jb., Quincailleriehdlg., Marktgasse
 (49) 45
 – J., Pflästerermstr., Junkerng. 48
@@ -7761,7 +7761,7 @@ Stauffer, B., Civil-Ingen., Junkerng. 61
 – El., Lehrerin, Brunne. 64
 – Ferd., Notar, Aktuar d. Richteramts, Mattenhofstr. 7
 – Fr., Kanzlist der Handelsstatistik, Mattenhofstr. 9
-– ■ Fr., Hutmacher, Kramg. 81
+– Fr., Hutmacher, Kramg. 81
 – Fr., Metzger, Beundenweg 20
 – G., Polizeidiener, Altenbstr. 4
 – Gottl., Notar, Brunng. 64
@@ -7923,7 +7923,7 @@ Stettier, Eug., Fürsprech, in Fa. Stettier
 – Jak., Hutrüster u. Hutformenmacher, Altenbergstr. 4 (Landhaus)
 – Jakob, Mehlhändler, Metzgerg. 65
 – Rud., Kellerwirthschaft, Hotelg. 10
-– ■ Rud., Schneider u. Kleiderhändler, Lorr., Quartierg. 29
+– Rud., Schneider u. Kleiderhändler, Lorr., Quartierg. 29
 – S., Schreiner, Längg., Bäckereiw.23
 – U., Schneider, Aarbergerg. 9
 – Wwe., Privatere, Junkerng. 11

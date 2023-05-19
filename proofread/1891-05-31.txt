@@ -386,7 +386,7 @@ Bachofner, Anna El., Bäckerin, Länggasse 60
 – Chr., Steinhauer, Weissenbühl, Seftigenstrasse 65
 – Joh. Fr., Schneider, Längg., Bühlstrasse 25
 – K., Sigrist am Münster, Herreng. 8
-– ■ N., Weinreisender, Spitalg. 33
+– N., Weinreisender, Spitalg. 33
 (— W., Wirth z. Tanne m Zollikofen
 – Hess, Aug., Metzger (Brunng. 54), Grosse Schaal
 – Hess, Marie, Fleuriste, Verfertig.von Trauerweiden u. Tableaux ausdürren Todtenbouquets, Brunng. 54
@@ -5235,7 +5235,7 @@ Jeuffroy - Aebi, L., Damenschneiderin, Confectionsgeschäft, Marktgasse 2
 Joder, Friedr., Steinhauer, Länggasse, Lerchenweg 28
 Johner, EL, FM., Feinwascher., Holligen, Freiburgstrasse 52
 – Fr., Küfer, Holligen, FLeiburgstr. 52
-■ Joho, GL, Eisenwaarenndlg., Zeughausgasse (31) 20
+– Joho, GL, Eisenwaarenndlg., Zeughausgasse (31) 20
 Jöhr, Alfred W. (Inhaber: F’rau Herrensch wand-Walther), Lingeriehand lg., Spitalgasse 6
 – F'r., Zuckerbäcker (Nachfolger von
 Calame), Kramgasse 6
@@ -5502,7 +5502,7 @@ Kähr, s. auch Kehr
 – Fr., Postkondukteur, Waisenhpl. 6
 – Frz. Lud., Commis, Amthausgasse 1
 – Jak., Dr., eidg. Archivar, Gerechtigkeitsgasse 61
-– ■ Louis, Auswanderungsagentur in
+– Louis, Auswanderungsagentur in
 Basel; Vertreter: HH. R. v. Bergen, Notar, Spitalg. 23 u. Friedr. Kunz, Käfichgässchen 26
 – Minna, Lehrerin, Amthausgasse 1
 – O-, Klavier-, Musik- und Gesanglehrerin, Schanzeneckstr. 7
@@ -5520,7 +5520,7 @@ Kamm, J., Gypser u. Maler, Kornhpl. 6
 – Karl, Tramway-Kontroleur, Matte, Gerbergasse 9
 Kammer, Fr., Angestellter i. Inselspital, Mattenhof, Brunnmattstrasse 21
 – Gottl., Schreiner, Lgg., Seidenw. 31
-– ■ Karl, Tramway-Kontroleur, Murtenstrasse 7
+– Karl, Tramway-Kontroleur, Murtenstrasse 7
 Kammermann, Chr., Schneider, Metzgergasse 6
 ., Hafner, Lorraine, Quartierh. 3
 – M., Wittwe des Thierarzts, Engestrasse 47
@@ -5956,7 +5956,7 @@ König, siehe auch Kiing
 (Falkenplatz 4), Kramgasse 41
 – A. Marg., Damenschneid., Breitenr., Turnweg 11
 – Am., Kaufm., Marzili, Aarstr. 106
-– ■ Bend., Kostgeberei, Längg., ,Steinhauerweg 8
+– Bend., Kostgeberei, Längg., ,Steinhauerweg 8
 – El., Fr]., Rentiere, Gerechtigk. 46
 – Emil, Dr. med., Arzt, Münsterpl. 8
 – Erh., Zeughausarbeiter, Breitenr., Turnweg 33
@@ -8583,7 +8583,7 @@ Petter, s. auch Peter
 Peyer, s. auch Bayer und Beyer
 – Hch., Schneider, Münzgraben 7
 – Jak., Wagenvisiteur, Breitenrain, Turnweg 15
-– ■ Ida, Wwe. d. Zahnarzts, Amthausg.17
+– Ida, Wwe. d. Zahnarzts, Amthausg.17
 – Joh., Schneidermeister, Längg. 53
 – Roth, A., Handlung mit Miihlebestandtheilen (Längg., Zähringerstrasse 40 1 , Zeughausg. 13 avon Peyer im Hof, allie Wyttenbach, Ed., Revisor d. Handelsstatist., Junkerngasse 45
 Peytrignet, Marc-Louis, Festangestellt., Marktgasse 61
@@ -8938,7 +8938,7 @@ Reinhard, Albr., Hochwächter, Miinsterthurm
 – Ernst, Mereerie- und Quincaillerielidlg. (en gros), Ryffligssch. 8
 – Eust., Schriftsetzer, Lorraine, Quartierliof 7
 – Fritz, i. Fa. Roth & Cie., Zeughg. 24
-– ■ Jak., Schuhmacher, Kesslergasse 27
+– Jak., Schuhmacher, Kesslergasse 27
 – M., Frau, Arbeitslehrerin, Breitenr., Zauirweg 18
 – M., Frau, Küchlerei, Länggasse, Hallerstrasse 14
 – Phil., Lehrer, Breitenr., Zaunweg 18
@@ -9219,7 +9219,7 @@ Rolli, Bend., Pferdewärter, Stalden, Läuferplatz 3
 – Friedr., Küfer, Aarbergerg. 48
 | — Gottfi\, Lehrer, in Dieterswyl
 – Karl, Telegraphist, Breitenr., Turnweg 31
-– ■ Sam., Abwart, Bundesgasse 6
+– Sam., Abwart, Bundesgasse 6
 – Venner, Magd., Wwe., Bäurischschneiderin, Mattenhofstrasse 25
 – Zurbuchen, Barb., Wwe. d. Steinhauers, Mattenhofstrasse 27
 Rolli, Hans, Dr., Chef der rechtl. Abtheilg. d. eidg. Versicherungsamtes, kl. Muristalden 28
@@ -9461,7 +9461,7 @@ Rüegsegger, Alfr., Bahnhofangesteliter, YVeissenbühl, Seftigenstr. 47i — Chr
 { — Chr. E., Bazar Bernois, Marktg. 13u. Amthausg. 8
 – Fr., Bäckerinstr., Matteiihof, Brunnhofw. 23
 – Fr., Spezierer, Matte, Gerberg. 48
-– ■ Gottl., gew. Wirth, Wyler, Allmendweg 17
+– Gottl., gew. Wirth, Wyler, Allmendweg 17
 – Joh., Fuhrmann b. Juker, Weissenbühl, Seftigenstr. 47
 – Zweiacker, A., Wittwe, Abwartder Erziehungs-Direktion, Münsterplatz 3 (Stift;
 Ruesch-Ammann, Frau, Lorr., Jurastr.35j Rüetschi, Ed., Colonialwaarenhandlg., Nachf. v. Ad. Berner (Herreng. 3), Kramgasse 67
@@ -10434,7 +10434,7 @@ Schumacher, s. auch Schuhmacher
 – Friedr., Drechsler (Spec. Fischereiartikel}. Kesslergasse 16
 – Gottl., Schmied, Altenbergstr. 20
 – Luise, Frl., Privatiere, Länggasse, Eigerweg 5
-– ■ R., Buchbinder, Kramg. 22; Papeterie, Kramgasse 87
+– R., Buchbinder, Kramg. 22; Papeterie, Kramgasse 87
 – Schwestern, Pension, Miinsterpl. 10
 – Bähler, H., Metzgermstr. (Ilolligen.
 Freiburgstrasse 70), grosse Schaal
@@ -10570,10 +10570,10 @@ Schwenk, Chr., mechan. Bauschreinerei
 Schwer, Matthäus, Schmied, Länggasse, Magazinweg 4
 Schwery, Joh., Oberpostsekret., Kramgasse 26j Schwöb, Gebr. Jul. u. Jos., Leinwandhandlung, Christoifelplatz 7
 – Katz, R., Wwe., Leinwandhandlg., Kesslergasse 30
-– ■ -Wölfli, G., Gerechtigkeitsgasse 9
+– -Wölfli, G., Gerechtigkeitsgasse 9
 Scott, Ch. St., engl. Gesandter, Mattenhof, Effingerstr. 47
 Sedelmeyer, E., Commis d. Kantonalbk., Kramgasse 74
-– ■ S., gew. Wirth, Kramgasse 74
+– S., gew. Wirth, Kramgasse 74
 Sedzwick , Eva, Erl., Sprachlehrerin, Junkerngasse 15
 Seeberger, Schwestern, Ertheilung von
 Zuschneidekursen, Bärenplatz 4
@@ -12047,7 +12047,7 @@ Waller-Thüring, Wwe., Pension, Inselgasse 4
 Walser, Heinr., Bahnangestellt. u. Wirth, Spitalgasse 37
 – Cottier, M., Frau, Näherin, Brunngasse 42
 Walter, s. auch Wälder und Walther
-– ■ Alois, Bürstenmacher, Metzgerg. 28
+– Alois, Bürstenmacher, Metzgerg. 28
 – M. L., Schneiderin, Brunngasse 40
 – M. Mgdl., Schneiderin, Länggasse 75
 – Max, Uhrmacher, Längg., Muesmattstrasse 36
@@ -12483,7 +12483,7 @@ Wiedmer s. auch Widmer u. Wittwer
 – Chr., Heizer der S. C.-B., Kätichgässchen 12
 – Emma, Schneiderin, Längg., Zähringerstrasse 49
 – Emma, Lingere, Stalden 14
-– ■ Fr., Schlosser und Musiker, Matte, Badgasse 4
+– Fr., Schlosser und Musiker, Matte, Badgasse 4
 – Fr., Schlosser, Holligen, Kädereckenweg 31
 – Fr., Gemüsehändl., Mattenhofstr. 38
 – Jak., Schreiner, Lorr., Haldenw. 16

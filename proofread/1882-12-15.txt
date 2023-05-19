@@ -516,7 +516,7 @@ Berner, Cäsar, Spitalgasse 35
 – Poinsignon, A. F., Amtsnot., Spitalgasse 35 (Murtenstr. 22)
 – Ä. J., Spezierer, Kramg. 67
 – -Berner, Otto, Kassier, Kramg. 67
-– ■ Paul, Commis, Spitalg. 35
+– Paul, Commis, Spitalg. 35
 – Rudolf, Mechaniker, Mattenhof, Belpstr. 53
 – -Handelsbank, Bundesg. 4
 – -Waarenhalle, Marktg. 24
@@ -599,7 +599,7 @@ Strafanstalt, Aeuss. Bollw. 25
 – B., Milch- u. Ankenhdl., Spitalg. 33
 – Bend., Stallknecht, Postg. 28
 – Chr., Büchsenmacher, Mattenenge 9
-– ■ Metzger, Schütte 3
+– Metzger, Schütte 3
 – Christian, Magazin Wärter, Waldau
 – Ch., Schweinmetzger, Aarbergg. 54
 – El., Wäscherin, Belpstr. 63
@@ -622,7 +622,7 @@ Bigler, Frau, Anatomiegasse 7
 – F., Sattler, Schauplatzgasse 25 a.
 – Klötzli, F., Pianohandlung u. Leihanstalt, Kramg. 10 (Galler. Rebold)
 – Fr. E., Buchbinder, Kramg. 62
-– ■ G., Architekt (Bigler & Marbach), Tivoli, Lorraine
+– G., Architekt (Bigler & Marbach), Tivoli, Lorraine
 – & Marbach, Bauuntern., Lorraine, Zaunweg
 – Gottfried, Uhrenmacher, Neueng. 17
 – G., Friedr., Schneider, Marktg. 61
@@ -819,7 +819,7 @@ Bohren, J. A., Postangest., Aarbg. 24
 – Marie, Damenschneiderin, Aarbg. 22
 – F., Angest. d. J.-B.-L.-B., Murtenstrasse 58
 – R. Friedr., Commis, Aarbergerg. 22
-– ■ J. G., Commis b. Hrn. Bühlmann &
+– J. G., Commis b. Hrn. Bühlmann &
 Sohn, Gerechtigkeitsg. 63
 – Schütz, M., Spezereihandlung, Gerechtigkeitsgasse 37
 – S. K. M., Kostgeberin, Lorrainestr. 28
@@ -1424,7 +1424,7 @@ Dasen, C., Ablage von Bay & Comp., Waaghausgasse 7
 – Frau, Längg. Schanzenstr. 10
 Dättwyler, Fr., Arzt, Marktg. 52
 – Daniel, Handlanger, Lorraine, Polygonweg 9
-– ■ -Kupfer, Junkerngasse 35
+– -Kupfer, Junkerngasse 35
 – Jakob, Droschkenhalter, Postg. 31
 – Johann, Schreiner, Matte Badgasse 7
 Dauge, U., Coiffeur (Wohn. Spitalg. 17), Schauplatzgasse 1
@@ -1866,7 +1866,7 @@ Lorraine 13
 Wissler & Comp, in Goldbach, Aarziele 24 b und Ablage : Eisenhdlg.
 Kiener. Spitalg. 35
 – Gottl., Lithograph, Aarberg. 29
-– ■ Joh. Chr., Angest. des schweizer.
+– Joh. Chr., Angest. des schweizer.
 Eisenbahn-Departem., Murtenstr. 40
 – K. Jak., Substitut, Postgasse 46
 – Rud., Drechsler, Lorraine, Polygoneweg 13
@@ -4040,7 +4040,7 @@ Kocher, A., gew.Oberingen.,Laupenstr.23
 – Vögtiin, Wittwe des Eisennegot., Holligen, Weissensteinstrasse 53
 – -Jaggi, Frau Pfr., Laupenstr. 5
 – Rothpletz, Wwe. d. Pfrs., Längg., Falkenplatz 4
-– ■ E., Damenschneid., Speicherg. 21
+– E., Damenschneid., Speicherg. 21
 – Emil, Kanzlist d. Oberzolldirektion, Laupenstrasse 23
 – Fr., Zimmermann, Brunnadern 9 a
 – Fr., Uhrenmacher, Schauplatzg. 30
@@ -4768,7 +4768,7 @@ Lüdi, Andr., Steinhauer, Aarbergerg. 25
 – Andr., Privatier, Länggasse, Zähringerstrasse 17
 – Samuel, Bahnarbeiter, Sternengässchen 3
 – S., Schreiner, Längg., Zähringerstrasse 51
-– ■ Wittwe, Aarbergerg. 33
+– Wittwe, Aarbergerg. 33
 – Sieber, Wittwe, Rentiöre, Aarbg. 52
 – Frau, Privatiöre, Längg., Zähringerstrasse 40
 – R., & Comp., Modes und Lingeriehandlung, Schauplatzg. 21
@@ -4818,7 +4818,7 @@ Schaalgässchen
 – Joh. Jak., Commis, Postg. 26
 – Jak., Trödler, Metzgerg. 38
 – Gottl., Monteur bei Hrn. Marcuard, Matte, Badgasse 3
-– ■ Jakob Andreas, Schlossergeselle, Brunngasse 46
+– Jakob Andreas, Schlossergeselle, Brunngasse 46
 – Joh., Eisengiesser, Längg., Bremartenstrasse 53oh., Lehrer, Schosshalde, Muristr.
 – Karl Josef, Schuhmachermeister, Stalden 15
 – Karl, Kunstmaler, Weissenbühl, Freudegg
@@ -5929,7 +5929,7 @@ Pulver, Christ., Schneider, Länggasse, Muesmattstr. 37
 – Fritz, Apotheker, Spitalg. 18
 – ’sche Apotheke, Spitalg. 18
 – Gebr,, Metzger und Viehhändler, Mattenenge 8
-– ■ Anna, Lehrerin an d. Mattenschule, Mattenenge 8
+– Anna, Lehrerin an d. Mattenschule, Mattenenge 8
 – Bend., Schneider, Mattenenge 8
 – J., Knochenhändler, Lorr., Haldenweg 8
 – J. E. A., Architekt, Falkenplatz 16, Abi. Spitalg. 18
@@ -6795,7 +6795,7 @@ Schmid (s. auch Schmidt und Schmied)
 – Adam, Schneider beim Spar- und Betriebsverein, Spitalg. 28
 – Anna Fanny, Lehrerin d. N. Mädchenschule, Schosshalde 4
 – Anton, Wirth zur Zimmermanma, Brunng. 19 n. Schlosserg. 4
-– ■ Anton, Hafner, Altenbergstr. 48
+– Anton, Hafner, Altenbergstr. 48
 – B., Zimmerniann, Altenbergstr. 48
 – Ohr., Pächter im Lindenhof, Stadtbachstrasse 66
 – Ed., Commis, Längg., Engestr. 84
@@ -6808,7 +6808,7 @@ Schmid (s. auch Schmidt und Schmied)
 Schmid, Fr., Maler, Matte, Badgasse 21
 – Felitian, Commis, Stalden 12
 – Fritz, Angestellter der J.-B.-L.-B., Matte, Gerbergasse 36
-– ■ -Liischer, G., (Firma: G. Schmid
+– -Liischer, G., (Firma: G. Schmid
 Comp.), Zeughausg. 18
 – G. & Comp., Tuchhandlung, Herrenu. Damen-Nouveautes, Schneidereiaufs Maass, „Zum alten Zeughaus“, Zeughausgasse 18
 – G. M., Ingenieur, Terrassenw. 16
@@ -7619,7 +7619,7 @@ Streuli, Bettwaaren-u. Teppichhandlung, Spitalg. 15
 Strickler, Sehne, Chemisiöre, Spitalg. 10
 Ströbel-Durheim, Confiserie (Schauplatzgasse 22) Bahnhofplatz
 Strolz, Max, Unternehmer von Wasserleitungen u. Cementarbeiten, Könizstrasse 63
-– ■ -Tanner, Frau, Pension, Könizstr. 63
+– -Tanner, Frau, Pension, Könizstr. 63
 Strub, Jak., Gypser u. Maler, Junkerngasse 29
 – Joh. G.j Telegraphist, Falkenpl. 16
 – G., Wemhandlung, Falkenplatz 16
@@ -8552,7 +8552,7 @@ Woodtli, F., Schreiner, Waisenhauspl. 19
 – Frau, Wäscherin, Bolligenstr. 40
 – Nikl., Zimmermann, Lorrainestr. 28
 Woog, Jak., Antiquar, Christoffelg. 6 a
-– ■ M., Tuchnegotiant, Marktg. 29
+– M., Tuchnegotiant, Marktg. 29
 Würgler, Alb., Kupferdrucker, Seftigenstrasse 19
 – J., Gasanzünder, Weihergasse 10v. Wurstemberger - v. Tavel, A. F. R., gewes. Ingenieur, Taubenstrasse 16
 (Rain bei der kleinen Schanze)
@@ -8586,7 +8586,7 @@ Wüthrich, Chr., Wirth Hotel de France, Neuengasse 46
 – Joh., Kanzlist d. eidg. Militärdep., Altenbergstr. 46
 – Joh., Bäcker, Herreng. 20
 – Jak., Wärter in der Waldau
-– ■ Joh., Wegmeister, Kasernenstr. 11
+– Joh., Wegmeister, Kasernenstr. 11
 – M., Chaussures, Kramgasse 61
 – Nath., Schuster, Aarbergerg. 48
 – • Jgfr., Glätterin, Metzgerg. 34
