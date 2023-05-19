@@ -4370,7 +4370,7 @@ Briggen, Luise, Ladentochter, Frohbergweg li
 Brignoni, Giacomo, Kaufmann, Bümplizstrasße 115
 – Giulia, Schneiderin, Nordweg 12
 – -Clivio, G. C., Kolonialw.-, Zigarr.- und Futtermittelhandlg., Freiburgstrasse 344, Bümpliz
-Brignoni A.-G. Zürich, Ghristoffelgasse 4
+Brignoni A.-G. Zürich, Christoffelgasse 4
 Briketierwerke A.-G. Aarberg, Neuengasse 37
 Briner, Adolf, Fabrikarbeiter, Jurastr. 19
 – 'Jak. Emil, Vertretungen, Spiegelglas, Marmorgarnituren, Cäcilienstrasse 35
@@ -5995,10 +5995,10 @@ Christener, E. Hermine, i. Fa. Wwe. Christeners Erben, Kramgasse 58
 – ■ J. Martha, Damenschneiderin, Hubelmattstrasse 19
 – Joh., Hilfsarbeiter, Seidenweg 38
 – -Joh. Hermann, Korrespondent, Neueng. 23
-– Marie Berta, in Fa. Wwe. Ghristeners
+– Marie Berta, in Fa. Wwe. Christeners
 Erben, Kramgasse 58
 – Witwe's Erben, Glas- und Porzellangeschäft, Kramgasse 58 {3044
-– Oskar, in Fa. Wwe. Ghristeners Erben, Brückenstrasse 1
+– Oskar, in Fa. Wwe. Christeners Erben, Brückenstrasse 1
 – Steiner, Hermann, Kaufmann, Daxeihoferstrasse 7
 Christensen, F., Steindrucker, Thunstr. 105
 – Philipp Jos., Maschinenzeichner, Thunstrasse 105
@@ -6553,7 +6553,7 @@ Dick, Ad., Hilfsmonteur, Badgasse 49
 – Elise R., Lingere, Schauplatzgasse 21
 – Ernst, Bankangestellter, Berchtoldstr. 43
 – ■ Ernst, Giessereihilfsarbeiter, Belpstr. 20b
-– Ernst, March.-tailleur, Uniformenfabrik, (Daxeihoferstrasse 17 (5883), Ghristoffelgasse 4 (2194
+– Ernst, March.-tailleur, Uniformenfabrik, (Daxeihoferstrasse 17 (5883), Christoffelgasse 4 (2194
 – Franz Rob., Kaufmann, Militärstrasse 24
 – 'Fritz, Milchhändler, Bantigerstrasse 31
 – Gottl. Friedr., Buchhalter, Elisabethenstrasse 46
@@ -8998,7 +8998,7 @@ Frick und Frik
 – Louis Phil., Chauffeur-Mechaniker, Zaunweg 22
 – Mathilde, Telephonistin, Cäcilienstrasse 55
 – Rosa, Damenschneiderin, Kramgasse 62
-– Ursula, Modewarengeschäft (Archivstr. 12), Ghristoffelgasse 7
+– Ursula, Modewarengeschäft (Archivstr. 12), Christoffelgasse 7
 – Walter Christ., Kaufmann, Zieglerstr. 66
 – Grossenbacher, Anna Elisab., Wwe., Zieglerstrasse 66
 – Hahn, Rosa, Wwe., Sattler- u. Tapeziererwerkstätte (Cäcilienstr. 55 (5872), Schifflaube 2
@@ -13521,7 +13521,7 @@ Kraftwerke A.-G., Marienstrasse 29 15899
 Hersperger-Dubach, M. M., Privatiere, Schwalbenweg 12
 Hertach, Samuel, eidg. Beamter. Waldheimstrasse 50
 Herter, Martha, Sek.-Lehr., Kramgasse 54
-– Pension (Aerni-Ghrist, C.), Kramg. 5 11763
+– Pension (Aerni-Christ, C.), Kramg. 5 11763
 Hertig, Chr. Samuel, Bahnarbeiter, Stöckackerstrasse 77a, Bümpliz
 – E., Korb- u. Stuhlflechterei, Brunng. 36
 – Fr., Bahnarbeiter, Bridelstrasse 94
@@ -16585,7 +16585,7 @@ Kämpfer, J. H., Telegr.-Beamt., Viktoriarain 7
 – A., Abwart, Brünigweg 25
 – Adolf, Telephonangestellter, Moserstr. 26
 – Alfred, eidg. Beamter, Tillierstrasse 1
-– Anna Irma, Sek.-Lehrerin, Ghristoffelg. 7
+– Anna Irma, Sek.-Lehrerin, Christoffelg. 7
 – A. Henri Jak., Chauffeur, Murtenstrase 30
 – Chs. Aug., Architekt, Bundesgasse 36
 – ■ Christ. Karl. Zahntechniker, Spitalg. 29
@@ -16618,8 +16618,8 @@ Kämpfer, J. H., Telegr.-Beamt., Viktoriarain 7
 – Paul, Postangestellter, Schreinerweg 23 *
 – Rud., Polizist, Mittelstrasse 16
 – Walter Paul, Mechaniker, Spitalgasse 29
-– Werner, Kommis, Ghristoffelgasse 7
-– Itten. A., Ghristoffelgasse 7 {744 I 1
+– Werner, Kommis, Christoffelgasse 7
+– Itten. A., Christoffelgasse 7 {744 I 1
 – Rupp, L E., Witwe, Coiffeuse, Spitalg. 29
 Kanitz, Jak., Generaldirektor, Kochergasse 5 *
 Kanhengiesser, Theo, Generalagent der «La *
@@ -18853,7 +18853,7 @@ Kunz. s. auch Kuenz
 – Althaus, E., Wwe., Altenbergstrasse 30
 – Bienz,, Rob., Beamter, d. eidg. Alkoholverwaltung, Berchtoldstrasse 52 1689
 – Chassot, Herm., Kaufm., Effingerstr. 9
-– Ghristian’s Wwe., Privatiere, Riedern, Bümpliz
+– Christian’s Wwe., Privatiere, Riedern, Bümpliz
 – Gonrad, G., Direktor der Berner Alpenbahn (B. L. S.), Hallwylstr. 36 12555
 – Glauser, Margrit, Steinweg 11
 – Meier, Marie, Wwe., Lentulusstrasse 53
@@ -23110,7 +23110,7 @@ Morel, Alex., franz. Pfarrer, Nydeckg. 13 (2267
 – Leon Marcel, Postbeamter. Frohbergw. 10
 Moret, Julius Adolf, Revisor der Obertelegr.-Direktion, Wallgasse 6
 – Jules V., Telegraphist, Herzogstrasse 19
-– Rene, Tapetenlager (Monbijoustr. 37 (2843), Ghristoffelgasse 5 (774
+– Rene, Tapetenlager (Monbijoustr. 37 (2843), Christoffelgasse 5 (774
 – Rud., Magaziner, Jägerweg 14
 – Häberli, Fr., Abwart d. Anatomie, BüMstrasse 26
 Morf, Ernst R., Angestellter, Hallerstrasse 8
@@ -25964,7 +25964,7 @@ Prahl, Friedr., Buchbinder, Weissenbühlw. 29d
 Prati, Eug., Maurer, Scheibenstrassse 26
 – • Maria Emilia, Ladentochter, Scheibenstrasse 26
 – Gusset, M., Spezereihdlg., Scheibenstr. 26
-Prato, Ghristofero, Gipsermstr. (Belpstr. 37), Scheibenstrasse 23
+Prato, Christofero, Gipsermstr. (Belpstr. 37), Scheibenstrasse 23
 – Jos., Gipser- u. Malermstr., Muldenstr. 39
 {3541
 – Pietro, Fabrikarbeiter, Felsenaustrasse 14
@@ -30297,7 +30297,7 @@ Schneider, s. auch Schneiter und Schnyder
 – Gottlieb, gew. Weichenwärter, Schwalbenweg 26
 – Hans, Zahnarzt (Erlachstrasse 20 (107), Laupenstrasse 4a (3900
 – Heinrich, Mechaniker, Birkenweg 15
-– Heinr., Vtrsicherungsbeamter, Ghristoffelgasse 3
+– Heinr., Vtrsicherungsbeamter, Christoffelgasse 3
 – Herm., Generalsekretär d. Oberzolldirekt., Schillingstrasse 26 (4286
 – Herm., Magaziner, Mittelstrasse 20
 – Ida, Frl., Effingerstrasse 14a
@@ -31387,7 +31387,7 @@ Arzt, Thunstrasse 36 • (2376
 – -Gehrig, M., Frau, Thunstrasse 36 (3038
 – ; -Strauss, Osk., Beamter, Breitenrainstr. 75
 – ■ -Thiebaud, Herm., Dr. med., Spezialarzt für
-Ghiurgie u. Frauenkrankheiten, Ghristoffelgasse 2 (2010
+Ghiurgie u. Frauenkrankheiten, Christoffelgasse 2 (2010
 Seiling, Hans, cLiplom. Ingenieur u. Architekt, Architektur- und Baubureau. Eisenbetonpfosten- u. -Plattenfabr., Beaumontweg 24
 (5351; Fabrik und Lager in Liebefeld 21095
 Seiter, Ferd., Schreiner, Waghausgasse 6
@@ -33990,7 +33990,7 @@ Heilsarmee, Schosshaldenstr. 22 13921
 – Stettier, Rudolf, Dr. phil., Schosshaldenstrasse 22 11401
 Tavernier, Eugen, Kontrolleur d. eidg. Waffenfabrik, Lorrainestrasse 27
 – E. F., Kontrollgehilfe, Zeigerweg 10
-– Weck, P., Zahnarzt, Ghristoffelg. 4 13873
+– Weck, P., Zahnarzt, Christoffelg. 4 13873
 TaverninS, Jakob, Reisender, Brunnmattstrasse 49
 – Jakob, Kaufmann. Brunnmattstrasse 49
 – Ida S., Bureaulistin, Brunnmattstrasse 49

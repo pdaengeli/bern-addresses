@@ -227,7 +227,7 @@ Aktiengesellschaft Blausee, Christoffelgasse 5
 Aktiengesellschaft Chocolat Tobler, Länggassstrasse 49a (182
 A.-G. für Verwertung wollener Abfälle, Kramgasse 16
 A.-G. Haltersche Buchdruckerei & Wagnersche Verlagsanstalt, Ecke Breitenrainstrasse 97 - Viktoriarain (4701, 4702, 4703
-Aktiengesellschaft J. J. Fischer’s Söhne, Strohgefiecht- u. Strohhutfabr., Ghristoffelgasse 2
+Aktiengesellschaft J. J. Fischer’s Söhne, Strohgefiecht- u. Strohhutfabr., Christoffelgasse 2
 Aktiengesellschaft der Ofenfabrik Sursee, Filiale Bern, Monbijoustrasse 8 (516
 Aktiengesellschaft Vereinigte Berner und Zürcher Schokolade-Fabriken Lindt und Sprüngli, Wasserwerkgasse 9 (1389
 Aktiengesellschaft für Vermittlungsgeschäfte, Schwanengasse 8 (3565
@@ -4616,7 +4616,7 @@ Eichmattweg 6 . ... |
 Dauge, Charles, Coiffeurgeschäft, Ryffligässchen 4 ↯723 <
 Dauf, Karl, Apotheke, Drogerie, Fahr, pharm.
 Spezialitäten, Lorrainestrasse 16 ↯320 j
-– Grieb, Herm., Berner Schirmfabr., en grosu. detail (Laupenstr. 57 ↯3186), Ghristoffelgasse 5 ↯749 '
+– Grieb, Herm., Berner Schirmfabr., en grosu. detail (Laupenstr. 57 ↯3186), Christoffelgasse 5 ↯749 '
 Dauwalder, Ant. J., Schuhmacher, Marktg. 20 i
 David, Aug., Tramangest., Mattenhofstr. 9
 – Gonst., Bereiter, Beundenfeldstrasse 31
@@ -5917,7 +5917,7 @@ Feuerwehr-Lieutenant Max Ryser, Optingenstrasse 43 ↯2014; Bureau: Abteilung f.
 Bureau: Baugesellschaft Holligen A.-G., Fischermätteliweg 2 ↯2289
 – Lieutenant E. A. Stampbach, Optingenstrasse 48 ↯2035
 – -Arzt Dr. F. Bueler, Marktgasse 38 *2009
-– Arzt Dr. H. Seiler, Ghristoffelgasse 6 ↯2010
+– Arzt Dr. H. Seiler, Christoffelgasse 6 ↯2010
 – -Adjut.-Unteroff. Fritz Beck, Junkerng. 32
 ↯2072; Bureau: Stadtkanzlei ↯2042
 – Feldweibel Fr. Althaus, Rathausplatz 1
@@ -9676,7 +9676,7 @@ Hildebrand, Hans, Maschinentechniker, Jubiläumsstrasse 88
 – Rosa, Wwe., Privatiere, Hallerstrasse 4
 – —Jackob, Elise, Wwe., Kramgasse 12
 Hileless, Dr., Schuhmacher, Quartierhof 13
-Hilfiker, Friedr., Abwart der Schweiz. Volksbank, Ghristoffelgasse 6
+Hilfiker, Friedr., Abwart der Schweiz. Volksbank, Christoffelgasse 6
 – Fr. Ghr., Schmied, Waldheimstrasse 43
 – Hans, Wagenschmiedmstr., Stalden 1
 – Johann, Weinhändler, in Firma Hilfiker &
@@ -11743,7 +11743,7 @@ Kämpfer, J. H., Telegr.-Beamt., Viktoriarain 7
 – A., Abwart, Mittelstrasse 11
 – Adolf, Telephonmonteur, Moserstrasse 26
 – Alb., Buchdruckerei-Faktor, Freie Str. 11
-– Anna Irma, Sek.-Lehrerin, Ghristoffelg. 7
+– Anna Irma, Sek.-Lehrerin, Christoffelg. 7
 – Eduard, Polizist, Mittelstrasse 16v. Känel und Känel
 – Emma, Coiffeuse, Moserstrasse 16
 – Ernst, Postangestellter, Pappelweg 9
@@ -12374,7 +12374,7 @@ Knecht, Joh., Kommis, Rosenweg 16
 – Liechti, F. A., Berchtoldstrasse 42
 – Straub, H., Kaufmann, Rosenweg 16
 Knechtli, Ad., Vorstand der Einnahmenkontrolle der S. B. B., Brückfeldstrasse 12
-– Alb., Broderie u. Lingerie, Fabi-ikation und Handel (Florastrasse 13 12771), Ghristoffelgasse 3 12770
+– Alb., Broderie u. Lingerie, Fabi-ikation und Handel (Florastrasse 13 12771), Christoffelgasse 3 12770
 – & Borei, Spezialgeschäft f. Woll- u. Baumwollgarne, Strumpfwaren, Unterkleider u.
 Sportartikel, Kramg. 75 13730; Strickereiin Zollikofen $955
 – Sutter-lin, Ernst, i. Firma Schweiz. Strickwarenfabrik Bern, Knechtli & Borei, Wabernstrasse 16
@@ -15100,11 +15100,11 @@ Marcolli, E. F., Gipser, Mittelstrasse 21
 Marcuard, Adele, Frl., Rent., Laupenstr. 19
 (Villa Marcuard) 11207
 – Blanche E. M., Spitalgasse 34
-– Ghristina, Gerechtigkeitsgasse 40
+– Christina, Gerechtigkeitsgasse 40
 – Jeanne M. S., Spitalgasse 34
 – K. A. R., Bankier, i. Fa. Marcuard & Cie., Gerechtigkeitsgasse 40 |4353
 – Luise, Rentiere, Amthausgasse 5
-– & Cie., Bankiers, Engl. Konsulat, Ghristoffelgasse 4 {421
+– & Cie., Bankiers, Engl. Konsulat, Christoffelgasse 4 {421
 – Curchod, Magd., Priv., Spitalg. 34 12189
 – v. Gonzenbach, A. G., Bankier, in Fa.
 {Marcuard &. Cie., Gerechtigkeitsgasse 40
@@ -25569,7 +25569,7 @@ Weitpert, Friedr., Schriftsetzer, Kasernen-Weilauer, W., Tarifbeamter S. B. B., 
 Wellinger, Emil, Monteur, Turnweg 26
 Wells Fargo Co. Express, Agentur !A. Bauer
 & Co., Münzgraben 11 11638
-Welmer-Greber, Frz., Bankabwart, Ghristoffelgasse 2
+Welmer-Greber, Frz., Bankabwart, Christoffelgasse 2
 Welten, Klara, Ladentochter, Ryffligässchen 15
 Weiter, Klara, Vorsteherin des Notasyls, Tscharnerstrasse 10
 Welti, s. auch Wälti
