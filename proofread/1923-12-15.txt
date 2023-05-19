@@ -5427,7 +5427,7 @@ $2212 Spilal acKer
 – Hermann, Bauarbeiter, Bottigenstr.
 Bümpliz
 # Date: 1923-12-15 Page: 25903380/177
-Biirki, Hertmann, Handelsmann, in Fa. Biirki
+Bürki, Hertmann, Handelsmann, in Fa. Bürki
 & Cie., Könizstrasse 69
 – Hermann, Milchhandlung, Herzogstr. 25
 – Hermann, Postkommis, Elisabethenstr.21
@@ -7888,7 +7888,7 @@ Eschmann, H. W., Kommis, Winterholzw.31, Bümpliz
 « Esruhag », Spitalgasse 9 13915
 Ess, Ferdinand, Baugeschäft, Flurstrasse 5
 {2824 Spitalacker
-Essig- u. Senffabrik Bern, A.-G., Bahnhöheweg. Bümpliz {83 Biimplii
+Essig- u. Senffabrik Bern, A.-G., Bahnhöheweg. Bümpliz {83 Bümpl.i
 Estermann, Dora, Sek.-Lehrerin, Kramg.28
 – Elsa Marg., Lehrerin, Bubenbergstrasse 21
 – Josef, Kommis, Balmweg 23
@@ -11939,7 +11939,7 @@ Gygax, Jul. Alb., Metzgereiartikelhdlg. (Effingerstrasse 55), Kesslergasse 14 {2
 – Rudolf, Schlosser, Jurastrasse 25
 – & Söhne, Wwe., Kupferschmiede, Verzinnungsanstalt u. autog. Schweissung, Waffenweg 11 {2034 Spitalacker
 – Gossin, Gottfr., Beamter, Murtenstr. 15
-– Griitter, Pauline, Wwe., Waffenweg 11
+– Grütter, Pauline, Wwe., Waffenweg 11
 – Gygax, Rosa, Priv., Beundenfeldstr. 54
 – -Kupferschmied, Mathilde, Wwe., Bollwerk 41
 – Schmid, A., Wwe., Viktoriastrasse 87
@@ -12092,7 +12092,7 @@ Häberli, s. auch Häberlin
 – A., Buchbindermeister und Papetier, Kartonnagefabrikation, Kramgasse 60 12363
 – Ad., Bankbeamter, Jägerweg 12
 – A., Staatsanwalt, Seilerstrasse 27
-– Adolf, Dr., Sek.-Lehrer, Lorbeerstrasse 5, Bümpiiz 192 Bümpliz
+– Adolf, Dr., Sek.-Lehrer, Lorbeerstrasse 5, Bümpliz 192 Bümpliz
 – Alb., Tramführer, Wachtelweg 11
 – Alwin-e Math., Finkenrain 3
 – Christ., Schreiner, Gerechtigkeitsgasse 37
@@ -20878,13 +20878,13 @@ Lüthi u. Lüthy
 – Ernst, Schlosser, Postgasse 16
 – Ernst, Geschäftsführer der Gips- u. Kalkwerke Krattigen in Bern, Muldenstrasse 41
 15601
-– Ernst Fr., Briefträger, Werkg. 29, Bümpiiz
-– Ernst, Landarbeiter, Stegenweg 20, Bümpiiz
+– Ernst Fr., Briefträger, Werkg. 29, Bümpliz
+– Ernst, Landarbeiter, Stegenweg 20, Bümpliz
 – Ernst, Werkzeughändler, Wylerfeldstr. 35
 – Ernst Heinr., Schuhmacher, Herzogstr. 7
 – E. R.. Postkommis, Gäcilienstrasse 27
 – Ernst Rud., Spengler, Schifflaube 34
-– Ernst, Bahnarbeiter, Bethlehemstrasse 115, Bümpiiz
+– Ernst, Bahnarbeiter, Bethlehemstrasse 115, Bümpliz
 – Erwin Gottl., Spezialgeschäft für Bäcker u.
 Konditoren, Beundenfeldstrasse 3
 – F., Wirt z. Militärkantine, Kasernenstr. 19
@@ -20896,16 +20896,16 @@ Konditoren, Beundenfeldstrasse 3
 – Fr. Wilh., Magaziner, Mühleplatz 2
 – Frieda, Ladentochter, Jennerweg 5
 – Frieda, Schneiderin, Herzogstrasse 7
-– Friedr., Kondukteur, Morgenstrasse 81, Bümpiiz
-– Friedr., Bahnarbeiter, Feldheimweg 31, Bümpiiz
+– Friedr., Kondukteur, Morgenstrasse 81, Bümpliz
+– Friedr., Bahnarbeiter, Feldheimweg 31, Bümpliz
 – Friedr., Bauamtarbeiter, Postgasse 16
-– Friedrich, städt. Beamter, Myrtenweg 7, Bümpiiz
+– Friedrich, städt. Beamter, Myrtenweg 7, Bümpliz
 – Friedr., Kommis, Rodtmattstrasse 86
 – Friedr., Handlanger, Schifflaube 2
 – Friedr., Billetteur S. S. B., Jurastrasse 26
-– Friedr., ZimmeTmann, Freiburgstrasse 370, Bümpiiz
+– Friedr., ZimmeTmann, Freiburgstrasse 370, Bümpliz
 – Friedr., Magaziner b. eidg. Armeemagazin, Rodtmattstrasse 86
-– Friedr., Landwirt, Bottigenstr. 86, Bümpiiz
+– Friedr., Landwirt, Bottigenstr. 86, Bümpliz
 – Friedr., Maurer, Stalden 8
 – Friedr., Mechaniker, Mattenhofstrasse 12
 – Friedr., Meisterknecht, Bolligenstr. 26
@@ -20930,7 +20930,7 @@ Lüthi u. Lüthy
 – Gertrud, Bureaulistin, Gottl. Kuhnweg 4
 – Gottfr., Bäckermeister, Schönauweg 2
 – Gottfr., Bahnwärter S. S. B., Elisabethenstrasse 40
-– Gottfr., Bahnarbeiter, Freiburgstrasse 370, Bümpiiz
+– Gottfr., Bahnarbeiter, Freiburgstrasse 370, Bümpliz
 – Gottfr.. Lehrer, Jennerweg 5
 – Gottl., Dachdecker, Wylerringstr. 89
 – Gottl., Handlanger, Wiesenstrasse 57
@@ -20940,7 +20940,7 @@ Lüthi u. Lüthy
 – H. Martha, Bureaulistin, Zähringerstr. 16
 – Hans, Bahnarbeiter, Freiburgstrasse 167
 – Hs., Angestellter, Brunngasshalde 63
-– Hans, Molkereiangest., Bottigenstrasse 174, Bümpiiz
+– Hans, Molkereiangest., Bottigenstrasse 174, Bümpliz
 – Hans, Kaufmann, in Fa. Bargezzi & Lüthi, Reichenbachstrasse 16
 – Hans, Linienarbeiter b. Telephon, Bäckereiweg 23
 – Hans Walter, Postkommis, Seidenweg 32
@@ -20955,10 +20955,10 @@ Lüthi u. Lüthy
 – J., Lehrer der Primarschule d. mittl. Stadt, Waldhöheweg 33 12007
 – J., Stallmeister, Schwarzenburgstrasse 2
 – J. J., Spezierer, Weissensteinstr. 22 J2762
-– Isaak, Taglöhner, Werkgasse 16, Bümpiiz
-– Jak., Koch, Bernstrasse 103, Bümpiiz
-– Jak.. Schreiner, Brünnenstr. 114, Bümpiiz
-– Jak., Metzgerm., Bernstr. 103, Bümpiiz 120
+– Isaak, Taglöhner, Werkgasse 16, Bümpliz
+– Jak., Koch, Bernstrasse 103, Bümpliz
+– Jak.. Schreiner, Brünnenstr. 114, Bümpliz
+– Jak., Metzgerm., Bernstr. 103, Bümpliz 120
 – Joh., Brot- u. Zuckerbäckerei, Zähringerstrasse 16b Iw
 – Joh., Gärtner, Kasernenstrasse 34
 – Joh., Landjäger, Rodtmattstrasse 106
@@ -26481,7 +26481,7 @@ Reimann, Emil, Schlosser, Kyburgstrasse 11
 – Hermann, Vertreter d. Chocoladefabrik Peter, CaiUer & Köhler, Vevey, Wyttenbachstrasse 8 (2605 Spitalacker
 – Karl, Architekt, Moserstrasse 20
 – -Gräber, M., Damenschneiderin, Moserstr. 20
-Rein-Iseli, Bertha, Spezereihandlung, Cäciiienstrasse 27
+Rein-Iseli, Bertha, Spezereihandlung, Cäcilienstrasse 27
 Reindle, Beatus, Maler, Breitfeldstrasse 34
 Reinert, Jeanne Margr., eidg. Beamtin, Oberweg 12
 – -ülom, Charles, Erfinder, Predigergasse 6
@@ -26861,7 +26861,7 @@ Rieder, Bertha, Bureaulistin, Schönbergweg 6
 – Christ., Schlosser, Metzgergasse 5
 – Emil, Bureaudiener, Tavelweg 8
 – Emil Fr., eidg. Beamter, Finkenrain 19
-– Emil Oskar, Lok.-Fiihrer, Cäcilienstr. 45
+– Emil Oskar, Lok.-Führer, Cäcilienstr. 45
 – Ernst, Briefträger, Kehrgasse 35, Bümpliz
 – Ernst Ad., Buchdruckereifaktor, Speichergasse 31
 – Friedr., Depotchef der S. B. B., Depotstr. 33
@@ -29594,7 +29594,7 @@ Schlachter, Johann Ferdinand, Architekt, iSchwarztorstrasse 55a
 Schlachthaus, altes, Metzgergässchen 1 und Metzgergasse 22
 Schlachthof (Zentral- und Gemeinde-), Stauffacherstrasse 80—100 {2250 Spitalacker
 Schladitz, Gust. Ad., Musiker, Gäcilienstr. 46
-Schläfii, Alb., Schweinemetzger, Gerberg. 14
+Schläfli, Alb., Schweinemetzger, Gerberg. 14
 {6377
 – Alb., Postkommis, Berchtoldstrasse 48
 – Alfr., Sped.-Fakteur, Waldheimstrasse 21
@@ -29614,7 +29614,7 @@ Schläfii, Alb., Schweinemetzger, Gerberg. 14
 – Herm., Mechaniker, Bahnstrasse 51
 – Jakob Gottfr., Monteur, Metzgergasse 52
 – Joh., Privatier, Gäcilienstrasse 29a
-– Karl, Kiibler, Könizstrasse 63
+– Karl, Kübler, Könizstrasse 63
 – 'Leo, Zimmermann, Fröschmattw. 8, Bümpliz
 – Lina, Schneiderin, Monbijoustrasse 101
 – Louise Marie, Bankangestellte, Hallerstr. 22
@@ -38907,7 +38907,7 @@ Zuber, Bertha, Bureaulistin, Zähringerstr.09 ■
 – Maria, Weissnäherin, Zähringerstrasse 28 1
 – Martha Alb.,. Frl., gew. Erzieherin, Thun- isträssö 19
 – N. Jos., Getreide-, Mehl-, Futter- u. Düngmittelhdlg. en gros, Klaraweg 8 _ (7333
-– 0., Oberst; Dr. phii., eidg. Oberkriegskommissär, Engestrasse 23 (4722
+– 0., Oberst; Dr. phil., eidg. Oberkriegskommissär, Engestrasse 23 (4722
 – Rosa Elsa, Sekretärin, Engestr. 23
 – Büsser, Gustav, pens. Beamter d. S. B.B., Zähringerstrasse 60
 – Baumann, Gustav, Beamter der S. B.B, Zähringerstrasse 69
@@ -39155,7 +39155,7 @@ Zutter, Arnold, Schriftsetzer, Zimmerweg 10
 – Gottfr., Bauamtarbeiter, Wylerringstr. 85
 – Gottfr., Kaufmann, Bantigerstrasse 14
 – Gottfr., Fabrikarbeiter, Predigergasse 4
-– Rud., Bahnarbeiter, Stöekackerstrasse 79 , Büimpiiz
+– Rud., Bahnarbeiter, Stöckackerstrasse 79 , Büimpiiz
 Zwahlen, Alb., eidg. Beamter, Weissenbühlweg 14
 – Alfr., Schiuhmachermeister, Quartierg. 25
 – Anna Karol., Ladentochter, Muldenstr. 37
