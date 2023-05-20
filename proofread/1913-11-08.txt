@@ -393,7 +393,7 @@ Ammann, Anna, Haushaltungslehrerin, Lorrainestrasse 20
 – K. Alb., Lehrer, Niggelerstrasse 14
 – S. Helene, Hirschengraben 12
 |— Th., Ingenieur, Direktor derGornergratbann, Monbijoustrasse 21 (Maibis Oktober in Zermatt) 2059
-– Hubacher, Anna, Wwe.. Handelsgärtnerei (Tscharnerstr. 48), Brunnmattstrasse 26
+– Hubacher, Anna, Wwe., Handelsgärtnerei (Tscharnerstr. 48), Brunnmattstrasse 26
 – Zulauf, A., Wwe., Lorrainestr. 20
 Aemmer-Bataglia, K., Wwe., Weissenbühlweg 31
 – E. Alfr., Hilfsmonteur, Badgasse 7
@@ -1280,7 +1280,7 @@ Baumann, Emil Arn., Konditor, Waldheimstr. 58
 – Friedr., Schneider, Gesellschaftsstrasse 48
 – Fritz, Handlanger, Marktgasse 56
 – Fritz, Buchhalt., Wyttenbachstr. 16
-– Gottfr., Magaziner, Giiterstrasse 17
+– Gottfr., Magaziner, Güterstrasse 17
 – Gottl., Bureauangest., Schützen w. 17
 – H., Kaufm. in F. Baumann & Cie., Mittelstrasse 46
 – H., Beamter der eidgen. Militärversicherung, Hirschengraben 10
@@ -2202,7 +2202,7 @@ Bigier, Alex., Schäfter d. W. F., Lorr., Waffenweg 19
 – Chr., Schlossermstr., i. Fa. Bigier &
 Zahler, Thunstrasse 111
 – Chr., Schneider, Landhausweg 11
-– Chr., Gärtner, Boiligenstrasse 20
+– Chr., Gärtner, Bolligenstrasse 20
 – Ernst, i. Fa. Gebr. Bigier, Weissenbühlweg 41
 – Ernst, Gärtner, Hopfenweg 36
 – Ernst, Schmied, Breitfeldstr. 58
@@ -5735,7 +5735,7 @@ Bureau, Neubrückstrasse 11a
 – Chr., Monteur, Landhausweg 8
 – Ed.. Christ., Magaziner, Cäcilienstrasse 21b
 – Elise,Privatiere, Storch engässchen 5
-– Ernst, Dr. med., Arzt. | Waldau, Boiligenstrasse 117
+– Ernst, Dr. med., Arzt. | Waldau, Bolligenstrasse 117
 – Ernst, Beamter d. S. S. B., Kirchenfeld, Thunstrasse 88
 – Franz, Dr. phil., eidg.Forstinspektor, Schanzeneckstrasse 9
 – Franz, Forstadjunkt, Schanzeneckstrasse 9
@@ -8703,7 +8703,7 @@ Adressbuch (Donnerbühlw. 9 239), Bollwerk 17 3901
 I-Feiler, Emanuel, Hausvater der
 Herberge z. Heimat, Gerechtigkeitsgasse 52 4135
 Haller-Gerber, Oskar, Verwalter der
-Waldau, Boiligenstrasse 117
+Waldau, Bolligenstrasse 117
 – Haller, Klara, Witwe, Privatiere, Depotstrasse 14
 – Pfister, Paul, Bankbuchli., Lgg., Zähringerstrasse 28
 |-Prihoua, Herm., Friedhofgärtner, Bremgarten-Friedhof, Murtenstr. 55
@@ -8746,7 +8746,7 @@ J— Kanzlei der Handelsabteilung 1371
 Handelsregisterbureau fiir d. Amt Bern
 (Amtsgerichtsschreiberei), Waisenhausstrasse 7
 |— Schweizerisches, Schwaneng. 1 3688
-| Handelsschule Riiedy und Berner Handels-Akademie, Bollwerk 35/37 30l Handels- u. Gewerbekammer, bern. kant.
+| Handelsschule Rüedy und Berner Handels-Akademie, Bollwerk 35/37 30l Handels- u. Gewerbekammer, bern. kant.
 (Sekretär: Dr. A. Haas), Kirchgasse 2 1769
 Handelsstatistik des Handelsdepartements, Bundeshaus Westbaui— d. Oberzolldirektion, Bundesgasse 8
 910i Handwerker- & Gewerbeverein Bern, Sekretariat (Dr. Lehmann) Bürgerhaus, Neuengasse 20/22 3219
@@ -11339,13 +11339,13 @@ Liegenschaflsverkäofe düreti *v. WATTE l»WTL & Cie.
 Jort, Julius, Reisender, Viktoriarain 4
 – P. L., Schuhmachermeister und Schuhhandlung, Seftigenstrasse 29
 – Schörlin, Frau, Glätterin, Seftigensträssö 29j Justizdirektion, kant., Kirchg. 2 1551
-] Justiz- und Poiizeidepartement, eidg., Bundeshaus Westbau, Departementsvorsteher 1328 ; Kanzlei 1329
+] Justiz- und Polizeidepartement, eidg., Bundeshaus Westbau, Departementsvorsteher 1328 ; Kanzlei 1329
 Jutzeler, Jakob, Reisender, Marzilistr. 8
 – Paul, Bautechniker, Marzilistr. 8
 – Rosa, Ladentochter, Marzilistr. 8
 Jutzi, Christ., Ausläufer, Metzenerw. 8
 – Emil, Ausläufer, Tumweg 21
-■ — Friedrichs Wwe.. Abwart, der bem.
+■ — Friedrichs Wwe., Abwart, der bem.
 Musikgesellschaft, Kirchgasse 24
 |— Fr., Placierungsbureau, Schauplatzgasse 19 1452
 – Friedr., Handlanger, Scheibenweg 36
@@ -12845,7 +12845,7 @@ Niggelerstrasse 4 ’
 – -Gutjahr, Marie, Wwe. d. Arztes, Ensingerstrasse 28
 – -Haller, Alb., Abteilungssekretärdes eidgen. Handelsdepartements, Zähringerstrasse 31
 – Hasler, M., Wwe., Brunnhofwes; 4
-– -Salzmann, Magdalena, Wwe.. Privatiere, Gesellschaftsstrasse 11
+– -Salzmann, Magdalena, Wwe., Privatiere, Gesellschaftsstrasse 11
 – Spycher, Fr. A., Gipser u. Malermeister, Matte, Badgasse 4
 – Trüssel, R. Wwe. des Direktorsdes Eidg. Versicherungsamts, Gesellschaftsstrasse 14 a
 Kümmerli und Kümmerly
@@ -14215,10 +14215,10 @@ Geschäftsvermittlnngen dsrch
 H. v. WATTENWYL Ä Ci*.
 ■ Theaterplatz 2 — —
 # Date: 1913-11-08 Page: 25877373/335
-Liischer. .
+Lüscher. .
 335
 Lüscher-Ruof, A. Erwin, in Firma Gebr.
-Liischer & Stengelin, Zähringerstrasse 22
+Lüscher & Stengelin, Zähringerstrasse 22
 – Stauffer, Maria, Wwe., Kirchenfeld, Bernastrasse 12
 – -Sterchi, Rud., Sekretär der Oberzolldirektion, Stockernweg 10
 – Tueski, P. Emil, Kaufmann, Thunstrasse 43 a
@@ -14983,7 +14983,7 @@ Mennel, E. Walt., Händler, Belpstr. 37
 – Werner, Schreiner, Mühlemattstrasse 19h H. w. WATTE MW YL ft Cie.
 – -■ Theaterplatz 2 - — l
 # Date: 1913-11-08 Page: 25877383/345
-| Mennet & Sperl, Hotel Bristol-Storehen, Spitalgasse 21 und Schau platzg. 10
+| Mennet & Sperl, Hotel Bristol-Storehen, Spitalgasse 21 und Schauplatzg. 10
 4470 , Cafe 4471j-Studer, A., in Fa. Mennet & Sperl, Schauplatzgasse 10 4470
 Ment, J.Gottfr., Postangestellt., Murtenstrasse 40
 Mentha, Alph., Beamter, Viktoriarain 5
@@ -15149,7 +15149,7 @@ Metzger, Adam, Privatier, Ob. Beaumontweg 26
 – Viktor, Steinhauer, Länggassstr.44
 – Degenmann, W., Prokurist der
 Kantonalbank, Monbijoustrasse 121
-– Ehinger, L., Wwe.. Blumeng. la
+– Ehinger, L., Wwe., Blumeng. la
 – Küenzi, Margarete Karoline, Wwe., Schreinerei, Schifflaube 50
 Metzgern, Zunftgebäude, Kramgasse 45l de Meuron-von Tscharner, F. A., Bankkassier, Monbijoustrasse 31 2961
 Im Sommer: Burgernzielweg 33
@@ -15858,7 +15858,7 @@ Scheibenweg 22
 Mühli, M., Modiste, Genfergasse 12 |von der Mühli, Friedr., Lehrer am freien
 Gymnasium, Klaraweg 6v. Mülinen, s. auch v. Mühlenen
 – Cecile, Frl., Wegmühle (Station
-Boiligen)
+Bolligen)
 – Hartmann Friedr., Dr. phil., Rentier, Schanzenbergstrasse 11
 – Helene, Frl., Wegmühle (Station
 Bolligen)
@@ -17661,7 +17661,7 @@ Reber, s. auch Räber
 I — G., Wagnermstr., Schwarztorstr. 83
 4220
 – — Roh., Postangest., Bnndesrain 14
-– - Rud., Aufseher, Boiligenstrasse 64
+– - Rud., Aufseher, Bolligenstrasse 64
 – Ulrich, alt Oberzugtiihrer, Freie
 Strasse 41
 – Hostettler, M. L., Witwe., Sulgenbach, Könizstrasse 39
@@ -17708,7 +17708,7 @@ Nafim,Dr., Prof., Beundenfeldstr. 17
 297
 Reichlin, Alois, Magaziner, Murifeldweg 23
 – Josef, Bureaugehilfe, Bollwerk 25
-Reidenbach-Keller,"B. L.,Wwe.. Mattenhof, Belpstrasse 59
+Reidenbach-Keller,"B. L.,Wwe., Mattenhof, Belpstrasse 59
 Reimann, G. A. Arthur, Mech., Cäcilienstrasse 26
 – G. H., Zeichner, Aegertenstrasse 48
 |— Hermann, Vertreter der Chocoladefabrik Pet er, Cailler & Köhler, Vevey, Greyerzstrasse 20 4483
@@ -18361,7 +18361,7 @@ Bureau, Stoekemweg 9
 * Arm. Osw., Negoziant, Wein- und Siruphändler, Mattenhofstr. 13 3868
 * -Arnold, Agentur in Kolonialwarenund Landesprodukten (Schulweg 6), Schwanengasse 8 1249
 ~~ Aug., Schreiner, Mittelstrasse 23
-Bend., Schneidermeister, Boiligenstrasse 127
+Bend., Schneidermeister, Bolligenstrasse 127
 Roth, E., Beamter der B., L. S. Fischermätteliweg 20b
 – Eduard, Schlosser, Quartierhof 11
 – Emil, Spengler, Gerechtigkeitsg. 76
@@ -18619,7 +18619,7 @@ Rüedi, E. L., Gehilfin d. S. B. B., Waisenhausplatz 4
 Rüedy, Emil, Sohn, Magazinarbeiter, Moserstrasse 33 [— Ferd., Angestellter der kant. Polizeidirektion, Gutenbergstr. 31 259liegenscfeaftsverkäafe «
 # Date: 1913-11-08 Page: 25877431/393
 f
-Riiedy. 393 Rüfenacht.
+Rüedy. 393 Rüfenacht.
 Rüedy, Hanna, Frl., Kasernenstrasse 46
 – Joh., Magaziner i. Zeughaus, Moserstrasse 33
 – R. F. R., Kaufmann, Kasernenstr. 46
@@ -18857,7 +18857,7 @@ Rütti, Eduard, Magaziner, Zieglerstr. 66
 – Ernst, Kommis, Schauplatzgasse 18
 – Friedr., Magaziner, Weihergasse 10
 Rüttimann, Karl, Prokurist, Laupenstr.7
-] de Ruyter, Louis, Dr., Arzt an derkantonalen Iirenanstalt Waldau, Boiligenstrasse 117 1525
+] de Ruyter, Louis, Dr., Arzt an derkantonalen Iirenanstalt Waldau, Bolligenstrasse 117 1525
 Rutz, Paul Joh., Ing., Berchtoldstr. 50 |
 Rybi, s. auch Ribi
 \— & Salchli, Architekturbur., Optingenstrasse 18 1801
@@ -22933,7 +22933,7 @@ Triebow, Geschwister, Werdtweg 8
 Zähringerstrasse 24
 – Friedr., Zahnarzt (Laupenstrasse 8), Waisenhausplatz 2 2778
 – Josef, Beamter S. B. B., Brückfeldstrasse 12jTrincano, Alph., Direktor f. d. Schweiz i — Mina El., Bureauangest., Kramg. 56der Berlinischen Lebensversiche- j-Brunner, Marie, Wwe., Zähringerrungs Gesellschaft u. d. Berlinischen : Strasse 24
-Feuerversichertmgsanst., Hirschen- 1 Truckenmüller, Karl, Schriftsetzer, Post. graben 4 ' 1233 ! gasse 60i—Xav.,i.Fa. Alph.Trincano,Hirschen- 1 (Triieb, Hans, Dr. jur., Fürsprecher
+Feuerversichertmgsanst., Hirschen- 1 Truckenmüller, Karl, Schriftsetzer, Post. graben 4 ' 1233 ! gasse 60i—Xav.,i.Fa. Alph.Trincano,Hirschen- 1 (Trüeb, Hans, Dr. jur., Fürsprecher
 _ graben 4 1233 i (Seilerstr. 23), Zeughausg. 16 2510
 Triner, Fr., Beamter d. Einnahmekon- — lleinr., Mechaniker, Zimmerweg 10bolle d. S. B. B., Gesellschaftsstr. 13 | — J. H., Schriftsetzer, Belpstrasse 65
 Trjnkler, August, Zigarrenhandlung, Spitalgasse 26
@@ -22944,7 +22944,7 @@ Trjnkler, August, Zigarrenhandlung, Spitalgasse 26
 Die in Klammern () angegebene Bezeichnung von Strasse und Hausnummer betrifft jeweilen die Privatwohnung.
 # Date: 1913-11-08 Page: 25877488/450
 Tr üeb. 450 Tschanz.
-Triieb-Sieber, A., Departementssekretärd. Schweiz. Militärdepart,, Hallwylstrasse 33
+Trüeb-Sieber, A., Departementssekretärd. Schweiz. Militärdepart,, Hallwylstrasse 33
 – Wyss.RL, Wwe., Montage f. Stickereien, Längg., Neufeldstrasse 7
 Truhan-Rodieux, Gustav, Beamter der
 Oberpostdirektion, Viktoriarain 1
@@ -23552,7 +23552,7 @@ Versicherungsamtes, Mattenh., Gartenstrasse 6
 • — Willi, Buchdruckerei und Verlagi Gesellschaftsstrasse 43), Lerchenweg 26 180
 – Bossard, Bertha, Knabenschneiderin, Thunstrasse 38
 – Maroach, E. A., Ingenieur, Thunstrasse 89
-■ Waldau, Irrenanstalt, Boiligenstrasse
+■ Waldau, Irrenanstalt, Bolligenstrasse
 117 (Direktor u. Pörtner) 1525
 Wälder, Heinrich, Beamter der eidg.
 Waffenfabrik, Wylerstrasse 28
@@ -23787,7 +23787,7 @@ London (Junkerng. 59 1753 ), Amthausgasse 2 780
 – K.R., Kunstmaler, Kirchenf.,Hallwyistrasse 48"j— Osk., Bankier, Rainmattstr. 13 1031
 – R. M. Blanche, Spitalgasse 40
 • — R., Dr. jur., Herrengasse 23 2822und Grindelwald („Die Weid“) 9
-|-Biirky, Moritz, Dr. jur., Oberst, Sektionschef d. Generalstabsabteilung, Falkenhöheweg 12 a 351
+|-Bürky, Moritz, Dr. jur., Oberst, Sektionschef d. Generalstabsabteilung, Falkenhöheweg 12 a 351
 – v. Linden, J. M. W., Wwe., Steinerstrasse 45 2753
 !-de Portes, E. M. L., Wwe., Herrengasse 23 807l-v. Pourtales, A. E., Privatiere, Kirchenfeld, Aegertenstrasse 1 1932i-de Reynier, S., Witwe, Bundesg. 38
 4482

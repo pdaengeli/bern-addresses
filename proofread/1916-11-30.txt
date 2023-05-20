@@ -985,7 +985,7 @@ Balmer, Emma, Bureaulistin, Gesellschaftsstrasse 27
 – —Blau, Fr., Tapezierer, Dekorateur, Thunstrasse 18 {1779
 – Mumentaler, Marie, Wirtin z. Cafe Bundesbahn, Genfergasse 3 {555
 – -Mörker, Emma, Wwe., Balmweg 22 {965
-– Vieillard, Wilhelm, Kunstmaler, Rörswilbei Boiligen - {9402
+– Vieillard, Wilhelm, Kunstmaler, Rörswilbei Bolligen - {9402
 – Wasserfallen, Elise, Privatiere, Gesellschaftsstrasse 27
 Balsiger, A., Bäekermstr., Kramgasse 57 {846
 – A. A., Heizer, Buchenweg 14
@@ -3749,7 +3749,7 @@ Bürgi, Louis, Ausläufer, Lerchenweg 37
 – Widmer, M., Wwe., Bühlstrasse 59 (2567
 Bürgin, Alb., Metzger, Metzgergasse 17
 – Emil, Fabrikarbeiter, Herrengasse 34
-Bürgisser, Cyrill, Schneidermeister, Brenigartenstras.se 98
+Bürgisser, Cyrill, Schneidermeister, Brenigartenstrasse 98
 – Heinr., Gipser, Badgassc 8
 – Joh., Tramkondukteur, Bremg&rtenstr. 98
 – Rudolf, Gipser, Mattenenge 11
@@ -4860,7 +4860,7 @@ Ditisheim, s. auch Dietisheim
 – Louis, gew. Pferdehändl., Schwarztorstr. 59
 Diwy-Schärcr, Karl, Kanzleisekretär der
 Oberzolldirektion, Mittelstrasse 61
-Döbeii, E., Dr. med., Arzt, Wallgasse 2 (2491
+Döbeli, E., Dr. med., Arzt, Wallgasse 2 (2491
 – Elise, Haushaltungslehr., Daxelhoferstr. 3
 – Emilie, Bureaulistin, Junkerngasse 40
 – Ernst Gotll., Tiefbautechniker b. d. Kant.
@@ -5088,7 +5088,7 @@ Duvoisin-Dasen, L., Kaufm., Optingenstr. 42
 Dworschak, Alois, Damen- und Herren-Coiffeurgeschäft, Kramgasse 48 {4862
 Oysti, Alfred, Monteur, Murifeldweg 7
 E.
-Eberhard und Eberhardt, s. auch Aeberhardund Aeberhardt
+Eberhard und Eberhardt, s. auch Aeberhard und Aeberhardt
 – Cecile, Frl., Bühlstrasse 44
 – Ernst, Coiffeurgeschäft, Schifflaube 50
 – F., Postbeamter, Dittlingerweg 14
@@ -5102,7 +5102,7 @@ Eberhard und Eberhardt, s. auch Aeberhardund Aeberhardt
 – Niklaus, Zähringerstrasse 33 {221
 – Paul, Beamter des Rechtsbureaus S. B. B.bei der Generaldirektion, Lägerweg 9
 – -Haase. E.. Wwe., Pension, Gartenstr. 1
-Eberhard und Eberhardt, s. auch Aeberhardund Aeberhardt
+Eberhard und Eberhardt, s. auch Aeberhard und Aeberhardt
 – Iff, Friedr., Kaufmann, Prokurist i. Fa.
 F. A. Veron, Kirchenfeldstrasse 61 {5311
 – Steffen, E., i. Fa. Gebr. Steffen, Seilerstr. 27
@@ -5146,7 +5146,7 @@ Eggemann, s. auch Eggimann u. Eggmann
 Eggen-Kunz, Kath., Wwe., Archivstrasse 14
 – Schnyder, Wilh., Techniker, Archivstr. 16
 Eggenberg, Ernst, Kaufm., Sulgenauweg 22
-– Schütz, Hans, Verwalter der Armeemagazine, Boiligenstrasse 64 {1453
+– Schütz, Hans, Verwalter der Armeemagazine, Bolligenstrasse 64 {1453
 – Sieber, Friedr., Kanzleichef der Generalstabsabteilung d. Schweiz. Militärdepartements, Florastrasse 18
 Eggenberger, Anna, Witwe des Dr. phil., Zähringer&trasse 48
 Soieries E.Jucker&C*.Place duThealre
@@ -5476,7 +5476,7 @@ Engel, Arnold, Mechaniker, Mattenhofstr. 12
 – Chr. S., alt Vorsteher, Muristrasse 44
 – E. F., Packer, Aarbergergasse 42
 – Gottfr., Handlanger, Aarbergergasse 15
-– Ida, Frl., Gutenbergstras.se 26
+– Ida, Frl., Gutenbergstrasse 26
 – Jakob, Tramarbeiter, Obstbergweg 10
 – Joh., Dienstmann, Metzgergasse 60
 – Joh. Ludw., Schneider, Marktgasse 17
@@ -6029,7 +6029,7 @@ Sommer Neubrückstr. 30 (Villa Enge)
 {114
 – -Manuel, M., Wwe., Bolligenstr. 20 (Baumgarten); Ablage (nur für Pakete) bei der
 Zuckerbäckerei Klötzli, Gerechtigkeitsg. 62
-– —-v. Sinncr, K. D. F., Burgerratspräsident, Boiligenstrasse 34 {1458
+– —-v. Sinncr, K. D. F., Burgerratspräsident, Bolligenstrasse 34 {1458
 – -von Zehender, Berta, Rent., Thunstr.60 {274
 Fischer, Alb., Schreiner, Postgasse 40
 – Alfr., Damen-Coiffeur, Muesmattstrasse 17
@@ -8758,7 +8758,7 @@ Stadt Bern (Donnerbühlweg 9 { 239 ), Bollwerk 17 {3901
 – von Erlach, Albert, Pfarrer an der Heiliggeistkirche, Schwarztorstrasse 61 {779
 – Feiler, Emanuel, Hausvater der Herbergez. Heimat, Gerechtigkeitsgasse 52 {4135
 – Gerber, Klara, Posthalt., Bolligenstr. 117
-– Gerber, Oskar, Verwalter der Waldau, Boiligenstrasse 117
+– Gerber, Oskar, Verwalter der Waldau, Bolligenstrasse 117
 – Pfister, Emma, Haushaltungs schule, Junkerngasse 1
 – Pfister, Paul, Bankbeamter, Junkerng. 1
 – Prihoda, Herm., Friedhofgärtner, Brem-.gartenfriedhof, Murtenstrasse 55 {1774
@@ -9280,7 +9280,7 @@ Heiniger, Alb., i. Fa. Aus der Au & Heiniger, Nachf. v. Rabus, Aus der Au & Cie.
 – Friedr. Alb., Handlanger, Rodtmattstr. 110
 – Fritz, Handlanger, Gerbergasse 38a
 – Gottfried, Gepäckvorarbeiter, Seidenweg 35
-– Gottfried, Sattler, Mattenhofstras.se 20
+– Gottfried, Sattler, Mattenhofstrasse 20
 – Hans, eidg. Beamter, Holzikofenweg 7
 – J. F., Bureaulist, Pestalozzistrasse 14
 – Johann, Schreiner, Scheibenweg 28
@@ -11413,7 +11413,7 @@ Jöhr, Aug. Alfr., Handlang., Murtenstr. 153d
 – Joh., Annoncenacquisiteur, Weissenbühlweg 10 {4153
 – Jonas, Bahnangestellter, Altenbergstr. 102
 – Mina, Ladentochter, Waldheimstrasse 62
-– Rosa, Lehrerin, Neufeldstras.se 55
+– Rosa, Lehrerin, Neufeldstrasse 55
 Joliat, L., Bureau für Uebersetzungen, Versicherungen und Geschäftsbesorgungen, Florastrasse 8 {1825
 – Wyss, Marg., Kyburgstrasse 5
 Jolimont, Pension (Baumgartner E.), Reichenbachstrasse 7 {2202
@@ -12480,7 +12480,7 @@ Kocher, Alb., Dr. med., Laupenstr. 25 (La Villette) 11210
 – Theod., Dr. med., Prof. d. Chirurgie, Laupenstrasse 25 (La Villette) 11210
 – von Chamier, C. Alfr., Privatier, Weissensteinstrasse 53 (Weissenstein)
 – Eurich, Marie, Witwe des Kreispostdirektors, Alpeneckstrasse 13
-– Basier, Emilie, Wwe.. Seilerstr. 25 1447
+– Basier, Emilie, Wwe., Seilerstr. 25 1447
 – Lauterburg, Theodor, Dr. med., Laupenstrasse 25 (La Villette) 13164
 – Steinhäuslin, S., Frau. Finkenhubelweg 6
 1148
@@ -15559,7 +15559,7 @@ Mechan. Seidenstoffweberei, Seidenw. 10 (63
 Mechano-therapeutisches Institut im Spital
 Salem (Dr. F. Büeler), Schänzlistrasse 39
 (2009
-Mechler, E. Paul, Beamter der S. B. B., Seftigenstras.se 27
+Mechler, E. Paul, Beamter der S. B. B., Seftigenstrasse 27
 Mechoud, Chr., gew. Bauunternehmer, Hotelgasse 14
 Meer, Chr., Bahnarb., Scheibenstrasse 37
 – Friedr., Bäcker, Konsumstrasse 11
@@ -15775,7 +15775,7 @@ Messerli, A., Heliograph. Atelier u. Lichtpauspapierfabrik, Effingerstrasse 4a (
 – Karl, Knecht, Langmauerweg 1
 – Karl, Schreiner, Jurastrasse 89
 – Luise, und Bürki, Rosa, Restaurant zu dendrei Eidgenossen, Metzgergasse 69 (1414
-– M., Privatiere, Stadtbachstras.se 46
+– M., Privatiere, Stadtbachstrasse 46
 – M. H., Ladentochter, Effingerstrasse 69
 – Nikl., Fabrikarbeiter, Felsenaustrasse 16
 – Nikl., gew. Handelsmann, Frohbergweg 16
@@ -16649,7 +16649,7 @@ Mühlheim, Anna Luise, Lehrerin a. d. Primarschule der untern Stadt, Distelweg 1
 – Josef, Privatier, Landhausweg 13
 – v. Dach, Wilhelm, Postangestellter, Allmendstrassc 44
 Mühli, M., Modiste, Genfergasse 12v. Mülinen, s. auch v. Mühlenen
-– Cecile, Frl., Wegmühle (Station Boiligen)
+– Cecile, Frl., Wegmühle (Station Bolligen)
 – Helene, Frl., Wegmühle (Station Bolligen)
 – v. Bary, Hans, Stadtforstmeister, Muristrasse 66 (299
 – v. Hallwyl, Wolfg. Friedr., Professor a. d.
@@ -18067,7 +18067,7 @@ Biskuitfabriken A.-G., Waldhöhew. 23 {4047
 – Robert, Bäckermeister, Metzgerg. 48 {2794
 – Rob. Walt., Buchhalter, Wyttenbachstr. 8
 – Rud., Reisender, Belpstrasse 65
-– Rudolf, Schneider, Boiligenstrasse 117
+– Rudolf, Schneider, Bolligenstrasse 117
 – Rud., Schneider, Speichergasse 12
 – Samuel, Weichenwärter, Greyerzstr. 33
 – Walter, Beamter d. S. B. B., Wabernstr. 16
@@ -21207,7 +21207,7 @@ Schneider, s. auch Schneiter und Schnyder
 – Heinr., Kommis, Schwanengasse 14
 – Herm., Bäcker, Herzogstrasse 17
 – Herm., Generalsekretär d. Oberzolldirekt., Zähringerstrasse 4 14286
-– Herm., Magaziner, Mittelstras.se 20
+– Herm., Magaziner, Mittelstrasse 20
 – Jb., Bronceur, Jurastrasse 59
 – Jakob, Spediteur, Schauplatzgasse 28
 – Jak.* Strassenreiniger, Schifflaube 2
@@ -22481,7 +22481,7 @@ Sperl, Hans, in Firma Mennet & Sperl, Hotel
 Bristol, Schauplatzgasse 10 {4470
 Sperlich, Jos., Schneider, Ulmenweg 13v. Speyr, Karl Alfr., Bankier, Jungfraustr. 3
 14321
-– W., Dr. med.. Prof., Direktor d. Waldau, Boiligenstrasse 117 11525
+– W., Dr. med.. Prof., Direktor d. Waldau, Bolligenstrasse 117 11525
 Spichtin, Roh., Beamter der S. B. B., Waldheimstrasse 80
 – Schindler, Anna Rosina, Lingere, Herrengasse 25
 Spiegelberg, Alb. Fr., Buchdruckerei-Faktor, Breiten rainplatz 28
@@ -23882,7 +23882,7 @@ Tamo, Hans, Beamter, Brückfeldstrasse 12
 Tank, Rudolf, Ingenieur bei der Landestopographie, Optingenstrasse 48
 Tannaz, Charles, Wirt, Cafe Born, Schauplatzgasse 18 u. 20, Metzgerei Storchengässchen 1629
 Tannenblatt, D., Buchhandlg., Seftigenstr. 23
-Tanner, Aline, Frl., Bureaulistin, Effingerstras.se 69
+Tanner, Aline, Frl., Bureaulistin, Effingerstrasse 69
 – Ant., Geschäftsbücherfabrik, Buchdruckereiu. Linieranstalt, Thunstrasse 20 11905
 – A., Magaziner, Turnweg 21
 – Arnold, Zahntechniker, Monbijoustrasse 18
@@ -26010,7 +26010,7 @@ Seminarstrasse 3 (Villa Rosenau) {2295
 – Josef, Steinhauer, Stationsweg 17
 # Date: 1916-11-30 Page: 25879086/343
 Winkler, Karl, i. Fa. Winkler, Fallert & Cie., Wylerringstrasse 36 $2153
-– Karl, Magaziner, Lentulusstras.se 59
+– Karl, Magaziner, Lentulusstrasse 59
 – Luise, Militärsclineiderin, Breitfeldstr. 33
 – Robert, Ingenieur, Direktor der techn. Abt.d. Eisenbalindep., Falkenhöheweg 11 $353
 – W. 0., Steindrucker, Seidenweg 49
