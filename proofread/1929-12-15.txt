@@ -2069,7 +2069,7 @@ Bäschlin-Rohr, Hans, Fürsprecher, Oberrichter, Luisenstrasse 46 Bollw. 1422
 Mädchenschule, Pavillonweg 3 Chr. 3478
 – Züblin, Maria, Wwe., Schwärzterslr. 98
 Christ. 3118
-Baschung, Haribert, Werkführer, Brunnademstrasse 38
+Baschung, Haribert, Werkführer, Brunnadernstrasse 38
 Basler. Friedr., Dr. jur., Muri Zähr. 2145
 – Friedr., Drogist, Weberslrasse 13
 – Jakob, Gemeindeschreiber, Köniz
@@ -4911,7 +4911,7 @@ Bracher, Adolf, Marktkrämer, Bedpstraisse 65
 – Hans Friedr., Drogist, Althofgässchen 5
 – Jak. Rud., Bankbeamter, Kirchenfeldstr. 39
 – Ulrich, Pferdewärter, Wiesenstrasse 11
-– Wilh., Architekt, Baugeschäft (Beatusstrasse 28 Christ 3411), Brunnademstr. 28
+– Wilh., Architekt, Baugeschäft (Beatusstrasse 28 Christ 3411), Brunnadernstr. 28
 Bollw. 3916
 – Frey, Hans, Dr., Sek.-Lehrer, Muristr. 3
 Christ. 3142
@@ -5701,7 +5701,7 @@ Christ. 4549
 Söhne, Schwarztorstrasse 39 Bw. 4596
 – Hans, in Fa. E. F. Büchi, Söhne, Scheuermattweg 21
 – Karl Oscar, Direktor, Institut Grünau, Wabern
-– Theodor Otto, Polizist, Brunnademstr. 98
+– Theodor Otto, Polizist, Brunnadernstr. 98
 – Bodmer, Willy, Schweiz. Aerzte-Zeitung, Karl-Staufferstrasse 16 Bollw. 1020
 Büchler, Alb., Handlanger, Burgfeldweg 16
 – Anna Marg., Angestellte, Weststr. 17
@@ -5839,7 +5839,7 @@ Christ. 1740
 – Martha, Frau, Coiffeuse, Moserstrasse 25
 – Max Franz, kaufm. Angestellter, Monbijoustrasse 27
 – Otto, Gärtner, Kramgasse 37
-– Paul Wilhelm, Kartograph, Brunnademstrasse 23
+– Paul Wilhelm, Kartograph, Brunnadernstrasse 23
 – Peter A., Maler, Bottigenstr. 61, Bümpliz
 Bühler, siebe auch Bueler
 – Peter, Schreiner, Bottigenstr. 61, Bümpliz
@@ -6567,7 +6567,7 @@ Büschi, Emil, Schlosser, Martiweg 12
 – Gottlieb, Maler, Jurastr. 77
 Buser, A. A., Beamter der Güterexpedition, Stadtbachstrasse 42
 – Alfred, Postbeamter, Dählhölzliweg 14
-– Arnold, dipl. Landwirt, Wabemstrasse 18
+– Arnold, dipl. Landwirt, Wabernstrasse 18
 – Ernst. Beamter S. B. B.. Konsumstr. 14c
 – Ernst Theophil, Mechaniker, Alleeweg 11a
 – Fr., Werkmeister, Wasserwerkgasse 1
@@ -6611,7 +6611,7 @@ Bütikofer, Alex., Handlanger, Gartenstr. 19
 – Emil Fr., Photograph, Storchengässchen 5
 Christ. 5743
 Bütikofer, Ernst Arnold, Billetteur S. S. B., Militärstrasse 46
-– Ernst, Wabemstrasse 22 Christ. 5512
+– Ernst, Wabernstrasse 22 Christ. 5512
 – Ernst. Magaziner, Postgasse 60
 – Ernst, Bahnarbeiter, Fischermätteliweg 9
 – Ernst, Parteisekretär, Lentulusstrasse 32
@@ -6944,7 +6944,7 @@ Christ, Emma Louise, Fabrikarbeiterin, Metzgergasse 28.
 – Ida M., Ladentochter, Brunnadernstr. 4
 – Jakob, Handlanger, Metzgergasse 28
 – Lydia, Seftigenstrasse 109
-– Marie Frieda, Ablagehalterin, Brunnademstrasse 4
+– Marie Frieda, Ablagehalterin, Brunnadernstrasse 4
 – Mathilde, Brunnadernstrasse 4
 – Theodor, Reklamechef, Schwarzenburgstr. 8
 – Volimar, Paul, Bureauchef Nationalbank.
@@ -8693,7 +8693,7 @@ Christ. 5630
 – Margr. Rosa Anna, Angestellte, Ensingerstrasse 37
 – Marie, Privat., Bottigenstr. 383, Riedbach
 – Martha, Ladentochter, Postgasse 72
-– Max, Sektionschef b. Oberkriegskommissariat, Wabemstrasse 38
+– Max, Sektionschef b. Oberkriegskommissariat, Wabernstrasse 38
 – Max, Typograph, Breitfeldstrasse 49
 – Niklaus, Informator der Stadtpolizei, Muristrasse 95
 – Oskar, Schriftsetzer, Römerweg 22
@@ -16028,7 +16028,7 @@ Christ. 1899
 # Date: 1929-12-15 Page: 26012901/287
 Henzi u. Hänzi. s. auch Heuze
 – Merz, Cäsar, Fürsprecher u. Notar, i. Fa.
-Henzi, v. Graffenried & Cie., Wabemstr. 24
+Henzi, v. Graffenried & Cie., Wabernstr. 24
 Christ 2431
 – -Nydegger, M., Wwe., Hopfenweg 5
 Christ. 2740
@@ -17408,7 +17408,7 @@ Hossmann, Alb., Hilfsarbeiter. Marzilistr.2
 – Ernst, Kaufmann, Lombachw. 30 Chr. 3519
 – 'Ernst, Hilfsarbeiter, Altenbergstrasse 36a
 – Ernst, Hilfsarbeiter, Wylerringstrasse 9
-– Hans Rud., Kaufmann. Brunnademstr. 62
+– Hans Rud., Kaufmann. Brunnadernstr. 62
 – K. F., Lehrer, Wiesenstrasse 48
 – Paul, Lehrer, Kursaalstr. 9 Christ. 4408
 – Walter, Handlanger, Metzgergasse 24
@@ -17416,7 +17416,7 @@ Hossmann, Alb., Hilfsarbeiter. Marzilistr.2
 – & Rupf, Posamenterie, Mercerie und Toilettenartikel, Waisenhausplatz 1 Bw. 1152
 – -Hubacher, Alfr., Kolonialwarenhandlung
 (Muri), Gryphenhübeliweg 41 Christ. 4809
-– Rupf, R., in Firma Hossmann & Rupf, Brunnademstrasse 62 Bollw. 3452
+– Rupf, R., in Firma Hossmann & Rupf, Brunnadernstrasse 62 Bollw. 3452
 – -Stoller, Ernst, Baumeister, Kräyigen, Muri
 Hostettler, s. auch Hochstättler u. Hofstetter
 – A. K. 0., Schlosser, Vennerweg 16
@@ -19075,7 +19075,7 @@ Jean-Richard, Charles Th., Elektroingenieur, Rabbentalstrasse 35
 Zähr. 6133
 Jecker, siehe auch Jeker
 – Franz. gew. Zollbeamter. Bethlehemstr. 23
-Bümplizv. Jecklin, Bettina, Brunnademstrasse 65
+Bümplizv. Jecklin, Bettina, Brunnadernstrasse 65
 – Rud., eidg. Beamter, Brunnademsfcr. 65
 Jeger, s. auch Jäger
 – Alice, Bureauangestellte, Postgasse 66
@@ -20045,7 +20045,7 @@ Karlen, Elise, Ladentochter, Zähringerstr. 50
 – Sophie Verena, Bureaulistin. Gewerbestrasse 21
 – Walter, Bankkassier, Sandrainstrasse 75
 – Walter, Kaufmann, Gewerbestrasse 21
-– Werner, Beamter SBB. Brunnademstr. 20
+– Werner, Beamter SBB. Brunnadernstr. 20
 # Date: 1929-12-15 Page: 26012938/324
 Karlen-Burger, Walter, Coiffeurgesch. (Pavillonweg 6). Maulbeerstr. 14 Bollw. 3084
 – Jutzeler, F., eidg. Beamter, Lentuiusrain 3
@@ -20837,7 +20837,7 @@ Kistler, Ada Hedwig, Frau, Kindergärtnerin, Gerechtigkeitsgasse 9
 – Christ. Herm.. Spezerei- u. Tabakhandlg., Brunngasse 42 Christ 1974
 Kistler, Ernst Otto, Kauim.. Rodtmattstr. 49
 – Ferd., Pferdewärter. Rodtmattstrasse 83
-– Hildegard, Haushaltungslehrerin, Wabemstrastse 24
+– Hildegard, Haushaltungslehrerin, Wabernstrastse 24
 – Jakob, Beamter S. B. B., Greyerzstr. 42
 – 'Jak. Rob., Chauffeur, Mühlemattstrasse 58
 – Amsler, Marie, Wwe. d. Staatsschreibers, Wabernstrasse 24 Christ. 1474
@@ -21528,7 +21528,7 @@ Christ. 4543
 Zähr. 2072
 – Karl, Glaser, Jurastrasse 71
 – Käthe, Zuschneiderin, Bollwerk 31
-– L. H. Jenny, Privatiere, Brunnademstr. 28
+– L. H. Jenny, Privatiere, Brunnadernstr. 28
 – Margr. Emma, Schneiderin, Jurastr. 71
 – Mathilde, Frl., Malerin, Falkenplatz 4
 Christ. 1094
@@ -21986,7 +21986,7 @@ Krebs, Paul, Schuhmacher, Neufeldstr, 27e
 – Gmünder, A., Damenfrisiersalon, Waaghausgasse 6 Christ. 5396
 – Immer, Magd., Schauplatzgasse 9
 – Schindler, Werner, gew. Sekr. d. Schweiz.
-Gewerbeverbandes, Wabemstrasse 14
+Gewerbeverbandes, Wabernstrasse 14
 – Schmid, R., Wwe., Giessereiweg 20
 – Sommer, Anna, Wwe., Lehrerin, Wagnerstrasse 29
 – Tellenbach, Fritz, Lenzweg 4
@@ -22650,7 +22650,7 @@ Künzi, s. auch Küenzi
 – Fritz, Milch-, Butter- und Käsehandlung, Kramgasse 49 Bollw. 4191, Falkenplatz 22
 Christ. 5650 u. Thunstrasse 10 Bollw. 3188
 – Gottfr., Maurer, Muesmattsfcrasse 37
-– Gottl., Schriftsetzer, Wabemstrasse 8
+– Gottl., Schriftsetzer, Wabernstrasse 8
 – Hanna, Damenschneiderin, Spitalackerstrasse 28
 – Hans, Lehrer, Gutenbergstr. 31 Chr. 4420
 – Hans, Postkommis, Wyttenbachstrasse 18
@@ -25229,7 +25229,7 @@ Christ. 5562
 – Klara M., Klavierlehrerin, Wernerstr. 22
 – Oskar, OhauffeuT, Gasstrasse 8
 – R. Martha, Prokuristin, Graffenriedweg 12
-Lütschg, Gerhard, Geigenbauer, Brunnademstrasse 28
+Lütschg, Gerhard, Geigenbauer, Brunnadernstrasse 28
 – J., Dr, med., Speziaüarzt für Kinderkrankheiten, Brunnadernstrasse 28 Bollw. 2858
 – Johanna, Brunnadernstrasse 28
 – Vera Erica, Musiklehrerin, Ob. Haspelweg 51
@@ -30223,7 +30223,7 @@ Perello, Alice Lina, Bureaulistin, Effingerstrasse 18
 – 'Edgar, Kommis, Effingerstrasse 18
 – Fritz Anton, Asphalt- und Teerprodukte, Rohstoffe, Effingerstrasse 18 Bollw. 4332
 Perey, Maurice, Coiffeur, Damensalon (Birkenw .40), Waisenhausplatz 15 Christ. 3317
-Periat, E. J. J., Postbeamter, Wabemstr. 91
+Periat, E. J. J., Postbeamter, Wabernstr. 91
 Perinat, Gh. Gust., Handlanger, Platanenw. 3
 Perincioli, St., Sculpteur, Egghölzliweg 41
 Christ. 5529
@@ -34908,7 +34908,7 @@ Volksbank, Falkenweg 3 Christ. 3339
 – WerthmülleT, Fritz, u. Tochter, Tanzinstitut, Gesundheitsgymnastik, Hotelgasse 6
 Christ. 2471
 – -Zahnd, Friedr., pens. städt. Angestellter, Balmweg 20
-Scheidt, Walter J., Kaufmann. Brunnademstrasse 38a Bollw. 2643
+Scheidt, Walter J., Kaufmann. Brunnadernstrasse 38a Bollw. 2643
 Scheim, Ernst, Dienstchef im eidg. Justiz- u.
 Polizeidepartement, Obstbergweg 2
 Schein, Abrah. N., Kapellmeister, Tiefmattstrasse 10
@@ -40195,7 +40195,7 @@ Strebei, Aug., Werkführer, eidg. Versuchs-!anstalt, Feldegg, Köniz !
 – Joh. L., Mechaniker, Lentulusstrasse 67
 – Jos., Mechaniker, Brunnmattstrasse 15
 – Jos. Edm., Grubenarbeiter. Niederbottigenweg 110, Bümpliz
-Streckeisen, Ed., Geometer, Brunnademstr. 79
+Streckeisen, Ed., Geometer, Brunnadernstr. 79
 – Otto Joh., Bureaulist, Wyttenbachstr. 14
 Strehler, Eug., Mechaniker, Könizstrasse 55
 – Jakob E.W., Dr. med., Arzt. Freiburgstr. 18
@@ -41090,7 +41090,7 @@ Telion A.-G., Zürich, Filiale Bern, Radio-Spezialhaus, Marktgasse 7 Christ. 536
 Tellenbach, s. auch Dällenbach u. Dellenbach
 – Alfred, Chauffeur, Brunngasse 36
 – Chr. Alfred, Dr. phil., Gymnas.-Lehrer, Brunnadernstrasse 63
-– Oh., gew. Lehrer, Brunnademstrasse 63
+– Oh., gew. Lehrer, Brunnadernstrasse 63
 – Chr., Postillon, Sulgenbachstrasse 14
 – Ernst, Chauffeur, Gruberstrasse 14
 – Ernst, Magazinbeamter b. O.K. K., Beundenfeldstrasse 39
@@ -43427,7 +43427,7 @@ Bollw. 3685
 – Ida Kath., Bureaulistin. Aebistrasse 11
 – Ida, Klavierlehrerin, Gutenbergstrasse 10
 – -Jos. Herm., Schriftenmalermeister. Geselischaftsstrasse 20 . .
-– Josefine Marie, Bureaulistin, Weissenstemstr8>ss6 108
+– Josefine Marie, Bureaulistin, Weissensteinstr8>ss6 108
 – Marg. Josepha, Ladentochter, Gesellschaftssträsso 20
 – Marie Hildegard, Angestellte, Gesellschaftsstr8.ss6 20
 – Martha Elsa, Kanzlistin, Weissensteinstrasse 108
