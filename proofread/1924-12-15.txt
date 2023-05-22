@@ -21,7 +21,7 @@ Aberegg, Ernst Hans, Fabrikarbeiter, Hallwylstrasse 30
 – 'Moritz, Kaufmann, Schlösslistrasse 47
 – Bruderer, A., Wwe., Privatiere, Hallwylstrasse 30 Christ. 1811
 – Huber, M., Kolonialwaren-, Wein- u. Spirituosenhandlg. (Nydeckgasse 17), Schauplatzgasse 35 Christ. 4754
-– Roth, Otto, gew. Direktor d. Hasler A.-G., Brunnademstraese 33 Christ. 3261
+– Roth, Otto, gew. Direktor d. Hasler A.-G., Brunnadernstraese 33 Christ. 3261
 – Steiner, W. E., Geschäftsführer d. Aberegg-Steiner & Cie., Komm.-A.-G., Weissenbühlweg 29d
 – Steiner & Cie., Kommandit-A.-G., Graph.
 Kunst- und Clicheanstalt, Galvanoplastik, Stereotypie, Könizstrasse 66 Bollw. 1216
@@ -6392,7 +6392,7 @@ Strasse 57
 – Friedrich, Louis Harold, Spezereihandlg., Tavel'weg 38
 Choulat, Leon Jos., Presseagentur, Marktgasse 41 Bollw. 3036
 Chramoi, N. B., Marktkrämer, Waldheimstrasse 16
-Christ, C. N., Maler, Brunnademstrasse 4
+Christ, C. N., Maler, Brunnadernstrasse 4
 – Ida M., Ladentochter, Brunnadernstr. 4
 – Jakob, Handlanger, Metzgergasse 28
 – Marie Frieda, Ablagehalterin, Brunnadjemstrasse 4
@@ -8318,7 +8318,7 @@ Eristow, Nathalie, Zieglerstrasse 31v. Erlach, A., Dr. med., prakt. Arzt, Spezia
 Christ. 3503), Junkerngasse 51 Christ. 4833
 – B., Privatier, Ringstrasse 37 Christ. 1478
 – M., Frl., Dählhölzliweg 19
-– Rud., alt Reg.-Rat, Brunnademstrasse 57
+– Rud., alt Reg.-Rat, Brunnadernstrasse 57
 Erlacherhof, Junkerngasse 47 Bollw. 1515
 Ermel, Emil, Angestellter, Zielweg 11
 – Fritz, Beamter, Meisenweg 27
@@ -10182,7 +10182,7 @@ Christ. 5557
 – Wilh. Rudolf, Buchhalter, Rehhagstr. 12, Bümpliz
 Gartenmann, Carl Aug., Kaufmann, Wabernstrasse 22
 – Paul Ernst, Kaufmann, Depotstrasse 12
-– & Co., C., Isolierprodukte f. Bedachungszwecke, Export und Import v. Bauartikeln, Wabemstrasse 22 Bollw. 4424
+– & Co., C., Isolierprodukte f. Bedachungszwecke, Export und Import v. Bauartikeln, Wabernstrasse 22 Bollw. 4424
 Gartenstadt Bellevue A.-G., Bubenbergpl. 10
 Bollw. 4304
 Gartenstadt Holligen, Wagnerstrasse 27
@@ -14674,8 +14674,8 @@ Hirsbrunner. Alfr., Schlosser, Kesslerg. 42
 – Rud., Ausläufer, Belpstrasse 55
 – Rud., Grabsteinhauer, Jurastrasse 42
 – Rud. Ed., Schriftsetzer, Lorrainestr. 19
-– Rud., jun., Schuhmachermeister. Wabemstrasse 37
-– Rudolf, Schuhmachermeister, Wabemstrasse 6
+– Rud., jun., Schuhmachermeister. Wabernstrasse 37
+– Rudolf, Schuhmachermeister, Wabernstrasse 6
 – Walter, Sekretär S. M. U. V., Sonneggw. 5
 – Mäusli, E., Bäckerei und Konditorei, Schifflaube 22 Bollw. 4194
 Hirschburger, E., Papeterie (Jubiläumsstrasse 56), Thunstrasse 2 Christ. 1820
@@ -20122,7 +20122,7 @@ Kursteiner, August, Polizist, Genossenweg 19
 – Joh. Komr., Schreiner, Stalden 28
 – Klara Rosa, Ladentochter, Läuferplatz 7
 – Reinhard, Metzger, Wylerfeldstrasse 40
-– Walter, Dr. med., prakt. Arzt, Spezialarztfür Tuberkulose, Wabemstr. 22 Chr. 2140
+– Walter, Dr. med., prakt. Arzt, Spezialarztfür Tuberkulose, Wabernstr. 22 Chr. 2140
 – Zürcher, J., Dr. phil., Monbijoustr 123
 Christ. 1565
 Kurt, s. auch Kuert und Kurth
@@ -20244,7 +20244,7 @@ Läderach, A. G., Gärtnermeister, Freiburgstrasse 78
 Schweizer. Mobiliar-Versicher.-Gesellscbaft, Schwarztor Strasse 76 Christ. 5747
 – Fr., Handelsgärtner, Gryphenhübeliw. 20a
 – Friedr., Schreiner, Metzgergasse 62
-– Friedr., Tramangest., Brunnademstr. 20
+– Friedr., Tramangest., Brunnadernstr. 20
 – Friedr., Pferdewärter, Jurastrasee 28
 – Fritz, Maler, Gryphenhübeliweg 10
 – G. A., Laborant im Frauenspital, Weissensteinstrasse 20
@@ -29606,7 +29606,7 @@ Rüfenacht, Chr., A.-G., Tuch-, Herren- und Damen-Konfektions- u. Bettwarenhandl
 – Christ., Kond. d. E. G. B., Schöneggweg 23
 – Christ., Handlanger, Morillonweg 40
 – Ed.. Beamter, Burgunderstr. 102, Bümpliz
-– Elise, Hilfsarbeiterin, Wabemstrasse 40
+– Elise, Hilfsarbeiterin, Wabernstrasse 40
 – Elia, Spitalgasise 17
 – Ernst, gew. Optiker, Muri
 – Ernst, Bereiter, Herzogstrasse 7
@@ -30118,7 +30118,7 @@ Salvisberg, Berfa, Schneiderin, Turnweg 29
 – Rudolf, Postillon, Blockweg 9
 – Viktor H., Mechaniker, Falkenweg 7
 – Walter, Angestellter, Viktoriarain 2
-– Werner Friedr., Bauzeichner, Brunnademstrasse 63
+– Werner Friedr., Bauzeichner, Brunnadernstrasse 63
 – -Benninger, Bertha, Lebensmittelhandlung, Brunnadernstrasse 63a
 – & Brechbühl. Architekten, Manuelstr. 74
 Christ. 4435
@@ -32117,7 +32117,7 @@ Schnyder de Wartensee, Chs., Generaldirektorder Schweizer. Nationalbank, Könizs
 Schoeb-Lauper, Waldemar F., Fürspr., Kommissionsschreiber d. Burgergemeinde, Terrassenweg 12 Christ. 4965
 Schober-Wäl'chli, Eli® ab., Privatiere, Oberbottigen, Bümpliz
 Schöberli, Wilh. Rud'., Tscharnerstrasse 18
-Schobert, Rieh., Vize-Bankdirektor, Brunnademstrasse 18 BoIIw. 2204
+Schobert, Rieh., Vize-Bankdirektor, Brunnadernstrasse 18 BoIIw. 2204
 Schoch, Adrian Max, Dr. med.. Arzt. Münzgraben 2
 – Alph. E. E., Kaufmann, Schwarztorstr. 51
 – H., Stickerei-Fabrikation, Marktgasse 22
@@ -38711,7 +38711,7 @@ Wernli, Eduard, Schreiner, Werkg. 9, Bümpliz
 – Lydia, Bureaulistin, Scheibenstrasse 59
 – Otto, Bankangestellter, Monbijoustrasse 14
 Wernly, J. P., Postbureauchef, Ghutzenstr. 29
-– Julia, Dr. phil., Brunnademstrasse 28
+– Julia, Dr. phil., Brunnadernstrasse 28
 – Rudolf, gew. Pfarrer. Brunnadernstr. 28
 – Kin d, Lucy, Wwie., Thormannstnassie 68
 Werren, s. auch Wehren
@@ -39827,7 +39827,7 @@ Wymann, A. F., Sattler, Blockweg 4
 – Heinrich Jakob, Handlanger, Stalden 14
 – Herm., Schriftsetzer, Kramgasse 44
 – J. A., Kanzleisekretär der Kriegsmaterialverwaltung, Wagnerstrasse 20
-– J., Frl., Damenschneiderin. Brunnademstrasse 42
+– J., Frl., Damenschneiderin. Brunnadernstrasse 42
 – Jakob, Postangestellter, Zähringerstr. 50
 – Joh., Bahnarbeiter, Heckenweg 27
 – Johann G., Schlosser, Mühlemattstr. 19

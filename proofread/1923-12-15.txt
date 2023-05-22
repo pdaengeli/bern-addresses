@@ -55,7 +55,7 @@ Adam, Berta, Ladentochter, Lentulusstr. 34
 – Elise, Ladentochter, Lentulusstrasse 34
 – Fr., Lok.-Führer, Bürkiweg 2
 – Jb., Milchführer, Lentulusstrasse 34
-– Joh., Milch-, Butter- und Käsehandlung, Brunnademstrasse 71 {4120
+– Joh., Milch-, Butter- und Käsehandlung, Brunnadernstrasse 71 {4120
 – Marie, Bureaulistin, Tschamerstrasse 20
 – Rosa, Ladentochter, Lentulusstrasse 34
 Adamek, H., Mechaniker, Flurstrasse 25
@@ -2871,7 +2871,7 @@ Bichsei, Abr., Dienstmann, Murtenstrasse j
 – Ernst, Bankangestellter. Schwanengasse
 – Franz, Schneider, Flurstrasse 3
 – Fr., Büchsenmacher, Herzogstrasse »
-– Fr., Bahnhofportier, Weissenstemstr.
+– Fr., Bahnhofportier, Weissensteinstr.
 – Fr. Joh., Gipser, Schifflaube 26
 – Friedr., Holzer, Riedernstr. 92, Bümpb
 # Date: 1923-12-15 Page: 25903356/153
@@ -6527,7 +6527,7 @@ Demisch, Arthur, Dr. med. dent., Zahnarzt
 (Brunnadernstr. 14), Bahnhofplatz 1 (4792
 – Hedwig, Sekretärin. Brunnadernstr. 14
 – Johann Jul. P., Kaufmann, Brunnadernstrasse 14
-– Glättli, A. Marg., Privatiere, Brunnademstrasse 14
+– Glättli, A. Marg., Privatiere, Brunnadernstrasse 14
 Dem me, Kurt, vorm. Demme & Krebs, Fabribrikation von u. Handel mit Spirituosen, Dalmaziweg 43 (1887
 – Hünerwadel, A., Wwe. des Professors, Schwanengasse 11, im Sommer in Muri
 – Walther, H. Kurt, Kaufmann, Dalmaziweg 43 (4079
@@ -30628,7 +30628,7 @@ Schöpfer, A., Frau, Schwarztorstr. 76
 – Oskar, Bureauangestellter, Viktoriastr. 91
 Schopferer, Karl, Wirt zum Restaurant Viktoriahall, Effingerstrasse 51 21208
 Schor-Schifferdecker, B., Frau, Bernastr. 53
-Schorer, A., Präsident d. Verwaltungsgerichts, ; Brunnademstrasse 8 14548i —Alfr. Max, Elektro-Ingenieur, Brunnadernstrasse 8
+Schorer, A., Präsident d. Verwaltungsgerichts, ; Brunnadernstrasse 8 14548i —Alfr. Max, Elektro-Ingenieur, Brunnadernstrasse 8
 1 — Gerh., Dr. med., Spezialarzt für innere
 I Krankheiten, Spitalackerstr. 38 12621 Spit.j Gottfr., Handlanger, Waldheimstrasse 53
 – Joh. Rud. Bernhard, Fürsprecher, Postgassc 56
@@ -34380,7 +34380,7 @@ Tivoli, Gastwirtschaft, Hofweg 11 (2376 Spii.v. Tobel, s. auch Vontobel
 – & Co., R. (Nachfolger von Berthoud & Co.), Weinhandlung, Effingerstrasse 15 (664
 – -Keller, Rud., in Firma R. v. Tobel & Co., Effingerstrasse 15 (5329
 Tobler, s. auch Dobler
-– Albert. Kaufmann, Wabemstrasse 6a
+– Albert. Kaufmann, Wabernstrasse 6a
 – Alice F., Telephonistin, Martiweg 15
 – Bertha, Damenschneiderin, Moserstr. 52
 – E. E., Frl., Privatiere, Ob. Dufourstr. 49w (6488
@@ -36935,7 +36935,7 @@ Wey, Adolf Eduard, Schriftsetzer, Gruberstrasse 10
 – Blaser, Marianne, Schneiderin, Muldenstrasse 21
 Weydel, Gottl. Heinr., Beamter S. S. B., Weberstrasse 15
 Weyermann, Arnold, Kaufmann, Postgasse 46
-– Emma, Frau, Wabemstrasse 24 22742
+– Emma, Frau, Wabernstrasse 24 22742
 – Friedr., Dachdeckermeister, Bottigenstr. 72, Bümpliz 2154 Bümpliz
 – Fr., Gipser, Gerbergasse 38
 – Friedr., Gasarbeiter, Rütlistrasse 12
@@ -37907,7 +37907,7 @@ Wymann, A. F., Sattler, Blockweg 4
 – Heinrich Jakob, Handlanger, Stalden 14
 "Herm., Schriftsetzer, Kramgasse 44
 "J- A., Kanzleisekretär der Kriegsmaterialverwaltiung, Wagnerstrasse 18
-Frl., Damenschneiderin, Brunnademstrasse 42 . {5312
+Frl., Damenschneiderin, Brunnadernstrasse 42 . {5312
 "Jakob, Postangestellter, Zähringerstr. 50
 Wymann, Jakob, Kunststeinfabrik, Steckw. 11
 – Joh., Bahnarbeiter, Knüslihubelweg 34
@@ -38281,7 +38281,7 @@ Bümpliz
 – Emma, Lehrerin, Stationsweg 23
 – Ernst, Buchhandlungsgehilfe. Schönauw.o
 – Ernst, Dr., Gymnasial-Lehrer, Brückfeidstrasse 12a . 00
-– Ernst, Lok.-Führer, Weissenstemstr. 4*
+– Ernst, Lok.-Führer, Weissensteinstr. 4*
 – Ernst, Mechaniker, Lorrainestrasse 45
 – Ernst, Mechaniker, Zimmerweg 14
 – Ernst, Schreiner, Schönauweg 6
