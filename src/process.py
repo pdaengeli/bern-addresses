@@ -27,6 +27,7 @@ class Processor(object):
           "Frl.": True,
           "Gebr.": True,
           "Gebrüder": True,
+          "Jgfr.": True,
           "Schwest.": True,
           "Schwestern": True,
           "Wittwe": True,
