@@ -3368,7 +3368,7 @@ Bureau Marktgasse 50 [28.412], Filialen:
 Spitalgasse 34 [23.604], Marktgasse 50 [28.411], Thunstr. 18 [23.543], Länggassstrasse 41 [33.625], Fabrikstr. 31 [21.903], Breitenrainplatz 29 [23.609], Lorrainestrasse 32 [21.060], Seftigenstrasse 20 [23.964], Mattenhofstrasse 13 [33.014], Bonstettenstrasse 1 [24.368], Muristr. 69 [23.256], Weissensteingut [45.142]
 Bell Telephone Manufacturing Co., Bubenbergplatz 10 [24.8761
 Bellardi S. A., Vermouth, Schulweg 1 [28.070]
-Bellevue-Palace und Bernerhof, Hotel, Th.-Kocbergasse 5 [24.581]
+Bellevue-Palace und Bernerhof, Hotel, Th.-Kochergasse 5 [24.581]
 Bello, Emma, Bureaulistin, Seidenweg 14
 – F„ Gipser- u. Malermeister, Seidenweg 14 [23.754]
 Belloni, Delfina, Waffenweg 24
@@ -8784,7 +8784,7 @@ Clausen, Alex., kaufm. Ang., Felsenaustr. 28
 Fritz Schlaefli ss 14besorgtlailrocci (gütlich und llllmdwvl rechtlich)
 # Date: 1936-12-15 Page: 26021845/89
 Clavadätscher, Lina, Masseuse und Pedicure, Amthausgasse 22 [31.791]
-Clavadetscher, Paul, Vertrieb der Staubsaugapparate Vampir 35, cbem.-tecbn. Produkte (Monbijoustr. 14), Maulbeerstr. 14, Sommerleisthaus [29.245]
+Clavadetscher, Paul, Vertrieb der Staubsaugapparate Vampir 35, cbem.-techn. Produkte (Monbijoustr. 14), Maulbeerstr. 14, Sommerleisthaus [29.245]
 – Thomas, Wirt z. Innern Enge, Engestr. 54 [21.442]
 Clemengon, Arthur Ch., Maler, Moserstr. 18
 – Francis Hri., städt. Beamter, Stauffacherstrasse 33
@@ -9066,7 +9066,7 @@ Dähler, Karl (Häberli), Vertreter, Aarbergergasse 35
 – Robert, Angestellter, Rosenweg 1
 – Rob., Fabrikarbeiter. Dammweg 19
 – Rob., Pflasterer, Morillonstrasse 10
-– Rob., Fritz, Postcbauffeur. Jurastrasse 32
+– Rob., Fritz, Postchauffeur. Jurastrasse 32
 – Walter, Packer, Marzilistrasse 32
 – Werner, Fabrikarbeiter, Gäcilienstr. 26
 – Wirz & Cie., Burgdorf, Filiale Bern, Autotransporte, Gesellschaftsfalirten, Stadtbachstrasse 10 [23.003]
@@ -9081,7 +9081,7 @@ Dällenbach, s. auch Dellenbach u. Tellenbach
 – El. (Wolf), gew. Arbeitslehrerin, Griineckweg 10a
 – Emil, Kaminfegermeister, Lorrainestr. 49 [28.575]
 – Ernst, Ausläufer, Marzilistrasse 24b
-– Ernst. Automecbaniker, Scheibenstr. 17
+– Ernst. Automechaniker, Scheibenstr. 17
 – Ernst Emil, Fabrikarbeiter, Flurstrasse 24
 – Ernst, Hilfsarbeiter, Hofweg 11
 – Ferdinand, Hilfsarbeiter, Jurastrasse 24
@@ -16835,7 +16835,7 @@ Gut, siehe auch Gueth
 – Daniel, Magaziner, Stationsweg 27
 – Ella, Bestickungsatelier, Waisenhauspl. 21 [36.642]
 – Emma Frieda, Stickerin, Viktoriarain 21
-– Emil Otto (Aegerter), Revisor-Bureaucbefb. d. G. D P. T. T., Spitalackerstrasse 25 [26.266)
+– Emil Otto (Aegerter), Revisor-Bureauchefb. d. G. D P. T. T., Spitalackerstrasse 25 [26.266)
 – Eugen. Beamter S B. B„ Neufeldstr. 122
 – Hans Emil, Konfiseur, Spitalackerstr. 25
 – Hans Matth., Kaminfegermeister, Altenbergstrasse 134 [32.721]
@@ -29131,7 +29131,7 @@ Aebistrasse 17
 – Joh. Karl, Kaufmann, Viktoriastrasse 53
 – Joh., Lehrer, Muristrasse 8
 – Joh., Schäfter, Speichergasse 39
-– Joh.. slädt Beamter. Diesbacbstrasse 12
+– Joh.. slädt Beamter. Diesbachstrasse 12
 – Joh. Telegraphist, Lagerweg 1
 – Karl Jak.. Hilfsarbeiter, Muldenstrasse 44
 – Karl (Aeschlimann). Pferdewärter. Reichenbachstrasse 55
@@ -31628,7 +31628,7 @@ Meyer und Meier, s. auch Maier und Mayer
 – Jakob, Steirhauer, Dietlerstrasse 22
 – Janin Louise, Bureaulistin, Briickfeldstr. 22
 – Jean Marie, eidg. Beamter. Wabernstr. 14
-– Joh. Alfr.. Schneider. Scbeibenstrasse 53
+– Joh. Alfr.. Schneider. Scheibenstrasse 53
 – Joh. Ernst, Gipser- u. Malermstr., Weissensteinstrasse 26 [21.658]
 – Joh. .Jak., Dr., Pferdearzt b. eidg. Kavallerie-Remontendepot, Papiermühlestr. 40
 – Joh. Jak., Gutsbesitzer, Engerain 52 [34.635]
@@ -32980,7 +32980,7 @@ Mühlemann, Albert, Schreiner, Wylerstr. 40
 – Hans, Bauzeichner, Kramgasse 59
 – Hans Walter, Dr. jur., Fürsprecher, Kollerweg 16 [27.697]
 – Hans, Drogerie. Sanitätsgeschäft u. Photoartikel (Laubeckstrasse 58), Wylerstr. 43 [25.855]
-– Hans, tecbn Adjunkt d. kriegstechn. Abteilung, Laubeckstrasse 58 [31.998]
+– Hans, techn Adjunkt d. kriegstechn. Abteilung, Laubeckstrasse 58 [31.998]
 – Hans, Verwaltungsgehilfe O. T. D., Distelweg 5
 – Helene M.. Bureaulistin, Höheweg 10
 Jakob, Molkereiarbeiter, Moserstrasse 35
@@ -33197,7 +33197,7 @@ Müller, s. auch Miller
 – Ernst Erwin, Maler, Metzgergasse 20
 – Ernst, Metzger, Schärerstrasse 15
 – Ernst, Mechaniker, Rodtmattstrasse 37
-– Ernst, Bucbdruckerei Mercuria, Greyerzstrasse 28 [23.745]
+– Ernst, Buchdruckerei Mercuria, Greyerzstrasse 28 [23.745]
 – Ernst (Lienhard), Notariatsangestellter, Wernerstrasse 16
 – Ernst, Postbeamter, Greyerzstrasse 32
 – Ernst, Spenglerei u. Installationsgeschäft
@@ -40412,7 +40412,7 @@ Schanzenbach, Ferd., Ing., Rodtmattstr. 35
 J. NIGST, ARCHITEKT Erstellung von Ein- und lYlehrfamillen-Kyburgstr. 13, I. St., Tel. 22.361 häusern in allen Preislagen
 # Date: 1936-12-15 Page: 26022163/403
 Schär, Ad., Hilfsarbeiter, Scheibenstrasse 35
-– Ad., Pflasterer, Scbützenweg 11 [35.823]
+– Ad., Pflasterer, Schützenweg 11 [35.823]
 – Ad., Vertreter, Muldenstrasse 42
 – Alb. Friedr., Installateur, Lorrainestr. 3
 – Alex., Spezereihdlg., Seiden weg 8 [24.937]
@@ -41027,7 +41027,7 @@ Bureau: Spitalgasse 37, Tel. 24.064
 # Date: 1936-12-15 Page: 26022169/409
 Schenk, Margrit, Hilfsarbeiterin, Belpstr. 43
 – Marg. El. (Blaser). Korb-, Holz- u. Bürstenwaren, Gerechtigkeitsgasse 48
-– Margr. (Oehrli). Wwe. des Obergärtners, Reicbenbachstrasse 55
+– Margr. (Oehrli). Wwe. des Obergärtners, Reichenbachstrasse 55
 – Marie Marg., Telephonistin, Martiweg 17
 – Marie Rosa, Ladentochter, Tulpenweg 3
 – Max E., Heizungstechn., Kasernenstr. 50
@@ -44483,7 +44483,7 @@ Sieber, Adele Math., Verkäuferin, Engehaldenstrasse 4
 – Joh. Fr., Postangestellter, Freiestrasse 25
 – Joh. Jos., Spenglerwerkführer, Muesmattstrasse 40
 – K. (Wanzenried), Wwe., in Fa. K. Sieber, Kesslergasse 17
-– K., Bauspenglerei u. Installationsgescbäft, Kesslergasse 17 [31.891]
+– K., Bauspenglerei u. Installationsgeschäft, Kesslergasse 17 [31.891]
 – Klara, Angestellte, Luisenstrasse 6
 – Marg., Ladentochter, Neuengasse 15
 – Max, Buchdrucker, Ostring 34 [20.122]
@@ -46462,7 +46462,7 @@ Prof. Dr. med.. Alpeneckstrasse 1 [23.544]
 – Marie, Bureaulistin, Meisenweg 17
 – Max Arthur, in Fa. Steinmann & Co..
 Laubeckstrasse 28 [20.256]
-– Nelly Martha, Bureaulistin. Wyttenbacb– Bob. Ghr., Koch, Wyttenbachstr. 6 [24.707]
+– Nelly Martha, Bureaulistin. Wyttenbach– Bob. Ghr., Koch, Wyttenbachstr. 6 [24.707]
 – Robert Jakob, Kaminfegermeister, Feilenbergstrasse 17 [35.937]
 – Werner, Beamter der Oberpostdirektion, Moserstrasse 46
 Steinmann & Co. 28.561
@@ -56704,7 +56704,7 @@ Mäder, Alfred, Maurer, Matzenriedstrasse 12
 – Gottl., Vorarbeiter, Riedbachstrasse 102
 – Hanna, Bureaulistin, Myrtenweg 8
 – Lina, Ladentochter, Bümplizstrasse 111
-– Maria A. (Häberli), Privat., Buchweg 16, Riedbacb
+– Maria A. (Häberli), Privat., Buchweg 16, Riedbach
 – Martha, Posthalterin, Riedbachstrasse 341, Riedbach
 – Rud., Vorarbeiter, Aehrenweg 37
 – Sl., pens. Meisterknecht, Freieckweg 9

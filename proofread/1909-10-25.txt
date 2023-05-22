@@ -3499,7 +3499,7 @@ Eich, Elise, Kanzlistin im Bureau Spreng
 ({Beundenw. 6 1170 ), Kramg. 24 1910
 – Ad. Traug., Reisender, Herzogstr.21
 – Arnold, Postbeamter, Turnweg 9 t
-{— Chr., Amtsnotar (Kircbenf., Jungfraustr. 20 1835 ), Waisenhauspl. 12
+{— Chr., Amtsnotar (Kirchenf., Jungfraustr. 20 1835 ), Waisenhauspl. 12
 1149
 – Emil, Beamter d. städt. Gaswerkes, Schwarztorstrasse 79
 – Ernst, Mechaniker, Oberweg 8
@@ -3751,7 +3751,7 @@ Falquet-Henzi, L., Kupferstecher b. eidg.topogr. Bureau, Stadtbachstr. 36
 Familienheim-Loge 20, Monbijou-Schulh.
 Fankhauser, Chr., Schlosser, Wasserleitungsunternehmer, Landhausw. 8
 – Ed., Christ., Magaziner, Cäcilienstrasse 21b
-– Elise, Damenschneiderin, Storcbenässchen 3rnst, Dr. med., III. Arzt, ^Waldau, Bolligenstrasse 117
+– Elise, Damenschneiderin, Storchenässchen 3rnst, Dr. med., III. Arzt, ^Waldau, Bolligenstrasse 117
 |— E. A., Gipsermeister (Weissenb., Werdtweg 10), Schwarzenburgstrasse 12 2476
 – Ernst, Kon troll, d. S. B. B., Kirchenfeld, Thunstrasse 88
 – Franz, Dr. phil., Adj. d. eidg. Oberforstinspekt.,Lgg.,Schanzeneckstr.9
@@ -3780,7 +3780,7 @@ Fäsch, Fritz, Kaufm., Wallgasse 2
 – M., Schuhmachermeister, Weissenbühlweg 31
 – Oskar, Gasarbeiter, Brunngasse 12
 (— & Buser (Nachfolger von Burkhart-Gruner), Bankgeschäft, Amthausgasse 1 32
-– Köhler, Marie, Witwe, Gryphenhübeliweg 10i-Oesterle, Fr., Bankier, i. F.Fasnacbt
+– Köhler, Marie, Witwe, Gryphenhübeliweg 10i-Oesterle, Fr., Bankier, i. F.Fasnacht
 & Buser, Mattenh., Zieglerstr.9 1143
 – Ruof, Luise, Pension, Länggasse, Bühlstrasse 55
 Fässler, Yal., Rev. d. eidg. Finanzkontrolle, Länggasse, Donnerbühlwegd
@@ -7988,7 +7988,7 @@ Kavallerie, Mattenhof, Brunnbofweg 22
 |-Fueter, Walter, in Firma Caspari k
 Kern, Diesbachstrasse 17
 | — -Stählin, Fy Rentier, Elfenstr.10 2309
-– -Werder, Elisab., Witwe, Diesbacbstrasse 17
+– -Werder, Elisab., Witwe, Diesbachstrasse 17
 Kernen, Ed., Generalprokurator, Falkenplatz 11
 – Paul, Revisor der eidg.Telegraphenkontrolle, Hallerstrasse 35
 – R., Kanzlist der Alkoholverwaltung, Kapellenstrasse 6
@@ -9541,7 +9541,7 @@ I -Buss, Karl, Organist und Orgelexperte, Mattenhof, Gartenstr. 3 2215
 – -Tschanz, Magd., Wwe., Stadtbachstrasse 26
 Löding-Zenger, Lina, Witwe, Speichergasse 11
 Löffel, Joh., Pächter, Seftigenstrasse 36
-– R. A., Beamter der Telegraphen-Direktion, Breitfeldstrasse 34jLoge zur Hoffnung, Bogenscbützenstrasse 8 542
+– R. A., Beamter der Telegraphen-Direktion, Breitfeldstrasse 34jLoge zur Hoffnung, Bogenschützenstrasse 8 542
 Löhner, Karl, Beamter der S. B. B., Bubenbergstrasse 5
 |— 0. Emil, Regierungsrat, Luisenstrasse 10 2860
 – de Bruin, Frau, Kobes, Bubenbergstrasse 5
@@ -15894,7 +15894,7 @@ Trltschler, T obler-Colinet, Jules, Parfumeriefabrik., Marktgasse 26
 – Colinet, Marie, Coiffeuse, Marktgasse 26
 – Rohr, W-, Abteil.-Sekretär d. eidg.
 Landwirtsch.-Depart., Ländtew. 5
-Toggenburger, F., Inspektor d. betriebstecbn. Sektion b. eidg. Eisenbahndepart., Lgg., Donnerbühlweg la
+Toggenburger, F., Inspektor d. betriebstechn. Sektion b. eidg. Eisenbahndepart., Lgg., Donnerbühlweg la
 – Paul, Fürsprech, Adjunkt d. Rechtsbureaus d. S. B. B., Fellenbergstr. 12
 Toggweiler, A., Vorst, d. Gütertarifbur.der S. B.B., Längg., Zähringerstr.24
 – Franz, Beamter, Schwarzenburgstrasse 22
@@ -17136,7 +17136,7 @@ Winterfeld, F., Angest. d. Obergerichtskanzlei, Kramgasse 34
 Wintsch, Alfred, Buchhalter, Altenberg-Strasse 6
 Winz, Friedr., Elektriker, Breitfeldstr. 40
 Winzenried, Emil Aug., Beamter der
-Schweizer. Mobiliar-Versicberungs-Gesellschaft, Ob^bergweg 5
+Schweizer. Mobiliar-Versicherungs-Gesellschaft, Ob^bergweg 5
 {— Fried., Amtsnotar, Amtsverweser
 (ILänggasse, Malerweg 17 2853), Waghausgasse 1 2184
 – Gottf., Tapezierer, Wattenwylw. 28

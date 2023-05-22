@@ -1609,7 +1609,7 @@ Kriegsmaterialverwalt,, Längg., Gewerbestrasse 20
 – Hans, Kanzleigehtilfe a, d. Justizdepartement, Ob. Stadtbach,Finkenrain 7
 – Jak., Bauamtarbeiter, Brunng. 30
 – Joh., Schremermeister (Mattenhofstrasse 3), Ob. Stadtbach, Finkenrain 7
-– J., Scbneidermstr., Gerechtigkeitsgasse 67
+– J., Schneidermstr., Gerechtigkeitsgasse 67
 – Joh., Schlosser, Länggasse, Schwalbenweg 26
 – R.j Fr]., gew. Wirtin, Mattenhof, Effingerstrasse 65
 Brechbühl, R. U., Schneidermeister, Lorraine, Polygonweg 19
@@ -6098,7 +6098,7 @@ Isenschmid, Anna, Wollwarenhandlung, Herrengasse 30
 – Chr., Sehmid, Linde, Murtenstr. 40
 – Helene, Frl., Privatiere, Schänzlistrasse 47 (Lindenegg)
 – Joh., Gehülfe der Güterexpeditiond. S.C.B., Längg., Forstweg 35
-– P. B., Lehrerin an der Mädcben-Sek.-Schule, Mattenh., Könizstr. 22
+– P. B., Lehrerin an der Mädchen-Sek.-Schule, Mattenh., Könizstr. 22
 – Rud., Amtsnotar (Kirchgasse 18), Kornhauspl. 7 (Bureau Hahn)j-Jonquiere, Josephine, Schänzlistrasse 47 (Lindenegg)
 – Joss, Elise, Frau, Gross- u. Fein-Wäscherei, Altenbergstrasse 19
 – Rosenmund, Linde, Murtenstr. 22
@@ -6318,7 +6318,7 @@ Keller, Alb., Schneider, Marktgasse 61
 – Joh. Em, Postcommis, Länggasse, Finkenhubelweg 21a
 – J. Fr., Buchdrucker, Weissensteinstrasse 36
 – J. A. C., Landwirt, Worblaufenstrasse 11 (Löchligut)
-– Joh., Schneidermeister, Wyler, Scbeibenweg 22 a
+– Joh., Schneidermeister, Wyler, Scheibenweg 22 a
 – K. R., Heizer der Mechanischen
 Holzscheiterei, Weissenbühl, Landhausweg 6
 – L., Gipser u. Maler, Postgasse 44
@@ -10886,7 +10886,7 @@ Sauser, Ernst, Eisengiesser, Tiefenaustrasse 73
 Sauter, Fr. Jos., Ing. d. Amts f. geistiges
 Eigentum, Sulgenauweg 8
 Savoie, Chs., Direktor des f eidg. Amtsf. Gold- u. Silberwaren, Mattenhof, Sehwarzthorstrasse 30
-– Keller, A., Frau, Mattenh., Scbwarztliorstr. 30
+– Keller, A., Frau, Mattenh., Schwarztliorstr. 30
 Saxer, A., Kassier, Kesslergasse 30
 – Amalie, Privat., Altenbergstr. 29
 – E.,Frau, Damenschneid., Zähringerstrasse 36
@@ -11335,7 +11335,7 @@ Zeughausg. 15
 {— Joh. Friedr., Dr. med., Direktor des
 (Schweiz. Gesundheitsamtes, Länggasse, Gesellschaftsstr. 1j — K., Buchhändler, in Fa. j Schmid &
 & Francke, Rainmattstr. 15
-– Karl,Milcbhdlr.,Felsenau,Fährw.ll
+– Karl,Milchhdlr.,Felsenau,Fährw.ll
 – Karl Bon., Magaziner der Telegr.-Direktion, Lorraine, Thalweg 9
 – Karl J., Lehrer, Kirchenfeld, Bubenbergstrasse 19
 – Karl Rud.., Maler- u. Lakiermeister, Länggasse, Forstweg 55
@@ -14326,7 +14326,7 @@ Willi, Anna, Schneiderin, Brunng. 34
 – Ed., Drechslermeister in d. Lehrwerkstätten, Wyler, Scheibenw. 30
 – J. A., Postkondukteur, Länggasse, Erlachstrasse 12
 – Jak., Kanzlist beim Oberfeldarzt, Mattenhot, Besenscheuerweg 12
-– M. Lse., Lehrerin der Länggassscbule, Längg., Erlachstrasse 12
+– M. Lse., Lehrerin der Länggassschule, Längg., Erlachstrasse 12
 – Bücher, Frau, Stadtbach, Hiigelweg 2 (Lindenhof)
 – Hofer, Anna, Privat., Mattenhof, Besenscheuerweg 12
 Windler, Heim-., Gehülfe a. d. Materialbureau der Telegraphen-Direktion, Mattenhofstr. 13
