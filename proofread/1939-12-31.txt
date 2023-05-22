@@ -1935,7 +1935,7 @@ Bähler, Adolf (Miller), Fürspr., Adjunkt derkant. Polizeidirektion, Muristr. 1
 – Arthur, Wegmeister, Bühlstrasse 27
 – Charles, gew. Dienstchef b. eidg. Oberbauinspektorat, Fichtenweg 23 [29.865]
 – Christina, Buchhandlungsgehilfin, Brückenstrasse 57
-– Christ M. Elis., Bureaulistin 0TD, Luisenstrasse 7 [33.207]
+– Christ M. Elis., Bureaulistin O. T. D., Luisenstrasse 7 [33.207]
 – Dora Martha, Thormannstrasse 53
 – Elise Bertha, Vorsteherin, Elfenauweg 16
 – E., Bern, A.-G., Damenhutfabrik, Modesen gros, Monbijoustrasse 45 [27.622]
@@ -4767,7 +4767,7 @@ Bill, Alfred, kaufm. Angestellter, Moserstr. 18 [28.774]
 – Lina, eidg. Beamtin, Gesellschaftsstrasse 31
 – Maria, Seidenweg 54
 – Otto, Bäcker, Gesellschaftsstrasise 45
-– Rosa, Angestellte 0TD, Gutenbergstrasse 22
+– Rosa, Angestellte O. T. D., Gutenbergstrasse 22
 – Rud. Ed., Kommis, Kesslergasse 25
 – Rud., Postangestellter, Seidenweg 64
 – Rudolf, Landjäger-Korporal, Ferd.-Hodlerstrasse 7
@@ -10828,7 +10828,7 @@ Spitalgasse 22 35.874
 – Elise, Pensionshalterin, Waaghausgasse 7
 – Elmire Juliette (Rollier), Wwe., Gryphenhübeliweg 22 [31.575]
 – Elsbeth, Laboratoriums-Assistentin, Brückfeldstrasse 19 [31.7841
-– Emil, Beamter 0TD, Eigerplatz 3 [25.228]
+– Emil, Beamter O. T. D., Eigerplatz 3 [25.228]
 – Erna, Bureaulistin, Schläflistrasse 12
 – Ernst Ad., Bureauangest., Hallerstr. 56 [31.424]
 – Ernst, Angestellter S B B., Engerain 12
@@ -15081,7 +15081,7 @@ Batschari, Hch.-Wildstrasse 12 [31.173]
 – Otto W., Chauffeur, Hallerstrasse 28
 – Otto, Packer, Quartiergasse 9
 – Otto. Abteilungsvorstand der Rechnungskontrolle und Hauptbuchhaltung S. B. B., Donnerbiihlweg 17 [31.385]
-– Paul, Beamter 0TD, Bürkiweg 4 [21.425]
+– Paul, Beamter O. T. D., Bürkiweg 4 [21.425]
 Gfeller, Paul Ernst, Vertreter, Freiburgstrasse 60b
 – Paul Friedrich, Kaufmann, Attingüausenstrasse 31
 – Paul G., Chauffeur S0B, Seftigenstr. 30a
@@ -15611,7 +15611,7 @@ Gnehm, Anna (Messerli), gew. Posthalterin, Tavelweg 35
 Gnos, Hilda (Berger), Wwe., Schreinerweg 6
 Gobat, Marguerite Ida, Musiklehrerin, Gutenbergstrasse 45
 Gobeli, Gottfr. Fr., Telegraphen-Angestellter, Lorrainestrasse 6a
-– Gottfr , Magaziner 0TD, Neufeldstrasse 19
+– Gottfr , Magaziner O. T. D., Neufeldstrasse 19
 – Hermann, Magaziner, Neufeldstrasse 19
 – Karl, Pferdewärter, Bantigerstrasse 35
 Gobet, Emil, Spezialwerkstatt für Möbelreparaturen, Weissensteinstrasse 49 a
@@ -21622,7 +21622,7 @@ Hutzli, Alwin, pens. Bundesbeamter, Hubelmattstrasse 56
 – Emma (Röthlisberger), Wwe., Freiburgstrasse 119
 – Friedr., pens. Bahnarbeiter, Vereinsweg 6
 – Fritz, Mechaniker, Vereinsweg 6 [ 37.453]
-– Gottfr., Dienstchef b. d 0 T. D., Sulgenrain 8 [33.188]
+– Gottfr., Dienstchef b. d. O. T. D., Sulgenrain 8 [33.188]
 – Joh. Arthur, Bäckermstr., Lorrainestr. 32 [32.131]
 – Karl, Telephonarbeiter, Ralligweg 12
 – Walter, Bahnarbeiter SBB, Ulmenweg 13
@@ -34716,7 +34716,7 @@ Nöthiger, B. (Scheidegger), Strumpfstopferei, Kapellenstrasse 5 [33.691]
 – Hedwig Emma, Verkäuferin, Zinggstr. 25
 – Karl, Kommis, Kramgasse 16
 – Max, Theaterarbeiter. Stockerenweg 3
-– Otto Alb., Bürolist 0TD, Knüslihubelweg 15
+– Otto Alb., Bürolist O. T. D., Knüslihubelweg 15
 – Paul, Hilfsarbeiter, Zinggstrasse 25
 – Rob., Gesellschaftsstrasse 31 [36.156]
 – Robert, Sattlermeister, Mezenerweg 9
@@ -38291,11 +38291,9 @@ Ritter, Alb., Malermstr., Jurastr. 26 [32.322]
 – 1 Josef, Mechaniker, Kramgasse 59
 – Karl, Sattler, Wyttenhachstrasse 32
 – Karoline, Prokuristin, Lorrainestrasse 16
-– Oskar, Ing., Beamter der techn. Abtlg. der
-0 T. D., Thunstrasse 20 [35.184]
+– Oskar, Ing., Beamter der techn. Abtlg. der O. T. D., Thunstrasse 20 [35.184]
 – Otto, Filmoperateur, Jägerweg 6
-– Rudolf Max (Marti), Vizedirektor d. eidg.
-Getreideverwaltung, Weststr. 24 [36.607]
+– Rudolf Max (Marti), Vizedirektor d. eidg.  Getreideverwaltung, Weststr. 24 [36.607]
 – Rud. Rob., Tiefbauzeichner, Rodtmattstr. 67
 – Theodor, Schreiner, Kramgasse 59
 – Walter, Chauffeur, Berchtoldstrasse 27
@@ -42105,7 +42103,7 @@ Schmid und Schmied, siehe auch Schmidtund Schmitt
 – Emma (Laubbacher), Wwe., Finkenrain 13 [22.925]
 – Emma (Aeschbacher), Lehrerin, Daxelhoferstrasse 9
 – Emma, Corsets-Geschäft, Christoffelgasse 2 [36.714]
-– Emma Johanna, Bureaulistin der 0TD, Obstbergweg 10 [29.897]
+– Emma Johanna, Bureaulistin der O. T. D., Obstbergweg 10 [29.897]
 Schmid und Schmied, siehe auch Schmidtund Schmitt
 – Erich A., kaufm. Angestellter, Depotstr. 33
 – Ernst, Chefbuchhalter des EWB, Friedeckweg 26 [31.494]
@@ -51408,7 +51406,7 @@ Wehner, E. R„ Schreiner, Brunnmattstr. 38
 Wehr, Jol. M. H-, jun., Malermeister, Flurstrasse 20 [36.094]
 – Sophie, Modistin, Flurstrasee 20
 Wehren, s. auch Werren
-– Gottfr. Ernst, Dienstchef 0TD, Müslinw. 11
+– Gottfr. Ernst, Dienstchef O. T. D., Müslinw. 11
 Wehrle, Johannes, Kaufmann, Neuengasse 7
 – Maria Elisa, Heimpflegerin, Gutenbergstr.6
 Wehrli, Abr., Strassenaufseher, Steigerw. 15

@@ -7364,7 +7364,7 @@ Bürgi, Fr. Wolf, Dr. jur., Fürspr. (Kornhausstrasse 12 [27.525]), Marktg. 39 [
 – Marie Alice, Angestellte, Sulgenheimweg 21
 – Maria. Schneiderin, Steckweg 15
 – Max, Reisender, Schärerstrasse 15
-– Pierre, Heizer 0 T. D„ Schmiedweg 6
+– Pierre, Heizer O. T. D., Schmiedweg 6
 – Robert, Beamter des Rechtsbureaus der
 S. B. B., Mattenhofstrasse 32 [27.708]
 – Rolf, Kaufmann, Humboldtstrasse 15
@@ -22249,7 +22249,7 @@ Jakob, s. auch Jacob
 – R.. Beamter d S. B. B.. Schläflistrasse 8 [28.670]
 – Robert, Bankangest., Tscharnerstrasse 15
 – Rud. Ad., Vernickler, Freieckweg 2, Bümpliz
-– Rud Magaziner 0 T D.. Tannenweg 10
+– Rud., Magaziner O. T. D., Tannenweg 10
 – Rud., Tapezierermeister, Gerechtigkeitsg. 44
 – Walter, Gewerbehalle, Möbelhandlung. Gerechtigkeitsgasse 23 [35.351]
 – Walter. Kopierer. Lorrainestrasse 65
@@ -34044,7 +34044,7 @@ Münz, Anna Maria, Wwe., Thormannmätteliweg 27
 M unz, Joh., Hilfsarb., Thormannmätteliw. 27
 – Margr. Bureauhstin, Stauffacherstr. 31
 – Mathilde, Telephonistin, Länggassstr. 21
-– Walter Beamter 0 T D Steigerweg 18
+– Walter, Beamter O. T. D., Steigerweg 18
 – W 7 alter, Fabrikarbeiter, Murtenstrasse 137
 Münz, alkoholfreies Restaurant. Amthausg 1 [24.919]
 Münzhuber, Agnes, Telephonistin, Schauplatzgasse 10
@@ -47116,7 +47116,7 @@ Sterchi, Ad., Fabrikarbeiter. Weberstrasse 10
 – Ernst, Pferdewärter, Waffenweg 19
 – Ferd., Spengler, Metzgergasse 37
 – Frieda, Sekretärin, Thunstr. 43 [34.076]
-– Fritz, Beamter 0 T. D.. Meisenweg 16 [35.244]
+– Fritz, Beamter O. T. D., Meisenweg 16 [35.244]
 – Gretli, Bureaulistin, Muristrasse 55
 – Hans Herm., kaufm. Angestellter, Lorrainestrasse 38
 – Hans, Pächter. Sandrains.trasse 93
@@ -47177,8 +47177,7 @@ Stettier, A. M. (Gasser), Wwe., Randweg 13
 – Elise (Hofstetter). Federweg 43
 – Emil. Angestellter. Moserstrasse 20
 – Emil (Thönen). Handelsmüllerei, Mehl-Getreide- und Samenhandlung (Riedweg 19 [35.514]), Zeughausgasse 23 [21.165]
-– Emma Martha, Bureaugehilfin d. O. T D„
-Belpstrasse 71
+– Emma Martha, Bureaugehilfin d. O. T. D., Belpstrasse 71
 – Emma Hedwig (Hänni), Wwe., Kasernenstrasse 41
 – Ernst, Automobil-Vertretungen (Schläflistrasse 6), Breitenrainstrasse 87
 – Ernst. Bremser S. B. B., Tannenweg 19
@@ -49876,7 +49875,7 @@ Ulrich, Ad., Hilfsarbeiter, Elisabethenstr. 57
 – Friedr., Maler, Stöckackerstr. 71, Bümpliz
 – Fritz, Schlosser, Werkgasse 37. Bümpliz
 – Gertrud Anna, Bureaulistin, Freiestr. 38
-– Gottl., Sektionschef der 0 T. D.. Blumensteinstrasse 17 [25.227]
+– Gottl., Sektionschef der O. T. D., Blumensteinstrasse 17 [25.227]
 – Gottlieb, Wickler, Wiesenstrasse 37
 – H Alfr.. Maschinenwärter. Stationsweg 42
 – Hanna Margr., Bureaulistin, Blumensteinstrasse 17
