@@ -2454,7 +2454,7 @@ Bär u. Baer
 – Ernst, Magaziner, Lorrainestrasse 15
 – Ernst Otto. Werkstätte für feinmech. Apparate. Fischermätteliweer 18 [35.533]
 – Erwin Ed,, Konfiseur, Effingerstrasse 9
-– Gottfr. Alfons, Beamter d. Materialbureausder 0. T. D., Moserstrasse 16
+– Gottfr. Alfons, Beamter d. Materialbureaus der 0. T. D., Moserstrasse 16
 – Gottl., Ingenieur, Brunnadernstrasse 104
 – Jakob Ed., ge wes. Zuckerwarenfabrikant, Luisenstrasse 18
 – Jean Ernst, kaufm. Angest., Melchtalstr. 4
@@ -4689,8 +4689,7 @@ Bigler, Hedwig, Einlegerin, Allmendstrasse 2
 – Walter G., Autospengler, Brunnhofweg 19
 – W., Stereotypeur, Rodtmattstrasse 54
 – Walter A. (Bieri), Schriftsetzer, Eggimannstrasse 28
-– Walter Alex. (Bandlin), Mechaniker der
-0TD. Kasernenstrasse 40 [33.720]
+– Walter Alex. (Bandlin), Mechaniker der O. T. D., Kasernenstrasse 40 [33.720]
 – Walter E. Fr., Mechaniker, Flurstr. 14 a
 – Walter, Mechaniker, Weissensteinstr. 112
 – Wilhelm Oskar, Maler, Rodtmattstrasse 54
@@ -8111,21 +8110,20 @@ Buser, A. A., Beamter der Güterexpedition, Junkerngasse 28 [31.567]
 – Fr Werkmeister. Wasserwerkgasse I
 – Frieda (Blau), Wwe. des eidg. Oberpferdearztes, Kramgasse 5
 – Fritz Mechaniker Wasserwerkgasse 1
-– Hs (Gross). Beamter 0 T D.. Rosenw 14 [36 069]
-– Hermann (Plüss). Bibliothekar. Luternauweg 7
-– Jak Martin. Schriftsetzer Relnstrassp 43
-– Jakob, Dr., Abteilungschef d. Sekretariates
-Generaldirektion PTT, Privatdozent. Hubelmattstrasse 3 [ 25.242]
+– Hs (Gross), Beamter O. T. D., Rosenw 14 [36 069]
+– Hermann (Plüss), Bibliothekar, Luternauweg 7
+– Jak. Martin, Schriftsetzer, Relnstrassp 43
+– Jakob, Dr., Abteilungschef d. Sekretariates Generaldirektion PTT, Privatdozent, Hubelmattstrasse 3 [ 25.242]
 – Jul., Buchbinder, Belpstrasse 37
-– Karl. Abwäscher. Hirschengraben 24
+– Karl, Abwäscher, Hirschengraben 24
 – Karl, Beamter, Sandrainstrasse 77
-– Klara M„ Bureaulistin. Belpstrasse 37
-– Maria. Bureaulistin, Zähringerstrasse 69
-– Maria. Modistin. Wasserwerkgasse 1
-– Marie Militärstrasse 24 [36 799]
-– Martha Gertr.. Bureaulist.. Gutenbergstr. 47
+– Klara M., Bureaulistin, Belpstrasse 37
+– Maria, Bureaulistin, Zähringerstrasse 69
+– Maria, Modistin, Wasserwerkgasse 1
+– Marie, Militärstrasse 24 [36 799]
+– Martha Gertr., Bureaulist., Gutenbergstr. 47
 – Max A., Kaufm., Sandrainstr. 127 [23.613]
-– Oskar. Beamter. .Anshelmstrasse 14
+– Oskar, Beamter, Anshelmstrasse 14
 – Paul Julius Mechaniker. Militärstrasse 41
 – Reinhard, Hausierer, Metzgergasse 44
 – S Martha, mech Hohlsäumerei. Kursaalstrasse 5 [28 608]
@@ -15663,7 +15661,7 @@ Gobat, Adrien RoL, eidg. Beamter. Bundesrain 12
 – Marguerite Ida, Musiklehrerin. Gutenbergstrasse 45
 Göbeler, Maria Kl. E., Musiklehrerin. Junkerngasse 36 [31.587]
 Gobeli, Gottfr Fr., Telegraphen-Angestellter, Lorrainestrasse 6a
-– Gottfr, Magaziner 0TD, Neufeldstrasse 19
+– Gottfr., Magaziner O. T. D., Neufeldstrasse 19
 Gobeli, Hermann, Magaziner. Neufeldstr. 19
 – Karl, Pferdewärter, Bantigerstrasse 35
 Gobet, Emil, Spezialwerkstatt für Möbelreparaturen, Weissensteinstrasse 49 a
@@ -23897,7 +23895,7 @@ S. B. B., Kyburgstrasse 9
 – Friedr., Stanzer, Gerechtigkeitsgasse 33
 – Maria F. (Handschke), Damenschneiderin, Moserstrasse 52
 – Walt., eidg. Beamter, Könizstr. 53
-Kasper, Arthur, Ingenieur 0TD, Blumenbergstrasse 35 [25.249]
+Kasper, Arthur, Ingenieur O. T. D., Blumenbergstrasse 35 [25.249]
 Kasser, Hans, Graphiker, Altenbergstrasse 120 [20.999]
 – Johanna, Privatkindergarten, Tavelweg 12 [34.104]
 – Joh. Hedwig, Beamtin, Laubeckstrasse 30 [29.457]
@@ -32507,8 +32505,7 @@ Moccetti, Dina. Bureaulistin OPD, Lorrainestrasse 26
 Mock, Edwin, Filialleiter, Belpstrasse 11
 – Frz. H., Mauier, Lentulusstrasse 65
 Möckli, Andre Eug., Fürsprecher, Jubiläumsstrasse 61
-– Jul. Alb., Chef der Telephonsektion der
-O T. D , Liebeggweg 10 [25.233]
+– Jul. Alb., Chef der Telephonsektion der O. T. D., Liebeggweg 10 [25.233]
 – Mariette, Buchhalterin, Burgernzielweg 4 [21.935]
 – Max (Bader), Postbeamter. Weissenbühlweg 29d [27.034]
 – Rosa Alice, Lehrerin, Weissenbühlweg 29b
@@ -38366,11 +38363,9 @@ Anstalt Bern, Thunstrasse 97a
 – Karl, Sattler, Wyttenbachstrasse 32
 – Karoline, Prokuristin, Lorrainestrasse 16
 – Martha, Fabrikarbeiterin, Gerbergasse 19
-– Oskar, Ing., Beamter der techn. Abtlg. der
-0 T. D„ Thunstrasse 20 [35.184]
+– Oskar, Ing., Beamter der techn. Abtlg. der O. T. D., Thunstrasse 20 [35.184]
 – Otto, Filmoperateur, Jägerweg 6
-– Rudolf Max (Marti), Vizedirektor d. eidg.
-Getreideverwaltung, Weststr. 24 [36.607]
+– Rudolf Max (Marti), Vizedirektor d. eidg. Getreideverwaltung, Weststr. 24 [36.607]
 – Rud. Rob., Tiefbauzeichner. Rodtmattstr. 67
 – Theodor, Schreiner, Kramgasse 59
 – Walter, Chauffeur, Hallerstrasse 54
@@ -42401,8 +42396,7 @@ Schmid und Schmied, siehe auch Schmidtund Schmitt
 – Joh. Jakob, Vertreter, Mühlenplatz 12
 – Joh. Friedr., Schuhmacher, Römerweg 22
 – Joh. Friedr., Zimmermann, Lerchenweg 20
-– Johanna Emma, Bureaulistin der 0 T. D..
-Obstbergweg 10 [29.897]
+– Johanna Emma, Bureaulistin der O. T. D., Obstbergweg 10 [29.897]
 – Johanna, Graphikerin, Schwarztorstr. 36
 – Jos. Ludw., Oberingenieur, Laupenstr. 10 [31.812]
 1 — Jos., Weissenbühl-Apotheke und Drogerie, Seftigenstrasse 23 [22.282]
@@ -52108,7 +52102,7 @@ Wasserwirtschaft, Gryphenhiibeliweg 45 [29.310]
 – Ida, Bureaulistin, Schwarztorstrasse 45
 Werbesa A.-G., Innenarchitektur, Kapellenstrasse 18 [33.052]
 Werchmann, Ad., pens. Monteur, Wiesenstrasse 22
-– Fritz, Packer 0TD, Roschistr. 10 [31.907]
+– Fritz, Packer O. T. D., Roschistr. 10 [31.907]
 Werder, Alb.. Revisor d. kant. Steuerverwaltung, Ostring 65
 – Alfred Leo, Landwirt, Metzgergasse 38 [31.817]
 – Arm, Buchdrucker, in Fa, Buhler & Werder, Museumstrasse 14 [33.848]

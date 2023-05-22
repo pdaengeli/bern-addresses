@@ -2590,7 +2590,7 @@ Bär und Baer
 – Ernst Otto, Werkstätte für feinmech. Apparate, Fischermättelistr. 18 [5 14 12]
 – Erwin Ed., Angestellter, Effingerstrasse 9
 – Frieda Myrtha, Bürolistin, Fischermättelistrasse 18
-– Gottfr. Alfons, pens. Beamter des Materialbureaus der 0TD, Moserstr. 16
+– Gottfr. Alfons, pens. Beamter des Materialbureaus der O. T. D., Moserstr. 16
 – Gottl., Ing., Sulgenbachstr. 20 [5 16 60]
 – Jakob Ed., gewes. Zuckerwarenfabrikant, Luisenstrasse 18
 – Jean Ernst, Beamter BKW, Melchtalstr. 4
@@ -4979,7 +4979,7 @@ Bigler, Friedr., jun., Automechaniker, Güterstrasse 42
 – Friedr. Walt., kfm. Angest., Gantrischstr. 6
 – Fritz, Angestellter, Eichmattweg 10
 – Fritz Alfr. (Pulver), Hilfsarbeiter, Metzgergasse 38
-– Fritz, Beamter 0TD, Spitalackerstr.il
+– Fritz, Beamter O. T. D., Spitalackerstr.il
 – Fritz (Barth), Kaufmann, Weissenbühlweg 27 [5 61 23]
 – Fritz (Sillimann), Kartograph, Beamter d. Landestopographie, Jubiläumästrasse 59 [3 8412]
 – Fritz, Schriftsetzer, Steckweg 17 [2 73 49]
@@ -5592,7 +5592,7 @@ Bläsi, Bruno R., Angest. SBB, Mittelstr. 68
 – Siegfr., Kfm., in Fa S. u. G. Bläsi & Cie., Eisenhdlg., Breitenrainstr. 29 [209 16]
 – S. u. G. & Co., A.-G., Lötzinn, Eisen- und Metallhandlung, Güterstrasse 46 [287 55]
 Blasimann, Liselotte, Telegraphistin, FreiburgstrassG {25d
-– V., Beamter 0TD, Freiburgstr. 125a [5 10 05]
+– V., Beamter O. T. D., Freiburgstr. 125a [5 10 05]
 – Walter (Jost), Postangest., Gewerbestr. 23
 Blatt, Erika Tb., Bureaulistin, Sidlerstrasse 5
 Blatter, A. ^ 510 51
@@ -6431,7 +6431,7 @@ Boss, Hans Arth., Beamter, Wyttenbachstr. 6 [6 32 72]
 Bossard, s auch Bossart u. Bosshard
 – Germaine C., Telegraphistin, Wylerstr. 83
 – Hans, Elektromechan.. Altenbergstrasse 40
-– Hans (Gruber), Angestellter 0TD, Wylerstrasse 83 [3 01 69]
+– Hans (Gruber), Angestellter O. T. D., Wylerstrasse 83 [3 01 69]
 – Otto Paul (Messer), Pächter, Löchliweg 71
 Bossart, Fanny E., Telephonistin, Wylerstr. 14
 – Hans, Geometer, Pappelweg 38 [3 64 54]
@@ -16312,7 +16312,7 @@ Gfeller, Ida Berta, Telegraphistin, Brückenstrasse 57
 – Otto (Freiburghaus), Magaziner, Lagerw. 3
 – Otto, a. Abteilungsvorstand SBB, Wattenwylweg 19 [3 13 85]
 – Paul, Autospengler, Felshaldenweg 27
-– Paul, Beamter 0TD, Bürkiweg 4 [5 34 98]
+– Paul, Beamter O. T. D., Bürkiweg 4 [5 34 98]
 – Paul Ernst, Liegenschaftsvermittlung, Freiburgstrasse 60b [3 97 36]
 – Paul Friedrich, Kaufmann, Attinghausenstrasse 31 [3 05 46]
 – Paul Gotthold, kaufm. Angestellter, Gesellschaftsstrasse 35
@@ -16915,7 +16915,7 @@ Gobat, Adrien Roland, eidg. Beamter, Sulgeneckstrasse 36
 – Margr. Ida, Musiklehrerin, Gutenbergstr. 45 [5 42 34]
 Gobeli, Emil, Metzger-Bankmeister, Kasernenstrasse 41
 – Gottfr. Fr., Telegraphen-Angestellter, Lorrainestrasse 6a
-– Gottfr., Magaziner 0TD, Neufeldstr. 19
+– Gottfr., Magaziner O. T. D., Neufeldstr. 19
 – Hermann. Magaziner, Neufeldstrasse 19
 – Karl, Pferdewärter, Bantigerstrasse 35 (2 93 16]
 Gobet, Emil, Spezialwerkstatt für Möbelreparaturen, Weissensteinstrasse 49 a
@@ -18492,7 +18492,7 @@ Gut, siehe auch Gueth
 – M. Jakob, Hilfsarbeiter, Scheibenstr. 57
 – Maria. Damenschneiderin, Tillierstrasse 17
 – Nina, Ladentochter, Brunnadernstr. 21
-– Oskar, Material-Kontrolleur 0TD, Forsthausweg 2
+– Oskar, Material-Kontrolleur O. T. D., Forsthausweg 2
 – Rob Th., Angestellter. Druckereiweg 1
 – Rosina (Lanz), Wwe., Altenbergstr. 134 [327 21]
 – Walter Martin, Schuhmachermstr., Aegertenstrasse 69 [3 33 70]
@@ -23315,7 +23315,7 @@ Huttinger, Klara (Burkhard), Wwe., Schanzenstrasse 6 [3 9240]
 Hutzli, Alwin, pens. Bundesbeamter, Hubelmattstrasse 56 [5 23 77]
 – Arthur, Sulgenrain 8 [5 41 88]
 – Fritz, Mechaniker, Vereinsweg 6 [3 7453]
-– Gottfr., Dienstchef 0TD, Sulgenrain 8 [5 41 88]
+– Gottfr., Dienstchef O. T. D., Sulgenrain 8 [5 41 88]
 – Joh. Arthur, Bäckermeister, Lorrainestr. 32 [3 21 31]
 – Karl, Telephonarbeiter, Ralligweg 12
 – Otto, Hilfsarbeiter, Moritzweg 6
@@ -28058,7 +28058,7 @@ Krebs, Joh., Polizist, Schlossstr. 9
 – Rosina Marg. (Fasler), Wwe., Thunstr. 88 [3 99 63]
 – Rud. (Baumann), Beamter, Schlösslistr. 41 [2 73 82]
 – Rud., Angestellter, Schlösslistr. 41 [2 73 82]
-– Rud., Magazinchef 0TD, Breiteweg 17 [41106]
+– Rud., Magazinchef O. T. D., Breiteweg 17 [41106]
 – Rudolf, Gärtner. Weissensteinstrasse 35
 – Rudolf (Schneeberger), Metzgerei, Könizstrasse 19a [5 16 10]
 – Walter Arn., Bäcker, Konsumstrasse 12
@@ -28627,7 +28627,7 @@ KUng, s. auch König
 – Ernst, Bäckerei u. Konditorei, Graffenriedweg 8 [5 32 57]
 – Ernst, Installateur, Eggimannstr. 23
 – Ernst, Sattler u. Tapezierer. Dalmazirain 40
-– Ernst, Beamt. 0TD, Hocbfeldstr. 11 [3 81 96]
+– Ernst, Beamt. O. T. D., Hocbfeldstr. 11 [3 81 96]
 – Ernst, Gipser- und Malergeschäft (Alleeweg 30 [3 70 93]), Karl-Staufferstr. 24
 – Friedr., Malermeister, Bollwerk 33 [3 7169]
 – Friedr., Schlosser, Bernastrasse 15
@@ -35949,7 +35949,7 @@ Mühlemann, Elsa, Apothekerin, Gutenbergstr. 3
 – Hans, Drogerie, Sanitätsgeschäft u. Photoartikel, Wylerstr. 43 [2 58 55]
 – Hans, techn. Adjunkt d. kriegstechn. Abteilung, Haspelweg 32 [3 19 98]
 – Hans, Architekt, Gesellschaftsstrasse 27 [3 18 31]
-– Hans, Beamter 0TD, Distelweg 5 [3 72 11]
+– Hans, Beamter O. T. D., Distelweg 5 [3 72 11]
 – Ida (Hügli), Wwe., Eigerplatz 12 [5 24 17]
 – Jakob, Molkereiarbeiter, Moserstr. 35re 32 91]
 – Johann (Jungnückel), Kaufmann, Attinghausenstrasse 9
@@ -36729,7 +36729,7 @@ Münz, Anna Maria, Wwe., Engehaldenstr. 89
 – Joh., Tiefdrucker, Hermann-Sahlistr. 55
 – Margr.. Bureaulistin, Melchtalstrasse 6
 – Marie K., Bureaulistin, Bantigerstr. 15
-– Walter, Beamter 0TD, Bantigerstrasse 15 [2 52 51]
+– Walter, Beamter O. T. D., Bantigerstrasse 15 [2 52 51]
 – Walter, Maschinendreher, Seftigenstr. 51
 – Walter, Zeitungsverkäufer, Seftigenstr. 51
 Münz, zur, Gafe-Restaur.-Confiserie, Theodor-Kochergasse 5, Eingang Bundesterrasse [2 45 811
@@ -45964,7 +45964,7 @@ Schmid und Schmied, siehe auch Schmidtund Schmitt
 – Werner (Schmidt), Geschäftsführer, Monbijoustrasse 11
 – Werner, Koch, Postgasse 34
 – Werner, Masch.-Schlosser, Wiesenstr. 58
-– Wilh., Magaziner 0TD, Breiteweg 8
+– Wilh., Magaziner O. T. D., Breiteweg 8
 Schmid und Schmied, siehe auch Schmidtund Schmitt
 – Wilh., Vertreter d. Fa. Schneider & Rindlisbacher, Brennmaterialien, Gewerbestr 23 [2 37 74]
 – Wilhelm P., Kanzlist, Gewerbestr. 23
@@ -55123,7 +55123,7 @@ Jos., Polizeikorporal, Allmendstr. 33
 – Lena M., Coiffeuse, Schöneggweg 21
 – Lina (Brügger), Früchte, Gemüse, Spezerei- und Merceriewaren, Fabrikstr. 33 [2 70 28]
 – Louise (Althaus). Wwe., Wildhainweg 19a
-– Luise Martha, Beamtin 0TD. Wildhainweg 19a
+– Luise Martha, Beamtin O. T. D., Wildhainweg 19a
 – M. (Fontaine), Sprachunterricht, Uebersetzungen, Hirschengraben 10 [3 18 17]
 – Marg. Anna, Bankangest., Mottastrasse 3 [2 53 301
 – Margeritha, Bureaulistin, Mühlemattstr. 61
@@ -55915,7 +55915,7 @@ Wehner, E. R., Schreiner. Brunnmattstr. 38
 Wehr, Joh. M. H., jun., Malermeister, Kirchbühlweg 4 [5 16 29]
 – Sophie, Modistin, Flurstrasse 20
 Wehren, s. auch Werren
-– Gottfr. Ernst, Dienstchef 0TD. Müslinw.ll [252 37]
+– Gottfr. Ernst, Dienstchef O. T. D., Müslinw.ll [252 37]
 – Maria A.. Prokuristin, Gutenbergstr. 41 [5 10 86]
 Wehrle, Johannes, Kaufm., Kesslergasse 21
 – Martha, Bureauangestellte, Effingerstr. 41c
@@ -56481,7 +56481,7 @@ Wepf Arthur, Vertreter der * Bigla », Frohbergweg 11 [3 1812]
 – Rcnhold, Dr. med., Arzt, Gryphenhübeliweg 45 [2 93 10]
 Werbesa AG., Innenarchitekt., Kapellenstr. 18 [3 30 52]
 Werchmann, Ad., pens Mont., Wiesenstr. 22
-– Fritz, Packer 0TD, Wabernstr. 94 [5 68 83]
+– Fritz, Packer O. T. D., Wabernstr. 94 [5 68 83]
 Werder, Alb., Revisor d. kant. SteuerverwaJtung, Ostring 65 [3 31 74]
 – Alberto, eidg. Angestellter, Mittelstrasse 32
 – Arn., Buchdrucker, in Fa. Bühler & Werder, Museumstrasse 14 [3 38 48]
@@ -58807,7 +58807,7 @@ Zaugg, Willy, Landwirt, Felsenaustr. 25
 Zbären, Ernst, Hilfsarbeiter, Rodtmattstr. 50
 Zberg, Albert, Küfer, Schönauweg 10
 Zb inden, Ad. (Fischler), Kaufm., Tscharnerstrasse 7 [5 21 66]
-– Ad.. Magaziner 0TD. Rodtmattstrasse 65
+– Ad., Magaziner O. T. D., Rodtmattstrasse 65
 – Alb., pens. Briefträger. Mühlenplatz 4
 – Alb., Spengler, Breitfeldstr. 31
 – Alb., Tramangestellter. Böcklinstrasse 14
