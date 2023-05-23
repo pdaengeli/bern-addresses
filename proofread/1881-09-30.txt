@@ -680,7 +680,7 @@ Biber, F. Rud., Büchsenmacher, Wylerfe Id
 Bichsei, August, Musiker, Metzgerg. 95
 – Aug., Landjäger, Gerberngr. 143 b
 – Elise, Hebamme, Gereclitigkg. 76
-– D. Rud.. Mechaniker, Metzgerg. 112
+– D. Rud., Mechaniker, Metzgerg. 112
 – Elisab., Bcttmacherin, Brunng. 32
 – Friedr. Willi., Schlosser, Matte 56
 – J., Agent d. Basl. Ver.-Gesellschaft, Marktgasse 55
@@ -3638,7 +3638,7 @@ I Hofer, Gottl., Vorsteher der Blindenanstalt, Rabbenthal
 – L., Bürstenhdlg., Schauplatzg. 221
 – Marie, Bürstenmach., Schauplg. 221
 – Nikl., Schneider, Lorraine 129
-– Bob., Cementer, Altenberg 140 h
+– Rob., Cementer, Altenberg 140 h
 – S., Wirth, Metzger u. Kabishobler, Stalden 12
 – Sam., Bann wart im Bremgartenwald, Länggasse 233 d
 – Bigler, S., Weinhändler, Aarbg. 36
@@ -4598,7 +4598,7 @@ Kornhauskeller, grosser, Gelb 153
 Koslovsky, Vater, Gvpser u. Maler bei
 Hrn. Hirsbrunner, Kornhauspl. 49
 Kradolfer-Studhalter,E.,Wwe.,Grchtg.92
-– Rud.. Musiklehrer, Grchtg. 92
+– Rud., Musiklehrer, Grchtg. 92
 Krafft, Arthur, Negt., Kornhauspl. 152
 Kraft, A., Wirth’z, Bernerhof, Bundesgasso 280
 # Date: 1881-09-30 Page: 3012425/122
@@ -6293,7 +6293,7 @@ Nussbaum, A. A., Uhrmacher, Matte 42 d
 – K.. Hafner. Lorraine 75
 – Friedli, Metzgergasse 101
 – Ad.. Postcommis, Längg. 213
-– Bob., Angestellter, Längg. 282 h
+– Rob., Angestellter, Längg. 282 h
 Nydegger, J. R., Amtsnotar, Gerechtigkeitsgasse 90
 – Haller, E. (B. F. Haller), Schwarzthorstrasse 101 a
 – Ed., im Hause J. F. Locher, Gerechtigkeitsgasse 115
@@ -6683,7 +6683,7 @@ Reber, Fr., Lederzurichter, Matte 25
 – X., Tluerarzt, Käfichg. 26
 – Duperret, Frau, Schneid., Käfichgässchen 26
 – Schiipbach, Frau, Tuchhandlung, Marktgasse 50
-– Rud.. Werkmeister, Marktg. 50
+– Rud., Werkmeister, Marktg. 50
 – Fr., Lehenmann, Schossli. 42
 – Schuhmacher, Marktgasse 88
 Rebholz, Fid., Büchsenmacher, Lorr. 144
@@ -9525,7 +9525,7 @@ Witschi, B., Schreiner, Weissenb. 64 o
 – Nikl., Steinhauer, Matte 9t
 – Courant, Wittwe, Villette 167 a
 – Wittwe d. Bäckers, Lindenhof 184g
-– Rud.. Magazinier, Längg.-Dr. 184 g
+– Rud., Magazinier, Längg.-Dr. 184 g
 – Gottl., Steindrucker, Lgg.-Dr. 184 g
 Wittmer- v. Arx, C., Tabak- u. Cigarrenhalle, Bärenplatz u. Käfichg. 99
 Wittwer, Friedr., Notar, Mattenhof 303 e
