@@ -750,7 +750,7 @@ Christ. 4470
 – Olga Cec., Bureaulistin. Me.zenerweg 12*
 – Otto Emil, Kalkulator, Lentulusstrasse 63
 – Paul Werner. Maschinentechn., Rathausplatz 1
-– Roh.. Chauffeur, Waldheimstr. 16
+– Rob., Chauffeur, Waldheimstr. 16
 – Robert, Marktkrämer, Unt. Villettenmattstrasse 7
 – Rud., Gipsermeister, ,Mezenerweg 12
 – Volkert Theodor, Musiker, Eichholzstr. 77, Wabern
@@ -1586,7 +1586,7 @@ Bahn!, Albert, Postangestellter, Flurstr. 34
 – H., Herrenkleider-Reinigungs- u. Reparatur-Atelier, Neuengasse 21 Christ. 1309
 – Hermann, Maurer, Stalden 22
 – Jakob, Magaziner, Zeigerweg 10
-– Karl Rud.. Handlanger, Standstrasse 68
+– Karl Rud., Handlanger, Standstrasse 68
 – Paul, Christ., Ausläufer, Alleeweg 40
 – Theophil, Heizer, Länggassstr. 68c
 Bahningenieur I, Dienstgebäude, Personenbahnhof Bollw. 3041
@@ -2677,7 +2677,7 @@ Christ. 6901
 – Helene Marg., Lingere. Kirchenfeldstr. 33
 – Karl, Handlanger, Bernstr. 3. Bümpliz
 – Rudolfs Erben, Zigarren- u. Tabakhandlg.en gros, Kapellenstr. 24 Bollw. 2334
-– Walter Rud.. Bureaulist, Knüslihubelw. 27
+– Walter Rud., Bureaulist, Knüslihubelw. 27
 – Walter, Coiffeurgeschäft (Murifeldweg 9), Scheibenstrasse 22a.
 – Maring, M. R., Wwe., Scheibenstr. 22 a
 – Reichenbacher, Friedr., Spezierer, Kesslergasse 10
@@ -5690,7 +5690,7 @@ Buchhandlung d. evangel. Gesellschaft, Nägeligaa&e 9 Bollw. 2583
 Büchi, E. F., Söhne, Optisches Lager, Photograph. Apparate u. Utensilien, feinmechan.
 Werkstätte u. Glasbläserei, Spitalgasse 18
 Bollw. 2181
-– E. Bob., Fürspr., Vizepräs. d. bern. Verwaltungsgerichts, Alpeueckstrasse 3
+– E. Rob., Fürspr., Vizepräs. d. bern. Verwaltungsgerichts, Alpeueckstrasse 3
 Christ. 4549
 – Elsa Hermine, Klavierlehrerin, Hallwylstrasse 28
 – Emil, Schlosser, Steckweg 3
@@ -9483,7 +9483,7 @@ Christ. 1318
 – P. Ernst, Vertreter der Fa. Obrist & Cie., in Vevey, Gryphenhübeliweg 15 Bw. 3173
 – Paul E., Hilfsarbeiter, Cäcilienstrasse 21
 – Rene Aug., kaufm. Angestellter, Gryphenhübeliweg 15
-– Rud.. Mechaniker. Scheibenstrasse 33
+– Rud., Mechaniker. Scheibenstrasse 33
 – Siegfr., Sattler, Schmidweg 6
 – Sophie, Heilsarmeeoffizier. Genossenw. 22
 – Verena, Postgasse 56
@@ -10257,7 +10257,7 @@ Flügel, Friedr. Wilh.. Hausmeister im Bundeshaus Nord, Th. Kochergasse 18
 – Margar. Joha., Bureaulistin, Holzikofenweg 22
 – Marie Bertha, Holzikofenweg 22
 – P., Elektro-Ing. S. B. B., Falkenhöhew. 19
-– Bob., eidg. Beamter, Waldheimstrasse 10a
+– Rob., eidg. Beamter, Waldheimstrasse 10a
 – Biedermann, Marie L., Spezereihandlung, Holzikofenweg 22 Bollw. 4752
 – Engemann, Rosa, Wwe., Bubenbergpl. 4
 Flugplatz Bern, Belpmoos Zähr. 4044 u. Belp
@@ -10529,7 +10529,7 @@ Zähr. 6217
 – Lina, Angestellte, Quartiergasse 9
 – Otto. Kondukteur, Simplonweg 29
 – • Paul, Kaufmann, Quartiergasse 9
-– Rud.. Fabrikarbeiter, Waffenweg 12
+– Rud., Fabrikarbeiter, Waffenweg 12
 – Rud., Metzgermeister, Quartiergasse 9
 Bollw. 2019
 – Rud., Postbeamter, Waffenweg 22
@@ -12063,7 +12063,7 @@ Christ. 2454
 – Walter, Gärtner, Schönauweg 10
 – Walter, Hilfsarbeiter, Stalden 22
 – 'Walter, Telephonarbeiter, Zentralweg 24
-– Walter Rud.. Kaufmann. Depotstrasse 18
+– Walter Rud., Kaufmann. Depotstrasse 18
 – Walter, Packer, Thunstrasse 20
 – Walter. Postkommis. Trachselweg 39
 – Walter, Telephonmonteur, Bridelstr. 38
@@ -13941,7 +13941,7 @@ Guggisberg, Adolf, pens. Bundesweibel, Mittelstrasse 9
 – Arnold Ferd., Zugführer. Weissensteinstrasse 73
 – Chr., Landwirt, Worbstrasse 9
 – Christ., Sohn, Landwirt. Worbstrasse 9
-– Christ. Rud.. Landwirt. Worbstrasse 9
+– Christ. Rud., Landwirt. Worbstrasse 9
 – Ed., Fürspr., Advokaturbureau, Inkassi, Verwaltungen, (Blumenbergstr. 46 Christ.
 6187), Neuengasse 28, Ryfflihof Bw. 4094
 – Elise, Schneiderin, Schattenhofweg 13
@@ -14439,7 +14439,7 @@ Bollw. 3386
 – Jakob, Schmied, Freie Strasse 60
 – Jos. Emil, Kaufmann, Bemastrasse 60
 – Louis, Kursaalstrasse 11
-– Bob., Prokurist, Engerain 32
+– Rob., Prokurist, Engerain 32
 – Rud., Schneider, Mattenhofstrasse 15
 – Samuel, Ghefredaktor d. Schweiz. Mittelpresse, Burgernzielweg 44 Bollw. 2401
 – Wilh., Schneidermeister, Zimmerweg 17
@@ -14527,7 +14527,7 @@ Bollw. 4396
 – P. Werner, Magaziner, Rodtmattstrasse 110
 – Rene Aime, Postbeamter. Militärstrasse 62
 – Rud., Ingenieur S. B. B., Engestrasse 5
-– Rud.. Modellschreiner. Burgfeldweg 22
+– Rud., Modellschreiner. Burgfeldweg 22
 – Rudolf, Magaziner, Bümplizstrasse 58A
 – Werner, Schmied, Federweg 20
 – & Enz, Architekten, Hotellaub© 6 Bw. 1050
@@ -15106,10 +15106,10 @@ Rosa Marg., Bureaulistin 0. P. D.. Wiesenstrasse 52
 Rud., Landwirt und Wirt, WabersackeT, Liebefeld Zähr. 5055
 Rudolf, Hilfsarbeiter. Oberbottigenweg 22, Bümpliz
 Rud., Bauhandlanger, Fröschmattweg 22, Bümpliz
-Rud.. gew. Abwart. Bollwerk 10
+Rud., gew. Abwart. Bollwerk 10
 Rud., Bauunternehmer, Thalbrünnli, Liebefeld
 Rud., Militärküchenchef, Alleeweg 2
-Rud.. Pnsthiireaudipner. Bundesbahnw. 31
+Rud., Pnsthiireaudipner. Bundesbahnw. 31
 Rud., Zimmermann. Alleeweg 33
 Walter, Konditor, Schützenweg 10
 Walter. Postancpstplltpr. Kripppnstr. 18
@@ -16515,7 +16515,7 @@ Hinderling, Elisabetha Maria. Hilfsaxbeiterin, Metzgergasse 55
 – -Heinr., Magaziner, Pestalozzistrasse 13
 – Karl, Postkommis, Zähringerstrasse 62
 – Otto. Ausläufer, Metzgergasse 55
-Rud.. Magaziner. Metzgergasse 55
+Rud., Magaziner. Metzgergasse 55
 Hindermann-Tanner, Hedwig, Sprachlehrerin, Engestrasse 7
 Hinke, Martha A., Stanzerin, Wagnerstr. il
 Hinnen, Emil, Chauffeur. Viktoriarain 15
@@ -17211,7 +17211,7 @@ Holliger, Adolf Hans, Bankangestellter, Hallerstrasse 6
 – Gfel'ler. Marie El., Wwe., Neuen gas®« 39
 – Irlet, Otto, Adjunkt der Eidg. Staatskasse, Steinerstrasse 20
 – Soguel, Wwe., E., Muldenstrasse 44
-Holsti, Rud.. finnländischer Gesandter, Englische Anlage 6 Bollw. 4808v. Holten, Karl, Sekretär der deutschen Gesandtschaft, Luternauweg 21 Bollw. 7101
+Holsti, Rud., finnländischer Gesandter, Englische Anlage 6 Bollw. 4808v. Holten, Karl, Sekretär der deutschen Gesandtschaft, Luternauweg 21 Bollw. 7101
 Holzapfel-Gomperz, B., Frau, Elfenaugässli, Muri Zähr. 2163
 Holzel, Friedr. Ad., Kaufmann, Beundenfeldstrasse 33
 – Roth, Reinh., Schreiner, Kesslergasse 15
@@ -17939,7 +17939,7 @@ Bollw. 2553
 – Rud., Handlanger, Weidmattw. 7, Bümpliz
 – Rud., Magaziner, Tnrnweg 11
 – -Rud., Tramangestellter, Pestalozzistr.27
-– Rud.. Telegr.-Angestellter, Turnweg 11
+– Rud., Telegr.-Angestellter, Turnweg 11
 – Bärtschi, Frieda. Wwe., Hubelmattstr. 52
 – Flückiger, Elise, Wwe., Gärtnerei, HoIIigenstrasse 14 Christ. 3362
 – Spörry, Louise. Holzikofenw. 18 Chr. 4438
@@ -18009,7 +18009,7 @@ Bümpliz
 – Paul, Bäckerei und Konditorei, Breitenrainstrasse 13 Bollw. 2450
 – Paul, gew. Bäckermeister, Bellevuestr. 38, Gurtengartenstadt Zähr. 5188
 – Paul Otto, Vertreter, Sonneggring 12
-– Rud.. Notar (Schwarztorstrasse 7 Bollw.
+– Rud., Notar (Schwarztorstrasse 7 Bollw.
 2803), Marktgasse 37 Bollw. 3138
 – Berger, Anna El., Brunngasse 18
 – Brandenberger, Johann, Chefkontrolleur, j
@@ -19011,7 +19011,7 @@ Jauslin, Joh., Installateur, Muristrasse 87
 Jaussi, Arnold Joh., Hilfsarbeiter. Jurastr. 24
 – E., Gasarbeiter, Sandrainstrasse 33
 – Ed. N., Ausläufer, Schönauweg 2
-– Emil Rud.. Hilfsarbeiter, Engehaldestr. 55
+– Emil Rud., Hilfsarbeiter, Engehaldestr. 55
 – Emil, Zahnarzt (Kirchbühlweg 18 Christ
 2985), Kornhausplatz 14 Christ. 4043
 – Ernst, Baumeister. Breitenrainstrasse 16
@@ -20748,7 +20748,7 @@ Kipfer, Adolf, Maler. Gruberstrasse 16
 – Rob.. Schlosser, Laupenstrasse 12d
 – Rosalie, Ladentochter, Aarbergergasse 12
 – Rud., Ausläufer, Herzogstrasse 17
-– Rud.. Obermaschinenmeister, Freieckw. 14, Bümpliz
+– Rud., Obermaschinenmeister, Freieckw. 14, Bümpliz
 – Rud., Militärstrasse 26
 – Rud., Schlosser, Lorrainestrasse 23
 – Viktor, Elektroingenieur, Wittigkofenw. 23
@@ -22391,7 +22391,7 @@ Christ. 5644
 – Walter Eug., Buchbindermeister. Flurw. 29
 – Walter, Tapezierer, Wernerstrasse 9
 – Gebr., & Hotz, Gotillon-. Fest- u. Vereinsartikel, Buchbinderei, Kramg. 66 Chr. 2505
-– Christen. Rud.. Warenabzahlunerseeschäft
+– Christen. Rud., Warenabzahlunerseeschäft
 (Muri Zähr. 2229), Marktgasse 28/30
 Christ. 1034
 Kulli, G., Spenglerei, vormals 0. Stampfli
@@ -24576,7 +24576,7 @@ Christ. 2517
 – Karl, Bahnangest., Riedernstr. 92, Bümpliz
 – Marie. Arbeitslehrerin, Seftigenstrasse 33
 – Abbühl, G., Sekretär der Gewerbeschule, Steigerweg 24
-– Chavanne. Bob. Ad., Beamter der O. T. D„
+– Chavanne. Rob. Ad., Beamter der O. T. D„
 Wachtelweg 23
 – Moser, Felix, Konzert- und Opernsänger, Tillierstrasse 48 Christ. 3406
 Loffing, Elisabeth, Angestellte, Neuengasse 39
@@ -25483,7 +25483,7 @@ Maiilart, A., Zahnarzt, Dozent f. Kronen- u.
 Brückenarbeiten (Luisenstrasse 26 Christ.
 2220), Schanzenstrasse 6 Christ. 4080
 – Emilie Bertha, Wwe., Luisenstrasse 26
-– Bob., Ingenieurbureau. Waisenhausstr. 18
+– Rob., Ingenieurbureau. Waisenhausstr. 18
 Bollw. 1246
 Mainardi, Margr., Frau, Klaraweg 19
 Christ. 2482
@@ -25541,7 +25541,7 @@ Manuel, Hildeg., Frl., gew. Sek.-Lehrerin, Bubenbergplatz 4
 – Geiser, Elise, Wwe., Bubenbergplatz 4
 Manz, Adolf, Kommis. Holzikofenweg 7
 – Aug. Rob., Elektrotechniker b. d. O.T.D., Greyerzstrasse 18
-– J. Rud.. Kassierer. Gerbergasse 1
+– J. Rud., Kassierer. Gerbergasse 1
 – Rob. Ernst, Elektrotechniker, Sonneggweg 17
 Manzoni, Giov., Bautechniker, Scheuermattweg 12
 Maguelin, Alb., kaufm. Angestellter, Laupenstrasse 27
@@ -29743,7 +29743,7 @@ Klara Mathilde, Dählhölzliweg 13
 Ochsenbein, Martha Charlotte, Dählhölzliw. 13
 – Olga, Pianistin, Hubelmattstrasse 60
 Bollw. 3419
-– Paul Rud.. Mechaniker, Parkstrasse 17
+– Paul Rud., Mechaniker, Parkstrasse 17
 – Rosa Emilie, Dählhölzliweg 13
 – Ulrich, Zahnarzt (Länggassstr. 10 Christ.
 2400), Effingerstrasse 4 Bollw. 4977
@@ -29978,7 +29978,7 @@ Ott und Otth
 – Walter Herm., Bankangestellter, LänggaSsstrasse 55
 – Walter, Dr. rer. pol., Breitenrainstr. 27
 – Walter Rudolf, Ausläufer, Spitalgasse 34
-– -Bitterlin, J. Rud.. Bankbeamt., Schulw. 2a
+– -Bitterlin, J. Rud., Bankbeamt., Schulw. 2a
 – -Leuzinger, Götti., Ingenieur, Maulbeerstrasse 7 Bollw. 1564
 – Ott, Rosa, Monbijoustr. 80 Christ. 673t
 – Schären, Martha Ma., Polygonweg 3
@@ -32629,7 +32629,7 @@ Mittelstrasse 16 Christ. 4053
 – Rud., Hilfsarbeiter, Wylerringstrasse 69
 – Rud., Milchführer. Lorrainestrasse 6a
 – Rud., Goldschmied, Murifeldweg 23
-– Rud.. Zimmermann, Steinhölzliweg 23
+– Rud., Zimmermann, Steinhölzliweg 23
 – Walter F., Kaufmann, Erlachstrasse 3
 – Werner Gottfried, Mechaniker, Altenbergstrasse 88
 – & Rnpp, Kunststeinfabr.. Fischermätteliweg 2
@@ -32971,7 +32971,7 @@ Christ. 5333
 – Paul Rud., Maurer, iBurkhartweg 3, Bümpliz
 – Paul, Schlosser, Länggassstrasse 67
 – 'Reinhard Am., Sickingerstrasse 3
-– Bob., Schriftsetzer, Ringstr. 7 Christ. 1931
+– Rob., Schriftsetzer, Ringstr. 7 Christ. 1931
 – Rosa Clara, Bureaulistin, Holligenstr. 41
 – Rud., Schlosser, Brunnhofweg 32
 – Rud. Hans, Schlosser. Brunnhofweg 32
@@ -33399,7 +33399,7 @@ Ruefer, s. auch Rufer
 Bollw. 2520
 Rüefli und Rüfli
 – Albert, Zollbeamter, Tulpenweg 3
-– Ewald Rud.. Packer, Mattenhofstrasse 3
+– Ewald Rud., Packer, Mattenhofstrasse 3
 – Fanny, Bankangestellte, Amthausgasse 2
 – Josef, Angestellter, Müslinweg 12
 – Josef, Postangestellter, Müslinweg 12
@@ -35621,7 +35621,7 @@ Schlumpf, Arnold, Postangestellter, Hohgantweg 14
 – J., Sekretär des Schweiz. Typographenbundes, Monbijoustr. 33 Bollw. 2249
 – Olga Math., Bureaulistin, Monbijoustr. 33
 – -Goetz, R., Kirchenfeldstrasse 35
-– Holzer, Rud.. Buchbinderei-Hilfsarbeiter, Lorrainestrasse 74
+– Holzer, Rud., Buchbinderei-Hilfsarbeiter, Lorrainestrasse 74
 – Rühni, Rosette, Wwe., Morellweg 8
 – Pfeiffer, Emmy, Wwe., Beoindenfeldstr. 42
 Schlunegger, Alb., Bureaudiener, Turnweg 23
@@ -36277,7 +36277,7 @@ Christ. 5389
 – Ernst, Metallarbeiter, Gerechtigkeitsg. 50
 – Ernst, Schlosser, Seidenweg 8
 – Ernst, Schneider, Aegertenstrasse 69
-– Ernst Bob., Schriftsetzer, Kramgasse 15
+– Ernst Rob., Schriftsetzer, Kramgasse 15
 – Ernst, Strassenaufseher, Wyderrain 11
 – E. F., Amerikanische Dampfbügelanstalt
 «Jungborn», Militärstrasse 56 Chr.€026
@@ -36410,7 +36410,7 @@ Co., Weinhdlg., Steigerweg 26 Bollw. 1709
 – Rud., Bureauliist, Kehrga&se 45, Bümpliz
 – Rud., Gaseinzieher, KehTgasse 45, Bümpliz
 – Rud., Kässalzer, Quartierhof 5
-– Rud.. Baihnarbeiter, Veilchenw. 7, Bümpliz
+– Rud., Baihnarbeiter, Veilchenw. 7, Bümpliz
 – Rud. Gottl., Schlosser, Schützenweg 20
 – Rud., Schmied, Mindstrasse 9
 – Rud. Jak., Mechaniker, Polygonweg 15
@@ -39054,7 +39054,7 @@ Stämpfli, Fritz, Drogist, Schwarztorstrasse 22
 – 'Rud., Bahnarbeit., Wangenstr. 43, Bümpliz
 – Rud., Pferdewärter. Breitfeldstrasse 49
 – Rud., Pferdewärter, Rodtmattstrasse 106
-– Rud.. Postillon, Raineggweg 7
+– Rud., Postillon, Raineggweg 7
 – S., Metzgermeister, Rodtmattstrasse 97
 Christ. 2286
 – W., Dr. jur., Brunnadernstr. 50 Bw. 3065
@@ -40311,7 +40311,7 @@ Christ 5992
 – Rud. F., Beamter S. B. B., Neufeldstr. 135
 – Rud., Kommis, Turnweg 6
 – Rud., Platzmeister, Federweg 25
-– ■Rud.. Postangestellter, Turnweg 6
+– ■Rud., Postangestellter, Turnweg 6
 – Theodor, Lithograph d. Landestopographie, Neufeldstrasse 131
 – Walter, städt. Beamter. Brunnadernstr. 98
 – Walter, Mechaniker, Wylerringstrasise 60
@@ -43153,7 +43153,7 @@ Baudirektion, Bantigerstrasse 4
 – Robert, Vedohändler, Bümplizstraswe 115
 Zähr. 6136
 – Rosa, Beamtin 0. P. D., Wildhainweg 19a
-– Rud.. Bahnarbeiter, Bridelstrasse 46
+– Rud., Bahnarbeiter, Bridelstrasse 46
 – Rudolf, Kaufmann, in Fa. Walther & Müller, Grabenpromenade 9 Bollw. 4912
 – Rud., Buchhalter, Blumenbergstrasse 46
 – Rudolf Erw., Versicherungsbeamter, Parkstrasse 25a, Wabern
@@ -43344,7 +43344,7 @@ Wanner, Adolf, Polizist, Elfenauweg 40
 – Herm. Alfr., Bahnarbeiter. Simonstr. 9
 – Herm.. P. W., Kaufmann, Jubiläumsstr. 83
 Christ. 6473
-– Herm. Wilh. Rud.. Kaufmann, Jubiläumsstrasse 83 Christ. 4689
+– Herm. Wilh. Rud., Kaufmann, Jubiläumsstrasse 83 Christ. 4689
 – Jakob, Bereiterchef, Parkstrasse 1
 – Joh., pens. Angestellter, Brunngasse 26
 – Martin, Zementer, Seftigenstrasse 57
@@ -46090,7 +46090,7 @@ Zähr. 5018
 – Paul Ad., Fabrikarbeiter, Badgasse 33
 – Paul Hans, Kaufmann, Altenbergstr. 82
 – Paul, Eidg. Beamter. Zeughausgasse 22
-– Bob., Pferdewärter, Wylerringstrasse 52c
+– Rob., Pferdewärter, Wylerringstrasse 52c
 "Rud., Grundbuchgeometer, Belpstrasse 41
 _ Christ, 4797
 – Rudolf, Postangestellter, Standstrasse 28

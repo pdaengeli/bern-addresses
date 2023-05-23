@@ -789,7 +789,7 @@ Amstutz, Anna, Privatiere, Murtenstrasse 30
 – Karl, Bahnarbeiter, Murifeldweg 2
 – Maria, Ladentochter, Spitalgasse 38
 – Paul, Chef d. Sektion für Stempelabgabend. eidg. Steuerverwaltung, Balderstr. 32
-– Rud.. Chauffeur, Wyttenbachstrasse 37
+– Rud., Chauffeur, Wyttenbachstrasse 37
 – Rudolf, Fürsprech, Advokaturbureau (Viktoriaiain 17), Bollwerk 17 Bollw. 2129
 – Häfliger, Pauline Rosa, Maulbeerstr. 17
 – Meister, Emma, Eigerplatz 12
@@ -1380,7 +1380,7 @@ Bähni, s. auch Bäny
 – Christ, Galvaniseur, Bridelstrasse 31
 – Hermann, Maurer, Gerbergasse 4
 – Jakob, Magaziner, Wylerringstrasee 43
-– Karl Rud.. Handlanger, Standstrasse 68
+– Karl Rud., Handlanger, Standstrasse 68
 – Paul Christ., Sattler, Bridelstraese 31
 Bahningenieur I, Dienstgebäude, Personenbahnhof Bollw. 3041
 Bahnpostbureau, Telephongebäude, Bollwerk
@@ -3527,7 +3527,7 @@ Bischhausen, Elise Bertha, Bureau listin, Vennerweg 1
 – Otto Paul, in Firma Bischhausen & Cie., Liebeggweg 11
 – Rosa. Prokuristin, Gryphenhübeliweg 55
 Christ. 4132
-– Rud.. i. Fa. Gebr. Bischhausen. Optiker.
+– Rud., i. Fa. Gebr. Bischhausen. Optiker.
 Lieboggweg 14 B Christ. 2440
 – Gebr., Optiker und Mechaniker. Photogr.
 Artikel, Marktgasse 53 Christ. 1625
@@ -7510,7 +7510,7 @@ DUrig, Adolf Robert, Bankprokurist, Diesbachstrasse 1
 – Marie, Breitfeldstrasse 57
 – R. A., FabrikvorarbeiteT. Felsenaustr. 60
 – Rud., Bureauangestellter, Stockernweg 5
-– Rud.. Fabrikarbeiter, Felsenaustrasse 74
+– Rud., Fabrikarbeiter, Felsenaustrasse 74
 – Rudolf, Rangierarbeiter, Bethlehemjstr. 115, Bümpliz
 – Rob., Maschinenmeister. Seidenweg 40
 – Walter, Coiffeur, Läuferplatz 8
@@ -8938,7 +8938,7 @@ Schönberg) Bollw. 1462
 – Anna, Chemikerin, Falkenweg 7
 – Beat Friedr., Fürsprecher (Bundesg. 16
 Christ. 3248), Bubenbergplatz 8 Bw. 2945
-– Hans Rud.. Bolligenstrasse 20
+– Hans Rud., Bolligenstrasse 20
 – Henry B., Architekt, Architektur- und Baubureau, Thunpl. 52, Le Pavillon Bollw. 1920
 – M. Berta, Muri
 – Olga, Dr. med., Assistentin am Pathologischen Institut der Universität. Falkenw. 7
@@ -13214,7 +13214,7 @@ Hänni u. Häni, s. auch Hänny
 (Beundenfeldstrasse 35 Christ. 4603), Münsterplatz 6 Christ. 4177
 – Otto, Hilfsarbeiter, Zeughausgasse 1
 – Paul Oskar, Postangest.. Allmendstr. 40
-– Bob.. Beamter T. D., Beaumontweg 36
+– Rob., Beamter T. D., Beaumontweg 36
 – Rob. Ludwig, Chauffeur, WaMheimstr. 64
 – Rob., Säger, Bottigenstrasse 226, Bümpliz
 – Ros. K., Belpstrasse 41
@@ -13497,7 +13497,7 @@ Hausammann, Albert, Kondukteur, Waldheimstrasse 49 :j
 – Ernst, Kostpferdehalterei, Speichergasse 3
 – Ernst, Handlanger, Sägehofweg 11, Büm- jpliz j
 – Ernst Alfr., Schriftsetzer, Lentulusstr. 28 j
-– Ernst Rud.. Techniker, Falkenweg 3 I
+– Ernst Rud., Techniker, Falkenweg 3 I
 – Fr., pens. BahnangestelLlter, MattetLsitr. 17 ;
 – Friedrich, Kohlenarbeiter, Niederbottigen- jweg 103, Bümpliz j
 – Friedr., Bahnarbeiter, Engohaldcnstr. 204
@@ -22593,7 +22593,7 @@ Christ. 3431
 – Marie, Postgehilfin u. Negoziantin, Oberbotti'genweg 45, Bümpliz
 – Paul Nikl., Milch-, Butter- u. Käsehandlg., Bümplizstrasse 118 Zähr. 6138
 – Paul Nikl., Milchträger, Bümplizstr. 118
-– Rud.. Einnehmer S. B. B., Dietlerstr. 28
+– Rud., Einnehmer S. B. B., Dietlerstr. 28
 – Rud., Landwirt, Riedemstr. 42, Bümpliz
 – Rud., Bahnarbeiter, Fröschmattstrasse 8, Bümpliz
 – Rud., Hilfsarbeiter, Cedernstr. 9, Bümpliz
@@ -30596,7 +30596,7 @@ Scheidegger, Joh., in Fa. Scheidegger & Co., Kapellenstrasse 8 Bollw. 2910
 – Olga Susanna, Bureauangestellte, Balmweg 20
 – Otto, Packer, Murtenstrasse 40
 – Paul A., Magaziner, Kesslergasse 35
-– Bob., Druckereiangest., Wylerstrasse 41b
+– Rob., Druckereiangest., Wylerstrasse 41b
 – Rob., Gartenbautechniker, Bühlstrasee 49
 – Rud., Fensterreiniger, Steckweg 3
 – Rud., Spenglermeister, Klaraweg 23
@@ -30706,7 +30706,7 @@ Schenk, Joh., Lithograph, in Fa. J. Schenk
 – Paul 1 M., Direktor, Morellweg 8
 – Paul, Prov.-Reisender, Rodtmattsta*. 114
 – Paul, Schlosser d. B. L. S., Federweg 55
-– Paul Rud.. Gärtner. Wittigkofenweg 19
+– Paul Rud., Gärtner. Wittigkofenweg 19
 – Rob. Ernst, Bureaudiener, Weisseneteinstrasse 37
 – Rud., Bahnarbeiter, Martiweg 17
 – Rud., Handlanger, Cäcilienrain 5
@@ -35931,7 +35931,7 @@ K. V., Stcdneretrasse 16 Christ. 4680
 – Lisette, Knabenschneiderin. Schönauweg 2
 – Rud., jun., Ausläufer, Mattenenge 15
 – Rud., Hilfsarbeiter, Mattenenge 15
-– Rud.. Malermstr., i. Fa. Thomet & Graf, Gesellschaftsstrasse 42
+– Rud., Malermstr., i. Fa. Thomet & Graf, Gesellschaftsstrasse 42
 – Sam., Landwirt, Riedbachstr. 310, Bümpliz
 – & Graf, Nachf. v. A. Küster, Gipser- und Malergesch., Gesellschaftsstr. 48 Chr. 4339
 Thomi, s. auch Tomi
